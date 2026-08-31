@@ -1,0 +1,625 @@
+{
+  "subject": "Islamic Religious Education",
+  "subjectId": "ire",
+  "grade": 6,
+  "source": {
+    "title": "Primary School Education Curriculum Design — Islamic Religious Education, Grade 6 (Revised 2024)",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-17",
+    "confidence": "high",
+    "notes": "Read directly from grade-6-curriculum-desings/GRADE-6-IRE-Curriculum-Designs.pdf via the Read tool (no pages param), full text, all 7 strands / 24 sub-strands / 90 lessons. Learning Area allocation: 3 lessons/week at Upper Primary."
+  },
+  "strands": [
+    {
+      "name": "1.0 Qur'an",
+      "subStrands": [
+        {
+          "name": "1.1 Selected Surah",
+          "lessonCount": 12,
+          "notes": "The design names 4 specific surahs under this one sub-strand heading, no further breakdown given: Al-Humaza, Al-Asr, At-Takathur, Al-Qariah. Following the Grade 7 IRE precedent (which split its own single 'Selected Surah' sub-strand into one skill per named surah), this sub-strand is implemented as 4 skills, one per surah — each a short, well-known Meccan surah rich enough in content (themes, closing lessons, vocabulary) to support its own skill.",
+          "specificLearningOutcomes": [
+            "read the selected surahs for use in devotional activities",
+            "recite the selected surah for use in ibaadah",
+            "explain the basic meaning of the selected surah to enhance positive character formation",
+            "discuss the lessons learnt from the selected surah for spiritual nourishment",
+            "apply the teachings of the selected surah in their daily life",
+            "appreciate the importance of the selected surah by adhering to their teachings"
+          ],
+          "keyInquiryQuestions": [
+            "What are the effects of backbiting?",
+            "How can Muslims use time well?",
+            "How can Muslims prepare for the Day of Judgement?"
+          ],
+          "learningExperiences": [
+            "listen to verses of the selected surah from a teacher/resource person/digital device and repeat afterwards",
+            "read and recite the selected surah with the aid of digital devices/mus'haf/chart",
+            "discuss the basic meaning of the selected surah and make notes",
+            "match and sort the verses of the selected surah with their corresponding meaning using flash cards",
+            "brainstorm on the lessons learnt from the selected surah and present in class",
+            "dramatise the teachings of the selected surah"
+          ],
+          "linkedLearningAreas": ["English — learners acquire new vocabularies as they learn the meaning of the surah"],
+          "scopeNotes": [],
+          "assessmentSignal": "Rubric rewards reading/reciting all four selected surah correctly and coherently, plus explaining basic meaning and lessons with relevant examples — recitation accuracy and applied meaning are both explicitly assessed, not meaning alone."
+        }
+      ]
+    },
+    {
+      "name": "2.0 Hadith",
+      "subStrands": [
+        {
+          "name": "2.1 Hadith on Purity of Actions",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "read the selected Hadith on purity of actions for moral guidance",
+            "apply the lessons learnt from the selected Hadith in day-to-day life",
+            "uphold the lessons learnt from the Hadith on purity of actions for sincerity in deeds",
+            "appreciate purity of actions to gain rewards from Allah"
+          ],
+          "keyInquiryQuestions": [
+            "Why is appearance and wealth not important in the eyes of Allah?",
+            "What does Allah look for when rewarding His servants?"
+          ],
+          "learningExperiences": [
+            "read the Hadith on purity of action: \"Allah does not look at your appearance or wealth, but rather He looks at your heart and actions.\" (Muslim)",
+            "discuss the lessons learnt from the Hadith on purity of actions and make a summary",
+            "brainstorm on the relevance of purity of actions in today's society and share the findings on a chart",
+            "dramatise situations depicting purity of actions"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "2.2 Hadith on Dressing",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "read the Hadith on Islamic dressing for moral uprightness",
+            "describe the male and female dress code as per the Sunnah of the Prophet (S.A.W.)",
+            "practise Islamic manner of dressing as an act of ibadah",
+            "embrace the lessons learnt from the Hadith on Islamic dressing",
+            "appreciate the Islamic dressing to avoid the wrath of Allah"
+          ],
+          "keyInquiryQuestions": [
+            "Why should the male and female dress differently?",
+            "What is the purpose of dressing?"
+          ],
+          "learningExperiences": [
+            "read the Hadith on dressing: \"The Messenger of Allah (S.A.W.) cursed the man who wears women's clothing and the woman who wears men's clothing.\" (Abu-Daud)",
+            "classify clothes and accessories according to gender (trousers, skirts, blouses, shirts, shorts, necklaces, earrings, bangles, hair dressing) using digital devices/pocket boards/charts",
+            "discuss the male and female dress code as per the Sunnah of the Prophet (S.A.W.) and make class presentation",
+            "draw and colour different clothes and accessories and display",
+            "search for the reasons why the Prophet (S.A.W.) prohibited gender-mixed dressing and write a short essay",
+            "model appropriate dress for different gender"
+          ],
+          "linkedLearningAreas": ["Agriculture — covers content on dressing for different occasions and decency"],
+          "scopeNotes": ["include: PCI flags this sub-strand under Life Skills as 'Human Sexuality aspects realised as learners dress as per Islamic teachings for different genders' — treat with factual, dignified, non-graphic framing (clothing/accessory classification and modesty principle only), matching the same standard already applied to Grade 6 Agriculture's grooming sub-strand."],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "2.3 Hadith on Planting",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "read the Hadith on planting of trees and crops for environmental consciousness",
+            "assess the importance of planting trees and crops as an act of ibadah",
+            "plant trees and crops for food sustainability to earn rewards from Allah",
+            "appreciate the value of planting trees and crops for the benefit of Allah's creatures"
+          ],
+          "keyInquiryQuestions": [
+            "What are the dangers of cutting down trees?",
+            "What are the benefits of growing trees and crops?"
+          ],
+          "learningExperiences": [
+            "read the Hadith on planting trees and crops: \"If a Muslim plants a tree or sows a field and men, animals and birds eat from it, all of it is charity from him.\" (Muslim)",
+            "research on the significance of planting trees and crops and present the findings in class",
+            "collect pictures of fruit-bearing plants and crops and display in class",
+            "plant trees and crops in the school compound and care for them"
+          ],
+          "linkedLearningAreas": ["Agriculture — contains similar content on planting trees and crops"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "2.4 Hadith on Responsible Use of Human Capabilities and Resources",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "read the Hadith on responsible use of human capabilities and resources for character building",
+            "assess the significance of using Allah (S.W.T.)'s bounties for the benefit in this life and the Hereafter",
+            "use the bounties of Allah (S.W.T.) responsibly in day-to-day life",
+            "appreciate the bounties of Allah (S.W.T.) by acting responsibly to get His pleasure"
+          ],
+          "keyInquiryQuestions": [
+            "What bounties has Allah (S.W.T.) given to mankind?",
+            "How should a Muslim use time wisely?",
+            "What activities may cause harm to people's health?",
+            "How do you spend your pocket money?"
+          ],
+          "learningExperiences": [
+            "read the Hadith: \"Take advantage of five matters before five other matters: your youth before you become old; and your health, before you fall sick; and your wealth, before you become poor; and your free time before you become busy; and your life, before your death.\" (Ahmad)",
+            "discuss the significance of using Allah (S.W.T.)'s bounties and make summary notes",
+            "brainstorm on how to use the bounties of Allah (S.W.T.) responsibly and make presentations in class (youthfulness, health, wealth, time, life)",
+            "role-play proper usage of Allah (S.W.T.)'s bounties mentioned in the Hadith"
+          ],
+          "linkedLearningAreas": ["Social Studies — the concept of time and resource management can be related to Social Studies"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        }
+      ]
+    },
+    {
+      "name": "3.0 Pillars of Iman",
+      "subStrands": [
+        {
+          "name": "3.1 Stories of Prophets: Prophet Ibrahim (A.S.) and Prophet Yusuf (A.S.)",
+          "lessonCount": 8,
+          "notes": "Design gives a lesson count discrepancy between its own summary table (08) and the detailed sub-strand page (6 Lessons) — treated as one sub-strand either way. Implemented as 2 skills (one per prophet) since each story carries distinct, substantial named episodes: Ibrahim (A.S.) — breaking idols, saved by Allah from the fire, the attempted sacrifice of Ismail; Yusuf (A.S.) — saved from the well, temptation/imprisonment, famine, leadership.",
+          "specificLearningOutcomes": [
+            "narrate the stories of the selected prophets to build their faith",
+            "explain the lessons learnt from the stories of the prophets for character development",
+            "emulate the character of the prophets in day-to-day life",
+            "appreciate the selected prophets as role models"
+          ],
+          "keyInquiryQuestions": [
+            "How did the selected prophets demonstrate Iman in Allah (S.W.T.)?",
+            "What virtues are derived from prophets Ibrahim (A.S.) and Musa (A.S.)'s stories?"
+          ],
+          "learningExperiences": [
+            "listen/watch the stories of the selected prophets (Ibrahim (A.S.) breaking idols, saved by Allah (S.W.T.) from fire and attempt to sacrifice Ismail; Prophet Yusuf (A.S.) — Allah (S.W.T.) saved him from the well, temptation/imprisonment, famine and leadership) using digital devices",
+            "brainstorm on how the selected prophets demonstrated their steadfastness in faith in Allah (S.W.T.)",
+            "deduce lessons from the stories of the selected prophets and make short notes",
+            "discuss relevance of the stories of the selected prophets and present on a chart"
+          ],
+          "linkedLearningAreas": ["Social Studies — has some aspects of values an individual should have which are the same as those of the prophets in Islam"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "3.2 Taqwa (God Consciousness)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the qualities of a pious person (Muttaqiin) for character building",
+            "assess the significance of taqwa in the life of a Muslim",
+            "demonstrate consciousness of Allah (S.W.T.) as a mark of true belief",
+            "appreciate the virtue of taqwa as a pre-condition for success in this life and the Hereafter"
+          ],
+          "keyInquiryQuestions": [
+            "What actions lead to piety?",
+            "Why is taqwa important in the life of a Muslim?"
+          ],
+          "learningExperiences": [
+            "read verses (Q. 2:2-5, 3:133-135) from the Qur'an/digital devices/mus'haf and list down the qualities of mutaqiin",
+            "match and sort the qualities of a pious person using flash cards",
+            "search online/from a mus'haf verse (Q.2:43, 76, 7:96, 9:119, 19:72) on taqwa and draw their significance",
+            "keep a weekly log/diary on the activities that demonstrate taqwa"
+          ],
+          "linkedLearningAreas": ["Social Studies — has some aspect of integrity which is related to God consciousness"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "3.3 Tawakkul (Reliance on Allah)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the qualities of a mutawakkil as a basis for character building",
+            "assess the significance of tawakkul in the life of a Muslim",
+            "practise tawakkul in day-to-day life",
+            "appreciate the virtue of tawakkul as a condition for success in this life and the Hereafter"
+          ],
+          "keyInquiryQuestions": [
+            "How can a Muslim show reliance on Allah?",
+            "Why is tawakkul important to a Muslim?"
+          ],
+          "learningExperiences": [
+            "brainstorm and identify the qualities of a mutawakkil and display them on the notice board (Q.3:160, Q5:23, Q65:3)",
+            "sort the qualities of a mutawakkil using a digital device/pocket board/flash cards",
+            "discuss the significance of tawakkul in the life of a Muslim and make summary notes",
+            "discuss ways in which Muslims can practise tawakkul in their daily life"
+          ],
+          "linkedLearningAreas": ["Social Studies — has some aspect of integrity which is related to reliance on God"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        }
+      ]
+    },
+    {
+      "name": "4.0 Devotional Acts",
+      "subStrands": [
+        {
+          "name": "4.1 Twahara (Purity): Hadath, Optional Ghusl",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "outline the types of Hadath for ritual purity (Twahara)",
+            "differentiate between Hadath Asghar and Hadath Akbar to promote personal hygiene",
+            "explain the reasons for performance of tayyamum as a pre-condition for swalah",
+            "identify situations for the performance of sunnah ghusl",
+            "demonstrate ways of purification of Hadath Asghar and Hadath Akbar to maintain ritual purity",
+            "appreciate maintenance of ritual purity as a condition for Ibadah"
+          ],
+          "keyInquiryQuestions": ["Why should Muslims maintain ritual purity?"],
+          "learningExperiences": [
+            "identify the types of Hadath",
+            "discuss the difference between Hadath Asghar and Hadath Akbar and present in tabular form",
+            "identify items to be used in the purification of Hadath Asghar and Hadath Akbar and present on a chart",
+            "sort and match the types of Hadath and methods of purification (wudhu, tayyamum, ghusl) using digital devices/flashcards/pocket boards/charts",
+            "discuss situations when tayyamum is performed",
+            "brainstorm on situations when optional ghusl is performed and make summary notes",
+            "demonstrate the steps of performing tayamum"
+          ],
+          "linkedLearningAreas": ["Agriculture — personal hygiene is covered in this learning area"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "4.2 Zakat",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "identify the items liable for zakaat payment for spiritual growth",
+            "describe the eight recipients of zakat as mentioned in the Qur'an",
+            "differentiate between zakaat and sadaqa to inculcate the spirit of giving",
+            "appreciate the need to pay zakat and sadaqa to develop empathy"
+          ],
+          "keyInquiryQuestions": ["Why should a Muslim pay zakaat?"],
+          "learningExperiences": [
+            "collect pictures of items/commodities liable for zakaat and display/mount on charts",
+            "use digital devices/Qur'an to search for the recipients of zakaat and make notes (Q9:60)",
+            "use flash cards/pocket boards/charts to show the difference between zakat and sadaqa"
+          ],
+          "linkedLearningAreas": ["Mathematics — the concept of payment of zakaat involves some calculations of nisab and rate which can be related"],
+          "scopeNotes": [],
+          "assessmentSignal": "Rubric distinguishes 'identifies items + all 8 recipients with Hadith evidence' from 'identifies items + only 4-6 recipients' from 'less than 4 recipients' — the full 8 recipients (Q9:60) is an explicit, graded target, not a rough sample."
+        },
+        {
+          "name": "4.3 Saum (Fasting)",
+          "lessonCount": 4,
+          "specificLearningOutcomes": [
+            "state the categories of people who are exempted from obligatory fast",
+            "explain the reasons for fidya (compensation) by people exempted from fasting during the month of Ramadhan",
+            "describe different ways of compensating for missed fasts",
+            "appreciate Allah (S.W.T.)'s mercy to Muslims for exemption of fasting with valid reasons"
+          ],
+          "keyInquiryQuestions": ["Why are some people exempted from fasting?"],
+          "learningExperiences": [
+            "identify the categories of people exempted from fasting as mentioned in the Qur'an and list them in their note books (Q2:184-185)",
+            "use digital devices/flash cards to search and match the categories of people exempted from fasting with the corresponding ways of compensation",
+            "discuss different ways of compensating for missed fasts and make notes",
+            "discuss the reasons why Allah (S.W.T.) exempted some people from fasting and make presentations"
+          ],
+          "linkedLearningAreas": ["Agriculture — in aspects of intermittent fasting"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "4.4 Hajj",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "outline the conditions of Hajj for validity of its performance",
+            "explain different types of Hajj to fulfil the requirements for each",
+            "describe the procedure of performing each type of Hajj for its validity",
+            "appreciate Hajj as a pillar of Islam"
+          ],
+          "keyInquiryQuestions": [
+            "What are the prerequisites for the performance of Hajj?",
+            "What is the significance of Hajj?"
+          ],
+          "learningExperiences": [
+            "search for the conditions of Hajj and make notes",
+            "discuss the different types of Hajj and present on a chart",
+            "search and watch video clips on the performance of Hajj",
+            "search for verses on Hajj from the Qur'an and Hadith and display on charts",
+            "create a model Kaaba and simulate the performance of Hajj"
+          ],
+          "linkedLearningAreas": ["Social Studies — has aspects of visiting religious places/shrines as part of social organisation of different communities"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        }
+      ]
+    },
+    {
+      "name": "5.0 Akhlaq (Moral Teachings)",
+      "subStrands": [
+        {
+          "name": "5.1 Virtues: Work as a form of Ibadah",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "state the reasons why work is considered as Ibadah in Islam",
+            "explain the benefits of work in the development of the Ummah",
+            "describe different types of work as means to lawful earnings",
+            "differentiate between halal and haram work",
+            "appreciate the importance of work as a form of Ibadah"
+          ],
+          "keyInquiryQuestions": [
+            "Why should a Muslim work?",
+            "Why is work considered an act of Ibadah?",
+            "What kind of work is prohibited in Islam?"
+          ],
+          "learningExperiences": [
+            "discuss why work is considered Ibadah in Islam",
+            "brainstorm on the benefits of work and present in class",
+            "collect pictures of different occupations and display them in class",
+            "search and watch video clips on different types of work and differentiate between permissible and non-permissible",
+            "identify ethics that should guide work in Islam",
+            "dramatise different types of works as means of earning a living"
+          ],
+          "linkedLearningAreas": ["Social Studies — learners are taught different types of work/professions"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "5.1 Virtues: Adalah (Justice)",
+          "lessonCount": 2,
+          "notes": "Source PDF numbers this sub-strand '5.1' a second time (a duplicate heading, not a typo we should silently renumber) — its own summary table lists it separately as '5.2 Adalah, Justice'. Kept as its own distinct sub-strand/skill.",
+          "specificLearningOutcomes": [
+            "assess the importance of adalah as a means of promoting fairness in the society",
+            "describe different instances where justice must be practised to ensure fairness in the society",
+            "practise justice and fairness in day-to-day life",
+            "appreciate the virtue of adalah as a way of earning rewards from Allah"
+          ],
+          "keyInquiryQuestions": [
+            "What are the benefits of observing adalah in the society?",
+            "How can a pupil practise adalah in school?"
+          ],
+          "learningExperiences": [
+            "discuss the importance of exercising justice and make class presentation",
+            "search for verses in the Qur'an that advocate for fairness (Q. 4:135)",
+            "read a story on justice and draw lessons on fairness",
+            "role-play actions that depict justice",
+            "make and present short skits thematising adalah in society"
+          ],
+          "linkedLearningAreas": ["Social Studies — covers aspects of human rights and justice"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "5.2 Prohibitions in Islam: Intoxicants",
+          "lessonCount": 3,
+          "notes": "PDF's own summary table lists this as '5.3 Prohibitions in Islam, Intoxicants'.",
+          "specificLearningOutcomes": [
+            "identify the types of intoxicants rampant in the society",
+            "explain the effects of intoxicants on the society",
+            "describe ways of curbing the use of intoxicants",
+            "adhere to Islamic teachings on prohibition of intoxicants in day-to-day life",
+            "appreciate the prohibition of intoxicants for the wellbeing of the society"
+          ],
+          "keyInquiryQuestions": [
+            "Why does Islam prohibit the use of intoxicants?",
+            "What are the effects of intoxicants on the society?"
+          ],
+          "learningExperiences": [
+            "discuss and list intoxicants rampant in the community",
+            "research on the negative effects of intoxicants and make short notes",
+            "search and watch age-appropriate videos on the effects of intoxicants",
+            "make posters on the effects of intoxicants",
+            "story-tell/dramatise effects of intoxicants",
+            "brainstorm on ways of curbing the use of intoxicants and make posters"
+          ],
+          "linkedLearningAreas": ["Science and Technology — content on the effects of intoxicants (drug and substance abuse) is covered"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "5.2 Prohibitions in Islam: Israf (Extravagance)",
+          "lessonCount": 2,
+          "notes": "PDF's own summary table lists this as '5.4 Israf, extravagance'.",
+          "specificLearningOutcomes": [
+            "identify resources available in the community",
+            "explain ways of guarding against israf for effective resource management",
+            "explain the effects of israf in the society",
+            "use available resources effectively as a way of promoting economic growth",
+            "appreciate proper use of resources to get rewards from Allah"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to avoid israf?",
+            "How can people promote good use of resources?"
+          ],
+          "learningExperiences": [
+            "discuss resources that are often wasted e.g. food, water, money and present",
+            "dramatise appropriate ways of using resources in accordance with Islamic teachings (e.g. serve food enough for self; not using excessive amounts of water while performing wudhu; turning off TV/lights when not in use)",
+            "make posters/signage discouraging israf and pin them at strategic places e.g. turn off taps when not in use",
+            "brainstorm on the effects of israf and make presentations"
+          ],
+          "linkedLearningAreas": ["Agriculture — wastage of resources is covered"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "5.3 Dua (Supplication when Travelling)",
+          "lessonCount": 2,
+          "notes": "PDF's own summary table lists this as '5.5 Dua (supplication when traveling)'.",
+          "specificLearningOutcomes": [
+            "recite the dua for travelling to seek Allah (S.W.T.)'s protection",
+            "recite the dua in day-to-day life while travelling",
+            "appreciate the importance of the dua for travelling in seeking protection from Allah (S.W.T.)"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to recite a dua while travelling?",
+            "What safety precautions should one observe while travelling?"
+          ],
+          "learningExperiences": [
+            "read the dua: \"Glory to Him who has brought this (e.g. vehicle) under our control, though we were unable to control it (ourselves), and indeed, to our Lord we will surely return.\" (Muslim)",
+            "note the dua in the books and memorise",
+            "role-play travelling and recite the dua in class",
+            "discuss safe practices a passenger should observe while in a vehicle (such as boarding through door, be seated when the vehicle is in motion and avoid distracting the driver)",
+            "discuss the importance of reciting the dua when travelling and make notes and class presentation",
+            "write the dua on charts and post them on the school's notice board"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        }
+      ]
+    },
+    {
+      "name": "6.0 Muamalaat (Social Relations)",
+      "subStrands": [
+        {
+          "name": "6.1 Fair Treatment of Workers",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "state the rights of workers to promote a conducive working environment",
+            "describe ways of treating workers fairly",
+            "practise Islamic ethics while relating with workers",
+            "appreciate Islamic teachings on workers by treating them fairly"
+          ],
+          "keyInquiryQuestions": [
+            "Why should workers be treated well?",
+            "How can we treat workers fairly?"
+          ],
+          "learningExperiences": [
+            "discuss the rights of workers and make notes",
+            "discuss appropriate ways of treating workers and present on charts",
+            "role-play fair treatment of workers",
+            "share personal experiences on how workers are treated in homes",
+            "brainstorm on ways of promoting fair treatment of workers",
+            "discuss the Hadith of the Prophet (S.A.W.) on fair treatment of workers: \"Your brothers are your responsibility. Allah has made them under your hands. So, whosoever has a brother under his hand, let him give him food as he eats and dress as he dresses. Do not give them work that will overburden them and if you give them such tasks, then provide assistance.\" (Bukhari)"
+          ],
+          "linkedLearningAreas": ["Social Studies — human rights concepts are covered in the subject"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "6.2 Relations with People of Other Faiths",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "identify the rights of non-Muslims for harmonious living",
+            "describe ways of promoting good relations with people of other faiths for peaceful co-existence",
+            "demonstrate ways of living harmoniously with people of other faiths in day-to-day life",
+            "appreciate living with people of other faiths harmoniously"
+          ],
+          "keyInquiryQuestions": [
+            "How should Muslims relate with people of other faiths?",
+            "What are the rights of the people of other faiths?"
+          ],
+          "learningExperiences": [
+            "research on the rights of non-Muslims from available reference materials and make class presentation",
+            "discuss ways of living peacefully with non-Muslims and display on a chart (Q. 2:256, 8:61, 60:8, 109:6)",
+            "role-play ways of living harmoniously with people of other faiths"
+          ],
+          "linkedLearningAreas": ["Social Studies — has some aspects of harmonious living"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "6.3 Corruption",
+          "lessonCount": 4,
+          "specificLearningOutcomes": [
+            "identify forms of corruption to create awareness in the society",
+            "explain the effects of corruption to inculcate the value of integrity",
+            "describe ways of curbing corruption for fairness and accountability",
+            "promote a corruption-free society by observing Islamic ethics and taqwa",
+            "appreciate the teachings of Islam against corruption by upholding Islamic morals"
+          ],
+          "keyInquiryQuestions": [
+            "Why is corruption prohibited in Islam?",
+            "What can you do to stop corruption?",
+            "What are the effects of corruption in our society?"
+          ],
+          "learningExperiences": [
+            "discuss forms of corruption in their environment (such as exam cheating, inflating bus fare, withholding shopping balance, election, deceiving parents on school levies) and make brief presentation",
+            "search for Hadiths/Qur'anic verses on corruption and write the teachings (Q. 2:11-12, 27, 30, 188)",
+            "brainstorm on the effects of corruption and display on charts",
+            "design posters on ways of curbing corruption",
+            "role-play acts depicting forms of corruption and ways of eradicating them"
+          ],
+          "linkedLearningAreas": ["Social Studies — content on corruption is covered"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        }
+      ]
+    },
+    {
+      "name": "7.0 History of Islam",
+      "subStrands": [
+        {
+          "name": "7.1 The Battles of Badr and Uhud",
+          "lessonCount": 4,
+          "specificLearningOutcomes": [
+            "identify the reasons that led to the battles of Badr and Uhud to appreciate Islamic heritage",
+            "narrate the events of the battles of Badr and Uhud for spiritual nourishment",
+            "explain the effects of the battles of Badr and Uhud to strengthen their Iman",
+            "appreciate reliance on Allah (S.W.T.) in overcoming challenges in day-to-day life"
+          ],
+          "keyInquiryQuestions": ["What lessons can Muslims learn from the battles of Badr and Uhud?"],
+          "learningExperiences": [
+            "search for the reasons that led to the battles of Badr and Uhud and make notes",
+            "watch video clips/listen to narrations on the battles of Badr and Uhud and draw lessons (such as praying to Allah (S.W.T.) for help in times of difficulties, true victory comes from Allah (S.W.T.) (Q. 3:123-128), the importance of knowledge, fair treatment of captives)",
+            "brainstorm on the effects of the battles of Badr and Uhud and make class presentations"
+          ],
+          "linkedLearningAreas": ["Social Studies — learners study the content on the effects of conflicts and conflict resolution"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "7.2 The Treaty of Hudaibiya",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "state the terms of the treaty of Hudaibiya as part of Islamic History",
+            "adopt peaceful conflict resolution methods in day-to-day life",
+            "appreciate the treaty of Hudaibiya as a guide to peaceful coexistence"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to resolve conflicts through peaceful means?",
+            "How can Muslims apply the lessons learnt from the treaty of Hudaibiya?"
+          ],
+          "learningExperiences": [
+            "search from reference materials on the treaty of Hudaibiya and write the terms of the treaty",
+            "dramatise acts depicting peaceful ways of resolving conflicts, drawing lessons from what they have learnt from the treaty of Hudaibiya",
+            "make posters on the terms of the treaty of Hudaibiya"
+          ],
+          "linkedLearningAreas": ["Social Studies — conflict resolution mechanisms are covered"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "7.3 The Conquest of Makkah (Fat-hul Makkah), including the Battle of Hunayn",
+          "lessonCount": 7,
+          "specificLearningOutcomes": [
+            "describe the events that led to the conquest of Makkah for spiritual nourishment",
+            "deduce lessons from the conquest of Makkah for peaceful co-existence",
+            "state the reasons that led to the battle of Hunayn",
+            "explain the effects of the battle of Hunayn to strengthen their Iman",
+            "apply the lessons from the conquest of Makkah in day-to-day life",
+            "appreciate clemency as part of the Sunnah of the prophet (S.A.W.)"
+          ],
+          "keyInquiryQuestions": [
+            "What lessons do Muslims learn from the events of fat-hul Makkah?",
+            "Why should one forgive people who have wronged them?"
+          ],
+          "learningExperiences": [
+            "listen to a story/watch a video/film on fat-hul Makkah and make a presentation on the events",
+            "discuss the lessons learnt from the events of fat-hul Makkah and display on charts (e.g. forgiveness, purity of places of worship, love of one's enemies as an effective daawa, Islam stands for peace)",
+            "discuss the reasons that led to the battle of Hunayn and make class presentation",
+            "discuss the effects of the battle of Hunayn and write notes",
+            "dramatise acts depicting peaceful ways of resolving conflicts from the events of fat-hul Makkah"
+          ],
+          "linkedLearningAreas": ["Social Studies — conflict resolution mechanisms are covered"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "7.4 Farewell Pilgrimage (Hijjatul Wid'a): Farewell Sermon",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "state the teachings contained in Prophet Muhammad (S.A.W.)'s farewell sermon for spiritual nourishment",
+            "deduce lessons from Prophet Muhammad (S.A.W.)'s farewell sermon as a basis for character formation",
+            "apply the lessons learnt from the prophet (S.A.W.)'s farewell sermon in day-to-day life",
+            "appreciate the Prophet (S.A.W.)'s farewell speech as a guide to mankind"
+          ],
+          "keyInquiryQuestions": [
+            "What are the main themes in Hijjatul Wid'a?",
+            "How can Muslims apply the lessons from the farewell sermon in today's world?"
+          ],
+          "learningExperiences": [
+            "read the farewell sermon, deduce the teachings and make presentations in class",
+            "identify key themes from the speech and make notes",
+            "brainstorm on the lessons learnt from Prophet Muhammad (S.A.W.)'s farewell sermon and make notes (such as sanctity of life and property, equality of human beings, Muslim brotherhood, not hurting one another, observing the pillars of Islam)",
+            "role-play acts depicting the teachings of the Prophet (S.A.W.)'s farewell sermon"
+          ],
+          "linkedLearningAreas": ["Social Studies — aspects of human rights mentioned during the farewell address are covered in these subjects"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        }
+      ]
+    }
+  ],
+  "implementationNotes": "24 raw sub-strands, split into 28 skills where the design names 2+ genuinely distinct named items within one sub-strand heading (4 surahs under 1.1; 2 prophets under 3.1), following the exact precedent set by Grade 7 IRE's own surah-splitting and this project's Grade 6-wide 'split into more, smaller, deeper skills' policy. Strand ids in curriculum.ts: g6-ire-quran (QU.1-4), g6-ire-hadith (HA.1-4), g6-ire-iman (PI.1-4), g6-ire-devotional (DA.1-4), g6-ire-akhlaq (AK.1-5), g6-ire-muamalat (MU.1-3), g6-ire-history (HI.1-4)."
+}

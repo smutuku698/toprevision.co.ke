@@ -1,0 +1,86 @@
+{
+  "subject": "Mathematics",
+  "subjectId": "math",
+  "grade": 9,
+  "source": {
+    "title": "Mathematics Grade 9 Curriculum Design (2024 Rationalized)",
+    "url": "https://example.com/path/to/the-actual-pdf-used.pdf",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-13",
+    "confidence": "high",
+    "notes": "Fetched directly from kicd.ac.ke; strand/sub-strand headings read verbatim from the PDF via Read, not summarized."
+  },
+  "strands": [
+    {
+      "name": "Numbers",
+      "subStrands": [
+        {
+          "name": "Cubes and Cube Roots",
+          "specificLearningOutcomes": [
+            "Determine cubes of numbers by multiplication",
+            "Determine cube roots of numbers by factor method",
+            "Apply cubes and cube roots to real-life situations"
+          ],
+          "keyInquiryQuestions": [
+            "Where do we use cubes and cube roots in real life?"
+          ]
+        },
+        {
+          "name": "Indices and Logarithms",
+          "subSubStrands": [
+            "Laws of indices",
+            "Logarithms to base 10",
+            "Standard form and logarithms"
+          ],
+          "specificLearningOutcomes": [
+            "Apply laws of indices to simplify expressions",
+            "Relate indices to logarithms",
+            "Use logarithm tables/laws to simplify calculations"
+          ],
+          "notes": "Sub-strand is deep enough that the design itself breaks it into further named topics — use subSubStrands as the skill-granularity unit here, not the parent sub-strand."
+        }
+      ]
+    }
+  ],
+  "_comment_learningExperiences_fields": "The three fields below (learningExperiences, linkedLearningAreas, scopeNotes) were added 2026-08-15 per curriculum-reference/CURRICULUM-MINING-GUIDE.md. They are optional but STRONGLY expected on every sub-strand entry written from now on — this is where the real enumerated content pools live in a KICD design (almost always inside parentheses in the Suggested Learning Experiences column), and omitting them was the root cause of Grade 7 Integrated Science SI.3 shipping with 5 SI units and 3 basic skills when the source design names 7 and 7 respectively. See the worked example below, transcribed verbatim from designs/GRADE.7.INTEGRATED.SCIENCE.pdf.",
+  "_example_using_new_fields": {
+    "subject": "Integrated Science",
+    "subjectId": "science",
+    "grade": 7,
+    "strands": [
+      {
+        "name": "1.0 Scientific Investigation",
+        "subStrands": [
+          {
+            "name": "1.3 Laboratory apparatus and instruments",
+            "lessonCount": 16,
+            "specificLearningOutcomes": [
+              "Describe the basic skills in science",
+              "Use and care for apparatus and instruments in the laboratory",
+              "Use the SI units for basic and derived quantities in science",
+              "Appreciate consumer protection when handling different apparatus, instruments and other materials in day to day life"
+            ],
+            "keyInquiryQuestions": [
+              "Why are basic skills in science important?",
+              "How are quantities in science expressed?"
+            ],
+            "learningExperiences": [
+              "Discuss the use of basic skills in science (manipulative, observation, measurement, classification, prediction, communication and conclusion skills)",
+              "Practice use and care for apparatus and instruments in the laboratory, for heating, measuring mass, temperature, length, volume, weight, magnification and time (include parts, functions and care of a light microscope; and parts of a bunsen burner)",
+              "Carry out activities on measurements of basic quantities and express them in the International System of Units (SI): length, mass, time, electric current, temperature, amount of substance, light intensity",
+              "Carry out activities to determine derived units from basic units: area, volume, speed, density",
+              "Collect packaging featuring labels of quantities and discuss the importance of the information on labels"
+            ],
+            "linkedLearningAreas": [
+              "Mathematics — measurement skills linked to measurements of various quantities in Mathematics",
+              "Agriculture and Nutrition — manipulative and measurement skills linked to measurements of ingredients when preparing meals"
+            ],
+            "scopeNotes": [],
+            "assessmentSignal": "Rubric's 'Meets expectations' row for apparatus reads 'uses and cares for apparatus and instruments in the laboratory correctly' — confirms care (not just identification) is part of the tested competency.",
+            "notes": "Case study written up in full in CURRICULUM-MINING-GUIDE.md — this sub-strand is what the guide exists to fix."
+          }
+        ]
+      }
+    ]
+  }
+}

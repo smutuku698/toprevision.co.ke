@@ -1,0 +1,543 @@
+{
+  "subject": "Music and Dance",
+  "subjectId": "music-and-dance",
+  "grade": 10,
+  "source": {
+    "title": "Senior School Curriculum Design — Music and Dance, Grade 10 (2025 draft)",
+    "url": null,
+    "publisher": "KICD (Kenya Institute of Curriculum Development)",
+    "isbn": "978-9914-52-907-4",
+    "retrievedDate": "2026-08-18",
+    "confidence": "high",
+    "notes": "Full 60-page PDF text extracted directly via the Read tool (no `pages` param) from a user-supplied file ('download (5).pdf', copied to grade 10 desings/Grade10-MusicAndDance-SeniorSchool.pdf). Watermarked DRAFT throughout — this is Kenya's first-ever Grade 10 (Senior School) curriculum design, not yet finalized. Strand/sub-strand text transcribed verbatim, including all parenthetical enumerations, per CURRICULUM-MINING-GUIDE.md."
+  },
+  "strands": [
+    {
+      "name": "1.0 Foundations of Music and Dance",
+      "subStrands": [
+        {
+          "name": "1.1 Rhythm",
+          "keyConcepts": ["Semi-quaver", "Triplet", "Simple time: 2/4, 3/4, 4/4 and 3/8"],
+          "specificLearningOutcomes": [
+            "Explain the rhythmic concept of the semiquaver in simple time",
+            "Describe the concept of the triplet in simple time",
+            "Group notes into beats in simple time",
+            "Compose 4-bar rhythms in simple time incorporating semiquavers",
+            "Compose 4-bar rhythms in simple time incorporating triplets",
+            "Appreciate rhythms composed by self and others"
+          ],
+          "keyInquiryQuestions": [
+            "How do triplets feature in simple time?",
+            "How can rhythms be created in simple time?"
+          ],
+          "learningExperiences": [
+            "Listen to or sing songs in simple time with semiquavers and aurally recognize them in the songs",
+            "Use virtual sources responsibly to listen to or sing songs in simple time with triplets and discuss the performance of the triplet",
+            "Practice writing rhythms in simple time incorporating semiquavers with appropriate grouping",
+            "Tap and recite rhythms using French rhythm names",
+            "Collaboratively discuss factors to consider in creating rhythmic patterns and apply them to create 4-bar rhythms",
+            "Compose 4-bar original rhythms in simple time incorporating semiquavers and triplets",
+            "Perform created rhythms in simple time and record using a digital device, observing responsibility",
+            "Share the recorded performances of rhythms with peers for critique"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and Collaboration", "Critical thinking and Problem solving", "Creativity and Imagination"],
+          "values": ["Responsibility", "Integrity", "Respect"],
+          "pertinentContemporaryIssues": ["Cyber security (responsible use of digital devices/online platforms researching, recording, sharing)", "Life skills (improvising rhythmic accompaniments to simple tunes)"],
+          "assessmentSignal": "Strand 1.0 rubric 'Ability to create works of Music and Dance' names '4-bar rhythms incorporating semiquavers' and '4-bar rhythms incorporating triplets' as separate, individually-graded items — both must be practiced as distinct compositions, not merged into one."
+        },
+        {
+          "name": "1.2 Melody in Major Keys",
+          "keyConcepts": [
+            "Melodic devices: Scalic motion, Arpeggios",
+            "Major scales of D, A, B flat and E flat on the treble and bass staves, with and without key signatures, ascending and descending",
+            "Structure (question and answer phrases)",
+            "Articulation marks: slur, staccato"
+          ],
+          "specificLearningOutcomes": [
+            "Describe melodic devices used in melody writing",
+            "Construct major scales on a staff",
+            "Compose an 8-bar melody incorporating melodic devices",
+            "Compose an 8-bar melody incorporating articulation marks",
+            "Enjoy creating melodies in major keys"
+          ],
+          "keyInquiryQuestions": [
+            "How is melodic interest created in music?",
+            "How can unity and variety be achieved in composition?"
+          ],
+          "learningExperiences": [
+            "Listen to or sing simple and familiar tunes in major keys and identify melodic devices used",
+            "Construct major scales on the treble and bass staves ascending and descending",
+            "Compose 8-bar melodies in simple time incorporating melodic devices with appropriate phrasing",
+            "Compose 8-bar melodies in simple time incorporating articulation marks",
+            "Sing or play composed melodies",
+            "Store composed music in a digital or physical portfolio",
+            "Critique melodies composed by self and others"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and Collaboration", "Self-efficacy", "Creativity and Imagination", "Digital literacy"],
+          "values": ["Respect", "Integrity", "Social justice"],
+          "pertinentContemporaryIssues": ["Peace education (composing songs on peace)", "Cyber security (responsible use of digital apps)"],
+          "assessmentSignal": "Strand 1.0 rubric requires '8-bar melodies' and 'set melody to text' and 'second part to a melody' as separately-graded 'works of Music and Dance' items — melodic devices and articulation marks are each graded outcomes, not optional flourishes."
+        },
+        {
+          "name": "1.3 Transposition",
+          "keyConcepts": [
+            "Intervals: Melodic and harmonic, quality (Major, minor, perfect) and size — 2nd, 3rd, 4th, 5th, 6th, 7th and 8ve",
+            "Transposition to an interval — 2nd, 3rd, 4th, 5th, and 8ve",
+            "Transposition from treble to bass staves and vice versa",
+            "To a given key — C, G, F, D, A, B flat and E flat"
+          ],
+          "specificLearningOutcomes": [
+            "Describe intervals in a major scale",
+            "Explain the concept of transposition in music",
+            "Transpose music to a given interval",
+            "Transpose music from the treble to the bass staff",
+            "Transpose music from bass to the treble staff",
+            "Transpose music to a given key",
+            "Value the role of transposition in music"
+          ],
+          "keyInquiryQuestions": ["How does transposition aid in music performance?"],
+          "learningExperiences": [
+            "Sing or play a major scale and aurally identify various intervals",
+            "Listen to melodies sung or played in octaves and identify the lower and higher registers",
+            "Sing or play melodies at different pitches, higher or lower, to distinguish the difference in pitch",
+            "Discuss the process of transposing music to a given interval, an octave or a given key",
+            "Transpose melodies an octave up or down within the same or to a different stave",
+            "Transpose melodies to a given key within the same or to a different stave"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": [
+            "notes: The design's printed 'Core competencies to be developed' / Values / PCIs block immediately following this sub-strand's table (p.21) reads as generic composition/notation-software text ('creates new musical ideas when composing melodies in the minor key', 'applies compositional skills and knowledge on digital software to compose and notate music', 'uses music notation software to compose and playback music') rather than text specific to transposition, intervals, or major keys — this sub-strand names no minor key at all. Likely a copy/paste artifact in this still-DRAFT document (shared boilerplate reused across nearby sub-strands). Recorded verbatim per mining discipline; treated as low-confidence for this sub-strand specifically and NOT used to justify building a minor-key or notation-software branch inside the Transposition skill — those belong to 1.2/1.6 instead."
+          ],
+          "coreCompetencies": ["Communication", "Collaboration", "Creativity and Imagination", "Critical thinking and Problem solving", "Learning to learn", "Digital literacy"],
+          "values": ["Respect", "Unity", "Integrity", "Responsibility", "Love", "Peace"],
+          "pertinentContemporaryIssues": ["Life skills (growing talent)", "Cyber security (responsible use of digital apps)", "Self-esteem (belief in self as upcoming artiste through melody-writing knowledge)"],
+          "assessmentSignal": "Strand 1.0 rubric 'Ability to transpose music' grades three distinct skills separately: 'From treble to bass', 'From bass to treble', 'To a given key' — all three directions must be practiced, not just one."
+        },
+        {
+          "name": "1.4 Setting Text to Music",
+          "keyConcepts": [
+            "Process of setting text to music: syllabic division, accents (strong and weak), natural speech inflection/intonation of words, rhythm, time signature, cadential points and pitch",
+            "Two lines of text (8 syllables for each phrase)",
+            "Downbeat and upbeat (Anacrusis) start of melodies",
+            "Kiswahili text on: Regulations for road users (Observe designated crossing points and use of Personal Protective Equipment), financial literacy (self financial management skills), waste management, drug and substance abuse, healthy relationships"
+          ],
+          "specificLearningOutcomes": [
+            "Outline the process of setting text in Kiswahili to music",
+            "Set a melody to text in Kiswahili",
+            "Appreciate music composed in Kiswahili by self and others"
+          ],
+          "keyInquiryQuestions": [
+            "How are pitches assigned to different words to communicate messages clearly?",
+            "How does text dictate composition of a melody?"
+          ],
+          "learningExperiences": [
+            "Discuss the process involved in setting text in Kiswahili to music",
+            "Read Kiswahili words to establish the accents, natural speech inflections, and intonation",
+            "Discuss factors that guide syllabic division and accentuation of text in Kiswahili",
+            "Select text in Kiswahili on pertinent and contemporary issues such as: regulation for road users, financial literacy, waste management, drug and substance abuse, healthy relationships",
+            "Recite the text to establish the text-melody relationships: natural speech inflections, intonation and textual meaning among others",
+            "Choose an appropriate time signature, assign note values, identify cadential points and phrases for the selected text",
+            "Add appropriate pitches to the syllables while paying attention to word painting, melodic contour, range and overall structure",
+            "Write the music composed in staff notation",
+            "Organize a concert and perform the composed song to the school or local community audience",
+            "Record and save the music in a digital or physical portfolio"
+          ],
+          "linkedLearningAreas": ["Implied bridge to Kiswahili — the sub-strand's text-setting content is built entirely from Kiswahili-language text, though no formal 'Link to other learning area' box is printed for this design."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and Collaboration", "Creativity and Imagination", "Citizenship", "Learning to learn", "Digital literacy"],
+          "values": ["Respect", "Responsibility", "Social justice", "Patriotism"],
+          "pertinentContemporaryIssues": ["Road safety (regulation for road users)", "Communicable diseases (sensitizing populace)", "Waste management (sensitizing community on environmental cleanliness)", "Healthy relationships (collaborating in group work)", "Financial literacy"],
+          "assessmentSignal": "Strand 1.0 rubric grades 'Set melody to text' as its own item under 'Ability to create works of Music and Dance' — separate from the 8-bar melody and second-part items, confirming text-setting is assessed as a standalone composition skill."
+        },
+        {
+          "name": "1.5 Two-Part Harmony",
+          "keyConcepts": [
+            "Two-part harmony guidelines: Beginning (unison, 5ths or 8ve); Motion — step, leap, note-to-note",
+            "Intervals (consonants: major 3rd, minor 3rd, perfect 4th, perfect 5th, major 6th, minor 6th, and the octave)",
+            "Ending — unison or 8ve"
+          ],
+          "specificLearningOutcomes": [
+            "Outline guidelines for creating two-part harmony",
+            "Compose a second part to a 4-bar melody in a major key",
+            "Value the role of intervals in harmony"
+          ],
+          "keyInquiryQuestions": [
+            "What do you consider when adding a second part to an existing melody?",
+            "How can intervals be utilized in improvising a second part to a melody?"
+          ],
+          "learningExperiences": [
+            "Listen to two-part vocal and/or instrumental harmonic passages in major keys to identify guidelines used in two-part harmony",
+            "Sing and/or play two-part harmonic passages in major keys to aurally discriminate the higher and lower parts in the passages",
+            "Distinguish harmonic intervals as consonant or dissonant",
+            "Add a second part above or below a melody using appropriate consonant intervals",
+            "Score two-part harmonic passages on the treble stave with appropriate stemming",
+            "Record the 2-part music using a digital device or a physical portfolio",
+            "Appraise each other's music"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and Collaboration", "Creativity and Imagination", "Digital Literacy"],
+          "values": ["Respect", "Integrity", "Unity"],
+          "pertinentContemporaryIssues": ["Cyber security", "Safety and security", "Self-esteem"],
+          "assessmentSignal": "Strand 1.0 rubric grades 'Second part to a melody' as its own composition item, and lists all 7 consonant intervals under 'Ability to describe Music and Dance concepts' — a skill must be able to name/identify all 7 (major 3rd, minor 3rd, perfect 4th, perfect 5th, major 6th, minor 6th, octave), not a subset."
+        },
+        {
+          "name": "1.6 Music Notation Software",
+          "keyConcepts": [
+            "Navigate music notation software — opening, keying, playing back, saving, and editing",
+            "Transcribe scales, melodies, intervals and two-part harmony",
+            "Saving — midi, print, and audio formats"
+          ],
+          "specificLearningOutcomes": [
+            "Identify notation software used in music writing",
+            "Navigate selected music notation software",
+            "Transcribe music using a music notation software",
+            "Save music files for storage",
+            "Appreciate music playbacks in midi and audio formats"
+          ],
+          "keyInquiryQuestions": [
+            "How is music notation software useful?",
+            "How does music notation software facilitate music composition?"
+          ],
+          "learningExperiences": [
+            "Watch demos of various music notation software to distinguish them",
+            "Discuss various notation software and mobile apps used in music notation",
+            "Navigate selected music notation software to view music notation tools",
+            "Use music notation software to key in music",
+            "Edit keyed-in music using a selected music software",
+            "Save and convert already keyed in music to midi, print, and audio formats",
+            "Share, play back, and appraise own and others' music in print and audio formats"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": [],
+          "coreCompetencies": ["Collaboration", "Critical thinking", "Problem solving", "Creativity and Imagination", "Learning to learn", "Digital literacy"],
+          "values": ["Respect", "Responsibility", "Unity", "Integrity", "Social justice"],
+          "pertinentContemporaryIssues": ["Peer education", "Social cohesion", "Safety and security (precaution using digital devices powered by electricity)"],
+          "assessmentSignal": "Strand 1.0 rubric 'Ability to use music notation software' grades three sub-skills separately: 'Navigate software', 'Transcribe music', 'Save music files' — a skill needs all three, not just navigation."
+        },
+        {
+          "name": "1.7 Dance Production",
+          "keyConcepts": [
+            "Elements of dance — Body, Action, Space, Time, Energy",
+            "Functions of costumes, props and set design",
+            "Design of costumes",
+            "Multimedia",
+            "Choice of Music, lighting and sound effects",
+            "Choose a dance theme based on a PCI: Risk awareness and management on road use (Risky road behaviours such as: speeding, racing, running while on the road, jay walking, creating awareness on the vices of looting from crashed vehicles such as tankers, beverage transporters and from victims of a crash)"
+          ],
+          "specificLearningOutcomes": [
+            "Describe the elements of dance",
+            "Improvise props for use in a dance performance",
+            "Design costumes based on a dance theme",
+            "Describe the concept of choreography in a themed dance",
+            "Select multimedia effects for use in a dance production",
+            "Value dance production for economic empowerment"
+          ],
+          "keyInquiryQuestions": [
+            "How can costumes and props be used to communicate the theme in a dance performance?",
+            "How can multimedia effects be utilized to enhance dance production?"
+          ],
+          "learningExperiences": [
+            "Watch a variety of dances and discuss the elements of dance",
+            "Source or use available materials to improvise props for use in a dance performance",
+            "Choose a dance based on a theme of risk awareness and management on road use",
+            "Design an appropriate costume for the dance",
+            "Watch online or live demonstrations on use of music, lighting, and sound effects in a dance production",
+            "Apply multimedia effects in production of a dance performance during a school event"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": [
+            "notes: The printed 'Core competencies/Values/PCIs' block for this sub-strand (p.30) reads as text about recording/playing Kenyan popular music with digital audio apps, which more naturally matches Strand 2.0's Contemporary Dance sub-strand than 1.7's own elements-of-dance/costume/multimedia content. Likely another copy/paste artifact in this DRAFT design (same pattern noted for 1.3). Recorded verbatim; the road-safety PCI (risky road behaviours) is the one piece of this block that is unambiguously specific to 1.7 and IS used for scenario content."
+          ],
+          "coreCompetencies": ["Citizenship", "Digital literacy", "Collaboration", "Self-efficacy"],
+          "values": ["Patriotism", "Respect", "Integrity"],
+          "pertinentContemporaryIssues": ["Road safety (dance theme based on risk awareness and management on road use, appropriate costume design)", "Peer education and Mentorship", "Social cohesion", "Resource mobilization and utilization"],
+          "assessmentSignal": "Strand 1.0 rubric grades 'Props and costumes' as its own item under 'Ability to create works of Music and Dance' — improvised props and designed costumes are each individually assessed outputs."
+        }
+      ]
+    },
+    {
+      "name": "2.0 Performing",
+      "subStrands": [
+        {
+          "name": "2.1 Kenyan Folk Songs",
+          "keyConcepts": [
+            "Characteristics of Kenyan folksongs",
+            "Folksongs — Solo, Group",
+            "Choice — Gender, Age, Occasion, Costumes props and artefacts",
+            "Performance aspects — Singing (tone and diction), Idiom, Synchrony, Transitions, Instrumentation, Projection, Expressiveness, Etiquette"
+          ],
+          "specificLearningOutcomes": [
+            "Describe the characteristics of Kenyan folk songs",
+            "Select a Kenyan folk song for performance",
+            "Perform folk songs from Kenyan communities applying performance aspects",
+            "Enjoy performing Kenyan folk songs"
+          ],
+          "keyInquiryQuestions": [
+            "How does exposure to various performances influence an individual's response to folk songs?",
+            "Why are Kenyan folk songs important in society?"
+          ],
+          "learningExperiences": [
+            "Listen to or watch performances of Kenyan folk songs and discuss the characteristics",
+            "Source from virtual or physical spaces to select Kenyan folk songs with appropriate themes and messages from different communities",
+            "Source for and select instruments, costumes, props, and artefacts, make-up and décor",
+            "Take up different roles in the performance (soloist, instrumentalists, group singers)",
+            "Carry out rehearsals observing rehearsal etiquette (draw a rehearsal schedule, take up various roles during rehearsal, and apply the appropriate techniques of performing folk songs) and safety procedures",
+            "Perform a Kenyan group folk song before an audience, applying the appropriate performance aspects",
+            "Record and share the performances with peers for feedback"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and Collaboration", "Citizenship", "Digital literacy"],
+          "values": ["Patriotism", "Unity", "Responsibility"],
+          "pertinentContemporaryIssues": ["Safety and security", "Self-esteem"],
+          "assessmentSignal": "Strand 2.0 rubric 'Ability to perform selected works of Music and Dance' grades 'A Kenyan folk song' as one of 5 individually-assessed performance items, using appropriate performance techniques and/or observing prescribed performance directions."
+        },
+        {
+          "name": "2.2 Western Style Solo Songs",
+          "keyConcepts": [
+            "Performance style",
+            "Accuracy — pitch, rhythm",
+            "Performance directions — tempo, dynamics, repeats and reiterations",
+            "Performance techniques — phrasing, posture, diction, poise, and musicianship",
+            "Western solo songs: lieder, arias, folk songs"
+          ],
+          "specificLearningOutcomes": [
+            "Describe the performance style of selected Western solo songs",
+            "Perform a Western style solo song using appropriate performance techniques",
+            "Perform a Western style solo song observing prescribed performance directions",
+            "Appreciate performing various Western solo songs"
+          ],
+          "keyInquiryQuestions": [
+            "How should one prepare to perform a Western solo song?",
+            "Why are vocal techniques important in Western solo songs?"
+          ],
+          "learningExperiences": [
+            "Listen to or watch live or recorded performances of lieder, arias from operas and oratorios, and solo songs from musicals for familiarization",
+            "Discuss the performance practice of Western solo songs such as lieder, arias, and folk songs",
+            "Review videos of Western solo songs to identify their styles of singing",
+            "Execute various vocal styles applied in singing Western solo songs",
+            "Select, acknowledging the source, suitable Western solo songs for performance",
+            "Perform selected Western solo songs before a given audience, while observing the performance techniques",
+            "Use digital devices to record their performances of various Western solo songs and upload them to their digital portfolios",
+            "Evaluate performances by self and others and respectfully give feedback"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy", "Citizenship", "Learning to learn", "Digital literacy"],
+          "values": ["Respect", "Integrity", "Responsibility", "Social justice", "Peace"],
+          "pertinentContemporaryIssues": ["Healthy relationships", "Life skills", "Cyber Security"],
+          "assessmentSignal": "Strand 2.0 rubric grades 'A Western solo song' as one of 5 individually-assessed performance items."
+        },
+        {
+          "name": "2.3 Kenyan Indigenous Musical Instrument (Solo Performer)",
+          "keyConcepts": ["Indigenous musical instruments: fiddle, lyre, harp, flute, drum or drum set, barred and spoked"],
+          "specificLearningOutcomes": [
+            "Explain sound production on a selected Kenyan indigenous musical instrument",
+            "Perform music from the cultural idiom of the chosen instrument",
+            "Appreciate music played on a selected Kenyan indigenous musical instrument"
+          ],
+          "keyInquiryQuestions": [
+            "How can proficiency in solo instrumental playing be developed?",
+            "What features of a solo instrument mark its cultural identity?"
+          ],
+          "learningExperiences": [
+            "Listen or watch performances involving Kenyan indigenous musical instruments to determine how sound is produced",
+            "Familiarise with a selected Kenyan indigenous musical instrument to identify its parts and handling",
+            "Search responsibly for videos and watch or interact with resource persons to learn the techniques of tuning, playing, and maintaining the instrument",
+            "Practice the techniques of tuning of the instrument",
+            "Rehearse playing a selected Kenyan indigenous musical instrument to master the playing techniques",
+            "Play tunes or rhythmic patterns from the cultural idiom of the chosen instrument using the appropriate playing techniques before an audience",
+            "Record and share music with parents, guardians, and fellow learners for feedback and upload to a digital portfolio"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication", "Creativity and Imagination", "Digital literacy"],
+          "values": ["Integrity", "Responsibility", "Respect", "Social Justice"],
+          "pertinentContemporaryIssues": ["Resource mobilization", "Mentorship"],
+          "assessmentSignal": "Strand 2.0 rubric grades 'Indigenous Kenyan instrument' as one of 5 individually-assessed performance items."
+        },
+        {
+          "name": "2.4 Western Musical Instruments (Solo Performer)",
+          "keyConcepts": [
+            "Western Instruments: strings, brass, woodwind, and percussion, piano/organ",
+            "Playing techniques: tonguing, bowing, picking, strumming, plucking, and striking"
+          ],
+          "specificLearningOutcomes": [
+            "Describe the structure of the western solo instrument",
+            "Explain the tuning of a selected Western solo musical instrument",
+            "Play a selected Western solo musical instrument applying playing techniques",
+            "Play a selected Western solo musical instrument observing performance directions",
+            "Appreciate music played on Western solo instrument for global awareness"
+          ],
+          "keyInquiryQuestions": [
+            "Why do instruments sound differently while playing the same pitch?",
+            "How is playing a Western solo instrument proficiency developed?"
+          ],
+          "learningExperiences": [
+            "Observe pictures or real instruments and identify various parts and their role in the production of sound",
+            "Tune or explain the tuning of a selected Western solo instrument",
+            "Prepare a rehearsal schedule for practicing techniques earlier learnt on the selected Western solo instrument",
+            "Practice playing techniques that are specific to the selected Western solo instrument",
+            "Play a variety of solo pieces of music on a selected solo instrument during a school function"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": [],
+          "coreCompetencies": ["Citizenship", "Digital literacy", "Self-efficacy"],
+          "values": ["Integrity", "Responsibility", "Respect"],
+          "pertinentContemporaryIssues": ["Online safety", "Life skills"],
+          "assessmentSignal": "Strand 2.0 rubric grades 'A Western solo musical instrument' as one of 5 individually-assessed performance items."
+        },
+        {
+          "name": "2.5 Contemporary Dance from Kenya",
+          "keyConcepts": [
+            "Contemporary Dance features: storyline, use of body in space, improvisation, styles from other genres, music, costume, and décor",
+            "Basic Performing Skills: Posture, Alignment, Balance, Coordination, Control",
+            "Performance techniques: Controlled leg work, Floor work, Improvisation, Fall and recovery, Movement and release",
+            "Dance Choreography based on Kenyan popular music (such as rhumba, benga, genge, hip-hop, Kenyan rock, genge tone, taarab, rap, and kapuka)",
+            "Choose a dance theme based on risk awareness and management on road use: Risky road behaviours such as over speeding, racing, running while on the road, jay walking, creating awareness on the vices of looting from crashed vehicles such as tankers, beverage transporters, and from victims of a crash"
+          ],
+          "specificLearningOutcomes": [
+            "Describe the features of a contemporary dance",
+            "Create a 3-5-minute contemporary dance routine based on Kenyan popular music",
+            "Execute basic performance skills in a dance routine",
+            "Perform a 3-5-minute contemporary dance routine applying performance techniques",
+            "Appreciate performing a contemporary dance as a means of self-expression"
+          ],
+          "keyInquiryQuestions": ["How can contemporary dance be used to tell a story?"],
+          "learningExperiences": [
+            "Watch real or virtual contemporary dance performances and discuss their features",
+            "Brainstorm an idea on a PCI (risk awareness and management on road use) for a dance story",
+            "Create milestones for the contemporary dance story based on risk awareness and management on road use",
+            "Demonstrate basic performance skills in a dance routine",
+            "Select suitable contemporary dance techniques and styles from genres of Kenyan popular music for the routine",
+            "Block dance movements and patterns for effective use of time, space, action, and energy",
+            "Select and use appropriate music for the dance routine",
+            "Select and use appropriate costumes, props, and make-up for the routine",
+            "Rehearse and perform the dance routine in a troupe, to tell a story to an audience"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy", "Digital literacy", "Communication and Collaboration", "Creativity and Imagination"],
+          "values": ["Respect", "Responsibility", "Social justice"],
+          "pertinentContemporaryIssues": [
+            "Road safety (milestones for the contemporary dance story based on risk awareness and management of road use)",
+            "Social cohesion (appreciates diversity by creating dances on national themes)",
+            "Ethnic and racial relations (acquainted with diverse dance techniques in various ethnic and racial cultures, nurtures respect for varied cultures of the world)",
+            "Health education (insight into thematic health concerns like HIV/AIDS, alcohol and substance abuse, lifestyle diseases, personal hygiene, sketching storylines for contemporary dance performance)"
+          ],
+          "assessmentSignal": "Strand 2.0 rubric grades 'A 3-5-minute contemporary dance routine' as one of 5 individually-assessed performance items, applying performance techniques and/or observing performance directions with 'expert precision' at the top band."
+        }
+      ]
+    },
+    {
+      "name": "3.0 Critical Appreciation",
+      "subStrands": [
+        {
+          "name": "3.1 Kenyan Folk Songs",
+          "lessonCount": 11,
+          "keyConcepts": [
+            "Performance Media — vocal, vocal and instrumental",
+            "Performance styles — solo, call-response, choral",
+            "Elements of music — structure, rhythm, melodies/tunes, pitch, tempo, tone colour, texture, harmony, volume intensity",
+            "Expressive elements — vocal ornaments, and gestures"
+          ],
+          "specificLearningOutcomes": [
+            "Examine different performance media of Kenyan folk songs",
+            "Analyse the styles in selected Kenyan folk songs",
+            "Evaluate how the elements of music feature in the performance of a Kenyan folk song",
+            "Analyse the role of expressive devices in Kenyan folk songs",
+            "Analyse the message communicated in a folk song",
+            "Value the essence of performance of Kenyan folksongs in society"
+          ],
+          "keyInquiryQuestions": [
+            "What is the essence of analysing folk songs?",
+            "How can folk songs be used to address issues in the community?"
+          ],
+          "learningExperiences": [
+            "Listen to or watch live or recorded Kenyan traditional folk music with controlled volume, and classify performance media",
+            "Discuss the role of performance media and the various players in Kenyan folk songs",
+            "Identify the styles of Kenyan folk songs performance",
+            "Discuss how the elements of music feature in various Kenyan folk songs performances",
+            "Listen to or watch performances of Kenyan folk songs and interpret the expressive devices used",
+            "Listen to or watch performances of Kenyan folk songs and discuss the message(s)"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and Collaboration", "Citizenship", "Learning to learn", "Digital literacy"],
+          "values": ["Integrity", "Patriotism", "Unity", "Respect"],
+          "pertinentContemporaryIssues": ["Pollution (noise pollution — controlling volume while listening to folk music)", "Life skills (inspired by watching Kenyan folksong artists to identify and nurture own talent)"],
+          "assessmentSignal": "Strand 3.0 rubric names 'Characteristics of Kenyan folk songs' under 'describes 3 aspects of Critical Appreciation' and 'Kenyan folk songs' under 'analyses 3 works of Music and Dance' — this sub-strand is graded on BOTH description and analysis, the two highest Bloom's verbs the outcomes explicitly use ('examine', 'analyse', 'evaluate')."
+        },
+        {
+          "name": "3.2 Classical Music (Medieval and Renaissance)",
+          "keyConcepts": [
+            "Periods — Medieval, Renaissance",
+            "Genres in Medieval period — Plain song, Organum, Motet",
+            "Genres in Renaissance period — Motet, Madrigal, Mass, Toccata, Canzona"
+          ],
+          "specificLearningOutcomes": [
+            "Describe the characteristics of music genres in the prescribed periods",
+            "Aurally identify music genres in the prescribed period",
+            "Appreciate Medieval and Renaissance music through listening and analysis"
+          ],
+          "keyInquiryQuestions": [
+            "How does exposure to genres of music from the prescribed period influence an individual's response to music?",
+            "How does the characteristics of a historical period influence the music genre?"
+          ],
+          "learningExperiences": [
+            "Listen to and discuss the characteristics of music genres in the prescribed periods",
+            "Discuss the influences of the characteristic of the period on the features of the music",
+            "Responsibly search for, listen to, and aurally identify the prescribed music genres of the different periods by outlining the composer and the features of music",
+            "Develop informed personal responses to music of the prescribed periods"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": [
+            "notes: 'Motet' is explicitly listed in BOTH the Medieval genre list and the Renaissance genre list — this is a real, deliberate curriculum point (the motet genre spans and evolves across both periods), not a transcription duplicate. A comparison-tier question contrasting the Medieval motet against the Renaissance motet is directly sanctioned by this dual listing."
+          ],
+          "coreCompetencies": ["Communication and Collaboration", "Citizenship", "Digital literacy"],
+          "values": ["Unity", "Responsibility", "Respect"],
+          "pertinentContemporaryIssues": ["Online safety (responsible use of digital devices to search for genres of music)", "Self-esteem (gains confidence performing music before an audience)"],
+          "assessmentSignal": "Strand 3.0 rubric groups 'Sounds of Kenyan indigenous musical instruments' and 'Structure/Tuning of the Western solo instrument' and 'Features of a contemporary dance' alongside this sub-strand's genres under one combined 'describes 3 aspects' item — but 'Classical music (Medieval and Renaissance)' is also separately named under 'analyses 3 works', confirming both a description AND analysis pass is expected, matching the Understand+Analyze outcome verbs."
+        },
+        {
+          "name": "3.3 Music and Dance in Socio-cultural Context",
+          "keyConcepts": [
+            "Functions — Religious, Social, Educational, Economic, Cultural",
+            "Changing musical practices (such as timing, language, costume and make-up, age of performers, audience, packaging of messages, collaborations, instrumentation, handling of props, and dance movements)"
+          ],
+          "specificLearningOutcomes": [
+            "Explain the functions of Music and Dance in society",
+            "Examine the changing Music and Dance performance practices in different contexts",
+            "Value the functions of Music and Dance in society"
+          ],
+          "keyInquiryQuestions": [
+            "How does music influence the society?",
+            "How do various contexts influence music performances?"
+          ],
+          "learningExperiences": [
+            "Listen to, or watch performances of music in various contexts and discuss its functions",
+            "Discuss the changing musical practices in different performance settings"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and Collaboration", "Critical thinking and Problem solving", "Digital literacy", "Learning to learn"],
+          "values": ["Respect", "Unity", "Responsibility"],
+          "pertinentContemporaryIssues": ["Social cohesion", "Stress management (performs music whose therapeutic nature helps manage stress and emotions)", "Life skills education"],
+          "assessmentSignal": "Strand 3.0 rubric names 'Functions of Music and Dance' under 'describes 3 aspects of Critical Appreciation' and 'Music and Dance in socio-cultural context' under 'analyses 3 works' — plus this is the ONE sub-strand across the whole design naming 'Critical thinking and Problem solving' as a core competency, which per RIGOR-STANDARDS.md mandates at least one Analyze-or-Evaluate-tier branch."
+        }
+      ]
+    }
+  ],
+  "crossCuttingNotes": [
+    "This design has NO 'Link to other learning area' boxes anywhere in its 3 strands (unlike e.g. Grade 7 Integrated Science) — the one exception is 1.4 Setting Text to Music, which is built entirely around Kiswahili-language text (an implicit, not formally boxed, cross-subject bridge).",
+    "Two sub-strands (1.3 Transposition, 1.7 Dance Production) have a printed Core Competencies/Values/PCIs block that reads as topically mismatched to their own SLO/learning-experience content — flagged individually in each sub-strand's scopeNotes above. Both are recorded verbatim per mining discipline; treated as low-confidence signal for content-shaping purposes.",
+    "Kenyan-context localization is structural to this subject, not decorative: 2.1/2.3/3.1 name Kenyan folk songs and indigenous instruments explicitly; 2.5 names 8 real Kenyan popular-music genres (rhumba, benga, genge, hip-hop, Kenyan rock, genge tone, taarab, rap, kapuka) as the required choreography source material — these are a hard content-breadth floor for the Contemporary Dance skill, not example filler.",
+    "Road safety (risky road behaviours: over-speeding, racing, running on the road, jay-walking, looting from crashed vehicles) is a repeated, explicit PCI across TWO sub-strands (1.7 Dance Production, 2.5 Contemporary Dance) — both must build a dance-theme scenario branch around this same named PCI, not invent a different theme.",
+    "No 'hazard'/exclusion notes ('avoid...') appear anywhere in this design — no content is explicitly deferred to a later grade within Music and Dance."
+  ]
+}

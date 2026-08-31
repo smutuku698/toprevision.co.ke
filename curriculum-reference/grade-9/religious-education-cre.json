@@ -1,0 +1,256 @@
+{
+  "subject": "Christian Religious Education",
+  "subjectId": "religious-education-cre",
+  "grade": 9,
+  "source": {
+    "title": "Junior School Curriculum Design: Christian Religious Education, Grade 9",
+    "url": "https://easylearn.co.ke/images/document/11752401/CRE-Grade-9-Revised.pdf",
+    "publisher": "KICD (mirrored via easylearn.co.ke)",
+    "retrievedDate": "2026-08-13",
+    "confidence": "high",
+    "notes": "Fetched from easylearn.co.ke, whose curriculum-design page listed this file as 'CRE-Grade-9-Revised.pdf' — an exact match (modulo dashes/spacing) to the official KICD Google Drive filename 'CRE Grade 9 - Revised.pdf' confirmed in README.md. WebFetch could not extract text from the PDF ('unable to extract text'), but it saved the file locally; the Read tool was then used directly on that local path and parsed the full PDF text natively (including cover page, ISBN 978-9914-43-444-6, ministry forewords, ALL five strands, all sub-strand tables, assessment rubrics, and appendices), confirming this is the genuine 2024 KICD document and not a look-alike or summary. Strand/sub-strand headings, specific learning outcomes, and key inquiry questions below are transcribed verbatim from that Read output. CAVEAT: the document's own 'SUMMARY OF STRANDS AND SUB-STRANDS' table (page xii) is inconsistent with its own detailed body content — the summary table lists only 2 sub-strands under Strand 2.0 (2.1, 2.2) and 5 under Strand 3.0 (3.1-3.5), but the actual body content presents 3 sub-strands under Strand 2.0 (including an untabled 'Judge Deborah' sub-strand 2.2) and 6 under Strand 3.0 (including an untabled 'Jesus' Passion, Death and Resurrection' sub-strand 3.6). This appears to be an error in KICD's own summary table, not a transcription error here. This reference follows the fuller, ground-truth body content (16 total sub-strands) rather than the truncated summary table (14), per the instruction to never silently drop content that appears in the source."
+  },
+  "strands": [
+    {
+      "name": "Creation",
+      "subStrands": [
+        {
+          "name": "Work",
+          "notes": "Body heading is 'Work: God Worked'.",
+          "specificLearningOutcomes": [
+            "Interpret the scriptures on work to foster responsibility",
+            "Discuss virtues related to Christian work ethics",
+            "Choose career paths based on their gifts talents and abilities",
+            "Demonstrate a positive attitude towards work in daily activities",
+            "Desire to work hard to achieve their career goals and aspirations"
+          ],
+          "keyInquiryQuestions": [
+            "Why should you work hard as a Christian?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Bible",
+      "subStrands": [
+        {
+          "name": "Christian Moral Values",
+          "notes": "Body heading is 'Christian Moral Values: Sexual Purity'. This sub-strand is not present in the document's own summary table (which lists only 2 sub-strands for this strand) but is fully developed in the body content.",
+          "specificLearningOutcomes": [
+            "Identify moral values that a young person should uphold",
+            "Describe forbidden sexual practises outlined in the Bible",
+            "Utilise Christian moral values and life skills to foster sexual purity",
+            "Desire to live a morally upright life as guided by the Bible"
+          ],
+          "keyInquiryQuestions": [
+            "How can you live a morally upright life?",
+            "Why should you maintain sexual purity as a Christian youth?"
+          ]
+        },
+        {
+          "name": "Judge Deborah",
+          "notes": "Not listed in the document's own summary table, but fully developed as its own sub-strand (2.2) in the body content, complete with SLOs, learning experiences, values, PCIs, and shared assessment rubric rows.",
+          "specificLearningOutcomes": [
+            "Analyse qualities portrayed by Deborah as a judge in Israel",
+            "Deduce lessons learnt from the leadership of Judge Deborah",
+            "Appreciate those in leadership by respecting them"
+          ],
+          "keyInquiryQuestions": [
+            "How did Deborah portray wisdom as a Judge in Israel?"
+          ]
+        },
+        {
+          "name": "Kings David and Solomon",
+          "specificLearningOutcomes": [
+            "Analyse the importance of David as a king and ancestor of Jesus Christ",
+            "Outline qualities of a good leader from King David's leadership",
+            "Assess the achievements and failures of King Solomon",
+            "Examine how Solomon portrayed wisdom in his leadership",
+            "Choose leaders of integrity at school, church, and in the community"
+          ],
+          "keyInquiryQuestions": [
+            "Why did King Solomon fail in his leadership?",
+            "Why was King David a man after God's own heart?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Life and Ministry of Jesus Christ",
+      "subStrands": [
+        {
+          "name": "Raising the Widow's Son",
+          "specificLearningOutcomes": [
+            "Elaborate the miracle of raising the Widow's son",
+            "Interpret lessons learnt from the miracle for application in daily life",
+            "Model the value of compassion as portrayed by Jesus Christ",
+            "Embrace Christian belief in the resurrection of the dead"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to believe in the resurrection of the dead as a Christian?"
+          ]
+        },
+        {
+          "name": "Healing the 10 Lepers",
+          "specificLearningOutcomes": [
+            "Describe the healing of the ten lepers",
+            "Devise ways of showing gratitude to God in daily life",
+            "Demonstrate faith by praying to God when faced with challenges",
+            "Apply lessons learnt by showing kindness to others"
+          ],
+          "keyInquiryQuestions": [
+            "How did the 10 lepers show gratitude to God?"
+          ]
+        },
+        {
+          "name": "Parable on Prayer",
+          "subSubStrands": ["A Friend at Midnight"],
+          "specificLearningOutcomes": [
+            "Elaborate the parable of a friend at midnight",
+            "Interpret lessons learnt from the parable of a friend at midnight",
+            "Apply lessons learnt from the parable in daily life",
+            "Appreciate the parable by praying to God always"
+          ],
+          "keyInquiryQuestions": [
+            "Why should Christians pray at all times?",
+            "How do you exercise faith in God?"
+          ]
+        },
+        {
+          "name": "Nicodemus' Encounter with Jesus Christ",
+          "specificLearningOutcomes": [
+            "Describe Nicodemus' encounter with Jesus Christ",
+            "Relate the significance of the bronze serpent to the mission of Jesus Christ",
+            "Deduce lessons learnt from John 3:5-7 and its relevance in the life of a Christian",
+            "Apply lessons learnt in daily life"
+          ],
+          "keyInquiryQuestions": [
+            "How did Nicodemus' encounter with Jesus Christ change his life?"
+          ]
+        },
+        {
+          "name": "Jesus' Ministry in Jerusalem",
+          "specificLearningOutcomes": [
+            "Elaborate Jesus Christ's triumphant entry into Jerusalem",
+            "Illustrate Jesus Christ's cleansing of the temple",
+            "Describe Jesus Christ's conflict with the Jewish leaders",
+            "Desire to avoid conflicts at home, school, and in the community"
+          ],
+          "keyInquiryQuestions": [
+            "What was the significance of Jesus' triumphant entry to Jerusalem?",
+            "Why was Jesus opposed by the Jewish leaders?"
+          ]
+        },
+        {
+          "name": "Jesus' Passion, Death and Resurrection",
+          "notes": "Not listed in the document's own summary table (which lists only 5 sub-strands for this strand, 3.1-3.5), but fully developed as sub-strand 3.6 in the body content, complete with SLOs, learning experiences, values, PCIs, and a dedicated assessment rubric.",
+          "specificLearningOutcomes": [
+            "Explain the significance of the Lord's Supper to Christians today",
+            "Describe the events that took place at Mount Olives",
+            "Summarise the events that took place between the arrest and the burial of Jesus Christ",
+            "Discuss the importance of Christ's resurrection to the Christian faith",
+            "Describe Jesus Christ's ascension to heaven",
+            "Recognize the second coming of Jesus Christ"
+          ],
+          "keyInquiryQuestions": [
+            "Why is the resurrection of Jesus Christ important to Christians today?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Church",
+      "subStrands": [
+        {
+          "name": "The Early Church",
+          "specificLearningOutcomes": [
+            "Discuss the characteristics of the Early Church",
+            "Describe the miracles performed in the Early Church",
+            "Outline lessons learnt from the miracles performed by the Apostles",
+            "Elaborate the story of Paul and Silas in Acts 16:16-24 and itemise lessons learnt",
+            "Describe the events in Acts 16:25-26 and lessons learnt",
+            "Desire to respond to the call of salvation as portrayed in Acts 16:30-31"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to learn about the Early Church?"
+          ]
+        },
+        {
+          "name": "The Gifts of the Holy Spirit",
+          "specificLearningOutcomes": [
+            "Discuss the teachings of Jesus Christ on the role of the Holy Spirit",
+            "Identify the nine gifts of the Holy Spirit",
+            "Classify the gifts of the Holy Spirit according to their categories",
+            "Utilise discerning gifts to avoid joining ungodly cults/idol worship/religious extremism",
+            "Read the scripture provided to get knowledge and avoid being lured to false religion or cults",
+            "Desire to be guided by the Holy Spirit in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "How do you utilize the gifts of the Holy Spirit?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Christian Living Today",
+      "subStrands": [
+        {
+          "name": "Courtship and Marriage",
+          "specificLearningOutcomes": [
+            "Elaborate the causes and consequences of early marriage",
+            "Discuss moral values and life skills needed to avoid early marriage",
+            "Analyse Christian approaches to courtship and marriage",
+            "Appreciate marriage as a sacred institution ordained by God"
+          ],
+          "keyInquiryQuestions": [
+            "Why is courtship important before marriage?"
+          ]
+        },
+        {
+          "name": "Responsible Parenthood",
+          "specificLearningOutcomes": [
+            "Explain biblical teachings on responsible parenting from the scriptures provided",
+            "Discuss the causes of irresponsible parenting today",
+            "Compile values needed to avoid unplanned families in Kenya today",
+            "Appraise the role of parents or guardians in shaping the character of their children",
+            "Value good parenting as guided by the Bible"
+          ],
+          "keyInquiryQuestions": [
+            "How is responsible parenting achieved?"
+          ]
+        },
+        {
+          "name": "Leisure",
+          "specificLearningOutcomes": [
+            "Outline different ways of spending leisure time",
+            "Analyse how youths misuse leisure today",
+            "Evaluate five effects of alcohol, drug and substance abuse on an individual",
+            "Establish moral values and life skills needed to avoid alcohol, drug and substance abuse",
+            "Read the scriptures provided and itemize lessons learnt",
+            "Utilise Christian moral values to avoid alcohol, drug and substance abuse"
+          ],
+          "keyInquiryQuestions": [
+            "Why do youths misuse leisure today?",
+            "How can you avoid idleness?"
+          ]
+        },
+        {
+          "name": "Wealth, Money and Poverty",
+          "specificLearningOutcomes": [
+            "Discuss Christian teachings on wealth, money, and poverty",
+            "Appraise how the love of money can hinder one from inheriting the Kingdom of God",
+            "Assess five causes and remedies of poverty in the society today",
+            "Devise five ethical ways of acquiring wealth as a youth",
+            "Establish a viable business or enterprise",
+            "Manage the business by reporting its performance to the parent, guardian or the teacher",
+            "Desire to acquire wealth through credible ways as youths"
+          ],
+          "keyInquiryQuestions": [
+            "Which vices are associated with love for money?",
+            "Why is integrity important in handling money and wealth?"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "subject": "Hindu Religious Education",
+  "subjectId": "religious-education-hre",
+  "grade": 9,
+  "source": {
+    "title": "Junior School Curriculum Design: Hindu Religious Education, Grade 9",
+    "url": "https://easylearn.co.ke/images/document/11752390/HRE-Grade-9-July-2024-Fin.pdf",
+    "publisher": "KICD (mirrored via easylearn.co.ke)",
+    "retrievedDate": "2026-08-13",
+    "confidence": "high",
+    "notes": "Filename confirmed against KICD's own Google Drive listing (kicd.ac.ke/cbc-materials/curriculum-designs/grade-nine-designs/, file id 1ePaw7pIrLG3AjX2mbTXIEimXTRnkdfuC, whose /preview page title reads 'HRE Grade 9 - July 2024 - Fin.pdf'). WebFetch reported 'unable to extract meaningful content' on the PDF itself but saved it locally; Read then parsed the full PDF text natively (ISBN 978-9914-43-438-5, First Published 2023). Strand/sub-strand headings, SLOs, and key inquiry questions below are transcribed verbatim. NOTABLE: the subject's own general learning outcomes describe HRE as covering four faith traditions (Sanatan/Vedic, Jain, Buddhist, and Sikh), but every sub-strand actually detailed in this specific Grade 9 design is Sikh-specific (Sikh Scriptures, Sikh Principles of Dharma, Sikh Sanskaars, etc.) — not an error, just this grade's rotation within the broader multi-faith HRE syllabus (Grade 7's HRE design, by contrast, is titled 'Hindu Religious Education' generically per its own filename)."
+  },
+  "strands": [
+    {
+      "name": "Manifestation of Paramatma (Supreme Being)",
+      "subStrands": [
+        {
+          "name": "Enlightened Beings",
+          "notes": "Covers Tridev's contribution to mankind, the Tirthankars' way of non-violence (Ahimsa), Buddha's gift to humanity, and the Guru's way of life (Khalsa Panth) — i.e. one representative figure/teaching from each of the four HRE faith traditions.",
+          "specificLearningOutcomes": [
+            "State the contributions of the Enlightened Beings for harmonious living",
+            "Narrate Scriptural stories that portray the teachings of the Enlightened Beings for moral and social development",
+            "Desire to implement the teachings of the Enlightened Beings for personal improvement"
+          ],
+          "keyInquiryQuestions": [
+            "How have the teachings of the Enlightened Beings impacted society?",
+            "How do the life histories of Enlightened Beings guide our lives today?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scriptures",
+      "subStrands": [
+        {
+          "name": "Scriptural Text and Role of Sikh Scriptures",
+          "notes": "Covers Sri Sukhmani Sahib in Sri Guru Granth Sahib ji, and Ashtpadi from 17-24.",
+          "specificLearningOutcomes": [
+            "Outline the role of Sikh Scriptures for guidance in one's life",
+            "Explain the compilation of Sri Sukhmani Sahib in Sri Guru Granth Sahib ji for internalisation",
+            "Interpret the universal message embedded in the Sri Sukhmani Sahib for deeper understanding",
+            "Appreciate the teachings of the Sikh Scriptures for spiritual development"
+          ],
+          "keyInquiryQuestions": [
+            "How do the Scriptures influence your lifestyle?",
+            "How does the recitation of the Scriptures help to acquire self-efficacy?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Principles of Dharma",
+      "subStrands": [
+        {
+          "name": "Sikh Principles of Dharma",
+          "notes": "Covers Compassion (Daya), Satisfaction (Santokh), Truth (Sat), Humility (Nimrata), Love (Pyaar), Naam Japnaa, Honest livelihood (Kirat Karni), Sharing (Vand ke Chhakna).",
+          "specificLearningOutcomes": [
+            "State the Sikh Principles of Dharma for knowledge",
+            "Describe the concepts of the three pillars of Sikh Dharma for spiritual uplift",
+            "Display the Sikh Principles of Dharma in a school environment",
+            "Appreciate the Sikh Principles of Dharma for character development"
+          ],
+          "keyInquiryQuestions": [
+            "How are the Sikh Principles of Dharma still relevant in today's age?",
+            "How does the implementation of the Sikh Principles of Dharma uplift your spirituality?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Religious Practises",
+      "subStrands": [
+        {
+          "name": "Rituals and Protocols",
+          "notes": "During religious activities: Akhand Ramayan Path, Kalpa Sutra Recitation, Akhand path of Sri Guru Granth Sahib ji, Katha. Body labels this as sub-strand '4.1' in some places and '4.2' in the summary table — transcribed as it appears in the body heading.",
+          "specificLearningOutcomes": [
+            "Enumerate common rituals and protocols during religious practices",
+            "Describe the rituals and protocols performed during religious activities for spiritual grounding",
+            "Model the mandatory religious etiquette for self-efficacy",
+            "Appreciate rituals and protocols performed during religious activities for spiritual growth"
+          ],
+          "keyInquiryQuestions": [
+            "Why are Sanskaars important in one's life?",
+            "How does Katha help to understand spiritual contexts in the four faiths?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yog",
+      "subStrands": [
+        {
+          "name": "Knowledge (Gyan/Jnan Yog)",
+          "notes": "Covers Hearing (sravana), Thinking (manana), Meditation (nididhyasana); practitioners: Nachiketa, Gautam Swami, Webu Sayadaw, Bhai Gurdas Ji — one practitioner per faith tradition.",
+          "specificLearningOutcomes": [
+            "State the key events of the selected four prominent practitioners of Gyan/Jnana Yog for better understanding",
+            "Outline the four key practitioners of Gyan/Jnana Yog from the four faiths for familiarisation",
+            "Interpret the importance of Gyan/Jnana Yog as a spiritual path",
+            "Acknowledge Gyan/Jnana Yog as a tool of holistic development"
+          ],
+          "keyInquiryQuestions": [
+            "How relevant is Gyan/Jnana Yog in modern society?",
+            "Why are contemplative practices important in our lives?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sanskaars (Rites of Passage)",
+      "subStrands": [
+        {
+          "name": "Sikh Sanskaars",
+          "notes": "Naming ceremony (naam karan), tying the turban (dastar bandhan), baptism (amrit shakna), marriage (anand karaj), death (antim sanskaar).",
+          "specificLearningOutcomes": [
+            "Outline the five Sanskaars as per Sikh Dharma for familiarisation",
+            "Illustrate the significance of the five Sikh Sanskaars for better understanding",
+            "Appreciate the Sikh Sanskaars for harmonious living"
+          ],
+          "keyInquiryQuestions": [
+            "Why does a Sikh need these Sanskaars in their life?",
+            "How does Sanskaars connect one with their faith?"
+          ]
+        }
+      ]
+    }
+  ]
+}

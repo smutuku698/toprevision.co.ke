@@ -1,0 +1,63 @@
+{
+  "subject": "French",
+  "subjectId": "french",
+  "grade": 9,
+  "source": {
+    "title": "Junior School Curriculum Design — French Grade 9 (Draft, First published 2024)",
+    "url": "https://doyenpublishers.com/wp-content/uploads/2025/04/Grade-9-French-Curriculum-Design.pdf",
+    "publisher": "KICD",
+    "isbn": "978-9914-43-442-2",
+    "retrievedDate": "2026-08-14",
+    "confidence": "high",
+    "notes": "kicd.ac.ke's own grade-nine-designs page embeds this exact PDF via Google Drive file id 1KM4ezz3BKbm3l3kdb9O6XWb-jDscdl4n (drive.google.com direct download blocked by owner permissions, so fetched via this third-party mirror instead — text read natively via Claude's PDF reader, not OCR/summary). Structure verbatim from the PDF's SUMMARY OF STRANDS AND SUB STRANDS table and per-theme tables."
+  },
+  "essenceNote": "Kenya's foreign languages at Grade 9 are Arabic, French, German, and Mandarin — each a non-formal, basic (A1/YCT2-equivalent) 4-skills (listening, speaking, reading, writing) curriculum, taught in parallel structure across all four languages per the shared essence statement.",
+  "strands": [
+    {
+      "name": "1.0 Listening and Speaking",
+      "totalLessons": 27,
+      "subStrands": [
+        { "code": "1.1", "name": "Interactive Speaking — Greetings and Introductions in Formal and Polite Context; and Taking Leave", "theme": "Greetings and Introductions" },
+        { "code": "1.2", "name": "Listening for Information — Nuclear and Extended Family", "theme": "Family" },
+        { "code": "1.3", "name": "Listening for Information — The Countryside", "theme": "My Surrounding" },
+        { "code": "1.4", "name": "Active Listening — Routine", "theme": "Time" },
+        { "code": "1.5", "name": "Oral Expression — Making Plans and Dates", "theme": "Fun and Enjoyment" },
+        { "code": "1.6", "name": "Interactive Speaking — Eating Out", "theme": "Foods and Drinks" },
+        { "code": "1.7", "name": "Listening for Information — At the Doctor's", "theme": "My Body" },
+        { "code": "1.8", "name": "Listening for Information — My Environment", "theme": "Weather and Environment" },
+        { "code": "1.9", "name": "Interactive Speaking — Direction and Locations", "theme": "Getting Around" }
+      ]
+    },
+    {
+      "name": "2.0 Reading",
+      "totalLessons": 18,
+      "subStrands": [
+        { "code": "2.1", "name": "Reading for Fluency — Formal Greetings and Introductions", "theme": "Greetings and Introductions" },
+        { "code": "2.2", "name": "Reading for Understanding — Nuclear and Extended Family", "theme": "Family" },
+        { "code": "2.3", "name": "Reading for Understanding — The Countryside", "theme": "My Surrounding" },
+        { "code": "2.4", "name": "Reading for Fluency — Daily Routine at Home", "theme": "Time" },
+        { "code": "2.5", "name": "Reading for Understanding — Making Plans and Dates", "theme": "Fun and Enjoyment" },
+        { "code": "2.6", "name": "Reading for Understanding — Eating Out", "theme": "Foods and Drinks" },
+        { "code": "2.7", "name": "Reading for Understanding — At the Doctor's", "theme": "My Body" },
+        { "code": "2.8", "name": "Reading for Understanding — My Environment", "theme": "Weather and Environment" },
+        { "code": "2.9", "name": "Reading for Understanding — Directions and Locations", "theme": "Getting Around" }
+      ]
+    },
+    {
+      "name": "3.0 Writing",
+      "totalLessons": 9,
+      "subStrands": [
+        { "code": "3.1", "name": "Guided Writing — Greetings and Introductions in Formal and Polite Context; and Taking Leave", "theme": "Greetings and Introductions" },
+        { "code": "3.2", "name": "Guided Writing — Nuclear and Extended Family", "theme": "Family" },
+        { "code": "3.3", "name": "Guided Writing — The Countryside", "theme": "My Surrounding" },
+        { "code": "3.4", "name": "Guided Writing — Routine", "theme": "Time" },
+        { "code": "3.5", "name": "Guided Writing — Making Plans and Dates", "theme": "Fun and Enjoyment" },
+        { "code": "3.6", "name": "Guided Writing — Eating Out", "theme": "Foods and Drinks" },
+        { "code": "3.7", "name": "Guided Writing — At the Doctor's", "theme": "My Body" },
+        { "code": "3.8", "name": "Guided Writing — My Environment", "theme": "Weather and Environment" },
+        { "code": "3.9", "name": "Guided Writing — Direction and Locations", "theme": "Getting Around" }
+      ]
+    }
+  ],
+  "notes": "Uniquely among Grade 9 subjects built so far, the same 9 themes (Greetings, Family, Countryside, Time, Fun/Plans, Food, Body/Health, Weather/Environment, Getting Around) repeat identically across all 3 strands — each strand teaches the theme's vocabulary through a different modality (oral interaction vs written comprehension vs guided writing/spelling), per the curriculum's own per-theme SLO wording (a/b/c bullets differ by strand type even when the theme and much of the vocabulary is shared). Per the standing 'never merge sub-strands' rule, this still means 27 distinct skills (9 themes x 3 strands), not 9 — but each strand's skill is built to test its theme through that strand's actual modality (LS = oral vocabulary/expression recall, R = short French passage + comprehension, W = spelling/gap-fill/word-order) rather than being a copy-pasted repeat of the same exercise, so the 3 skills per theme are not redundant."
+}

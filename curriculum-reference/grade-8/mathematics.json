@@ -1,0 +1,322 @@
+{
+  "subject": "Mathematics",
+  "subjectId": "math",
+  "grade": 8,
+  "source": {
+    "title": "Mathematics Grade 8 (KICD Junior Secondary School Curriculum Design)",
+    "url": "https://teacher.co.ke/wp-content/uploads/2024/07/GRADE-8-CURRICULUM-DESIGNS-MATHEMATICS2024-TEACHER.CO_.KE_.pdf",
+    "publisher": "Kenya Institute of Curriculum Development (KICD) — mirrored via teacher.co.ke",
+    "retrievedDate": "2026-08-14",
+    "confidence": "high",
+    "notes": "WebFetch reported 'unable to extract text' on this PDF but saved it locally; the Read tool then parsed the full 62-page PDF text natively and verbatim (not summarized by an intermediate model). Cover page reads 'REPUBLIC OF KENYA / MINISTRY OF EDUCATION / JUNIOR SECONDARY SCHOOL CURRICULUM DESIGN / GRADE 8 / MATHEMATICS', ISBN 978-9914-43-793-5, First Published in 2022 (a watermarked 'DRAFT' copy hosted by teacher.co.ke). KICD's own Google Drive index for the Grade 8 designs page (file ID 1ttNvzuQbHUnABVcP-TAoix8-TVmehYph) shows the official current filename as 'Mathematics Grade 8 - July 2024.pdf'. FOLLOW-UP CURRENCY CHECK (2026-08-14): a dedicated search pass for a genuinely 2024-dated mirror (kicd.ac.ke direct upload URL, guessed doyenpublishers.com URL) found nothing usable — see history below. CONFIRMED CURRENT (2026-08-14, same day): the user supplied a screenshot of the official 'SUMMARY OF STRANDS AND SUB-STRANDS' table from the actual KICD 'Mathematics Grade 8 - July 2024' Google Drive file. That table lists all 5 strands and all 16 sub-strands with IDENTICAL names, in identical order, to this transcription (1.0 Numbers: Integers/Fractions/Decimals/Squares and Square Roots/Rates,Ratio,Proportions and Percentages; 2.0 Algebra: Algebraic Expressions/Linear Equations; 3.0 Measurements: Circles/Area/Money; 4.0 Geometry: Geometrical Constructions/Coordinates and graphs/Scale Drawing/Common Solids; 5.0 Data Handling and Probability: Data Presentation and Interpretation/Probability), and its per-sub-strand lesson-count column sums to exactly 150, matching KICD's official total lesson count for the subject. This is strong structural proof that the July-2024 official release did not restructure, rename, add, or remove any strand/sub-strand relative to this 2022 draft transcription — only wording within outcomes could theoretically differ, which is a low-risk residual. Confidence restored to 'high' on this basis. Lesson-count allocations from that confirmed table have been added as a 'notes' field on each sub-strand below. All 5 strands and 16 sub-strands were originally read verbatim from the 2022 draft's Table of Contents (p.iv) and each detailed strand section. The document breaks down no further than sub-strand level (no subSubStrands anywhere) — Specific Learning Outcomes are lettered a), b), c)... directly under each sub-strand, unlike Grade 9 Mathematics which sometimes broke sub-strands into named subSubStrands. PRIOR SEARCH HISTORY: kicd.ac.ke's own uploads directory was tried directly (https://kicd.ac.ke/wp-content/uploads/2024/01/GRADE.8.MATHEMATICS.pdf) but returned a 'Page not found' error (confirmed by inspecting the downloaded response, which was KICD's 404 page, not a PDF). A guessed doyenpublishers.com URL following the naming pattern used successfully for other Grade 8 subjects (Grade-8-Mathematics-Curriculum-Design.pdf) also failed to resolve to a Mathematics document — it unexpectedly served the Kiswahili Grade 8 design instead. No other 2024-dated Mathematics Grade 8 mirror was found via general web search; the confirmed structure match from the user-supplied summary table made further mirror-hunting unnecessary."
+  },
+  "strands": [
+    {
+      "name": "Numbers",
+      "subStrands": [
+        {
+          "name": "Integers",
+          "specificLearningOutcomes": [
+            "identify integers in different situations",
+            "represent integers on a number line in different situations",
+            "carry out operations of addition and subtraction integers on the number line in real life situations",
+            "use IT or print resources for learning more on integers and for skills development",
+            "reflect on use of integers in real life situations"
+          ],
+          "keyInquiryQuestions": [
+            "Where do we use integers in real life situations?",
+            "How do we carry out operations of integers?",
+            "Where are integer operations applicable in life?"
+          ],
+          "notes": "Allocated 6 lessons per KICD's official summary table (Mathematics Grade 8 - July 2024)."
+        },
+        {
+          "name": "Fractions",
+          "specificLearningOutcomes": [
+            "carry out combined operations on fractions in different situations",
+            "Work out operations on fractions in real life Situations",
+            "use IT devices for learning more on fractions and for enjoyment",
+            "promote use of fractions in real life situations"
+          ],
+          "keyInquiryQuestions": [
+            "How do we use fractions in real life situations?"
+          ],
+          "notes": "Allocated 6 lessons per KICD's official summary table (Mathematics Grade 8 - July 2024)."
+        },
+        {
+          "name": "Decimals",
+          "specificLearningOutcomes": [
+            "convert fractions to decimals in different situations",
+            "identify recurring decimals in different situations",
+            "convert recurring decimals into fractions in different situations",
+            "round off a decimal number to a required number of decimal places in different situations",
+            "express numbers to a required significant figure in real life situations",
+            "express numbers in standard form in different situations",
+            "carry out combined operations on decimals in different situations",
+            "apply decimals to real life situations",
+            "use IT or other resources for learning more on decimals and for enjoyment",
+            "promote use of decimals in real life situations"
+          ],
+          "keyInquiryQuestions": [
+            "How do we work out operations on decimals?",
+            "How do we use decimals in real life situations?"
+          ],
+          "notes": "Allocated 8 lessons per KICD's official summary table (Mathematics Grade 8 - July 2024)."
+        },
+        {
+          "name": "Squares and Square roots",
+          "specificLearningOutcomes": [
+            "work out the squares of numbers from tables in different situations",
+            "work out the square roots of numbers from tables in different situations",
+            "work out squares and square roots of numbers using a calculator in different situations",
+            "use IT or other materials to learn more on squares and square roots of numbers and for fun",
+            "enjoy using squares and square roots in real life situations"
+          ],
+          "keyInquiryQuestions": [
+            "What are squares and square roots of numbers?",
+            "Where do we apply squares and square roots in real life situations?"
+          ],
+          "notes": "Allocated 6 lessons per KICD's official summary table (Mathematics Grade 8 - July 2024)."
+        },
+        {
+          "name": "Rates, Ratio, Proportions and Percentages",
+          "specificLearningOutcomes": [
+            "identify rates in different situations",
+            "work out rates in real life situations",
+            "express fractions as ratios in real life situations",
+            "compare two or more ratios in different situations",
+            "divide quantities in given ratios in real life situations",
+            "work out ratios in different situations",
+            "work out increase and decrease of quantities using ratios in real life situations",
+            "work out percentage change of given quantities in real life situations",
+            "identify direct and indirect proportions in real life situations",
+            "work out direct and indirect proportions in real life situations",
+            "use IT devices or other resources for more learning on ratios and proportions",
+            "promote use of ratios and proportions in real life"
+          ],
+          "keyInquiryQuestions": [
+            "How do we use rates in real life situations?",
+            "How do we use ratios in daily activities?"
+          ],
+          "notes": "Allocated 14 lessons per KICD's official summary table (Mathematics Grade 8 - July 2024)."
+        }
+      ]
+    },
+    {
+      "name": "Algebra",
+      "subStrands": [
+        {
+          "name": "Algebraic Expressions",
+          "specificLearningOutcomes": [
+            "factorize algebraic expressions in different situations",
+            "simplify algebraic fractions in different situations",
+            "evaluate algebraic expressions by substituting numerical values in different situations",
+            "use IT or other materials to learn more on algebraic expressions",
+            "enjoy using algebraic expressions in real life situations"
+          ],
+          "keyInquiryQuestions": [
+            "How do we factorize algebraic expressions?",
+            "How do we simplify algebraic expressions?"
+          ],
+          "notes": "Allocated 6 lessons per KICD's official summary table (Mathematics Grade 8 - July 2024)."
+        },
+        {
+          "name": "Linear Equations",
+          "specificLearningOutcomes": [
+            "form linear equations in two unknowns in real life situations",
+            "solve linear equations in two unknowns by Substitution method in real life situations",
+            "solve linear equations in two unknowns by elimination method in real life situations",
+            "apply linear equations in two unknowns in real life situations",
+            "use IT devices to work out linear learning and for enjoyment",
+            "recognize use of linear equations in real life"
+          ],
+          "keyInquiryQuestions": [
+            "How do we solve linear equations in two unknowns?",
+            "Where do we use linear equations in two unknowns in real life situations?"
+          ],
+          "notes": "Allocated 7 lessons per KICD's official summary table (Mathematics Grade 8 - July 2024)."
+        }
+      ]
+    },
+    {
+      "name": "Measurements",
+      "subStrands": [
+        {
+          "name": "Circles",
+          "specificLearningOutcomes": [
+            "work out the circumference of a circle in real life situations",
+            "work out the length of an Arc of a circle in different situations",
+            "calculate the Perimeter of a sector of a circle in different situations",
+            "use IT or other resources for more learning on circles",
+            "promote use of circles in real life situations"
+          ],
+          "keyInquiryQuestions": [
+            "How do we determine the circumference of a circle?",
+            "How do we use sectors of a circle in real life situations?"
+          ],
+          "notes": "Allocated 5 lessons per KICD's official summary table (Mathematics Grade 8 - July 2024)."
+        },
+        {
+          "name": "Area",
+          "specificLearningOutcomes": [
+            "calculate the Area of circle in different situations",
+            "work out the Area of a sector of a circle in different situations",
+            "work out the Surface Area of Cubes and Cuboids in real life situations",
+            "work out the Surface area of a cylinders in real life situations",
+            "determine the surface Area of a triangular Prism in different situations",
+            "work out the area of irregular shapes using square grids in real life situations",
+            "use IT and other materials for learning more on area and for enjoyment",
+            "recognise use of length in real life situations"
+          ],
+          "keyInquiryQuestions": [
+            "How do we use area in real life situations?"
+          ],
+          "notes": "Allocated 10 lessons per KICD's official summary table (Mathematics Grade 8 - July 2024, listed there as '3.2 L. Area')."
+        },
+        {
+          "name": "Money",
+          "specificLearningOutcomes": [
+            "identify interest and principal in real life situations",
+            "calculate simple interest in real life situations",
+            "calculate compound interest per annum step by step up to three years in real life situations",
+            "work out appreciation and depreciation per annum step by step up to three years in different situations",
+            "work out hire purchase in real life situations",
+            "use IT and other resources to carry out operations related to money",
+            "spend money responsibly on needs and leisure"
+          ],
+          "keyInquiryQuestions": [
+            "What is interest in money?",
+            "How do we pay for goods on hire purchase?"
+          ],
+          "notes": "Allocated 9 lessons per KICD's official summary table (Mathematics Grade 8 - July 2024)."
+        }
+      ]
+    },
+    {
+      "name": "Geometry",
+      "subStrands": [
+        {
+          "name": "Geometrical Constructions",
+          "specificLearningOutcomes": [
+            "construct parallel and perpendicular lines in different situations",
+            "divide a line proportionally in different situations",
+            "identify angle properties of polygons in different situations",
+            "construct regular polygons up to a hexagon in different situations",
+            "construct irregular polygons up to a hexagon in different situations",
+            "construct circles passing through the vertices of a triangle in different situations",
+            "construct circles touching the sides of the triangle in different situations",
+            "use IT as well as other materials to learn more about geometric constructions and for skills development",
+            "admire geometric patterns in objects and substances in real life"
+          ],
+          "keyInquiryQuestions": [
+            "How do we construct polygons?",
+            "Where do we use polygons in real life situations?"
+          ],
+          "notes": "Allocated 12 lessons per KICD's official summary table (Mathematics Grade 8 - July 2024)."
+        },
+        {
+          "name": "Coordinates and graphs",
+          "specificLearningOutcomes": [
+            "draw a labelled Cartesian plane on different learning materials",
+            "identify points on the Cartesian plane in different situations",
+            "plot points on the Cartesian plane in different situations",
+            "generate table of values for a linear equation in different situations",
+            "determine an appropriate scale for a linear equation on the Cartesian plane in different situations",
+            "draw a linear graph from table of values on Cartesian plane in different situations",
+            "solve simultaneous linear equations graphically in different situations",
+            "apply simultaneous equations in real life situations",
+            "use IT or other resources to learn more on coordinates and graphs and for fun",
+            "reflect on the use of graphs in real life"
+          ],
+          "keyInquiryQuestions": [
+            "How do we plot coordinates on a Cartesian plane?",
+            "Where do we use linear graphs in real life?"
+          ],
+          "notes": "Allocated 14 lessons per KICD's official summary table (Mathematics Grade 8 - July 2024)."
+        },
+        {
+          "name": "Scale Drawing",
+          "specificLearningOutcomes": [
+            "represent length to a given scale in different situations",
+            "convert actual length to scale length in real life situations",
+            "convert scale length to actual length in real life situations",
+            "interpret linear scales in statement form in different situations",
+            "write linear scales in statement form in different situations",
+            "interpret linear scales in ratio form in different situations",
+            "write linear scales in ratio form in different situations",
+            "convert linear scale from statement form to ratio form and ratio form to statement form in different situations",
+            "make scale drawings in different situations",
+            "apply scale drawing in real life situations",
+            "use IT or other resources to learn more on scale drawing",
+            "recognise the use of scale drawing in maps"
+          ],
+          "keyInquiryQuestions": [
+            "How do we determine scales in real life?",
+            "Where do we use scale drawing in real life situations?"
+          ],
+          "notes": "Allocated 14 lessons per KICD's official summary table (Mathematics Grade 8 - July 2024)."
+        },
+        {
+          "name": "Common Solids",
+          "specificLearningOutcomes": [
+            "identify common solids from the environment",
+            "sketch nets of cubes, cuboids, cylinders, pyramids and cones in different situations",
+            "work out surface area of the solids from nets of solids in different situations",
+            "determine the distance between two points on the surface of a solid in different situations",
+            "make models of hollow and compact solids for skills development",
+            "use IT devices or other materials to draw models and nets of solids in different situations",
+            "promote the use of common solids in real life situations"
+          ],
+          "keyInquiryQuestions": [
+            "What are common solids?",
+            "How do we use common solids in real life?",
+            "How do you determine surface areas of solid?",
+            "How do you determine the volume of common solids?"
+          ],
+          "notes": "The specific learning outcomes list does not itself mention volume, but a key inquiry question about volume of common solids is listed in the source table alongside these outcomes — recorded verbatim as in the source despite this apparent mismatch. Allocated 16 lessons per KICD's official summary table (Mathematics Grade 8 - July 2024)."
+        }
+      ]
+    },
+    {
+      "name": "Data Handling and Probability",
+      "subStrands": [
+        {
+          "name": "Data Presentation and Interpretation",
+          "specificLearningOutcomes": [
+            "draw bar graphs of data from real life situations",
+            "interpret bar graphs of data from real life situations",
+            "draw line graphs of given data from real life situations",
+            "interpret line graphs of data from real life situations",
+            "identify the mode of a set of discrete data from real life situations",
+            "calculate the mean of a set of discrete data from real life situations",
+            "determine the median of a set of discrete data from real life situations",
+            "use IT or other materials to determine the mean, mode and median of discrete data in different situations",
+            "promote use of data representation and interpretation in real life situations"
+          ],
+          "keyInquiryQuestions": [
+            "What are the different ways of representing data?",
+            "How do we determine the mean of data?"
+          ],
+          "notes": "Allocated 10 lessons per KICD's official summary table (Mathematics Grade 8 - July 2024)."
+        },
+        {
+          "name": "Probability",
+          "specificLearningOutcomes": [
+            "identify events involving chance in real life situations",
+            "perform chance experiments in different situations",
+            "write the experimental probability outcomes in different situations",
+            "express the probability outcomes in fractions in different situations",
+            "express the probability outcomes in decimals or percentages in different situations",
+            "use IT and other materials to play games involving probability",
+            "recognise events that happen by chance in real life situations"
+          ],
+          "keyInquiryQuestions": [
+            "When do we consider chances that an event is likely to happen?",
+            "Why is probability important in real life situations?"
+          ],
+          "notes": "Allocated 7 lessons per KICD's official summary table (Mathematics Grade 8 - July 2024)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,664 @@
+{
+  "subject": "Islamic Religious Education",
+  "subjectId": "ire",
+  "grade": 5,
+  "source": {
+    "title": "Primary School Education Curriculum Design — Islamic Religious Education, Grade 5 (Revised 2024)",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-30",
+    "confidence": "high",
+    "notes": "Read directly from 'grade 5 designs/GRADE-5-IRE-Curriculum-Designs.pdf' via the Read tool (no pages param), full text, all 7 strands / 24 numbered sub-strand headings (29 taught topics once 1.1's 4 named surah, 3.3.2's 3 named prophet miracles, and 4.2's split Qabliyah/Ba'diyah + Taraweeh/Witr experiences are counted per the same one-skill-per-named-item precedent Grade 6/7 IRE used) / 90 lessons. Learning Area allocation: 3 lessons/week at Upper Primary (Religious Education line)."
+  },
+  "strands": [
+    {
+      "name": "1.0 Qur'an",
+      "subStrands": [
+        {
+          "name": "1.1 Selected Surah",
+          "lessonCount": 16,
+          "notes": "The design names 4 specific surahs under this one sub-strand heading, no further breakdown given: Al-Kauthar, Al-Maun, Al-Quraysh, Al-Fil. Following the Grade 6/7 IRE precedent (splitting a single 'Selected Surah' sub-strand into one skill per named surah), this sub-strand is implemented as 4 skills, one per surah.",
+          "specificLearningOutcomes": [
+            "read the selected surahs for spiritual nourishment",
+            "recite the selected surahs for devotional activities",
+            "outline the basic meaning of the selected surahs",
+            "deduce lessons from the selected surah",
+            "appreciate the Qur'an as the first source of guidance"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to recite the Qur'an?",
+            "What lessons do we learn from the selected surahs?"
+          ],
+          "learningExperiences": [
+            "listen to the teacher/resource person/digital device on the recitation of the selected surah",
+            "recite the selected surahs after the teacher/peer/or from a digital device",
+            "read the selected surahs from a digital device/mus-haf/charts",
+            "practise pronunciation through listening to digital devices",
+            "recite the selected surahs severally to enhance memorisation",
+            "listen to the basic meaning of the selected surahs from digital devices and make notes",
+            "discuss the different ways of applying the teachings and lessons learnt from the selected surahs"
+          ],
+          "coreCompetencies": [
+            "Communication and collaboration: listening enhanced through group discussion on ways of applying the teachings of the selected surahs",
+            "Digital literacy: interacting with technology as learners listen to the basic meaning of the selected surahs from digital devices and write notes"
+          ],
+          "linkedLearningAreas": ["English — learners relate the reading skills used in English and Arabic to read the surah"],
+          "scopeNotes": [],
+          "assessmentSignal": "Rubric rewards reading, reciting AND explaining the meaning of ALL verses of the selected surah, plus deducing and applying lessons in life at the top band — recitation accuracy and applied meaning are both explicitly assessed, not meaning alone."
+        }
+      ]
+    },
+    {
+      "name": "2.0 Hadith",
+      "subStrands": [
+        {
+          "name": "2.1 Hadith on Good Behaviour",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "identify examples of good behaviour from the selected Hadith for character building",
+            "discuss the significance of the selected Hadith in shaping the character of a Muslim",
+            "apply good behaviour in day-to-day life",
+            "appreciate the teachings of the Hadith by applying them in day-to-day life"
+          ],
+          "keyInquiryQuestions": ["Why should one behave well?", "What actions show that you fear Allah?"],
+          "learningExperiences": [
+            "read from chart/digital devices the Hadith on good behaviour: \"Fear Allah wherever you are and follow up a bad deed with a good deed, it will wipe it out. And behave well towards other people.\" (Al-Tirmidhi)",
+            "identify good behaviour mentioned in the Hadith and present in plenary",
+            "discuss the teachings and relevance of the Hadith in their daily life",
+            "role-play acts showing good behaviour mentioned in the Hadith"
+          ],
+          "coreCompetencies": [
+            "Communication and collaboration: listening and teamwork as learners discuss the teachings and relevance of the Hadith in daily life",
+            "Learning to learn: sharing learnt knowledge as learners identify good behaviour mentioned in the Hadith"
+          ],
+          "linkedLearningAreas": ["Languages: Arabic and English as they read and explain the meaning of the Hadith"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "2.2 Hadith on Greetings",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "assess the importance of Islamic greetings in the life of a Muslim",
+            "practise Islamic greetings to promote love and unity in the society",
+            "appreciate the use of Islamic greetings in bringing harmony in the society"
+          ],
+          "keyInquiryQuestions": ["Why should a Muslim use Islamic greeting?"],
+          "learningExperiences": [
+            "read the Hadith on greetings: \"Shall I inform you of something which, if you do, you will love one another? Promote greetings (salaam) amongst yourselves.\" (Muslim)",
+            "watch/listen to Islamic greetings from digital devices",
+            "demonstrate Islamic greetings, in pairs",
+            "discuss the importance of Islamic greetings in the life of a Muslim and make summary notes",
+            "search online and sing Qasida on Islamic greetings",
+            "practise Islamic greetings to promote love and unity as learners come to class/school"
+          ],
+          "coreCompetencies": [
+            "Communication and collaboration: teamwork through group discussion on the importance of Islamic greetings",
+            "Digital literacy: interacting with digital technology as learners search online to access Qasida on Islamic greetings"
+          ],
+          "linkedLearningAreas": ["Creative Arts — as learners listen and sing Qasida on Islamic greetings"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "2.3 Hadith on Knowledge",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "read the Hadith as a source of reference in seeking knowledge",
+            "assess the importance of seeking knowledge for the benefit of this world and the Hereafter",
+            "appreciate the teachings of the Hadith by working hard in school"
+          ],
+          "keyInquiryQuestions": ["Why is it important to seek knowledge in Islam?", "What challenges may hinder one from acquiring education?"],
+          "learningExperiences": [
+            "read from a chart/digital devices the Hadith on knowledge: \"Seeking knowledge is obligatory upon every Muslim.\" (Al-Tirmidhi)",
+            "search online the importance of seeking knowledge and present it in class",
+            "discuss ways of improving academic performance in school",
+            "role-play acts on the importance of seeking knowledge in the Muslim society"
+          ],
+          "coreCompetencies": [
+            "Critical thinking and problem solving: interpretation and inference as learners proactively discuss ways of improving academic performance in their school",
+            "Digital literacy: interacting with digital literacy as learners search online for information on the importance of seeking knowledge",
+            "Creativity and imagination: networking as learners role-play acts on the importance of seeking knowledge in the Muslim society"
+          ],
+          "linkedLearningAreas": ["Social Studies — aspects of rights to education"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "2.4 Hadith on Gratitude",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "read the Hadith on gratitude for character formation",
+            "practise gratitude in day-to-day life",
+            "appreciate the teachings of the Hadith by exercising gratitude"
+          ],
+          "keyInquiryQuestions": ["Why should one be grateful to other people?"],
+          "learningExperiences": [
+            "read from a chart/digital device the Hadith on gratitude: \"Whoever is never thankful to people is never thankful to Allah.\" (Al-Tirmithi)",
+            "discuss the lessons learnt from the Hadith and make class presentations",
+            "dramatise ways that show gratitude"
+          ],
+          "coreCompetencies": [
+            "Communication and collaboration: listening, speaking and teamwork as learners discuss the lessons learnt from the Hadith",
+            "Creativity and imagination: networking as learners dramatise ways that show gratitude"
+          ],
+          "linkedLearningAreas": ["Social Studies — the aspect of gratitude in life skills"],
+          "scopeNotes": [],
+          "assessmentSignal": "Strand-level (2.0 Hadith) rubric rewards reading AND explaining the teachings, plus deducing and applying lessons in daily life at the top band — recall of the Hadith text alone is not sufficient for top marks."
+        }
+      ]
+    },
+    {
+      "name": "3.0 Pillars of Iman",
+      "subStrands": [
+        {
+          "name": "3.1 Belief in Allah — Attributes of Allah",
+          "lessonCount": 5,
+          "notes": "6 named attributes: Al-Ghaffaar (The Forgiver), Al-Alim (The All Knowing), Al-Hafeedh (The Protector), Al-Hakam (The Judge), Al-Hayu (The Ever Living), Al-Waahid (The One).",
+          "specificLearningOutcomes": [
+            "outline the attributes of Allah and their corresponding meaning",
+            "assess the importance of the attributes of Allah",
+            "use the attributes of Allah while making dua (supplication)",
+            "appreciate the unique attributes of Allah as part of Islamic faith"
+          ],
+          "keyInquiryQuestions": ["What lessons are learnt from the attributes of Allah?", "Why should one use the attributes of Allah while making dua (supplications)?"],
+          "learningExperiences": [
+            "listen to the recitation of the attributes of Allah from a digital device",
+            "match the attributes of Allah with corresponding meaning using flash cards",
+            "discuss the importance of the attributes of Allah and make notes",
+            "use the attributes of Allah while making dua",
+            "sing qasida on the attributes of Allah"
+          ],
+          "coreCompetencies": [
+            "Creativity and imagination: networking as learners match the attributes of Allah with corresponding meaning using flash cards",
+            "Communication and collaboration: listening, speaking and teamwork as learners discuss the importance of the attributes of Allah"
+          ],
+          "linkedLearningAreas": ["Creative Arts — as learners sing qasida using attributes of Allah"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "3.2 Belief in Angels — Characteristics of Angels",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "state the characteristics of angels to strengthen their iman",
+            "assess the significance of the belief in angels in the life of a Muslim",
+            "differentiate between angels and human beings to appreciate Allah's creation",
+            "appreciate the belief in angels as a pillar of iman"
+          ],
+          "keyInquiryQuestions": ["What is the significance of believing in angels?", "How can Muslims show obedience to Allah?"],
+          "learningExperiences": [
+            "search for information on the characteristics of angels from digital devices/books/resource persons and present in class",
+            "brainstorm on the significance of belief in angels and make notes",
+            "role-play different situations that depict obedience to Allah's commands (obeying parents, teachers, elders, school rules)",
+            "read a verse from the Qur'an on the obedience of angels on Allah's commands (Q66:6)"
+          ],
+          "coreCompetencies": [
+            "Communication and collaboration: listening, speaking, writing and teamwork as learners brainstorm on the significance of belief in angels",
+            "Creativity and imagination: networking as learners role-play situations that depict obedience to Allah's commands"
+          ],
+          "linkedLearningAreas": ["Social Studies — role-play of obedience to parents, teachers, elders, school rules"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "3.3.1 Belief in Prophets — Qualities of Prophets",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "explain the qualities of prophets for character formation",
+            "apply values learnt from the qualities of prophets in their daily lives",
+            "appreciate belief in Allah's prophets by emulating the qualities of prophets"
+          ],
+          "keyInquiryQuestions": ["How can qualities of the prophets be applied in daily life?", "Why are prophets regarded as role models?"],
+          "learningExperiences": [
+            "search for information on the qualities of prophets from digital devices/books/resource persons and display in class",
+            "narrate a story of any prophet that shows these qualities",
+            "role-play situations that demonstrate values learnt from the qualities of the prophets (e.g. honesty, obedience, patience)",
+            "discuss how the qualities of the prophets learnt can be applied in school situation"
+          ],
+          "coreCompetencies": [
+            "Self-efficacy: effective communication developed as learners narrate a story of any prophet that shows these qualities",
+            "Creativity and imagination: networking as learners role-play situations that demonstrate values learnt from the qualities of the prophets"
+          ],
+          "linkedLearningAreas": ["Social Studies — values (honesty, obedience, patience) related to Life Skills"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "3.3.2 Miracles of Prophets",
+          "lessonCount": 6,
+          "notes": "3 named prophets: Nuh (A.S), Musa (A.S), Issa (A.S.).",
+          "specificLearningOutcomes": [
+            "identify the miracles performed by the selected prophets to strengthen their iman (faith)",
+            "explain the lessons learnt from the miracles of the selected prophets",
+            "appreciate the miracles of the selected prophets to build their reliance on Allah"
+          ],
+          "keyInquiryQuestions": ["What is a miracle?", "Why did prophets perform miracles?"],
+          "learningExperiences": [
+            "match/listen to stories of the miracles of the selected prophets from digital devices and make notes",
+            "deduce lessons from the miracles of the selected prophets and present in class",
+            "match the name of the prophets with miracles performed using flash cards",
+            "draw, colour and display items related to the miracles of the selected prophet"
+          ],
+          "coreCompetencies": [
+            "Critical thinking and problem solving: creativity as learners match the name of the prophets with miracles performed using flash cards",
+            "Creativity and imagination: experimenting as learners draw, colour and display items related to the miracles of the selected prophet"
+          ],
+          "linkedLearningAreas": ["Creative Arts — as they draw and colour different items"],
+          "scopeNotes": [],
+          "assessmentSignal": "Strand-level (3.0 Pillars of Iman) rubric top band requires outlining ALL 6 attributes of Allah with meaning AND mentioning all 6 pillars of Iman while explaining the significance of belief in angels exhaustively — a partial attribute list or shallow explanation caps below top band."
+        }
+      ]
+    },
+    {
+      "name": "4.0 Devotional Acts",
+      "subStrands": [
+        {
+          "name": "4.1 Nullifiers of Swalah",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "outline the nullifiers of swalah to safeguard its validity",
+            "perform swalah correctly to earn thawab from Allah",
+            "differentiate between nullifiers of swalah and wudhu to perfect ibadah",
+            "appreciate performance of swalah by avoiding its nullifiers"
+          ],
+          "keyInquiryQuestions": ["Why should one safeguard swalah?"],
+          "learningExperiences": [
+            "brainstorm on the nullifiers of swalah and present in class",
+            "role-play some of the observable nullifiers of swalah (e.g. walking, eating, drinking, jumping)",
+            "match and sort the nullifiers of swalah and wudhu using flash cards",
+            "demonstrate the correct performance of swalah"
+          ],
+          "coreCompetencies": [
+            "Creativity and imagination: experimenting as learners role-play observable nullifiers of swalah (walking, eating, drinking, jumping)",
+            "Self-efficacy: effective communication as learners demonstrate the correct performance of swalah"
+          ],
+          "linkedLearningAreas": ["Agriculture — observing and maintaining cleanliness"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "4.2 Sunnah (Optional) Prayers — Qabliyah and Ba'diyah",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "assess the significance of performing sunnah prayers in the life of a Muslim",
+            "perform Qabliyah and Ba'diyah prayers to earn rewards from Allah",
+            "appreciate the performance of Qabliyah and Ba'diyah to emulate the sunnah of the Prophet (S.A.W.)"
+          ],
+          "keyInquiryQuestions": ["Why should a Muslim perform Qabliya and Ba'diyah?"],
+          "learningExperiences": [
+            "discuss sunnah prayers performed before and after fardh prayers and display in class using charts",
+            "match/fill gaps using digital devices/charts/pocket boards the number of raakat for Qabliyah and Ba'diyah for each fardh prayer",
+            "brainstorm on the importance of observing Qabliyah and Ba'diyah and write notes",
+            "perform Qabliyah and Ba'diyah prayers"
+          ],
+          "coreCompetencies": [
+            "Digital literacy: interacting with technology as learners match/fill gaps using digital devices",
+            "Communication and collaboration: listening, speaking and teamwork as learners discuss sunnah prayers"
+          ],
+          "linkedLearningAreas": ["Mathematics — counting the number of Qabliya and Ba'diyah in each fardh prayer and their daily total, relating to addition"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "4.2.2 Taraweeh and Witr",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "assess the significance of performing Taraweeh and witr prayers in the life of a Muslim",
+            "perform swalatul Taraweeh and witr for spiritual nourishment",
+            "appreciate the performance of Taraweeh and witr prayers to earn thawab",
+            "develop a habit of performing Taraweeh and witr prayers to earn blessing of Allah"
+          ],
+          "keyInquiryQuestions": ["What is the significance of performing swalatul Taraweeh and witr?"],
+          "learningExperiences": [
+            "watch a video on the performance of swalatul Taraweeh and witr through digital devices and discuss the procedure",
+            "demonstrate/role-play swalatul Taraweeh and witr in class",
+            "discuss the importance of performing swalatul Taraweeh and witr and present in class",
+            "keep personal logs for a week on how they perform Taraweeh/witr prayers"
+          ],
+          "coreCompetencies": [
+            "Communication and collaboration: listening, speaking and teamwork as learners discuss the importance of performing swalatul Taraweeh and witr",
+            "Self-efficacy: executing a task as learners demonstrate/role-play swalatul Taraweeh and witr"
+          ],
+          "linkedLearningAreas": ["Mathematics — relating to the concept of even and odd numbers (witr = odd-numbered raka'at)"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "4.3 Swadaqah (Charity)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "identify forms of swadaqah for character development",
+            "demonstrate different acts of swadaqah to earn rewards",
+            "assess the benefits of practising acts of swadaqah in society",
+            "appreciate the different forms of swadaqah in their daily life"
+          ],
+          "keyInquiryQuestions": ["What acts of swadaqah do Muslims perform?", "What are the benefits of practising swadaqah?"],
+          "learningExperiences": [
+            "get pictures from digital devices/print media on forms of swadaqah and display them in class",
+            "discuss the different forms of swadaqah, in pairs/groups, as per the teachings of the Prophet (s.a.w) (such as feeding an animal, removing an obstacle/harmful from the path/roads, sharing with others)",
+            "participate in charitable activities (clean-up exercise, visit to children's home, tree planting)",
+            "discuss the benefits of giving charity and make class presentation"
+          ],
+          "coreCompetencies": [
+            "Communication and collaboration: listening, speaking and teamwork as learners discuss the benefits of giving charity",
+            "Learning to learn: working collaboratively as learners participate in charitable activities"
+          ],
+          "linkedLearningAreas": ["Creative Arts — getting pictures from digital devices/print media on forms of swadaqah and displaying them"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "4.4 Saum",
+          "lessonCount": 4,
+          "specificLearningOutcomes": [
+            "outline the conditions for saum as a requirement for its validity",
+            "apply the virtues acquired from observing saum in day-to-day life",
+            "appreciate observing saum as an act of ibadah"
+          ],
+          "keyInquiryQuestions": ["What virtues do Muslims learn from fasting?", "What is the significance of fasting?"],
+          "learningExperiences": [
+            "discuss the conditions for saum and present in class",
+            "brainstorm on the virtues learnt from saum (patience, honesty, self-control, empathy, generosity) and display on charts"
+          ],
+          "coreCompetencies": [
+            "Communication and collaboration: speaking, listening, writing and teamwork as learners brainstorm on the virtues learnt from saum (patience, honesty, self-control, empathy, generosity etc.)"
+          ],
+          "linkedLearningAreas": ["Agriculture — discussing the benefits of fasting"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "4.4.1 Nullifiers of Saum (fasting)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the nullifiers of saum to safeguard the validity of saum",
+            "practise saum as a pillar of Islam",
+            "appreciate fasting as a means of gaining taqwa (piety)"
+          ],
+          "keyInquiryQuestions": ["Why should Muslims observe rules and regulation when fasting?", "What virtues do Muslims learn from fasting?"],
+          "learningExperiences": [
+            "discuss the nullifiers of saum and make presentation in class",
+            "sort nullifiers of saum from conditions of saum on flash cards",
+            "brainstorm on rules and regulations of saum and make class presentation"
+          ],
+          "coreCompetencies": [
+            "Critical thinking and problem solving: creativity as learners sort nullifiers of saum from conditions of saum on flash cards",
+            "Communication and collaboration: listening, speaking and teamwork as learners discuss the nullifiers of saum"
+          ],
+          "linkedLearningAreas": ["Languages: Arabic and English — new vocabulary as learners discuss the nullifiers of saum"],
+          "scopeNotes": [],
+          "assessmentSignal": "Strand-level (4.0 Devotional Acts) rubric top band requires performing Qabliyah, Ba'diyah, witr AND Taraweeh consistently, plus stating conditions of saum AND nullifiers of BOTH swalah and saum comprehensively — a skill covering only one prayer type or only one nullifier set (swalah OR saum, not both) misses part of the tested competency."
+        }
+      ]
+    },
+    {
+      "name": "5.0 Akhlaq (Moral Teachings)",
+      "subStrands": [
+        {
+          "name": "5.1 Virtues — Generosity",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "assess the importance of practising generosity in the life of a Muslim",
+            "practise generosity as a virtue for character formation",
+            "appreciate the virtue of generosity as a means of earning rewards from Allah"
+          ],
+          "keyInquiryQuestions": ["Why should a Muslim practise generosity?", "When should a Muslim practise generosity?"],
+          "learningExperiences": [
+            "narrate short stories portraying generosity",
+            "watch/listen to a story on generosity and deduce the teachings",
+            "discuss the importance of observing generosity, and present in class",
+            "participate in activities that involve practising generosity",
+            "role-play activities that encourage generosity"
+          ],
+          "coreCompetencies": [
+            "Citizenship: enhanced as learners participate in activities that involve practising generosity",
+            "Self-efficacy: sharing learnt knowledge as learners narrate short stories portraying generosity",
+            "Creativity and innovation: networking as learners role-play activities that encourage generosity"
+          ],
+          "linkedLearningAreas": ["Creative Arts — role-playing activities that encourage generosity"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "5.2 Effects of Social Media",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "explain the positive and negative effects of social media on the youth",
+            "describe ways of using social media to facilitate learning",
+            "use social media responsibly to benefit self and others"
+          ],
+          "keyInquiryQuestions": ["How can one use social media positively?", "How can social media enhance learning?"],
+          "learningExperiences": [
+            "debate on the positive and negative effects of social media",
+            "discuss how to use social media responsibly and present in class",
+            "demonstrate how to use social media to facilitate learning using a digital device"
+          ],
+          "coreCompetencies": [
+            "Communication and collaboration: listening and speaking as learners debate on the positive and negative effects of social media",
+            "Digital literacy: interacting with technology as learners demonstrate how to use social media to facilitate learning"
+          ],
+          "linkedLearningAreas": ["Science and Technology — content on social media"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "5.3 Prohibitions in Islam — Evils of Gambling",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "explain the evils of gambling to promote responsible citizenship",
+            "describe ways of discouraging gambling in society",
+            "appreciate the prohibition of gambling by working hard for halaal (legal) earning"
+          ],
+          "keyInquiryQuestions": ["What are the effects of participating in gambling?", "Why is gambling forbidden in Islam?"],
+          "learningExperiences": [
+            "discuss the effects of gambling and present in class (loss of property, family breakdown)",
+            "role-play the effects of gambling",
+            "brainstorm on ways of discouraging gambling in society and display on a chart"
+          ],
+          "coreCompetencies": [
+            "Communication and collaboration: listening, speaking, writing and teamwork as learners discuss the effects of gambling (loss of property, family breakdown)",
+            "Critical thinking and problem solving: decision making as learners brainstorm on ways of discouraging gambling in society"
+          ],
+          "linkedLearningAreas": ["Social Studies — the concept of resource management"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "5.4 Dua (Supplications) — Dua on Increase in Knowledge",
+          "lessonCount": 2,
+          "notes": "Numbered '5.4' in the Summary of Strands and Sub-Strands table but '5.5' in the detailed strand body text — an apparent numbering inconsistency in the source PDF (same class of issue CURRICULUM-MINING-GUIDE.md flags to record verbatim, not silently resolve). Used '5.4' here to match the summary table's sequential position after 5.3.",
+          "specificLearningOutcomes": [
+            "recite the selected dua to attain beneficial knowledge",
+            "assess the importance of the dua of seeking knowledge",
+            "apply the dua in day-to-day life",
+            "appreciate the act of supplication as a form of Ibadah (act of worship)"
+          ],
+          "keyInquiryQuestions": ["What is the importance of reciting dua always?"],
+          "learningExperiences": [
+            "listen and recite the following dua from a digital device/teacher: \"Oh Allah make what you teach me beneficial, teach me what is beneficial, and increase me in knowledge\"",
+            "recite the dua every morning before start of class",
+            "brainstorm on the importance of reciting dua and write notes"
+          ],
+          "coreCompetencies": ["Communication: listening, speaking and teamwork as learners brainstorm on the importance of making dua"],
+          "linkedLearningAreas": ["English and Kiswahili — reading skills as they recite the dua"],
+          "scopeNotes": [],
+          "assessmentSignal": "Strand-level (5.0 Akhlaq) rubric top band requires practising generosity AND using social media positively consistently, plus describing the evils of gambling correctly with cited examples — a skill covering only one of generosity/social-media, or gambling recall without concrete examples, misses part of the tested competency."
+        }
+      ]
+    },
+    {
+      "name": "6.0 Muamalat (Social Relations)",
+      "subStrands": [
+        {
+          "name": "6.1 Etiquette of Islamic Wedding Celebrations",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "describe the etiquette to be observed during Islamic wedding celebrations",
+            "outline unislamic activities that take place during wedding celebrations",
+            "appreciate Islamic wedding celebrations as part of Islamic heritage"
+          ],
+          "keyInquiryQuestions": ["What is the Islamic etiquette that guides wedding celebrations?"],
+          "learningExperiences": [
+            "brainstorm on a wedding celebration they have attended and note down what they observed/experienced",
+            "watch an Islamic wedding celebration from a digital device and the etiquette observed",
+            "sort the Islamic and unislamic activities performed during wedding celebrations using flash cards",
+            "role-play the etiquette to be observed during the wedding celebration (such as appropriate dressing, gender separation, avoiding Israaf and music)"
+          ],
+          "coreCompetencies": [
+            "Communication and Collaboration: as learners brainstorm on a wedding celebration they have attended",
+            "Creativity and imagination: networking as learners role-play the etiquette to be observed during the celebration"
+          ],
+          "linkedLearningAreas": ["Social Studies — experiences encountered during wedding celebrations"],
+          "scopeNotes": ["include: unislamic activities to sort against (dressing, gender separation, avoiding Israaf/extravagance and music) are named explicitly and are in scope as the contrast set for the Islamic-etiquette categorize content."],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "6.2 Rights of Neighbours",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "outline the rights of neighbours for harmonious living",
+            "uphold the rights of neighbours as an act of ibadah",
+            "appreciate the rights of neighbours as an obligatory act upon a Muslim"
+          ],
+          "keyInquiryQuestions": ["How should Muslims relate with neighbours?", "What is the significance of upholding good neighbourliness?"],
+          "learningExperiences": [
+            "search the rights of neighbours in Islam using digital devices/print media and make notes",
+            "discuss the significance of treating neighbours well and display on a chart",
+            "dramatise the right way of treating neighbours",
+            "search for Hadith on the rights of neighbours and deduce lessons from it using digital devices/books/resource persons"
+          ],
+          "coreCompetencies": [
+            "Communication and collaboration: listening, speaking and teamwork as learners discuss the significance of treating neighbours well",
+            "Creativity and imagination: networking as learners dramatise the right way of treating neighbours"
+          ],
+          "linkedLearningAreas": ["Social Studies — searching for the rights of neighbours"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "6.3 Islamic Rules on Buying and Selling",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "outline the Islamic rules on buying and selling to promote a healthy business society",
+            "state the benefits of observing the Islamic rules on buying and selling",
+            "appreciate Islamic etiquette on the rules and regulations of buying and selling to earn rewards from Allah (Q83:1-6)"
+          ],
+          "keyInquiryQuestions": ["What should Muslims avoid while buying and selling?", "What are Islamic teachings on buying and selling?"],
+          "learningExperiences": [
+            "discuss Islamic rules on buying and selling and make oral presentation",
+            "discuss the benefits of observing Islamic rules and regulations on buying and selling",
+            "search Hadith on buying and selling and write notes on lessons learnt",
+            "role-play the Islamic rules and regulations on buying and selling",
+            "name commodities that they have bought from the market",
+            "undertake a project of creating a shop corner by collecting items, write a price list and a list of Islamic rules to be observed"
+          ],
+          "coreCompetencies": [
+            "Creativity and imagination: networking as learners undertake a project of creating a shop corner",
+            "Communication and collaboration: listening, speaking and teamwork discussing the benefits of observing Islamic rules and regulations on buying and selling"
+          ],
+          "linkedLearningAreas": ["Mathematics — creating a shop corner and buying/selling"],
+          "scopeNotes": ["include: Q83:1-6 (Surah Al-Mutaffifin, on cheating in measure) is named as the scriptural basis — cited explicitly as the source for why fair dealing in buying/selling matters."],
+          "assessmentSignal": "Strand-level (6.0 Muamalat) rubric top band requires consistently demonstrating awareness of different relationships (wedding etiquette, neighbours, buying/selling) AND consistently applying Islamic teachings in interactions with others — recall of the rules alone, without an applied-scenario dimension, is only mid-band."
+        }
+      ]
+    },
+    {
+      "name": "7.0 History of Islam",
+      "subStrands": [
+        {
+          "name": "7.1 Al-Isra wal Miraj",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "describe the Prophet's Night Journey to Heaven for spiritual nourishment",
+            "assess the significance of al-Isra wal Miraj in the life of a Muslim",
+            "appreciate al-Isra wal Miraj as an important event in the history of Islam"
+          ],
+          "keyInquiryQuestions": ["What lessons do you learn from the Prophet's journey?"],
+          "learningExperiences": [
+            "watch a video on al-Isra wal Miraj from a digital device",
+            "discuss the events of al-Isra wal Miraj",
+            "discuss the importance of al-Isra wal Miraj",
+            "discuss the major gift given to Prophet (S.A.W) during al-Isra wal Miraj journey"
+          ],
+          "coreCompetencies": [
+            "Digital literacy: interacting with digital technology as learners watch an audio-visual clip on al-Isra wal Miraj",
+            "Communication and collaboration: listening, speaking and writing as learners discuss the importance of al-Isra wal Miraj",
+            "Self-efficacy: effective communication as learners read reference material on the events and narrate it in class"
+          ],
+          "linkedLearningAreas": ["Social Studies — the means of transport used by the Prophet during the event"],
+          "scopeNotes": ["include: the major gift given to the Prophet (S.A.W.) during the journey — the five daily prayers (swalah) — is an explicitly named learning experience, not just 'events happened.'"],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "7.2 Pledges of Aqabah",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "describe the events that led to the signing of the pledges of Aqabah",
+            "state the terms of the pledges of Aqabah",
+            "appreciate the pledges of Aqabah as a base for the migration of Muslims in Madina"
+          ],
+          "keyInquiryQuestions": ["How did Muslims benefit from the pledges of Aqabah?"],
+          "learningExperiences": [
+            "discuss the events that led to the signing of the pledges of Aqabah and present in class",
+            "watch a video on the pledges of Aqaba from a digital device and write the terms",
+            "search for the terms of the pledges of Aqabah from books/digital device and note them down in their books"
+          ],
+          "coreCompetencies": ["Communication and collaboration: through discussions, in groups, on the events that led to the signing of the pledges of Aqabah"],
+          "linkedLearningAreas": ["Social Studies — the concept of signing agreements"],
+          "scopeNotes": [],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "7.3 Hijra to Madina",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "narrate the events on the Prophet's migration to Madina",
+            "assess the significance of the Prophet (S.A.W)'s journey to Madina",
+            "appreciate the Prophet (S.A.W.)'s journey to Madina as a milestone in Islamic History"
+          ],
+          "keyInquiryQuestions": ["Why did the Prophet (S.A.W.) migrate to Madina?", "Why is Hijra important to Muslims?"],
+          "learningExperiences": [
+            "listen/watch a story on the Prophet (S.A.W.)'s migration to Madina from a digital device/teacher",
+            "brainstorm reasons for Prophet's migration to Madina and write notes",
+            "discuss the major events that took place during the migration (e.g. the Prophet leaving Ali in his house, departure with Abubakar, at cave Thaur, the incident of Suraqah, reception in Madina)",
+            "sing a Qasida of welcoming the Prophet (S.A.W) i.e. Talaal Badru 'alaynaa",
+            "discuss the significance of Hijra and make short note (such as end of persecution, unity of the Ummah, beginning of the Islamic calendar) and present in class"
+          ],
+          "coreCompetencies": [
+            "Communication and collaboration: listening, speaking, writing and teamwork as learners discuss the major migration events",
+            "Creativity and imagination: networking as learners sing a Qasida of welcoming the Prophet"
+          ],
+          "linkedLearningAreas": ["Social Studies — movement of people"],
+          "scopeNotes": ["include: the named sequence of migration events (leaving Ali in his house → departure with Abubakar → cave Thaur → incident of Suraqah → reception in Madina) is an explicit, curriculum-stated ordered list — a legitimate 'ordering' branch content source, not an invented sequence."],
+          "assessmentSignal": ""
+        },
+        {
+          "name": "7.4 Constitution of Madina",
+          "lessonCount": 3,
+          "notes": "Numbered '7.4' in the Summary of Strands and Sub-Strands table but '7.5' in the detailed strand body text (with no 7.4 heading appearing in the detail section at all) — an apparent numbering inconsistency in the source PDF, recorded verbatim per mining discipline rather than silently resolved.",
+          "specificLearningOutcomes": [
+            "outline the terms of Madina constitution",
+            "assess the importance of Madina constitution to the history of Islam",
+            "describe the role played by the Ansar in the settlement of Muhajirun in Madina",
+            "develop a desire to maintain Islamic brotherhood as per the teachings of Islam"
+          ],
+          "keyInquiryQuestions": ["Why is the Madina constitution important to history of Islam?", "What role did the Ansar play in the settlement of the Muhajirun?"],
+          "learningExperiences": [
+            "brainstorm on the terms of Madina constitution, and present on a manilla paper",
+            "discuss the importance of Madina constitution to the people of Madina and in the history of Islam",
+            "listen/watch a story on how united the Muhajirun and the Ansar were",
+            "discuss the role played by the Ansar in settling the Muhajirun (such as shared their wealth, assisted them in integration and settlement), and write notes",
+            "discuss the lessons learnt from the spirit of brotherhood established by the Prophet (S.A.W) (Muslims must be united, assist one another)"
+          ],
+          "coreCompetencies": [
+            "Communication and collaboration: listening, speaking, writing and teamwork discussing the importance of Madina constitution",
+            "Learning to learn: sharing learnt knowledge as learners discuss the lessons learnt from the spirit of brotherhood"
+          ],
+          "linkedLearningAreas": ["Social Studies — social cohesion and constitution making"],
+          "scopeNotes": ["include: the Ansar's role is named specifically (shared their wealth, assisted in integration and settlement) — not just 'welcomed the Muhajirun' in general terms."],
+          "assessmentSignal": "Strand-level (7.0 History of Islam) rubric top band requires narrating events AND comprehensively applying lessons from Islamic historical events in life — bare narration without an applied-lesson dimension is only mid-band."
+        }
+      ]
+    }
+  ]
+}

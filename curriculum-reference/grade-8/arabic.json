@@ -1,0 +1,379 @@
+{
+  "subject": "Arabic",
+  "subjectId": "arabic",
+  "grade": 8,
+  "source": {
+    "title": "Junior School Curriculum Design — Arabic Grade 8 (First published 2023, Revised 2024)",
+    "url": "User-supplied local file (Arabic-Grade-8-Design-Formatted-April-2024.pdf); no confirmed public mirror was found during sourcing — see notes.",
+    "publisher": "Kenya Institute of Curriculum Development (KICD)",
+    "isbn": "978-9914-43-809-3",
+    "retrievedDate": "2026-08-14",
+    "confidence": "high",
+    "notes": "FULLY RESOLVED (2026-08-14): earlier in this sourcing session, a teacher.co.ke mirror (2022 first-published, DRAFT-watermarked, Foreword signed by then-CS Prof. George Magoha) was used and later flagged as likely stale. The user then supplied a screenshot of the official 'SUMMARY OF STRANDS AND SUB-STRANDS' table, which showed a structure with no apparent overlap with the old mirror or with French/German/Mandarin's shared theme pattern — appearing to be a third, distinct architecture. That reading was WRONG. The user subsequently supplied the complete source PDF directly ('Arabic-Grade-8-Design-Formatted-April-2024.pdf', read in full verbatim via the Read tool, native text extraction, not summarized). Its cover reads 'JUNIOR SCHOOL CURRICULUM DESIGN / ARABIC / GRADE 8', 'First published 2023 / Revised 2024', ISBN 978-9914-43-809-3, Foreword signed by the current CS Hon. Ezekiel Ombaki Machogu — confirming this really is the current document. Reading the full body (not just the one-page summary table) revealed that Arabic Grade 8 in fact follows EXACTLY THE SAME architecture as French/German/Mandarin Grade 8: 3 strands (1.0 Listening and Speaking, 2.0 Reading, 3.0 Writing), each built around the SAME 9 shared real-world themes (Greetings and Introduction, Family, My Surrounding, Time, Fun and Enjoyment, Food and Drinks, My Body, Weather and Environment, Getting Around) for 27 numbered sub-strands total (1.1-1.9, 2.1-2.9, 3.1-3.9), each 2 sessions/lessons = 54 lessons, PLUS a standalone 'Showcasing of skills and concepts (Exhibition)' allocation of 6 lessons (tied to the Community Service Learning project in Appendix 1, not assigned to any of the 3 strands) = 60 lessons total. The confusion in the prior pass arose because the one-page 'SUMMARY OF STRANDS AND SUBSTRANDS' table (p.x) AGGREGATES BY SUB-STRAND NAME rather than listing all 27 theme-based entries individually — e.g. 'Phonological awareness' appears at codes 1.2 (Family), 1.7 (My Body, titled 'Phonological awareness: Pronunciation'), and 1.9 (Getting Around, titled 'Phonological Awareness: Pronunciation'), summing to the table's '6' lessons; 'Imitative Speaking' appears at 1.3 and 1.8 summing to '4'; under Reading, 'Reading Fluency' appears at 2.1 and 2.4 (sum 4), 'Reading Aloud' at 2.2 and 2.5 (sum 4), 'Reading Comprehension' at 2.3, 2.6, 2.8 and 2.9 (sum 8), 'Extensive Reading' only at 2.7 (2); under Writing, 'Creative Writing' appears at 3.7 and 3.9 (sum 4) while all other Writing sub-strand names appear once each (2 lessons). All 27 sub-strands below are recorded individually with their own code, name, theme, specific learning outcomes, and key inquiry question(s), transcribed verbatim from the document body (pages 1-56), matching the code/name/theme/specificLearningOutcomes/keyInquiryQuestions shape used for French/German/Mandarin Grade 8. Suggested learning experiences, core competencies, values, PCIs, and links to other learning areas were present in the source but are not transcribed here, consistent with how French/German/Mandarin Grade 8 are recorded in this project. Assessment rubrics (pp.19-20, 39, 57) were reviewed but are not transcribed, again for consistency with sibling files. Appendix 2 (p.60-62) inconsistently retains an old '4.0 Language structures' resources/assessment row that does not correspond to any strand actually present in this document's body or Table of Contents (which lists only Strands 1.0-3.0) — this appears to be a leftover artifact from the prior (now-superseded) draft's 4-strand structure and was NOT used to fabricate a fourth strand here."
+  },
+  "essenceNote": "Kenya is part of the international community and therefore the learners shall be given an opportunity to learn foreign languages in addition to the national, official and indigenous languages. These foreign languages include: Arabic, French, German and Mandarin. The Learner is expected to acquire the four language skills: listening, speaking, reading and writing at a basic level in the curriculum. This will give the learner an opportunity to acquire language competencies in an experiential, innovative and flexible ways. Foreign languages learning at this level is guided by social-constructivism and environmental theories. Learning of these languages will promote international consciousness and appreciation of one's own and others' cultures. The learner will transit to Senior School having acquired basic proficiency equivalent to A1/YCT2 (verbatim essence statement, identical wording to French/German/Mandarin Grade 8's essence statements).",
+  "generalLearningOutcomes": {
+    "scope": "By the end of Junior School (i.e. across Grades 7-9 combined, not Grade 8 alone)",
+    "notes": "Verbatim from the source document's 'GENERAL LEARNING OUTCOMES FOR ARABIC LANGUAGE' section (p.ix), a document-wide summary preceding the strand tables. Recorded here for reference; not used directly to generate Grade-8-specific quiz content since these outcomes span the full Junior School cycle.",
+    "outcomes": [
+      "Listen and respond appropriately to relevant information in the Arabic language.",
+      "Read a wide variety of texts fluently and accurately for lifelong learning.",
+      "Write texts legibly, coherently and creatively in the Arabic language.",
+      "Express themselves fluently and confidently in varied contexts.",
+      "Appreciate the role of Arabic language as a means of embracing creativity and international relevance.",
+      "Enjoy communicating in the Arabic language.",
+      "Appreciate cultural awareness and exposure to the Arabic language."
+    ]
+  },
+  "strands": [
+    {
+      "name": "1.0 Listening and Speaking",
+      "subStrands": [
+        {
+          "code": "1.1",
+          "name": "Listening for gist: Main idea",
+          "theme": "Greetings and Introduction",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "identify main ideas in oral presentations",
+            "make oral presentations to express themselves in various situations",
+            "develop interest in learning Arabic words"
+          ],
+          "keyInquiryQuestions": ["Why do we greet one another?"]
+        },
+        {
+          "code": "1.2",
+          "name": "Phonological awareness",
+          "theme": "Family",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "identify vocabulary related to the theme for information",
+            "present a short talk related to the theme for effective communication",
+            "appreciate the role of different members of the family"
+          ],
+          "keyInquiryQuestions": ["What makes it necessary to develop the strategies of active listening?"]
+        },
+        {
+          "code": "1.3",
+          "name": "Imitative Speaking",
+          "theme": "My Surrounding",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "respond to instructions appropriately",
+            "present an oral description of a place in their surrounding",
+            "appreciate different places in the surrounding"
+          ],
+          "keyInquiryQuestions": ["Why are instructions important?"]
+        },
+        {
+          "code": "1.4",
+          "name": "Self-expression",
+          "theme": "Time",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "summarise the main idea from an oral text for information",
+            "express opinions, feelings and thoughts using acquired vocabulary",
+            "appreciate speaking skills in conveying a message"
+          ],
+          "keyInquiryQuestions": ["How can you observe punctuality in school?", "Why do we summarise information?"]
+        },
+        {
+          "code": "1.5",
+          "name": "Public Presentation",
+          "theme": "Fun and Enjoyment",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "identify non-verbal cues for effective communication",
+            "apply appropriate non verbal cues in an oral presentation",
+            "appreciate audience awareness in public presentation for lifelong learning"
+          ],
+          "keyInquiryQuestions": ["Why do we travel?"]
+        },
+        {
+          "code": "1.6",
+          "name": "Conversational skills",
+          "theme": "Food and Drinks",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "identify vocabulary related to foodstuff for comprehension",
+            "apply etiquette and turn taking skills in oral conversations",
+            "acknowledge the place of etiquette in effective communication"
+          ],
+          "keyInquiryQuestions": ["How should one interrupt a speaker in a conversation without sounding rude?"]
+        },
+        {
+          "code": "1.7",
+          "name": "Phonological awareness: Pronunciation",
+          "theme": "My Body",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "pronounce target words related to the body parts correctly",
+            "apply appropriate stress and intonation in oral communication",
+            "recognise the role of correct articulation in effective communication"
+          ],
+          "keyInquiryQuestions": ["How can you ensure you speak fluently?"]
+        },
+        {
+          "code": "1.8",
+          "name": "Imitative Speaking",
+          "theme": "Weather and Environment",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "respond to simple questions related to weather and environment correctly",
+            "use variety of words to describe different physical features within the environment",
+            "acknowledge the place of attentive listening for communication"
+          ],
+          "keyInquiryQuestions": ["How do poor listening habits affect learning?"]
+        },
+        {
+          "code": "1.9",
+          "name": "Phonological Awareness: Pronunciation",
+          "theme": "Getting Around",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "pronounce words on common means of transport correctly",
+            "use variety of words to describe different situations and events related to the theme",
+            "appreciate speaking skills to convey information accurately"
+          ],
+          "keyInquiryQuestions": ["Why should we pronounce words appropriately?"]
+        }
+      ]
+    },
+    {
+      "name": "2.0 Reading",
+      "subStrands": [
+        {
+          "code": "2.1",
+          "name": "Guided Reading: Reading Fluency",
+          "theme": "Greetings and Introduction",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "read a text with correct speed and expression",
+            "apply appropriate intonation and stress when reading texts",
+            "develop interest in reading Arabic texts for enjoyment"
+          ],
+          "keyInquiryQuestions": ["Why should we read texts with correct speed?"]
+        },
+        {
+          "code": "2.2",
+          "name": "Guided Reading: Reading Aloud",
+          "theme": "Family",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "identify vocabulary related to the family in a text",
+            "infer meaning of vocabulary for comprehension",
+            "appreciate reading strategies to acquire reading skills"
+          ],
+          "keyInquiryQuestions": ["How can you show love to your family members?", "How can you tell the meaning of a new word in a text?"]
+        },
+        {
+          "code": "2.3",
+          "name": "Guided Reading: Reading Comprehension",
+          "theme": "My Surrounding",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "identify the main idea in a text for comprehension",
+            "respond to questions on the theme in a text for comprehension",
+            "develop interest in reading Arabic texts for pleasure and understanding"
+          ],
+          "keyInquiryQuestions": ["How can you extract specific information from a reading text?"]
+        },
+        {
+          "code": "2.4",
+          "name": "Guided Reading: Reading Fluency",
+          "theme": "Time",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "read texts at a good pace/speed for fluency",
+            "identify specific details from a text for comprehension",
+            "develop interest in reading Arabic texts"
+          ],
+          "keyInquiryQuestions": ["How can you improve on your pace when reading Arabic texts?"]
+        },
+        {
+          "code": "2.5",
+          "name": "Guided Reading: Reading Aloud",
+          "theme": "Fun and Enjoyment",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "read texts with the correct articulation",
+            "read texts aloud with the appropriate verbal cues",
+            "develop interest in reading Arabic texts"
+          ],
+          "keyInquiryQuestions": ["How do you spend your free time?", "Why are verbal cues important when reading?"]
+        },
+        {
+          "code": "2.6",
+          "name": "Guided Reading: Reading Comprehension",
+          "theme": "Food and Drinks",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "make predictions on events in a text for comprehension",
+            "respond to direct and inferential questions from a text for comprehension",
+            "develop interest in reading Arabic texts"
+          ],
+          "keyInquiryQuestions": ["What do you consider when preparing meals?", "How can we predict events in a text correctly before reading?"]
+        },
+        {
+          "code": "2.7",
+          "name": "Guided Reading: Extensive Reading",
+          "theme": "My Body",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "select appropriate reading materials from digital and non-digital sources",
+            "read varied appropriate grade appropriate materials for lifelong learning",
+            "create a reading log to monitor reading activities",
+            "recommend to peers appropriate reading materials for enjoyment"
+          ],
+          "keyInquiryQuestions": ["Why is reading important?"]
+        },
+        {
+          "code": "2.8",
+          "name": "Guided Reading: Reading Comprehension",
+          "theme": "Weather and Environment",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "relate characters and events in a text to real life",
+            "infer meaning of new words in a text for comprehension",
+            "develop interest in reading short Arabic texts for enjoyment"
+          ],
+          "keyInquiryQuestions": ["How are some text events similar to those in real life?"]
+        },
+        {
+          "code": "2.9",
+          "name": "Guided Reading: Reading Comprehension",
+          "theme": "Getting Around",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "identify mental images created from a text read",
+            "summarise the main idea from a text for information",
+            "develop a positive attitude towards reading for lifelong learning"
+          ],
+          "keyInquiryQuestions": ["Why are images thought to be worth a thousand words?"]
+        }
+      ]
+    },
+    {
+      "name": "3.0 Writing",
+      "subStrands": [
+        {
+          "code": "3.1",
+          "name": "Guided Writing",
+          "theme": "Greetings and Introduction",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "identify vocabulary used in formal and informal greetings and introduction",
+            "use a range of vocabulary to construct sentences on greetings and introduction",
+            "develop interest in writing Arabic texts"
+          ],
+          "keyInquiryQuestions": ["Why do we use different words when greeting others in formal and informal contexts?"]
+        },
+        {
+          "code": "3.2",
+          "name": "Guided Writing: Neatness and Legibility",
+          "theme": "Family",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "identify features of neat and legible handwriting",
+            "use basic descriptive words in writing neat and legible paragraphs",
+            "appreciate the skill of writing for effective communication"
+          ],
+          "keyInquiryQuestions": ["Why is it good to write clearly?"]
+        },
+        {
+          "code": "3.3",
+          "name": "Guided Writing: Paragraph Writing",
+          "theme": "My Surrounding",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "identify vocabulary related to the theme from a given text",
+            "write a simple paragraph on the theme for effective communication",
+            "develop interest in writing Arabic"
+          ],
+          "keyInquiryQuestions": ["How can you improve your writing skills in Arabic?"]
+        },
+        {
+          "code": "3.4",
+          "name": "Guided Writing: Descriptive Writing",
+          "theme": "Time",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "organise ideas coherently to express an opinion, feeling and thought",
+            "apply basic descriptive words in writing a simple paragraph",
+            "appreciate the skill of writing to express feeling and opinion"
+          ],
+          "keyInquiryQuestions": ["How can you manage your time well?", "Why do we organise ideas in a paragraph?"]
+        },
+        {
+          "code": "3.5",
+          "name": "Guided Writing: Mechanics of Writing",
+          "theme": "Fun and Enjoyment",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "apply appropriate punctuation marks in a written text",
+            "create a short imaginative writing to express feelings and ideas with correct punctuation",
+            "appreciate different Arabic writing styles"
+          ],
+          "keyInquiryQuestions": ["How would texts be if there no punctuation marks?"]
+        },
+        {
+          "code": "3.6",
+          "name": "Guided Writing: Poetry",
+          "theme": "Food and Drinks",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "construct sentences correctly",
+            "use basic descriptive words in writing a simple poem",
+            "appreciate the skill of writing for effective communication"
+          ],
+          "keyInquiryQuestions": ["How do we keep our utensils clean?", "Why should we write poems?"]
+        },
+        {
+          "code": "3.7",
+          "name": "Guided Writing: Creative Writing",
+          "theme": "My Body",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "construct simple sentences using acquired vocabulary",
+            "write creative texts on the theme using descriptive words",
+            "develop interest in artistic expression through writing"
+          ],
+          "keyInquiryQuestions": ["How can you make a story more interesting in writing?"]
+        },
+        {
+          "code": "3.8",
+          "name": "Guided Writing: Essay Writing",
+          "theme": "Weather and Environment",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "identify vocabulary related to the theme for comprehension",
+            "write a simple essay using acquired vocabulary and expressions",
+            "appreciate the skill of writing for effective communication"
+          ],
+          "keyInquiryQuestions": ["What tips can you use to develop neat handwriting?"]
+        },
+        {
+          "code": "3.9",
+          "name": "Guided Writing: Creative Writing",
+          "theme": "Getting Around",
+          "notes": "2 Sessions",
+          "specificLearningOutcomes": [
+            "develop ideas logically in writing",
+            "write a dialogue related to the theme",
+            "develop positive attitude towards writing Arabic language"
+          ],
+          "keyInquiryQuestions": ["What are some of the challenges you face when composing texts?"]
+        }
+      ]
+    },
+    {
+      "name": "Showcasing of skills and concepts (Exhibition)",
+      "subStrands": [
+        {
+          "name": "Showcasing of skills and concepts (Exhibition)",
+          "notes": "Allocated 6 lessons. Not one of the 27 theme-based sub-strands above — this is a standalone allocation tied to the Community Service Learning (CSL) project described in Appendix 1 of the source document (a class-wide integrated project run across the 3 terms, involving problem identification, designing a solution, planning, implementation, showcasing/exhibition and reflection). No specific learning outcomes or key inquiry questions are attached to it in the source; it is assessed formatively across its 6 milestones instead."
+        }
+      ]
+    }
+  ]
+}

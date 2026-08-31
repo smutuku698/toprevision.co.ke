@@ -1,0 +1,60 @@
+{
+  "subject": "Mandarin",
+  "subjectId": "mandarin",
+  "grade": 9,
+  "source": {
+    "title": "Junior School Curriculum Design — Mandarin Grade 9 (Draft, First published 2024)",
+    "url": "https://easylearn.co.ke/images/document/11752377/Mandarin-Grade-9-2024-Revised-Oct.pdf",
+    "publisher": "KICD",
+    "isbn": "978-9914-43-432-3",
+    "retrievedDate": "2026-08-14",
+    "confidence": "high",
+    "notes": "Fetched via the easylearn.co.ke mirror (same pattern used for CRE/HRE/IRE) — WebFetch reported binary/unreadable content but saved the PDF locally, and Claude's Read tool parsed it natively. Structure verbatim from the PDF's SUMMARY OF STRANDS AND SUB STRANDS table and per-theme tables."
+  },
+  "essenceNote": "Kenya's foreign languages at Grade 9 are Mandarin, Arabic, French, and German — each a non-formal, basic (A1/YCT2-equivalent) 4-skills (listening, speaking, reading, writing) curriculum. Mandarin's design is structurally identical to French's and German's: same 3 strands, same 9 themes in the same order, confirmed directly against the PDF (not assumed from the shared essence statement alone).",
+  "strands": [
+    {
+      "name": "1.0 Listening and Speaking",
+      "subStrands": [
+        { "code": "1.1", "name": "Oral Expression — Articulation — Greetings and Introduction", "theme": "Greetings and Introduction" },
+        { "code": "1.2", "name": "Interactive Speaking — Active listening, Turn-taking — Family", "theme": "Family" },
+        { "code": "1.3", "name": "Phonological Awareness — Attentive listening, Vocabulary development, Simple descriptions — My Surrounding", "theme": "My Surrounding" },
+        { "code": "1.4", "name": "Oral Expression — Pronunciation (Chinese tones), Organisation of ideas — Time", "theme": "Time" },
+        { "code": "1.5", "name": "Interactive Speaking — Vocabulary development, Turn-taking — Fun and Enjoyment", "theme": "Fun and Enjoyment" },
+        { "code": "1.6", "name": "Oral Expression — Word recognition, Articulation — Foods and Drinks", "theme": "Foods and Drinks" },
+        { "code": "1.7", "name": "Oral Expression — Vocabulary development and language use, Fluency — My Body", "theme": "My Body" },
+        { "code": "1.8", "name": "Oral Expression — Articulation and intonation — Weather and Environment", "theme": "Weather and Environment" },
+        { "code": "1.9", "name": "Active Listening — Comprehension, Summarising — Getting Around", "theme": "Getting Around" }
+      ]
+    },
+    {
+      "name": "2.0 Reading",
+      "subStrands": [
+        { "code": "2.1", "name": "Reading for Information — Articulation (correct tones), Summarising — Greetings and Introduction", "theme": "Greetings and Introduction" },
+        { "code": "2.2", "name": "Reading for Fluency — Word recognition, Fluency — Family", "theme": "Family" },
+        { "code": "2.3", "name": "Reading for Understanding — Active reading, Paraphrasing — My Surroundings", "theme": "My Surroundings" },
+        { "code": "2.4", "name": "Reading for Comprehension — Vocabulary development, Active reading — Time", "theme": "Time" },
+        { "code": "2.5", "name": "Reading for Understanding — Reading strategies (predicting and summarising) — Fun and Enjoyment", "theme": "Fun and Enjoyment" },
+        { "code": "2.6", "name": "Reading for Fluency — Word recognition, Fluency (intonation) — Foods and Drinks", "theme": "Foods and Drinks" },
+        { "code": "2.7", "name": "Reading for Understanding — Active reading, Comprehension — My Body", "theme": "My Body" },
+        { "code": "2.8", "name": "Reading Fluency — Inferencing, Articulation — Weather and Environment", "theme": "Weather and Environment" },
+        { "code": "2.9", "name": "Reading for Fluency — Fluency (pace), Comprehension — Getting Around", "theme": "Getting Around" }
+      ]
+    },
+    {
+      "name": "3.0 Writing",
+      "subStrands": [
+        { "code": "3.1", "name": "Guided Writing — Handwriting (legibility and clarity) — Greetings and Introduction", "theme": "Greetings and Introduction" },
+        { "code": "3.2", "name": "Guided Writing — Orthography (rules and conventions of writing) — Family", "theme": "Family" },
+        { "code": "3.3", "name": "Guided Writing — Vocabulary development and language use — My Surroundings", "theme": "My Surroundings" },
+        { "code": "3.4", "name": "Guided Writing — Mechanics of writing (spelling and punctuation) — Time", "theme": "Time" },
+        { "code": "3.5", "name": "Guided Writing — Paragraph writing (coherence and organisation) — Fun and Enjoyment", "theme": "Fun and Enjoyment" },
+        { "code": "3.6", "name": "Guided Writing — Mechanics of writing (word order and spelling) — Foods and Drinks", "theme": "Foods and Drinks" },
+        { "code": "3.7", "name": "Guided Writing — Simple descriptive texts — My Body", "theme": "My Body" },
+        { "code": "3.8", "name": "Guided Writing — Inferencing, Sentence structures — Weather and Environment", "theme": "Weather and Environment" },
+        { "code": "3.9", "name": "Guided Writing — Word recognition, Paragraph writing (coherence) — Getting Around", "theme": "Getting Around" }
+      ]
+    }
+  ],
+  "notes": "Same 9 themes repeat identically across all 3 strands, exactly mirroring French's and German's structure. Each strand teaches the theme's vocabulary through a different modality (LS = oral vocabulary/expression recall, R = short passage/dialogue + comprehension, W = spelling/gap-fill/word-order/descriptive writing). Per the standing 'never merge sub-strands' rule, this is 27 distinct skills (9 themes x 3 strands). Mandarin is distinctive among the four foreign languages in that its Listening & Speaking strand explicitly calls out 'pronunciation (Chinese tones)' as a named sub-strand focus (1.4), and its content is presented in hanzi (Chinese characters) with no romanization given by the curriculum itself — pinyin used in this project's skills is added for learnability/typing since the app has no Chinese IME. All example Mandarin words/phrases were pulled directly from the curriculum design's own suggested-learning-experiences tables (parenthetical 'e.g.' examples), e.g. 您好/早上好/下午好/您贵姓 (greetings), 叔叔/表哥/姑姑/堂妹/爸爸/妈妈 (family), 猫/狗/兔子/牛/羊/猪/狮子/豹子/斑马/大象 (animals), 起床/睡觉/做饭/做作业 (daily routine verbs), 打算/要/会/请 + 公园/商场/动物园 (fun/plans), 餐馆/菜单/点菜/买单/筷子/碗 (eating out), 头疼/发烧/咳嗽/胃痛 (health), 晴天/下雨/下雪/刮风 (weather), 东南西北/左/右/拐/转 (directions) — not invented independently."
+}

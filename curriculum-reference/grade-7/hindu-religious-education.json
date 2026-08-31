@@ -1,0 +1,400 @@
+{
+  "subject": "Hindu Religious Education",
+  "subjectId": "hre",
+  "grade": 7,
+  "source": {
+    "title": "Junior School Curriculum Design — Hindu Religious Education Grade 7 (First published 2022, Reviewed 2024)",
+    "publisher": "Kenya Institute of Curriculum Development",
+    "isbn": "978-9914-43-812-3",
+    "retrievedDate": "2026-08-16",
+    "confidence": "high",
+    "notes": "designs/Hindu-Religious-Education-Grade-7-Design-Formatted-April-2024.pdf, provided by the user in the repo's designs/ folder. Read with the Read tool with NO pages parameter (poppler is unavailable in this environment); full text extracted natively across all 41 pages in one call. Strand/sub-strand structure verified verbatim against the design's own 'SUMMARY OF STRANDS AND SUB STRANDS' table (page x) and the six per-strand tables (pages 1-23). NOTE: Grade 7's sub-strand list does NOT mirror Grade 8 or Grade 9 HRE — it has 6 strands / 8 sub-strands, with Religious Practices and Yog each carrying two sub-strands."
+  },
+  "essenceNote": "HRE at Junior Secondary builds a sense of identity, belonging and self-inquiry across the physical, mental, moral, social and spiritual faculties. It teaches learners to build positive relationships and solve challenges collectively with care, empathy and respect for people of different heritages and religions, promoting religious freedom, diversity, inclusion and social cohesion (verbatim essence statement, page viii). The subject's general outcomes name four faiths throughout: Sanatan/Vedic, Jain, Buddhist and Sikh.",
+  "totalLessons": 120,
+  "strands": [
+    {
+      "name": "1.0 Manifestation of Supreme Being (Paramatma)",
+      "subStrands": [
+        {
+          "code": "1.1",
+          "name": "Enlightened Beings",
+          "lessonCount": 15,
+          "contentPool": [
+            "Guru Har Rai Ji",
+            "Lord Krishna",
+            "Lord Buddha",
+            "Tirthankar Neminath",
+            "Guru Har Krishan Ji",
+            "Guru Har Rai Ji and Dara Shikoh",
+            "Lord Krishna saving the honour of the Pandavas in the Jungle",
+            "Lord Buddha's research on dukkha",
+            "Tirthankar Neminath's compassion for animals",
+            "Guru Har Krishan Ji and Chhajumal"
+          ],
+          "specificLearningOutcomes": [
+            "narrate the listed stories of the Enlightened Beings for better understanding",
+            "explore the interrelationships of the Enlightened Beings for spiritual growth",
+            "illustrate the events mentioned in the lives of the Enlightened Beings for ease of understanding",
+            "appreciate the values taught by the Enlightened Beings for holistic development"
+          ],
+          "keyInquiryQuestions": [
+            "How do the teachings of Enlightened Beings contribute to uplifting society today?",
+            "Why is it important to adopt values drawn from the lives of Enlightened Beings?"
+          ],
+          "learningExperiences": [
+            "discuss and present the interrelationships of Enlightened Beings",
+            "use print and digital resources/digital resources with assistive technology to research on the stories of the Enlightened Beings",
+            "research using digital media/library/magazines/resource person(s), the events that each Enlightened Being underwent",
+            "draw or paint or make tactile cut-outs of the illustrations of events mentioned in the lives of Enlightened Beings to assist learners with special needs in class",
+            "participate in community service activities that lead to inclusivity, promotion of animal welfare and acts of kindness"
+          ],
+          "coreCompetencies": [
+            "Citizenship: socio-cultural sensitivity and awareness when exploring the interrelationships of the Enlightened Beings",
+            "Learning to Learn: sharing learnt knowledge when discussing and presenting interrelationships",
+            "Critical Thinking and Problem Solving: open-mindedness and creativity while using various media to research the lives of the Enlightened Beings, and while participating in animal welfare and mentorship programs",
+            "Digital Literacy: using print and digital resources/assistive technology to depict the stories"
+          ],
+          "values": ["Social justice — cooperation in community service leading to inclusivity, animal welfare and acts of kindness"],
+          "linkedLearningAreas": [
+            "Social Studies — community service learning activities",
+            "English — speaking skills when discussing and presenting the events each Enlightened Being underwent"
+          ],
+          "scopeNotes": [],
+          "assessmentSignal": "The rubric's three indicators are narrate stories, explore INTERRELATIONSHIPS (exceeding = 'using diagrams'), and illustrate the EVENTS. Interrelationship and event-sequence questions are therefore required, not optional — recall of names alone does not meet the rubric."
+        }
+      ]
+    },
+    {
+      "name": "2.0 Scriptures",
+      "subStrands": [
+        {
+          "code": "2.1",
+          "name": "Scriptural texts",
+          "lessonCount": 14,
+          "contentPool": [
+            "Yajur Ved — Shanti Mantra (Ch. 36, 17)",
+            "Uttradhyan Sutra Chapter 11, 12",
+            "Buddhist: Suittanipata",
+            "Sikh: Sukhmani Sahib 1-8 Ashtpadi (Summary)"
+          ],
+          "specificLearningOutcomes": [
+            "distinguish the four selected Scriptural texts that promote peace and harmony",
+            "apply values from the four selected Scriptures in daily life for sustainable living",
+            "create content to share relevant Scriptural messages that foster peace and harmony",
+            "appreciate approaches for restoring peace and harmony in society as stipulated in the Scriptures"
+          ],
+          "keyInquiryQuestions": [
+            "Why are Scriptures important in our lives?",
+            "How do Scriptures promote peace and harmony in society?"
+          ],
+          "learningExperiences": [
+            "discuss with peers their findings from the research regarding the values drawn from different Scriptures",
+            "interact with resource persons on values from Scriptures, create audio/video recordings, and present the same in class",
+            "conduct research using digital media/digital media with assistive technology library/magazines to identify Scriptures that promote peace in society through Scriptural texts",
+            "create and present skits that address various approaches on how humankind can be more peaceful and harmonious",
+            "read and discuss with the parents/guardians how Scriptures promote peace and harmony",
+            "assist learners with special needs as per their abilities through peer teaching basic concepts from Scriptures in their class"
+          ],
+          "coreCompetencies": [
+            "Citizenship: active community life skills when researching Scriptures that promote peace",
+            "Learning to Learn: self-reflection when creating and presenting skits on how humankind can be more peaceful",
+            "Digital Literacy Skills: digital citizenship when conducting research using digital media"
+          ],
+          "values": [
+            "Peace — calmness and respect for others during discussion and interaction with parents/guardians",
+            "Respect — patience when interacting with resource persons on values from Scriptures"
+          ],
+          "linkedLearningAreas": [
+            "Creative Arts and Sports — creating and presenting skits from Scriptural teachings",
+            "English — speaking skills when discussing research findings in groups",
+            "Social Studies — socialising with people of different social, cultural and religious backgrounds when visiting places of worship"
+          ],
+          "scopeNotes": [
+            "include: all FOUR texts are required — the rubric explicitly grades 'distinguishes all the four selected Scriptural texts', with three = approaching expectations and fewer than three = below expectations. A skill covering only two or three of the four texts fails the design's own bar."
+          ],
+          "assessmentSignal": "Rubric indicator 2 is 'ability to CREATE CONTENT to share relevant Scriptural messages' — the sub-strand is not purely recall; questions should reach applying/sharing a scriptural value in a real situation."
+        }
+      ]
+    },
+    {
+      "name": "3.0 Principles of Dharma (Dharmic Siddhant)",
+      "subStrands": [
+        {
+          "code": "3.1",
+          "name": "Fundamental Principles",
+          "lessonCount": 14,
+          "contentPool": [
+            "Principles of the four faiths",
+            "Pranidaya (compassion)",
+            "Purusharth (hard work)",
+            "Jain — Nonviolence (Ahimsa)",
+            "Jain — Non-stealing (Astey)",
+            "Sikh Dharma — Compassion (Daya)",
+            "Sikh Dharma — Humility (Nimrata)"
+          ],
+          "specificLearningOutcomes": [
+            "describe the four selected fundamental Principles of Dharma for knowledge in the four faiths",
+            "examine the Scriptural stories based on the four selected Principles of Dharma for social cohesion",
+            "practice the Principles of Dharma for spiritual nourishment",
+            "appreciate the Principles of Dharma for a balanced life"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to learn principles of Dharma?",
+            "How can the Principles of Dharma be practised in our daily lives?"
+          ],
+          "learningExperiences": [
+            "create a game on the fundamental principles of Dharma using locally available resources (For example, Monopoly, Snakes and Ladders, and Word Puzzles)",
+            "discuss with peers the importance of compassion to road crash survivors/victims following the Principles of Dharma in their lives",
+            "dramatize the Scriptural stories based on the fundamental principles of Dharma that enhance spiritual uplift",
+            "visit animal shelters, homes for the elderly and orphanages to practice fundamental principles",
+            "visit places of worship and interact with resource person(s) to gain insight into the application of Principles of Dharma",
+            "assist learners with special needs as per their abilities through peer teaching the lessons drawn from the Scriptural stories"
+          ],
+          "coreCompetencies": [
+            "Learning to Learn: developing relationships when creating games on the fundamental Principles of Dharma",
+            "Self-efficacy: interacting with technology when researching the importance of the Principles of Dharma",
+            "Creativity and Imagination: originality in creating games and dramatizing Scriptural stories",
+            "Citizenship: social and civil skills when visiting places of worship, homes of the elderly, orphanages and animal shelters"
+          ],
+          "values": [
+            "Love — generosity and hospitality when visiting orphanages/homes for the elderly and animal shelters",
+            "Responsibility — diligence in researching and applying the Principles of Dharma"
+          ],
+          "linkedLearningAreas": [
+            "English — writing and finding translations of the terminologies used in explaining the Principles of Dharma",
+            "Creative Arts and Sports — performing skits and creating games on the Principles of Dharma",
+            "Social Studies — taking care of the environment and animals"
+          ],
+          "scopeNotes": [
+            "include: the design's own gloss is binding — 'Pranidaya (compassion)' and 'Purusharth (hard work)'. Purusharth is glossed by KICD as hard work/self-effort at this grade, NOT as the classical four aims of life (dharma/artha/kama/moksha); do not silently substitute the classical meaning.",
+            "include: road-crash survivors/victims are named explicitly as the compassion application context — this is a KICD-supplied real-world framing, not an invented one."
+          ],
+          "assessmentSignal": "Rubric grades 'describes ALL the four selected Principles' (three = approaching). It also grades 'examines the Scriptural stories based on the Principles of Dharma WITH CORRECT EVIDENCE' — evidence-linked, story-grounded questions are required, not bare definitions."
+        }
+      ]
+    },
+    {
+      "name": "4.0 Religious Practices",
+      "subStrands": [
+        {
+          "code": "4.1",
+          "name": "Buddhist Practices",
+          "lessonCount": 15,
+          "contentPool": [
+            "Paying homage to the Buddha (Buddha Vandana)",
+            "Taking refuge in the triple gem (Tisarana)",
+            "Taking the five precepts (Panchasila)",
+            "Offerings (Puja)",
+            "Tranquillity meditation (Samantha)",
+            "Insight meditation (Vipassana)",
+            "Metta meditation and sharing of merits"
+          ],
+          "specificLearningOutcomes": [
+            "examine the Buddhist daily scheduled practices for generalisation",
+            "illustrate the observance of the scheduled religious practices in daily life",
+            "practice the Buddhist scheduled religious practices in daily life",
+            "appreciate the benefits of the Buddhist daily scheduled practices for harmonious living"
+          ],
+          "keyInquiryQuestions": [
+            "How do daily scheduled practices benefit society?",
+            "How do meditation practices impact one's life?"
+          ],
+          "learningExperiences": [
+            "mention Buddhist daily scheduled practices",
+            "conduct research on the Buddhist daily scheduled practices using digital devices/resource persons/library",
+            "tabulate and make a presentation of the findings on Buddhist daily scheduled practices",
+            "participate in discussions with peers on individual findings on the benefits of each practice",
+            "visit the Vihar (Buddhist temple) and record a video/take photographs (with permission) of the daily scheduled practices and present it in class",
+            "recite Mantras used during scheduled practices",
+            "assist learners with special needs as per their abilities the religious practices carried out in a place of worship"
+          ],
+          "coreCompetencies": [
+            "Citizenship: socio-cultural sensitivity in group discussions on the benefits of each practice",
+            "Self-efficacy and Critical thinking: self-awareness, planning skills and critical thinking when tabulating and presenting findings",
+            "Digital Literacy: researching the Buddhist daily scheduled practices using digital devices"
+          ],
+          "values": [
+            "Peace — calmness while observing scheduled practices in the Buddhist faith",
+            "Respect — patience and appreciation of diverse opinions in group activities"
+          ],
+          "linkedLearningAreas": [
+            "Social Studies — interacting with individuals and resource persons from the Buddhist faith",
+            "Creative Arts and Sports — reciting mantras",
+            "English — speaking and reciting Mantras used during scheduled practices"
+          ],
+          "scopeNotes": [
+            "include: all SEVEN listed practices are in scope — the seven-item list is the hard floor on the fact pool for this sub-strand.",
+            "note: 'Samantha' is the design's spelling of Samatha (tranquillity/calm-abiding) and 'Suittanipata' of Sutta Nipata — KICD transliterations are used in learner-facing text, with the standard spelling noted where helpful."
+          ],
+          "assessmentSignal": "Core Competencies explicitly name Critical thinking → an Analyze/Evaluate-tier branch is mandatory for this sub-strand, not optional. Rubric also grades 'illustrates the OBSERVANCE ... in daily life', i.e. applying the practice, not naming it."
+        },
+        {
+          "code": "4.2",
+          "name": "Places of Worship",
+          "lessonCount": 16,
+          "contentPool": ["Durga Pooja", "Ayambil", "Vesak", "GurPurab"],
+          "specificLearningOutcomes": [
+            "outline the practices conducted during the festivals at the places of worship for a deeper understanding",
+            "illustrate the religious practices of the four faiths for community integration",
+            "acknowledge commonalities within the religious practices for self-reflection"
+          ],
+          "keyInquiryQuestions": [
+            "How do celebrations of festivals at places of worship help in inculcating moral values in our life?",
+            "Why is it important to celebrate religious festivals at places of worship?"
+          ],
+          "learningExperiences": [
+            "use digital devices/digital devices with assistive technology for learners with special needs/resource persons/library, to conduct research on religious practices",
+            "attend at least one of the listed festivals and discuss their findings with peers",
+            "prepare and present a creative piece of artwork on their understanding of the commonalities of the religious practices in the four faiths",
+            "interact with a resource person(s) on the commonalities of the religious practices in the four faiths"
+          ],
+          "coreCompetencies": [
+            "Communication and Collaboration: attending at least one of the listed festivals",
+            "Digital Literacy: preparing and presenting creative artwork on the commonalities of the religious practices in the four faiths"
+          ],
+          "values": ["Integrity — discipline and avoiding breaches of confidentiality and security when attending a festival"],
+          "linkedLearningAreas": ["Creative Arts and Sports — preparing and presenting a creative piece of artwork on the commonalities of the religious festivals"],
+          "scopeNotes": [
+            "include: one festival per faith — Durga Pooja (Sanatan/Vedic), Ayambil (Jain), Vesak (Buddhist), GurPurab (Sikh). The COMMONALITIES across the four are an explicit outcome (c) in their own right, not a bonus."
+          ],
+          "assessmentSignal": "Rubric: 'outlines the practices conducted during the festivals ... SYSTEMATICALLY' (exceeding) vs 'without the CORRECT ORDER' (approaching). Sequence is directly graded here — an ordering-kind branch is the rubric-aligned interaction for this sub-strand."
+        }
+      ]
+    },
+    {
+      "name": "5.0 Yog",
+      "subStrands": [
+        {
+          "code": "5.1",
+          "name": "Concepts of Yog",
+          "lessonCount": 16,
+          "contentPool": ["devotion (bhakti)", "knowledge (jnana)", "action (karma)"],
+          "specificLearningOutcomes": [
+            "explore the three selected concepts of Yog for personal development",
+            "distinguish the three selected Yog concepts for better understanding",
+            "illustrate circumstances under which Yog is applicable in daily life",
+            "acknowledge the role of Yog for spiritual growth"
+          ],
+          "keyInquiryQuestions": [
+            "How is Yog beneficial in developing life skills?",
+            "Why is Yog significant in spiritual nourishment?"
+          ],
+          "learningExperiences": [
+            "use digital devices/digital devices with assistive software for learners with special needs/resource person(s)/library to research on the three different concepts of Yog",
+            "discuss with peers and present the findings in class",
+            "recite concept of Yog with the help of their parents/guidance and teacher",
+            "categorise and tabulate or write the different concepts of Yog",
+            "make a presentation to illustrate the circumstances under which Yog is applicable",
+            "participate in charitable activities that foster the three concepts of Yog"
+          ],
+          "coreCompetencies": ["Digital literacy: researching the three different concepts of Yog"],
+          "values": ["Responsibility — hard work when participating in charitable activities that foster the three concepts of Yog"],
+          "linkedLearningAreas": ["English — speaking and reciting the concept of Yog with the help of parents/guardians and teacher"],
+          "scopeNotes": [
+            "include: the design names exactly THREE concepts (bhakti, jnana, karma) for Grade 7. Do not import the eight limbs of Ashtanga Yog or Raja Yog — they are not in this grade's design.",
+            "note: 'categorise and tabulate ... the different concepts of Yog' is an explicit learning experience — a categorize-kind branch is directly curriculum-endorsed here."
+          ],
+          "assessmentSignal": "Rubric grades exploring AND distinguishing all three concepts; outcome (c) 'illustrate CIRCUMSTANCES under which Yog is applicable in daily life' requires Apply-tier situational questions, not definitions."
+        },
+        {
+          "code": "5.2",
+          "name": "Path of Devotion (Bhakti Yog)",
+          "lessonCount": 15,
+          "contentPool": [
+            "Personal — mantras",
+            "Personal — mala",
+            "Personal — meditation",
+            "Personal — chanting/recitation",
+            "Communal — Satsang",
+            "Communal — Sangha",
+            "Communal — Sangat"
+          ],
+          "specificLearningOutcomes": [
+            "describe the elements of Bhakti Yog as per the four faiths for a deeper understanding",
+            "explore the key activities of Bhakti Yog among the four faiths for self-development",
+            "practice the elements of Bhakti Yog for spiritual growth",
+            "acknowledge the role of Bhakti Yog for spiritual development"
+          ],
+          "keyInquiryQuestions": [
+            "Why is devotion important in our lives?",
+            "How can we use the key elements of Bhakti Yog to strengthen devotion?"
+          ],
+          "learningExperiences": [
+            "name element of Bhakti Yog as per the four faiths",
+            "interact with resource person(s) from the four faiths (Sanatan/Vedic, Jain, Buddhist, and Sikh) to understand the key elements of Bhakti Yog",
+            "design and present a poster/chart/tactile illustration of their findings from the resource person",
+            "use digital devices/print media to capture devotional activities for discussion and performance (recite/sing/sign/dance)",
+            "compose and recite their own unique devotional poem for self-reflection",
+            "participate in activities that focus on faith and trust towards each other while practising Bhakti Yog",
+            "assist learners with special needs as per their abilities through peer teaching basic meditation in Yoga"
+          ],
+          "coreCompetencies": ["Creativity and Imagination: designing and presenting a poster/chart/tactile illustration of findings from the resource person"],
+          "values": ["Social justice — cooperation in activities focused on faith and trust towards each other while practising Bhakti Yog"],
+          "linkedLearningAreas": [
+            "Creative Arts and Sports — designing and presenting a poster/chart",
+            "English — composing and reciting their own devotional poem"
+          ],
+          "scopeNotes": [
+            "include: the personal/communal split is the design's own structure — four personal elements (mantras, mala, meditation, chanting/recitation) and three named communal terms (Satsang, Sangha, Sangat), each belonging to a different tradition.",
+            "include: 'as per the FOUR faiths' recurs in three of the four outcomes — every element should be shown across Sanatan/Vedic, Jain, Buddhist and Sikh practice, not in one tradition only."
+          ],
+          "assessmentSignal": "Rubric indicator: 'describes the elements of Bhakti Yog as per the four faiths WITH RELEVANT EXAMPLES' — per-faith worked examples are what 'exceeding' looks like."
+        }
+      ]
+    },
+    {
+      "name": "6.0 Rites of Passage (Sanskaars)",
+      "subStrands": [
+        {
+          "code": "6.1",
+          "name": "Religious Ceremonies",
+          "lessonCount": 15,
+          "contentPool": [
+            "Sanatan/Vedic — Birth Ceremony (Jatkaram)",
+            "Sanatan/Vedic — Naming Ceremony (Naamkaran)",
+            "Sikh — Naming ceremony",
+            "Sikh — tying the turban (dastar bandhan)"
+          ],
+          "specificLearningOutcomes": [
+            "examine the three selected religious ceremonies performed in the four faiths",
+            "interpret the significance of the three selected religious ceremonies for social cohesion",
+            "participate in the religious ceremonies for social cohesion",
+            "appreciate the practice of religious ceremonies for cultural preservation"
+          ],
+          "keyInquiryQuestions": [
+            "Why are the religious ceremonies significant in modern society?",
+            "How do religious ceremonies contribute to the purification of the mind, body and soul?"
+          ],
+          "learningExperiences": [
+            "mention religious ceremonies performed by four faiths",
+            "use different digital devices/digital devices with assistive software for learners with special needs/print media to explore the following religious ceremonies",
+            "watch/listen to audio-visual clips or visit places of worship accompanied by elders/parents/guardians to gather more information on religious ceremonies in the four faiths from a resource person (priest/community management)",
+            "make a video/participate in making an audio-visual clip on the religious ceremonies which can be shown in class",
+            "write an essay for peer review on the traditions of religious ceremonies",
+            "sing/sign/listen to the songs/hymns/verses related to religious ceremonies"
+          ],
+          "coreCompetencies": [
+            "Digital Literacy: making a video/audio-visual clip on the religious ceremonies",
+            "Learning to learn: gathering information on religious ceremonies in the four faiths from a resource person (priest/community management)"
+          ],
+          "values": ["Respect — etiquette when singing/signing/listening to the songs/hymns/verses related to religious ceremonies"],
+          "linkedLearningAreas": [
+            "English — writing an essay for peer review on the traditions of religious ceremonies",
+            "Creative Arts and Sports — singing/signing songs/hymns/verses related to religious ceremonies"
+          ],
+          "scopeNotes": [
+            "note: the sub-strand bullet list carries FOUR named ceremonies (Jatkaram, Naamkaran, Sikh naming, dastar bandhan) while the outcomes and rubric both say 'the three selected religious ceremonies'. The discrepancy is in the source. Resolution taken: teach all four named bullets — covering four cannot fail a rubric that grades three, whereas dropping one risks omitting a named item.",
+            "include: outcome (b) 'INTERPRET THE SIGNIFICANCE ... for social cohesion' — meaning-of-the-rite questions are required alongside procedure questions."
+          ],
+          "assessmentSignal": "Rubric grades interpreting the SIGNIFICANCE of the ceremonies 'with examples' at exceeding level; procedure recall alone only reaches the lower bands."
+        }
+      ]
+    }
+  ],
+  "visualCoverageDecision": {
+    "checked": ["Assests-svg/ (40 files)", "root design doc 'more about svg usage per cbc curriculum'"],
+    "finding": "Assests-svg/ holds only animal, fruit, food and planet icons (svgrepo cartoon set) — nothing religious. The SVG design doc's Junior School section prescribes maths instruments, lab apparatus, hand tools, PPE, maps, charts and 3D solids; its only mention of Religious Education is inside a 'Social Studies & Religious Education' row that lists map work, the 47 counties and weather instruments — none applicable to HRE content. VisualSpec in web/src/lib/types.ts likewise carries no religious primitive.",
+    "decision": "No SVG/photo visual built for any HRE Grade 7 skill. Declined for absence of a suitable, respectful primitive rather than absence of effort — depicting deities, Gurus, Tirthankars or the Guru Granth Sahib in generated cartoon SVG would risk misrepresenting sacred figures, and neither source sanctions it. Recorded inline in each skill file. Revisit only if the user commissions a purpose-made, community-reviewed HRE asset set."
+  }
+}

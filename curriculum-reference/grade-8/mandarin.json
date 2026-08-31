@@ -1,0 +1,330 @@
+{
+  "subject": "Mandarin",
+  "subjectId": "mandarin",
+  "grade": 8,
+  "source": {
+    "title": "Junior School Curriculum Design — Mandarin Grade 8 (First published 2023, Revised 2024)",
+    "url": "https://easylearn.co.ke/images/document/11752303/Mandarin-Grade-8-Design-July-2024-Revised.pdf",
+    "publisher": "KICD",
+    "isbn": "978-9914-43-794-2",
+    "retrievedDate": "2026-08-14",
+    "confidence": "high",
+    "notes": "kicd.ac.ke's grade-eight-designs page embeds this exact PDF via Google Drive file id 1KxyvR6lreOFJQ8LcdFuWCQteJvSUGJrI (title confirmed via WebFetch on the Drive /preview page: 'Mandarin Grade 8 Design - July 2024 - Revised.pdf'). Drive direct download is permission-locked by the owner, so the PDF was instead fetched via this easylearn.co.ke mirror; WebFetch reported binary/unreadable content but saved the PDF locally, and Claude's Read tool parsed the full text natively (not summarized). Structure verified verbatim against the PDF's SUMMARY OF STRANDS AND SUB STRANDS table (page xii) and the per-theme strand tables (pages 1-57)."
+  },
+  "essenceNote": "Kenya is part of the international community and learners have the opportunity to learn foreign languages (Arabic, French, German and Mandarin Chinese) in addition to national, official and indigenous languages, acquiring the four language skills (listening, speaking, reading, writing) at a basic (A1/YCT2-equivalent) level in a non-formal, experiential curriculum (verbatim essence statement).",
+  "strands": [
+    {
+      "name": "1.0 Listening and Speaking",
+      "subStrands": [
+        {
+          "code": "1.1",
+          "name": "Active Listening — Articulation, Pronunciation",
+          "theme": "Greetings and Introduction",
+          "specificLearningOutcomes": [
+            "Repeat words and phrases from audio and textual sources",
+            "Articulate sounds and words with proper pronunciation",
+            "Acknowledge the importance of proper language usage in formal and polite contexts"
+          ],
+          "keyInquiryQuestions": ["What strategies can you use to improve your pronunciation?"]
+        },
+        {
+          "code": "1.2",
+          "name": "Active Listening — Chinese Tones, Intonation",
+          "theme": "Family",
+          "specificLearningOutcomes": [
+            "Replicate vocabulary from various oral texts",
+            "Apply appropriate tone and intonation in sentences",
+            "Appreciate the role of active listening in communication"
+          ],
+          "keyInquiryQuestions": ["How can we enhance our pronunciation skills?"]
+        },
+        {
+          "code": "1.3",
+          "name": "Interactive Speaking — Active Listening, Nonverbal Cues",
+          "theme": "My Surroundings",
+          "specificLearningOutcomes": [
+            "Restate key words and phrases in varied listening contexts",
+            "Apply non-verbal cues appropriately to enhance communication",
+            "Exhibit interest in speaking clearly while interacting with others"
+          ],
+          "keyInquiryQuestions": ["How do you interact effectively with others?"]
+        },
+        {
+          "code": "1.4",
+          "name": "Oral Expression — Active Listening, Comprehension",
+          "theme": "Time",
+          "specificLearningOutcomes": [
+            "Distinguish familiar and unfamiliar words and phrases in texts",
+            "Respond to simple questions clearly and logically",
+            "Appreciate the importance of listening attentively while communicating"
+          ],
+          "keyInquiryQuestions": ["How can one practise active listening skills?"]
+        },
+        {
+          "code": "1.5",
+          "name": "Oral Expression — Vocabulary Development, Language Use",
+          "theme": "Fun and Enjoyment",
+          "specificLearningOutcomes": [
+            "Repeat words and phrases from varied oral texts",
+            "Use appropriate vocabulary and language for different contexts",
+            "Appreciate the importance of expressing ideas clearly in oral communication"
+          ],
+          "keyInquiryQuestions": ["What techniques can enhance speaking clarity?"]
+        },
+        {
+          "code": "1.6",
+          "name": "Oral Expression — Vocabulary Development, Sentence Construction",
+          "theme": "Foods and Drinks",
+          "specificLearningOutcomes": [
+            "Recall key information from texts",
+            "Construct simple sentences on varied topics in Chinese",
+            "Acknowledge the importance of clarity of ideas when communicating"
+          ],
+          "keyInquiryQuestions": ["What strategies can you use to ensure clarity of ideas during oral communication?"]
+        },
+        {
+          "code": "1.7",
+          "name": "Listening for Information — Comprehension, Verbal and Non-Verbal Cues",
+          "theme": "My Body",
+          "specificLearningOutcomes": [
+            "Mention keywords and phrases in the depicted context",
+            "Examine verbal and non-verbal cues to comprehend information",
+            "Acknowledge the importance of listening actively to retain information"
+          ],
+          "keyInquiryQuestions": ["What listening strategies can you use to enhance comprehension?"]
+        },
+        {
+          "code": "1.8",
+          "name": "Listening for Information — Active Listening, Summarising",
+          "theme": "Weather and Environment",
+          "specificLearningOutcomes": [
+            "Highlight vocabulary from audio-visual texts",
+            "Summarise the key information from various oral texts",
+            "Show an interest in understanding key information in an aural context"
+          ],
+          "keyInquiryQuestions": ["How can you improve your ability to retain information while listening?"]
+        },
+        {
+          "code": "1.9",
+          "name": "Interactive Speaking — Active Listening, Pronunciation (Volume and Tone)",
+          "theme": "Getting Around",
+          "specificLearningOutcomes": [
+            "Recall words, phrases and expressions from varied texts",
+            "Talk about familiar topics using appropriate volume, tone and pronunciation",
+            "Exhibit interest in speaking clearly and confidently on various topics"
+          ],
+          "keyInquiryQuestions": ["What strategies can keep one's audience engaged in an interaction?"]
+        }
+      ]
+    },
+    {
+      "name": "2.0 Reading",
+      "subStrands": [
+        {
+          "code": "2.1",
+          "name": "Reading for Fluency — Comprehension, Fluency (Speed)",
+          "theme": "Greetings and Introduction",
+          "specificLearningOutcomes": [
+            "List key words, phrases and expressions from a reading text",
+            "Read out simple sentences in texts with appropriate speed",
+            "Recognize the significance of effective articulation in achieving fluency"
+          ],
+          "keyInquiryQuestions": ["How can reading fluency be achieved?"]
+        },
+        {
+          "code": "2.2",
+          "name": "Reading for Fluency — Word Recognition, Comprehension",
+          "theme": "Family",
+          "specificLearningOutcomes": [
+            "Identify vocabulary from reading texts for learning",
+            "Read texts on varied themes for comprehension",
+            "Exhibit enthusiasm in reading texts fluently for comprehension"
+          ],
+          "keyInquiryQuestions": ["How does reading fluency enhance communication?"]
+        },
+        {
+          "code": "2.3",
+          "name": "Reading for Understanding — Vocabulary Development, Comprehension",
+          "theme": "My Surroundings",
+          "specificLearningOutcomes": [
+            "Outline words and phrases from a reading text",
+            "Explain key information in a reading comprehension",
+            "Appreciate the role of reading comprehension in communication"
+          ],
+          "keyInquiryQuestions": ["How can we enhance understanding while reading texts?"]
+        },
+        {
+          "code": "2.4",
+          "name": "Reading for Fluency — Decoding Words, Fluency",
+          "theme": "Time",
+          "specificLearningOutcomes": [
+            "Identify words and phrases in texts",
+            "Read short texts on familiar topics fluently",
+            "Acknowledge the role of reading fluently in enhancing comprehension"
+          ],
+          "keyInquiryQuestions": ["How can we enhance reading fluency?"]
+        },
+        {
+          "code": "2.5",
+          "name": "Reading for Fluency — Word Recognition, Fluency (Rhythm, Expression, Intonation)",
+          "theme": "Fun and Enjoyment",
+          "specificLearningOutcomes": [
+            "Outline words, expressions and phrases from texts",
+            "Read simple texts with appropriate expression, intonation and rhythm",
+            "Appreciate the value of reading extensively to enhance fluency"
+          ],
+          "keyInquiryQuestions": ["What strategies can you use to be a fluent reader?"]
+        },
+        {
+          "code": "2.6",
+          "name": "Reading for Fluency — Vocabulary Development, Reading Fluency",
+          "theme": "Foods and Drinks",
+          "specificLearningOutcomes": [
+            "Compile key words, phrases and expressions in texts",
+            "Read simple texts fluently for comprehension",
+            "Show interest in applying fluency skills across various types of texts"
+          ],
+          "keyInquiryQuestions": ["How does reading fluency help in effective communication?"]
+        },
+        {
+          "code": "2.7",
+          "name": "Reading for Fluency — Vocabulary Building, Reading Fluency",
+          "theme": "My Body",
+          "specificLearningOutcomes": [
+            "Categorise keywords and phrases according to the context",
+            "Read simple texts on varied themes fluently",
+            "Exhibit interest in reading and pronouncing words accurately for fluency"
+          ],
+          "keyInquiryQuestions": ["How does fluency enhance communication?"]
+        },
+        {
+          "code": "2.8",
+          "name": "Reading for Understanding — Word Recognition, Comprehension",
+          "theme": "Weather and Environment",
+          "specificLearningOutcomes": [
+            "Outline targeted vocabulary from varied texts",
+            "Respond to questions from a written text",
+            "Propose methods to improve one's reading comprehension"
+          ],
+          "keyInquiryQuestions": ["What reading strategies can you use to improve comprehension of texts?"]
+        },
+        {
+          "code": "2.9",
+          "name": "Reading for Fluency — Vocabulary Development, Reading Fluency",
+          "theme": "Getting Around",
+          "specificLearningOutcomes": [
+            "Highlight key words and phrases in a written text",
+            "Read simple texts fluently",
+            "Acknowledge the importance of reading fluently for communication"
+          ],
+          "keyInquiryQuestions": ["What strategies can be used to improve one's fluency?"]
+        }
+      ]
+    },
+    {
+      "name": "3.0 Writing",
+      "subStrands": [
+        {
+          "code": "3.1",
+          "name": "Guided Writing — Orthography, Handwriting (Spelling)",
+          "theme": "Greetings and Introduction",
+          "specificLearningOutcomes": [
+            "Write words and phrases from an audio text",
+            "Compose simple texts on various topics legibly and neatly",
+            "Appreciate the role of handwriting in communication"
+          ],
+          "keyInquiryQuestions": ["How can handwriting be enhanced?"]
+        },
+        {
+          "code": "3.2",
+          "name": "Guided Writing — Paragraph Writing",
+          "theme": "Family",
+          "specificLearningOutcomes": [
+            "Compile key words and phrases from varied texts",
+            "Compose simple Chinese sentences on a variety of topics",
+            "Appreciate the importance of self-evaluation in improving writing"
+          ],
+          "keyInquiryQuestions": ["What strategies can you use to write effectively?"]
+        },
+        {
+          "code": "3.3",
+          "name": "Guided Writing — Mechanics of Writing (Word Order)",
+          "theme": "My Surroundings",
+          "specificLearningOutcomes": [
+            "Enumerate vocabulary relevant to the topic from written texts",
+            "Write simple texts on varied topics with appropriate word order",
+            "Recognise the importance of writing neatly and legibly"
+          ],
+          "keyInquiryQuestions": ["How does word order influence readability and coherence of texts?"]
+        },
+        {
+          "code": "3.4",
+          "name": "Guided Writing — Word Recognition, Paragraph Writing (Coherence)",
+          "theme": "Time",
+          "specificLearningOutcomes": [
+            "Identify words, phrases and expressions in written texts",
+            "Compose simple texts in an organised and coherent manner",
+            "Appreciate the significance of accuracy in written communication"
+          ],
+          "keyInquiryQuestions": ["How can you ensure clarity and coherence in written texts?"]
+        },
+        {
+          "code": "3.5",
+          "name": "Guided Writing — Grammatical Structures",
+          "theme": "Fun and Enjoyment",
+          "specificLearningOutcomes": [
+            "Recall words, phrases and expressions from texts",
+            "Apply appropriate grammatical structures in written texts",
+            "Show interest in using acquired vocabulary to improve writing"
+          ],
+          "keyInquiryQuestions": ["How can you ensure grammatical accuracy in written texts?"]
+        },
+        {
+          "code": "3.6",
+          "name": "Guided Writing — Vocabulary Building, Paragraph Writing (Coherence)",
+          "theme": "Foods and Drinks",
+          "specificLearningOutcomes": [
+            "Write simple sentences using the targeted vocabulary",
+            "Write clear and coherent texts on various themes in Chinese",
+            "Develop an interest to express ideas clearly in writing"
+          ],
+          "keyInquiryQuestions": ["How do you write coherent texts?"]
+        },
+        {
+          "code": "3.7",
+          "name": "Guided Writing — Orthography (Rules of Writing)",
+          "theme": "My Body",
+          "specificLearningOutcomes": [
+            "Use appropriate vocabulary to express ideas in writing",
+            "Apply various writing conventions in texts",
+            "Appreciate the importance of legibility in written communication"
+          ],
+          "keyInquiryQuestions": ["How do you enhance readability of texts?"]
+        },
+        {
+          "code": "3.8",
+          "name": "Guided Writing — Mechanisms of Writing (Word Order), Handwriting",
+          "theme": "Weather and Environment",
+          "specificLearningOutcomes": [
+            "List key words and phrases in written texts",
+            "Construct sentences with appropriate word order in varied contexts",
+            "Show enthusiasm in writing clearly for effective communication"
+          ],
+          "keyInquiryQuestions": ["How can you write effectively?"]
+        },
+        {
+          "code": "3.9",
+          "name": "Guided Writing — Handwriting, Vocabulary and Language Use",
+          "theme": "Getting Around",
+          "specificLearningOutcomes": [
+            "Enumerate vocabulary in a given context",
+            "Utilise contextually appropriate vocabulary in written communication",
+            "Develop an appreciation for Chinese characters"
+          ],
+          "keyInquiryQuestions": ["How can you use vocabulary effectively in writing?"]
+        }
+      ]
+    }
+  ],
+  "notes": "Same 9 themes repeat identically across all 3 strands (Greetings and Introduction, Family, My Surroundings, Time, Fun and Enjoyment, Foods and Drinks, My Body, Weather and Environment, Getting Around) = 27 distinct sub-strands (9 themes x 3 strands), confirmed verbatim from the PDF's own per-theme tables — an exact structural and theme-order match to Mandarin's own Grade 9 design and to French/German's Grade 8 designs. Unlike the per-theme sub-strand tables, this design's front-matter SUMMARY OF STRANDS AND SUB STRANDS table (page xii) groups sub-strand *types* generically by strand (e.g. 'Active Listening', 'Oral expression', 'Reading for fluency', 'Guided writing') with aggregate lesson counts (Listening & Speaking: Active Listening 6 + Oral expression 9 + Listening for information 6 + Interactive speaking 6 = 27; Reading: Reading for understanding 6 + Reading for fluency 14 = 20 [table shows 6+14=20, though only 18 lessons are itemized across the 9 reading sub-strands in-body — a minor internal inconsistency in the source]; Writing: Guided writing 9 + Exhibitions and Showcase 6 = 15) rather than per-theme names — the per-theme codes/names used here (1.1-1.9, 2.1-2.9, 3.1-3.9) are read directly from each theme's own strand table, the more specific and authoritative source, matching the French/German/Mandarin-Grade-9 precedent. Distinctive to Mandarin: content is presented in hanzi (Chinese characters) with pinyin romanization provided by the curriculum itself throughout (unlike Grade 9 Mandarin, where pinyin had to be supplied independently) — e.g. 您好/早上好/下午好 (greetings), 叔叔/姑姑/舅舅/阿姨/堂弟/表妹 (extended family + professions like 医生/护士/老师), 车站/派出所/学校/邮局/医院/银行/商场 (surroundings), 点/分/半/刻/差 (telling time), 爬山/游泳/钓鱼/骑自行车 (recreation), 烤箱/冰箱/菜板/煮/炒/炸/煎/蒸/炖/烤 (kitchen), 快乐/伤心/生气/兴奋/惊讶/疲倦 (emotions), 山/湖/河/洋/海/大裂谷/沙漠/森林 (physical features), 小汽车/出租车/公交车/自行车/摩托车/火车/驴子/骆驼/走路/飞机 (transport) — all pulled directly from the design's own suggested-learning-experiences tables, not invented independently."
+}

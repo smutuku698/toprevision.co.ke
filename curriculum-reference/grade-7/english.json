@@ -1,0 +1,1916 @@
+{
+  "subject": "English",
+  "subjectId": "english",
+  "grade": 7,
+  "source": {
+    "title": "Junior School Curriculum Design — English, Grade 7",
+    "path": "designs-grade-7/English-Grade-7-Curriculum-Designs.pdf",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-17",
+    "confidence": "high",
+    "notes": "Read in full via the Read tool (no pages param). First published 2022, Revised 2024. Backfilled retroactively — skills already shipped in web/src/skills/englishG7/ before this record was written. The design organizes content as 15 real-world THEMES (1.0 Personal Responsibility through 15.0 Tourist Attraction Sites - Kenya), each containing exactly 5 sub-strands: Listening & Speaking, Reading (first pass — extensive/intensive), Grammar in Use, Reading (second pass — class reader/oral literature/poetry), and Writing. Each sub-strand is 2 lessons; 15 themes x 5 sub-strands x 2 lessons = 150 total lessons, matching the design's own Summary of Strands and Substrands table. This JSON models each Theme as a 'strand' and its 5 rows as 'subStrands', following the body-text organization rather than the front-matter summary table's cross-theme grouping (Listening and Speaking / Reading 1 and 2 / Grammar / Writing), since the body text — where the actual outcomes, learning experiences and PCIs live — is organized by theme. Theme 7.0's Listening and Speaking sub-strand is numbered '7.1.2' (not '7.1.1') in the source PDF itself — transcribed verbatim, not a typo introduced here. Class reader content (Guidelines on the Study of Class Readers) specifies a novella genre and explicitly states readers are NOT set texts — assessment must not be pegged to specific class readers."
+  },
+  "strands": [
+    {
+      "name": "1.0 Personal Responsibility",
+      "subStrands": [
+        {
+          "name": "1.1.1 Conversational Skills: Polite Language",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify polite expressions used in the introduction of self and others",
+            "use polite expressions in the introduction of self and others in different speaking contexts",
+            "model respectful behaviour during introductions"
+          ],
+          "keyInquiryQuestions": ["Why is it important for people to introduce themselves?"],
+          "learningExperiences": [
+            "make a list of necessary details about people that one needs to know for effective introduction",
+            "brainstorm different types of introduction",
+            "list polite expressions that can be used during the introduction",
+            "match polite expressions to corresponding types of introduction",
+            "discuss reasons for using polite language in introductions",
+            "use games such as 'catch the ball' for the introduction of others",
+            "role-play different contexts of self-introduction with peers",
+            "review an audio or video recording of formal and informal introductions"
+          ],
+          "linkedLearningAreas": ["Religious Education: using the concept of polite language while working with peers."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Peace education", "Effective communication"]
+        },
+        {
+          "name": "1.2.1 Extensive Reading: Independent Reading",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify a variety of texts for independent reading",
+            "read selected materials for information and enjoyment",
+            "appreciate the value of independent reading in lifelong learning"
+          ],
+          "keyInquiryQuestions": ["How can you ensure that you benefit from a reading session?"],
+          "learningExperiences": [
+            "think-pair-share on the factors to consider when selecting reading material",
+            "select appropriate reading materials related to personal responsibility",
+            "set and share reading goals for the session",
+            "read selected print and non-print materials independently",
+            "observe good reading habits",
+            "keep a portfolio or a journal of their experiences during the reading session",
+            "conduct peer review of the portfolios and journals kept"
+          ],
+          "linkedLearningAreas": ["Agriculture: use of the concept of independent reading."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem solving"],
+          "values": ["Respect", "Responsibility"],
+          "pertinentContemporaryIssues": ["Effective communication"]
+        },
+        {
+          "name": "1.3.1 Word Classes: Nouns",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the different types of nouns from a print or digital text",
+            "use different types of nouns in sentences",
+            "appreciate the role of correct grammar in written and spoken communication"
+          ],
+          "keyInquiryQuestions": ["Why is it important to identify items by name?"],
+          "learningExperiences": [
+            "read a print or non-print text",
+            "identify common, proper, concrete, and abstract nouns",
+            "work with peers to search online for examples of the common, proper, concrete, and abstract nouns, and compile a list of the nouns",
+            "listen to a poem or a story and categorise the nouns used",
+            "mention examples of common, proper, concrete and abstract nouns in the classroom and school",
+            "construct sentences using common, proper, concrete, and abstract nouns",
+            "complete substitution tables with the different types of nouns",
+            "engage in language games such as scrabble, puzzles, code words, and guessing games",
+            "write and display stories, songs, or poems featuring the different types of nouns"
+          ],
+          "linkedLearningAreas": ["Kiswahili: use of the concept of nouns."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn"],
+          "values": ["Unity", "Patriotism"],
+          "pertinentContemporaryIssues": ["Digital citizenship and cyber wellness"]
+        },
+        {
+          "name": "1.4.1 Intensive Reading: Trickster Narratives",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the main events in trickster narratives",
+            "analyse the characters in narratives",
+            "appreciate the importance of trickster narratives in the inculcation of values"
+          ],
+          "keyInquiryQuestions": ["Why would we listen to trickster narratives?"],
+          "learningExperiences": [
+            "engage in pre-reading activities such as previewing the title of the narrative, using picture clues, and brainstorming",
+            "recount the events in the trickster narrative and highlight the trick in the narrative",
+            "discuss the various character traits displayed by the characters",
+            "brainstorm on the moral lessons from the narrative",
+            "work collaboratively to retell a trickster narrative",
+            "relate characters and events in the trickster narrative to real-life situations",
+            "collaborate with peers to explore and share how personal responsibility can be derived from the narrative's moral lessons"
+          ],
+          "linkedLearningAreas": ["Social Studies: relating the concept of moral lessons."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and imagination"],
+          "values": ["Integrity"],
+          "pertinentContemporaryIssues": ["Effective communication"]
+        },
+        {
+          "name": "1.5.1 Handwriting: Legibility and Neatness",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "describe features of legible and neat handwriting for efficient writing",
+            "write texts legibly and neatly for effective communication",
+            "acknowledge the importance of writing neatly and legibly"
+          ],
+          "keyInquiryQuestions": ["Why should we write legibly and clearly?"],
+          "learningExperiences": [
+            "listen to an audio clip on the importance of developing legible and neat handwriting",
+            "study written samples of legible and neat handwriting featuring all letters of the alphabet and short texts",
+            "discuss the features of legible and neat handwriting, including shaping letters, joining and spacing letters and words",
+            "practise handwriting games such as blind writing, speed writing, and letter stations",
+            "suggest ways of correcting bad handwriting habits such as joining letters and words inappropriately",
+            "copy given texts on the theme of personal responsibility on charts and display for peer evaluation and correction",
+            "write short paragraphs legibly and neatly, and share with peers for peer review"
+          ],
+          "linkedLearningAreas": ["Kiswahili: relating the concept of legible and neat handwriting."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn"],
+          "values": ["Respect", "Social justice"],
+          "pertinentContemporaryIssues": ["Effective communication"]
+        }
+      ]
+    },
+    {
+      "name": "2.0 Science and Health Education",
+      "subStrands": [
+        {
+          "name": "2.1.1 Oral Presentations: Oral Narratives",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "outline the oral narrative performance techniques for effective delivery",
+            "use oral narrative techniques during the performance",
+            "appreciate the importance of performance techniques in the successful delivery of oral material"
+          ],
+          "keyInquiryQuestions": ["What makes one a good storyteller?"],
+          "learningExperiences": [
+            "watch live or recorded oral performances of narratives as a class",
+            "search online or offline for information on performance techniques, in pairs, and make presentations to peers",
+            "discuss the oral performance techniques",
+            "perform oral narratives while peers watch, record, and then give feedback",
+            "compose oral narratives and suggest to peers the most suitable ways of performing them"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports: showcasing of presentations."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and imagination"],
+          "values": ["Patriotism"],
+          "pertinentContemporaryIssues": ["Environmental conservation"]
+        },
+        {
+          "name": "2.2.1 Intensive Reading: Simple Poems",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "distinguish between poems and other literary genres",
+            "recite a variety of simple poems for enjoyment",
+            "collaborate in poetry recitation for enjoyment and learning"
+          ],
+          "keyInquiryQuestions": ["How are poems different from other forms of literary genres?"],
+          "learningExperiences": [
+            "listen and respond to live or recorded poetry recitation",
+            "discuss what makes reading simple poems interesting",
+            "pick out poems from a variety of texts and read them out aloud",
+            "recite poems that address science and health issues such as HIV and AIDS",
+            "provide feedback to peers and seek help where necessary"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports: performance techniques."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy"],
+          "values": ["Peace", "Social justice"],
+          "pertinentContemporaryIssues": ["Health education"]
+        },
+        {
+          "name": "2.3.1 Word Classes: Nouns (count, non-count, singular, plural)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify count, non-count, singular, and plural nouns from a variety of texts",
+            "use count, non-count, singular, and plural nouns in sentences",
+            "appreciate the importance of the correct use of nouns in communication"
+          ],
+          "keyInquiryQuestions": ["How can you group things that cannot be counted?"],
+          "learningExperiences": [
+            "search for examples of count, non-count, singular, and plural nouns from the internet, write them and post them on the class reading wall",
+            "listen to an audio text on the theme of science and health education, and pick out the target nouns",
+            "pick out count, non-count, singular, and plural nouns from newspapers and magazine articles",
+            "identify objects in the classroom and categorise them as count or non-count nouns",
+            "change singular nouns to plural and vice versa",
+            "construct sentences using the specified types of nouns orally and in writing",
+            "work with peers to complete crossword puzzles with the target nouns",
+            "work with peers to create posters using the learnt nouns, and post them on the class reading wall or share using digital learning platforms"
+          ],
+          "linkedLearningAreas": ["Kiswahili: learning of nouns."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration"],
+          "values": ["Unity", "Respect"],
+          "pertinentContemporaryIssues": ["Effective communication", "Health education"]
+        },
+        {
+          "name": "2.4.1 Intensive Reading: Class Reader",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "explain the different parts that aid in previewing a book",
+            "describe the author and the setting of the text in terms of time and place",
+            "underscore the value of reading for lifelong learning"
+          ],
+          "keyInquiryQuestions": ["Why should we not judge a book by its cover?"],
+          "learningExperiences": [
+            "study the cover page of a class reader, read the blurb and highlight the outstanding features",
+            "discuss the title of the class reader",
+            "research online for more information about the author and the setting of the story",
+            "make oral presentations to the class on their findings from the research",
+            "identify words, images, and details that describe the setting in terms of place and time",
+            "design a graphic organiser such as a mind map or tree map to identify the setting",
+            "share and give feedback using summary charts such as a K-W-W-L chart to visualise what has been learned",
+            "make short notes on the setting and the author"
+          ],
+          "linkedLearningAreas": ["Kiswahili: reading of class readers."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn", "Critical thinking and problem solving"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Creative thinking"]
+        },
+        {
+          "name": "2.5.1 Mechanics of Writing: Punctuation Marks",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "recognise the full stop, exclamation mark, and question mark in texts",
+            "use the full stop, exclamation mark, and question mark in sentences",
+            "acknowledge the importance of punctuating sentences accurately"
+          ],
+          "keyInquiryQuestions": ["Why is it important to punctuate a text?"],
+          "learningExperiences": [
+            "read print or non-print texts and identify the full stop, exclamation mark, and question mark",
+            "punctuate a text using the target punctuation marks",
+            "write a short story or dialogue on the theme of science and health education using the full stop, exclamation mark, and question mark, where necessary",
+            "engage in online or offline punctuation games with peers",
+            "create and display posters or charts with punctuated sentences for peer review and revision",
+            "role-play well-punctuated dialogues and record",
+            "discuss the effectiveness of punctuation marks in expressing meaning"
+          ],
+          "linkedLearningAreas": ["Kiswahili: proper punctuation."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy", "Self-efficacy"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Effective communication", "Social skills"]
+        }
+      ]
+    },
+    {
+      "name": "3.0 Hygiene",
+      "subStrands": [
+        {
+          "name": "3.1.1 Listening for the Main Idea",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the main idea from varied descriptive texts",
+            "pick out specific information from varied descriptive texts",
+            "acknowledge the importance of listening skills in communication"
+          ],
+          "keyInquiryQuestions": ["What can you do to ensure you capture the main ideas from a speaker?"],
+          "learningExperiences": [
+            "listen to audio recordings on hygiene and identify the main idea",
+            "listen for specific information from the audio recording on hygiene and take notes",
+            "search online and offline for expressions that signal the main ideas, such as 'this talk is about...' and 'I will talk about...'",
+            "watch a video describing a process, a person, or an object and pick out specific information",
+            "listen to peers read descriptive texts, and note down the main ideas in turns"
+          ],
+          "linkedLearningAreas": ["Agriculture: listening to a recording on hygiene."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication", "Digital literacy"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Health education — personal hygiene"]
+        },
+        {
+          "name": "3.2.1 Reading: Information and Meaning",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "distinguish between reading for information and reading for meaning",
+            "infer the meaning of words and phrases from varied texts",
+            "appreciate the importance of reading for information and meaning"
+          ],
+          "keyInquiryQuestions": ["How would you tell the meaning of a word in a passage?"],
+          "learningExperiences": [
+            "distinguish between reading for information and reading for meaning",
+            "collaborate with peers to scan through a text and identify text features (such as title, subtitles)",
+            "read texts on issues such as hygiene, safety, and security and organise the information by making notes",
+            "infer and share the meaning of words from varied texts",
+            "use the words to construct sentences to convey information and meaning",
+            "fill in crossword puzzles using words learned"
+          ],
+          "linkedLearningAreas": ["Kiswahili: reading for information and meaning."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Collaboration"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Health and safety"]
+        },
+        {
+          "name": "3.3.1 Verbs and Tense",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify regular and irregular verbs in sentences",
+            "use regular and irregular verbs to construct sentences using the past, present, and future tenses",
+            "appreciate the correct use of verbs and tenses for effective communication"
+          ],
+          "keyInquiryQuestions": ["Why is it important to use correct tenses in communication?"],
+          "learningExperiences": [
+            "search online and offline for information on verbs and their tenses",
+            "listen to texts read by the teacher on verbs and their tenses",
+            "identify and group verbs with similar endings such as -ing, -ed, -ied, -d from passages on the theme of hygiene",
+            "identify the tenses of the verbs in sentences",
+            "construct sentences using verbs in the correct tenses",
+            "participate in a language game on tenses",
+            "engage in conversations in pairs using verbs in various tenses",
+            "review their peers' use of tense in the conversations and give feedback"
+          ],
+          "linkedLearningAreas": ["Religious Education: correct language use when writing essays."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Effective communication"]
+        },
+        {
+          "name": "3.4.1 Intensive Reading: Poetry",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "explain the structure of poems",
+            "analyse the structure of varied simple poems",
+            "read short poems addressing varied societal issues",
+            "appreciate the poem's structure in communicating a message"
+          ],
+          "keyInquiryQuestions": ["Why do people write poems?", "What makes a poem interesting?"],
+          "learningExperiences": [
+            "source online or offline for different poems and note the titles and the poets while observing integrity and cyber safety",
+            "brainstorm on the parts of a poem",
+            "read short poems addressing issues such as personal hygiene, HIV and AIDS, and COVID-19",
+            "analyse how poems are broken into stanzas and stanzas into lines",
+            "study varied poems and present their different structures using graphic organisers",
+            "compare the structures of different poems",
+            "relate the poem's structure to the poem's message"
+          ],
+          "linkedLearningAreas": ["Kiswahili and Creative Arts and Sports: structure of poems."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy"],
+          "values": ["Integrity"],
+          "pertinentContemporaryIssues": ["Health education", "Cyber safety"]
+        },
+        {
+          "name": "3.5.1 Writing Narrative Paragraphs",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the parts of a narrative paragraph",
+            "compose a narrative paragraph with the appropriate structure",
+            "acknowledge the significance of paragraphing in written communication"
+          ],
+          "keyInquiryQuestions": ["Why do we write paragraphs?"],
+          "learningExperiences": [
+            "identify parts of a well-written paragraph specifically an introduction, necessary details, and a conclusion",
+            "read samples of narrative paragraphs provided by the teacher and discuss the flow of ideas",
+            "write a paragraph using a digital device about issues such as hygiene, safety, and security",
+            "present the paragraphs in class for peer review"
+          ],
+          "linkedLearningAreas": ["Pre-Technical Studies: use of digital devices."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication", "Creativity and imagination"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Social cohesion"]
+        }
+      ]
+    },
+    {
+      "name": "4.0 Leadership",
+      "subStrands": [
+        {
+          "name": "4.1.1 Listening Comprehension: Selective Listening",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "distinguish between specific and general information from a listening text",
+            "select specific information from a listening text",
+            "listen and respond to texts on leadership",
+            "emphasise the value of listening skills in communication"
+          ],
+          "keyInquiryQuestions": ["What can you do to ensure you capture relevant information from a speaker?"],
+          "learningExperiences": [
+            "listen to an audio text and decide whether the information presented is specific or general",
+            "search online for audio recordings on leadership and attentively listen to texts for specific information",
+            "watch a role play and respond to questions",
+            "listen to a passage on leadership (good governance) and answer questions posed by the speaker"
+          ],
+          "linkedLearningAreas": ["Kiswahili: selective listening."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking"],
+          "values": ["Integrity", "Social justice"],
+          "pertinentContemporaryIssues": ["Good governance", "Effective communication"]
+        },
+        {
+          "name": "4.2.1 Intensive Reading (main idea and details)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "discuss the identified reading strategies",
+            "select main ideas and details from a variety of written texts",
+            "acknowledge the importance of reading for main idea and details as a comprehension skill"
+          ],
+          "keyInquiryQuestions": ["How can you improve your reading?"],
+          "learningExperiences": [
+            "search online and watch appropriate video clips on the selected reading strategies: reading for main ideas and reading for details",
+            "read and underline the main ideas and details in texts on issues such as gender roles in leadership, and review each other's work",
+            "share ideas on how they can use the selected reading strategies",
+            "fill in substitution tables with specific details from texts, in pairs",
+            "complete a mind map with a focus on the main idea and details"
+          ],
+          "linkedLearningAreas": ["Religious Education: selecting main idea and specific details."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn", "Digital literacy"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Gender roles in leadership"]
+        },
+        {
+          "name": "4.3.1 Verbs and Tense (simple present and simple past)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify verbs in the simple present and simple past tense in a text",
+            "write sentences using the simple present tense",
+            "write sentences using the simple past tense",
+            "advocate appropriate use of tense in communication"
+          ],
+          "keyInquiryQuestions": ["Why is it necessary to indicate when an activity takes place?"],
+          "learningExperiences": [
+            "underline verbs in simple present and simple past tense in a text",
+            "reflect on the formation of simple present and simple past tense forms of verbs",
+            "construct and share sentences on a variety of issues, including leadership, using verbs in the appropriate tense",
+            "type the constructed sentences using a digital device",
+            "search online or offline for verbs used in simple present and simple past tense from a variety of texts",
+            "complete sentences using the correct tense of the given verbs",
+            "create and display charts showing words in their simple present and past tense",
+            "play language games using verbs in the present and past tense"
+          ],
+          "linkedLearningAreas": ["Kiswahili: concept of tense."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy"],
+          "values": ["Integrity"],
+          "pertinentContemporaryIssues": ["Effective communication", "Good governance"]
+        },
+        {
+          "name": "4.4.1 Intensive Reading: Class Readers (characters)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the main characters in a text",
+            "explain how the characters make the story flow",
+            "make predictions based on the title and the sections read",
+            "appreciate the role of characters in the class reader"
+          ],
+          "keyInquiryQuestions": ["What would you consider when selecting a storybook to read?"],
+          "learningExperiences": [
+            "read a section of a class reader and identify the main characters",
+            "discuss predictions made from the title and the sections read",
+            "participate in a reader's theatre and read portions of the class reader",
+            "outline the things done by each character studied in the section",
+            "discuss how the characters make the story flow",
+            "write a summary about how the main characters make the story flow"
+          ],
+          "linkedLearningAreas": ["Integrated Science: the concept of prediction."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn", "Critical thinking"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Critical thinking"]
+        },
+        {
+          "name": "4.5.1 Paragraphing: Using Examples and Incidents",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "outline examples and incidents to include in a paragraph",
+            "create a well-developed paragraph using examples and incidents",
+            "appreciate the importance of well-written paragraphs in writing"
+          ],
+          "keyInquiryQuestions": ["How can you organise your ideas logically?"],
+          "learningExperiences": [
+            "share ideas on examples and incidents that can be included in a paragraph",
+            "collaborate with peers to develop a paragraph on leadership using the ideas generated in their earlier discussion",
+            "present their paragraphs in class for peer review",
+            "use mind maps to generate examples and incidents for sample paragraphs",
+            "compose a paragraph based on suggested examples and incidents"
+          ],
+          "linkedLearningAreas": ["Kiswahili and Social Studies: organising ideas in paragraphs."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and imagination"],
+          "values": ["Love"],
+          "pertinentContemporaryIssues": ["Diversity"]
+        }
+      ]
+    },
+    {
+      "name": "5.0 Family",
+      "subStrands": [
+        {
+          "name": "5.1.1 Pronunciation: Sounds and Word Stress",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the consonant and vowel sounds in words",
+            "articulate consonants and vowel sounds for oral fluency",
+            "distinguish the meaning of words on the basis of stress",
+            "advocate the role of correct pronunciation in communication"
+          ],
+          "keyInquiryQuestions": ["Why is it important to articulate sounds correctly?"],
+          "learningExperiences": [
+            "pronounce the consonant sounds /p/, /b/, /k/ and /g/ from a text",
+            "practise saying the short /i/ and the long /iː/ sounds in pairs",
+            "watch and listen to an audio-visual recording featuring selected consonants and vowel sounds",
+            "work with peers to make a recording featuring learned sounds",
+            "practise saying words with the sounds /p/ as in pin, /b/ as in bean, /k/ as in kin, /g/ as in goat, /i/ as in bin, and /iː/ as in seen correctly",
+            "distinguish the meaning of words based on stress, for example, project (verb) project (noun)",
+            "play language games to distinguish word meaning on basis of stress",
+            "practise pronouncing minimal pairs containing the target sounds"
+          ],
+          "linkedLearningAreas": ["Kiswahili: correct articulation."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy", "Communication", "Collaboration"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Self-esteem", "Social cohesion"]
+        },
+        {
+          "name": "5.2.1 Synonyms and Antonyms",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify synonyms and antonyms of words from written texts",
+            "spell synonyms and antonyms correctly for writing fluency",
+            "use synonyms and antonyms in sentences",
+            "appreciate the importance of correct use of words in communication"
+          ],
+          "keyInquiryQuestions": ["Why do we use antonyms and synonyms?"],
+          "learningExperiences": [
+            "use reference materials such as the encyclopaedia and the dictionary to locate synonyms and antonyms",
+            "check the meaning and pronunciation of synonyms and antonyms from the dictionary",
+            "search for synonyms and antonyms from print and digital texts",
+            "create a crossword puzzle using synonyms and antonyms and share it online",
+            "use synonyms and antonyms in sentences",
+            "match words with their antonyms from a list of words",
+            "practise pronouncing synonyms and antonyms in pairs",
+            "design and display a chart with antonyms and synonyms of words correctly spelled"
+          ],
+          "linkedLearningAreas": ["Kiswahili: learning of vocabulary."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy", "Learning to learn"],
+          "values": ["Patriotism"],
+          "pertinentContemporaryIssues": ["Social cohesion"]
+        },
+        {
+          "name": "5.3.1 Comparative and Superlative Adjectives",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify comparative and superlative adjectives in texts",
+            "use comparative and superlative adjectives in communication",
+            "acknowledge the value of comparative and superlative forms of adjectives in communication"
+          ],
+          "keyInquiryQuestions": ["Why is it important to make comparisons in life?"],
+          "learningExperiences": [
+            "identify comparative and superlative adjectives from texts, in pairs",
+            "search online or offline for examples of comparative and superlative adjectives",
+            "construct sentences using comparative and superlative adjectives",
+            "play language games featuring adjectives",
+            "use a substitution table to complete sentences featuring comparative and superlative adjectives",
+            "use flashcards to categorise comparative and superlative adjectives",
+            "work with peers to compare various items within the environment using comparative and superlative adjectives"
+          ],
+          "linkedLearningAreas": ["Pre-Technical Studies: editing of written work."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn", "Self-efficacy"],
+          "values": ["Love"],
+          "pertinentContemporaryIssues": ["Self-awareness"]
+        },
+        {
+          "name": "5.4.1 Intensive Reading: Oral Narratives (legends)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify heroic characters in legends",
+            "explain the moral lessons in legends",
+            "discuss why legends are important in various communities",
+            "relate the characters in the legends to real life"
+          ],
+          "keyInquiryQuestions": ["Why is it important to learn about heroes in society?"],
+          "learningExperiences": [
+            "predict the actions of characters in legends",
+            "read a heroic narrative (legends) aloud in turns",
+            "identify the characters in legends",
+            "discuss heroic acts in the legends",
+            "relate legends to their actions",
+            "identify and discuss the moral lessons learned from legends",
+            "reflect on the impact of their actions on the society",
+            "discuss how to collect narratives from the community",
+            "use a mind map to show how the moral lessons in the narrative can be of benefit to the community",
+            "research and identify the community needs to be addressed through the functional reading of legend narratives",
+            "collaborate with peers to develop legend narratives"
+          ],
+          "linkedLearningAreas": ["Religious Education: moral lessons from oral narratives."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Citizenship", "Critical thinking and problem solving"],
+          "values": ["Patriotism"],
+          "pertinentContemporaryIssues": ["Creative thinking"]
+        },
+        {
+          "name": "5.5.1 Functional Writing: Friendly Letters",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the parts of a friendly letter",
+            "compose a friendly letter using the correct format",
+            "appreciate the role of friendly letters in communication"
+          ],
+          "keyInquiryQuestions": ["Why do we write friendly letters?"],
+          "learningExperiences": [
+            "read sample friendly letters",
+            "identify and underline parts of a friendly letter",
+            "create a friendly letter individually",
+            "exchange the friendly letter with a peer for feedback",
+            "incorporate the feedback obtained from a peer",
+            "type the friendly letter on a digital device or display the letter on a chart",
+            "display friendly letters for other learners to give feedback"
+          ],
+          "linkedLearningAreas": ["Kiswahili: letter writing."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy", "Communication"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Creativity and imagination"]
+        }
+      ]
+    },
+    {
+      "name": "6.0 Drug and Substance Abuse",
+      "subStrands": [
+        {
+          "name": "6.1.1 Conversation Skills",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify verbal and non-verbal forms of polite interruptions",
+            "apply turn-taking skills in different speaking contexts",
+            "use verbal and non-verbal cues to interrupt a conversation politely",
+            "acknowledge the importance of politeness in communication"
+          ],
+          "keyInquiryQuestions": ["How can you ensure that you do not dominate in a conversation?", "How can drug and substance abuse contribute to road crashes?"],
+          "learningExperiences": [
+            "watch a live or recorded dialogue depicting turn-taking skills and interrupting politely",
+            "practise in pairs interrupting someone politely",
+            "practise turn taking in a conversation with peers",
+            "watch short videos of conversations or television programmes and identify instances of turn taking and polite interruptions",
+            "listen to a radio talk show and pick out polite words and expressions",
+            "write examples of polite words and expressions on sticky notes or flash cards and paste them on the wall or class noticeboard",
+            "create posters on drug abuse and road safety showing polite expressions as well as ways of interrupting someone politely",
+            "design posters on turn taking skills and polite interruptions and display them",
+            "role-play a dialogue on the effects of drug and substance abuse",
+            "recite a conversational verse (choral), make an audio or video recording and share it on WhatsApp, email, or social media"
+          ],
+          "linkedLearningAreas": ["Social Studies: relevant during class discussions."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication", "Collaboration"],
+          "values": ["Peace", "Respect"],
+          "pertinentContemporaryIssues": ["Health issues (alcohol and substance abuse)"]
+        },
+        {
+          "name": "6.2.1 Reading: Fluency",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify instances of expressive reading from a print or digital text",
+            "read a text at the right speed, accurately and with expression",
+            "appreciate the importance of reading fluency in communication"
+          ],
+          "keyInquiryQuestions": ["Why is it important to read fluently?"],
+          "learningExperiences": [
+            "view a variety of video clips featuring well-read scripts related to the theme",
+            "watch news clips from a favourite television programme/presenter and comment on the presenter's speed, accuracy, and expression",
+            "brainstorm ways of reading effectively",
+            "reflect on the qualities of a good reader",
+            "read a text such as a poem, a narrative, or dialogue with appropriate expressions, accuracy, and the right speed",
+            "listen to a text read by a peer and provide feedback",
+            "engage in a readers' theatre and read a poem, narrative, or dialogue",
+            "read a choral verse in pairs or small groups",
+            "time himself or herself while reading an excerpt of a text",
+            "participate in activities that enhance reading fluency, such as reader's theatre, paired reading, echo reading, repeated reading and choral reading"
+          ],
+          "linkedLearningAreas": ["Kiswahili: reading fluency demands."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn", "Self-efficacy", "Communication and collaboration"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Critical thinking"]
+        },
+        {
+          "name": "6.3.1 Word Classes: Adverbs",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify adverbs of time, place, and manner in texts",
+            "use adverbs of time, place, and manner in different contexts",
+            "acknowledge the value of adverbs of manner, time, and place in communication"
+          ],
+          "keyInquiryQuestions": ["Why is it important to describe where, when and how events happen?"],
+          "learningExperiences": [
+            "read a print or non-print text on drug and substance abuse in pairs",
+            "identify the adverbs of time, place, and manner used in the text",
+            "categorise adverbs of time, place, and manner from word lists or flashcards",
+            "construct sentences using adverbs of time, place, and manner",
+            "use adverbs of time, place, and manner in a role play, hot seating or simulation and make a video recording",
+            "share a story or dialogue featuring adverbs of time, place, and manner"
+          ],
+          "linkedLearningAreas": ["Kiswahili: concepts of adverbs."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem solving", "Learning to learn"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Health promotion"]
+        },
+        {
+          "name": "6.4.1 Oral Literature: Songs (lullabies)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify repeated words and phrases in lullabies",
+            "use appropriate techniques when performing lullabies",
+            "pick out key messages communicated in lullabies",
+            "appreciate the importance of lullabies in real life"
+          ],
+          "keyInquiryQuestions": ["How are songs similar to poems?"],
+          "learningExperiences": [
+            "listen to audio recordings of lullabies",
+            "view videos of lullabies and identify instances of repetition",
+            "perform a lullaby and make a recording",
+            "pick out key messages communicated in lullabies",
+            "share ideas on the key messages that are addressed in lullabies",
+            "discuss the functions of lullabies",
+            "collaborate to compose songs, sing and record lullabies from their immediate environment",
+            "work with peers to create lullabies and perform them in class",
+            "identify characters in different lullabies"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports: performing of lullabies."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and imagination", "Learning to learn"],
+          "values": ["Social justice"],
+          "pertinentContemporaryIssues": ["Healthy relationship"]
+        },
+        {
+          "name": "6.5.1 Commonly Misspelt Words",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "recognise commonly misspelt words in texts",
+            "use commonly misspelt words correctly in written texts",
+            "value the relationship between accurate spelling and effective written communication"
+          ],
+          "keyInquiryQuestions": ["How can we improve our spelling?"],
+          "learningExperiences": [
+            "mention words that are difficult to spell correctly",
+            "work with peers to search for commonly misspelt words from textbooks and online sources",
+            "discuss ways of correcting commonly misspelt words",
+            "correct texts with wrong spellings of irregular plural nouns, for example knife-knives, ox-oxen, fox-foxes, child-children, thief-thieves, lady-ladies, monkey-monkeys, and -ing verbs formed from verbs with final -e for example love-loving, dine-dining",
+            "explain to peers the effects of correct spelling on written communication",
+            "engage in spelling games such as crossword puzzles",
+            "write a story or dialogue on a contemporary issue related to the theme, using the commonly misspelt words and share it with peers for feedback"
+          ],
+          "linkedLearningAreas": ["Religious Education and Integrated Science: principles of spelling."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication", "Collaboration"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Peace education"]
+        }
+      ]
+    },
+    {
+      "name": "7.0 Natural Resources – Forests",
+      "subStrands": [
+        {
+          "name": "7.1.2 Listening Comprehension: Listening for Details",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify clues that signal details from a listening text",
+            "take detailed notes on a listening text",
+            "acknowledge the importance of listening for details"
+          ],
+          "keyInquiryQuestions": ["What factors interfere with one's ability to listen well?", "How can you tell that people are listening attentively?"],
+          "learningExperiences": [
+            "search online or offline for signposts that introduce details in an oral text",
+            "listen and identify words that introduce different types of details that indicate addition (first, also, moreover), emphasis (an important note, especially, particularly), comparison (like, similarly, just as), contrast (but, however, on the other hand), illustration (for example, for instance, such as), and cause-and-effect (because, therefore, so that)",
+            "discuss the kinds of details one should look out for from a text — numbers, figures, points, facts, examples, people, places, behaviour, and opinions",
+            "listen and note the clues signalling details from a peer",
+            "listen to a live or recorded oral presentation on a pertinent and contemporary issue on natural resources, for example forests, and take specific details",
+            "role-play, in turns, and make oral presentations as their peer takes notes",
+            "collaborate with peers to compare the notes, then revise and display for review"
+          ],
+          "linkedLearningAreas": ["Kiswahili: skill of listening for details."],
+          "scopeNotes": ["Note: this sub-strand is numbered '7.1.2' (not '7.1.1') verbatim in the source design PDF — transcribed as-is."],
+          "coreCompetencies": ["Self-efficacy", "Communication and collaboration"],
+          "values": ["Patriotism"],
+          "pertinentContemporaryIssues": ["Environmental and social issues"]
+        },
+        {
+          "name": "7.2.1 Independent Reading: Visuals",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify types of information conveyed by visuals for comprehension",
+            "interpret visuals for information",
+            "appreciate the importance of visual interpretation skills in different texts"
+          ],
+          "keyInquiryQuestions": ["Why are pictures and photographs important in written texts?"],
+          "learningExperiences": [
+            "list common visuals like road signs, photographs, billboards",
+            "search online and offline for different types of information that visuals convey such as stories, messages, feelings or emotions, relationships, mood",
+            "discuss class/school/community/national needs or issues that visuals can address",
+            "answer comprehension questions on the visuals",
+            "apply comprehension strategies such as prediction, making connections, inferences, questioning, and visualising in interpreting visuals",
+            "create stories or songs from visuals",
+            "discuss visuals of national importance like the national flag, the Kenyan currency",
+            "discuss the importance of developing visual interpretation skills for full understanding of messages",
+            "use digital devices to create simple visuals through photography, drawing, and making realia on natural resources"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports, Social Studies, Mathematics and Integrated Science: concept of visuals."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy", "Citizenship"],
+          "values": ["Patriotism"],
+          "pertinentContemporaryIssues": ["Environmental conservation"]
+        },
+        {
+          "name": "7.3.1 Personal and Possessive Pronouns",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "distinguish between personal and possessive pronouns in sentences",
+            "use personal and possessive pronouns in sentences appropriately",
+            "appreciate the value of proper use of pronouns"
+          ],
+          "keyInquiryQuestions": ["Why should we avoid unnecessary repetition?"],
+          "learningExperiences": [
+            "pick out personal and possessive pronouns from print and non-print texts on natural resources in pairs",
+            "use personal pronouns to refer to people in a class",
+            "construct sentences using personal pronouns",
+            "write a paragraph using possessive pronouns",
+            "construct sentences using personal pronouns from substitution and completion tables",
+            "draw a chart with singular/plural, subjective, and objective personal pronouns and display them for peer review"
+          ],
+          "linkedLearningAreas": ["Kiswahili: concept of pronouns."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Social cohesion"]
+        },
+        {
+          "name": "7.4.1 Characters in Class Readers",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify minor characters in a text",
+            "discuss the relationships between different minor characters in the text",
+            "appreciate the place of minor characters in the class reader"
+          ],
+          "keyInquiryQuestions": ["How can you tell the difference between a main and a minor character in a story?", "How would you describe the behaviour of your classmates?"],
+          "learningExperiences": [
+            "read and identify minor characters in a class reader",
+            "search online and offline for words and phrases used to describe relationships between characters",
+            "discuss how the characters relate with each other",
+            "collaborate with peers to hot seat different minor characters to bring out their relationships",
+            "link characters' reactions towards their relationships with other characters"
+          ],
+          "linkedLearningAreas": ["Creative Arts: learning of characterisation."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking", "Collaboration"],
+          "values": ["Social justice"],
+          "pertinentContemporaryIssues": ["Citizenship"]
+        },
+        {
+          "name": "7.5.1 Composition: The Writing Process",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "outline the steps in the writing process",
+            "write a narrative composition following the writing process",
+            "acknowledge the role of writing fluency in communication"
+          ],
+          "keyInquiryQuestions": ["How does one write a good composition?"],
+          "learningExperiences": [
+            "watch a video of learners going through the writing process",
+            "read samples of well-written texts and highlight features that make them outstanding",
+            "discuss the writing process giving details of what each entails on a mind map",
+            "suggest the most suitable topics on issues like natural resources or saving forests for practising the writing process",
+            "work with peers to practise the writing process: prewriting, drafting, editing, revising, publishing",
+            "write a narrative composition following the writing process and share using a digital device for peer review",
+            "review the effectiveness of the writing process in writing compositions"
+          ],
+          "linkedLearningAreas": ["Integrated Science: the writing process."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy", "Creativity and imagination"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Environmental conservation"]
+        }
+      ]
+    },
+    {
+      "name": "8.0 Travel",
+      "subStrands": [
+        {
+          "name": "8.1.1 Listening Comprehension: Explanatory Narratives",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the characters from a listening text",
+            "sequence the events in explanatory narratives",
+            "explain the moral lessons in an explanatory narrative",
+            "acknowledge the importance of listening comprehension in communication"
+          ],
+          "keyInquiryQuestions": ["What are the functions of oral narratives?"],
+          "learningExperiences": [
+            "listen to a recording of an explanatory narrative from a digital device and retell the story",
+            "search online and offline for information on explanatory narratives",
+            "dramatise the dialogues in the explanatory narratives",
+            "role-play a story telling session",
+            "identify the moral lessons and relate them to real life situations",
+            "discuss the behaviour of the characters in the explanatory narratives, in pairs",
+            "create an explanatory narrative and share it through WhatsApp, social media, among others"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports: performance of oral narratives."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy", "Communication and collaboration"],
+          "values": ["Patriotism"],
+          "pertinentContemporaryIssues": ["Digital citizenship"]
+        },
+        {
+          "name": "8.2.1 Intensive Reading (poems)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "distinguish main ideas from supporting details from poems",
+            "use contextual clues to infer the meaning of words and phrases in a text",
+            "make connections between events in a poem and real life",
+            "summarise events in a poem",
+            "answer direct and inferential questions from poems",
+            "acknowledge the role of intensive reading in lifelong learning"
+          ],
+          "keyInquiryQuestions": ["How can you identify the message in a poem?", "What can we do to ensure we are safe during travel?"],
+          "learningExperiences": [
+            "search online and offline and discuss, in groups, the meaning of reading for interpretation and evaluation",
+            "visualise events, people, and places in poems",
+            "predict events in poems",
+            "work with peers to utilise digital devices to check the meanings of words",
+            "infer meanings of vocabulary based on contextual clues",
+            "answer direct and inferential questions in pairs",
+            "write a poem on how to curb road crashes and summarise main issues from the poem",
+            "create word puzzles with learned vocabulary and share them online",
+            "relate the issues in a set poem to real life"
+          ],
+          "linkedLearningAreas": ["Social Studies: concept of moral lessons."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy", "Critical thinking and problem solving"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Peace"]
+        },
+        {
+          "name": "8.3.1 Simple Prepositions",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify different types of prepositions",
+            "use prepositions in sentences",
+            "attest to the importance of well-formed sentences in communication"
+          ],
+          "keyInquiryQuestions": ["How do we show the relationship between words?", "How can you tell that a vehicle is safe to use during travel?"],
+          "learningExperiences": [
+            "identify and underline simple prepositions (agent, instrument, and direction) in texts",
+            "search online and offline for examples of simple prepositions",
+            "read texts and identify simple prepositions",
+            "complete sentences using a substitution table",
+            "match simple prepositions with the word they collocate with",
+            "watch a video clip and identify simple prepositions",
+            "construct sentences based on features of a safe PSV vehicle using prepositions",
+            "create a crossword puzzle featuring simple prepositions and the words or phrases they collocate with",
+            "share the puzzles online, on posters, charts, or through WhatsApp"
+          ],
+          "linkedLearningAreas": ["Kiswahili: concept of prepositions."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy", "Communication and collaboration"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Social cohesion"]
+        },
+        {
+          "name": "8.4.1 Intensive Reading: Poetry (human characters)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the human characters in a set of poems",
+            "use adjectives to describe the traits of human characters in a set of poems",
+            "appreciate the importance of human characters in poetry"
+          ],
+          "keyInquiryQuestions": ["Why are human characters important in poetry?"],
+          "learningExperiences": [
+            "read a given poem and identify the human characters",
+            "search online and offline for adjectives that can be used to describe characters",
+            "discuss what each character does or says in each poem",
+            "role-play a given poem to bring out the characters' actions",
+            "take video clips of the role play and share them as they discuss their performances",
+            "paste sticky notes containing character traits identified",
+            "work with peers to relate the human characters in the poem with real life lessons"
+          ],
+          "linkedLearningAreas": ["Kiswahili: study of poems."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration", "Learning to learn"],
+          "values": ["Peace", "Love"],
+          "pertinentContemporaryIssues": ["Social cohesion"]
+        },
+        {
+          "name": "8.5.1 Composition Writing: Self-Assessment",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify steps involved in the assessment of narrative compositions",
+            "write narrative compositions and assess the introduction, body, and conclusion",
+            "appreciate the importance of assessment in improving narrative composition writing"
+          ],
+          "keyInquiryQuestions": ["Why is it important to assess writing?", "How can one improve their composition writing skills?"],
+          "learningExperiences": [
+            "search online and offline for information on the aspects of self-assessment when writing a narrative composition",
+            "practise assessing own narrative composition",
+            "watch a video or listen to a recording on how to peer-assess a composition",
+            "plan, organise, and write a composition on road safety during travel, and share it with peers for review",
+            "identify and correct spelling, punctuation, and grammatical errors using a given checklist"
+          ],
+          "linkedLearningAreas": ["Kiswahili: assessing compositions and essays."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn"],
+          "values": ["Integrity"],
+          "pertinentContemporaryIssues": ["Peer education"]
+        }
+      ]
+    },
+    {
+      "name": "9.0 Heroes and Heroines - Kenya",
+      "subStrands": [
+        {
+          "name": "9.1.1 Pronunciation: Consonant and Vowel Sounds",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "articulate correctly the consonant sounds /t/, /d/, /l/, /r/ in words",
+            "articulate correctly vowel sounds /ʊ/ and /uː/ in words",
+            "pronounce words correctly using stress",
+            "distinguish the meaning of words based on stress",
+            "acknowledge the importance of correct pronunciation in oral communication"
+          ],
+          "keyInquiryQuestions": ["Why should you pronounce words correctly?", "Why do people find it difficult to pronounce some words?", "In what ways can one improve own pronunciation?"],
+          "learningExperiences": [
+            "listen to audio clips and watch video clips with the sounds /t/, /d/, /l/, /r/, /ʊ/ and /uː/ in words",
+            "articulate the consonants and vowel sounds: /t/ as in toll, /d/ as in doll, /l/ as in liver, /r/ as in river, /ʊ/ as in pull/bull, /uː/ as in pool/boot",
+            "watch an oral presentation and pick out words with the target sounds",
+            "practise pronouncing words with the target consonant and vowel sounds, in pairs",
+            "sort words based on the pronunciation of the target consonant and vowel sounds",
+            "recite poems or sing songs on national heroes with the target sounds",
+            "say tongue twisters with the target consonant and vowel sounds",
+            "listen to audio featuring a variety of words and classify them in their word classes according to the stressed syllables",
+            "engage in pronunciation drills on stress for distinguishing word class",
+            "underline stressed syllables in words",
+            "discuss the importance of correct pronunciation and use of stress in conveying meaning",
+            "reflect on the target consonant and vowel sounds and identify those they struggle with for further practise"
+          ],
+          "linkedLearningAreas": ["Kiswahili: concept of pronunciation."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy", "Learning to learn"],
+          "values": ["Patriotism", "Unity"],
+          "pertinentContemporaryIssues": ["Patriotism and good governance"]
+        },
+        {
+          "name": "9.2.1 Grade-Appropriate Fiction Materials",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "select a variety of fictional texts for extensive reading",
+            "read fictional texts for information and enjoyment",
+            "appreciate the importance of fiction in life"
+          ],
+          "keyInquiryQuestions": ["Why is it important to read fictional materials?", "What should you consider when selecting fictional texts for reading?"],
+          "learningExperiences": [
+            "identify fictional material to read by looking at the cover page, blurb, and title",
+            "read texts on varied issues such as national heroes and heroines and discuss the elements of fiction in the text",
+            "list down words and phrases encountered",
+            "re-tell the story in their own words",
+            "dramatise a section of the text and record themselves",
+            "relate the ideas expressed in fiction to real life",
+            "read fiction materials for enjoyment"
+          ],
+          "linkedLearningAreas": ["Kiswahili: fictional materials."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn"],
+          "values": ["Patriotism"],
+          "pertinentContemporaryIssues": ["Citizenship"]
+        },
+        {
+          "name": "9.3.1 Conjunctions (and, but, or)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the conjunctions and, but and or in sentences",
+            "use and, but and or in sentences accurately",
+            "appreciate the importance of proper use of conjunctions in written and spoken contexts"
+          ],
+          "keyInquiryQuestions": ["How are the words and, but and or used in conversation?"],
+          "learningExperiences": [
+            "search, in pairs, online and offline for the use of the conjunctions and, but and or in texts",
+            "identify the conjunctions and, but and or from different texts",
+            "construct sentences using the conjunctions and, but and or",
+            "fill in substitution and completion tables using the conjunctions and, but and or",
+            "create and share a story or dialogue on heroes in Kenya, using the conjunctions and, but and or",
+            "discuss the importance of proper use of conjunctions in sentences"
+          ],
+          "linkedLearningAreas": ["Kiswahili: concept of conjunctions."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy", "Learning to learn"],
+          "values": ["Peace"],
+          "pertinentContemporaryIssues": ["Patriotism"]
+        },
+        {
+          "name": "9.4.1 Intensive Reading: Class Reader (sequence of events)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "explain the sequence of events in a text",
+            "make short notes on the sequence of events in a text",
+            "appreciate reading works of art for information and enjoyment"
+          ],
+          "keyInquiryQuestions": ["What marks the climax of a story?"],
+          "learningExperiences": [
+            "read sections of a class reader and explain the sequence of events",
+            "work with peers to dramatise parts of the class reader for clarity",
+            "outline the actions of each character studied in the section",
+            "discuss how the characters make the story in the class reader flow",
+            "use a sequence chart to show the order of events in the class reader",
+            "make short notes on the sequence of events in the class reader",
+            "relate the events in the class reader to real life",
+            "discuss possible solutions to the problems portrayed in the class reader"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports: performance techniques."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Collaboration", "Critical thinking and problem solving"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Ethical relationships"]
+        },
+        {
+          "name": "9.5.1 Creative Writing: Narrative Compositions",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify features of a narrative composition in creative writing",
+            "create well-written narrative compositions on a variety of topics",
+            "appreciate the importance of writing in day-to-day life"
+          ],
+          "keyInquiryQuestions": ["Which things make a narrative composition memorable?"],
+          "learningExperiences": [
+            "search for features of a well-written narrative (200–240 words) from print and non-print sources: a narrow and clearly defined focus (title), a strong introduction, character descriptions, dialogue, setting description, interesting details, a logical sequence, purposeful and precise word choice, varied sentence structure, and a strong conclusion",
+            "read well-written samples of narrative compositions noting the most outstanding parts",
+            "plan a narrative composition in groups, and tell it as a chain story",
+            "write a narrative composition on issues like historical and current heroes and share it with peers for discussion and revision",
+            "create displays of narrative writing skills learned and publish them in the classroom"
+          ],
+          "linkedLearningAreas": ["Kiswahili and Religious Education: narrative writing skill.", "Creative Arts and Sports: skill of composing and performance."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and imagination", "Self-efficacy"],
+          "values": ["Social justice"],
+          "pertinentContemporaryIssues": ["Patriotism"]
+        }
+      ]
+    },
+    {
+      "name": "10.0 Music",
+      "subStrands": [
+        {
+          "name": "10.1.1 Oral Presentations: Delivering Speeches",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify occasions where speeches are presented",
+            "apply the features of oral presentations for effective communication",
+            "appreciate the importance of good oral presentation skills when delivering a speech"
+          ],
+          "keyInquiryQuestions": ["How can one deliver a speech effectively?"],
+          "learningExperiences": [
+            "think, pair, and share on occasions where speeches are presented",
+            "search online or offline for features of oral presentations and make short notes",
+            "work with peers to listen to recorded grade-appropriate speeches then share their opinions on the speeches",
+            "brainstorm the importance of body language in delivering a speech",
+            "collaborate with peers to rehearse a speech and present it to each other",
+            "write short speeches on the importance of music and present it to peers",
+            "record the speeches being presented and discuss the presentations"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports: principles of oral presentation of speeches."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy", "Self-efficacy"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Social cohesion"]
+        },
+        {
+          "name": "10.2.1 Study Skills: Note Making",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the main and supporting points in texts",
+            "make notes from varieties of written texts",
+            "relate note-making to effective reading"
+          ],
+          "keyInquiryQuestions": ["What is the importance of note-making in reading?"],
+          "learningExperiences": [
+            "conduct an online and offline search on the format of note-making — heading, subheading, main points, supporting point, keywords",
+            "discuss the importance of note making in reading",
+            "read texts on varied issues, including music, and select the key points",
+            "pick the keywords from reading texts",
+            "fill in the key points on a note making template",
+            "collaborate with peers to draw a mind map to show the relationship between the topic, main idea, and supporting ideas",
+            "read print or non-print texts and make notes from them"
+          ],
+          "linkedLearningAreas": ["Pre-Technical Studies: relevance of note making."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy", "Learning to learn"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Career guidance"]
+        },
+        {
+          "name": "10.3.1 Determiners (articles and possessives)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify articles and possessives in texts",
+            "use articles and possessives in sentences",
+            "acknowledge the importance of articles and possessives for effective communication"
+          ],
+          "keyInquiryQuestions": ["How do we indicate that something belongs to somebody?"],
+          "learningExperiences": [
+            "identify articles and possessives from a text",
+            "underline articles a, an, the and possessives my, our, your, his, her, their used in print and non-print texts",
+            "read out examples of possessives from flashcards",
+            "correct errors in sentences that contain articles",
+            "work with peers to engage in language games using articles",
+            "practise matching articles with nouns",
+            "construct sentences using possessives",
+            "compose a song on children's rights using relevant articles and possessives and video record the performances"
+          ],
+          "linkedLearningAreas": ["Kiswahili: concepts of articles and possessives."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy", "Communication and collaboration"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Child rights"]
+        },
+        {
+          "name": "10.4.1 Characters and Their Traits (monster narratives)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify characters in monster narratives",
+            "explain traits of characters in given monster narratives",
+            "relate monster narratives to real life situations",
+            "appreciate the importance of monster narratives in life"
+          ],
+          "keyInquiryQuestions": ["What is the relevance of oral narratives in modern society?", "What should one consider when collecting narratives among people of varied socio-cultural backgrounds?"],
+          "learningExperiences": [
+            "describe a monster/ogre",
+            "search online and offline for features of monster narratives",
+            "narrate monster narratives from their immediate environment to their peers",
+            "discuss what monsters/ogres represent",
+            "discuss how monster narratives relate to real life",
+            "explain health education lessons they learn from monster narratives",
+            "dramatise a monster narrative and record the performance",
+            "discuss the traits of the characters involved in a monster narrative in pairs",
+            "brainstorm the reading strategies suitable for sharing experiences with community members",
+            "interact actively with resource persons to pick out the relevant reading strategies",
+            "seek support from resource persons on how to relate monster narratives to real life",
+            "collect, analyse and compile them into an anthology of narratives from the community",
+            "collaborate with peers to conduct a reader's theatre",
+            "describe the procedure used in collecting the narratives"
+          ],
+          "linkedLearningAreas": ["Kiswahili: learning of literary texts."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem solving", "Learning to learn"],
+          "values": ["Patriotism"],
+          "pertinentContemporaryIssues": ["Social awareness"]
+        },
+        {
+          "name": "10.5.1 Functional Writing: Packing and Shopping Lists",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify ways of grouping items in packing and shopping lists",
+            "write a packing list for a specified event",
+            "prepare a shopping list for use in a given context",
+            "recognise the importance of preparing a shopping and packing list in their everyday lives"
+          ],
+          "keyInquiryQuestions": ["What should one consider when grouping items in a packing list?", "Why should a shopping list be prepared?", "What is the importance of a packing list?"],
+          "learningExperiences": [
+            "search online and offline for samples of packing and shopping lists",
+            "discuss the parts of a shopping list",
+            "create and fill a packing list template, and share with peers",
+            "discuss different ways of grouping items in packing and shopping lists",
+            "give in pairs the prices of different items in the shopping list to match a given budget"
+          ],
+          "linkedLearningAreas": ["Pre-Technical Studies: preparing a shopping list involves budgeting."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking", "Learning to learn"],
+          "values": ["Integrity", "Social responsibility"],
+          "pertinentContemporaryIssues": ["Financial literacy"]
+        }
+      ]
+    },
+    {
+      "name": "11.0 Professions",
+      "subStrands": [
+        {
+          "name": "11.1.1 Interviews",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify reasons for sitting an interview",
+            "articulate points clearly and confidently during an oral interview",
+            "respond confidently to questions during an interview",
+            "seek clarification during an oral presentation",
+            "appreciate the importance of interviews in getting school placement and scholarships"
+          ],
+          "keyInquiryQuestions": ["Why are interviews important?"],
+          "learningExperiences": [
+            "listen to and review an audio clip on school placement and scholarship interviews",
+            "discuss reasons for sitting for a placement and scholarship interview",
+            "search online and watch video clips on school placement and scholarship interview",
+            "role-play a school placement and scholarship interviews, record and share them via social media channels",
+            "conduct mock interviews in pairs or small groups",
+            "collaborate with peers to record the interviews on digital devices",
+            "share the videos with friends and peers on social media platforms, blogs among others"
+          ],
+          "linkedLearningAreas": ["Kiswahili: conversational skills."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration", "Digital literacy"],
+          "values": ["Responsibility", "Respect"],
+          "pertinentContemporaryIssues": ["Peace education"]
+        },
+        {
+          "name": "11.2.1 Extensive Reading: Non-Fiction Materials",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify print or electronic non-fiction materials that are interesting to read",
+            "read a variety of grade-appropriate non-fiction materials independently for lifelong learning",
+            "recommend to peers suitable non-fiction materials to read for information",
+            "acknowledge the importance of reading for enjoyment and general understanding"
+          ],
+          "keyInquiryQuestions": ["Why should we read non-fiction materials?"],
+          "learningExperiences": [
+            "search for digital and print non-fiction materials",
+            "read a variety of non-fiction materials",
+            "infer the meaning of the words and phrases used in non-fiction materials",
+            "skim through the non-fiction material for the main idea",
+            "scan the non-fiction material to obtain specific information",
+            "prepare a reading log of the reading activities of the non-fiction texts"
+          ],
+          "linkedLearningAreas": ["Kiswahili: extensive reading as a skill."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy", "Learning to learn"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Life skills — self-awareness"]
+        },
+        {
+          "name": "11.3.1 Formation of Adjectives",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "recognise adjectives from a text",
+            "construct simple sentences using the adjectives formed",
+            "appreciate the value of proper use of adjectives"
+          ],
+          "keyInquiryQuestions": ["How are adjectives formed?", "Why should we use adjectives correctly?"],
+          "learningExperiences": [
+            "search for online tutorials on adjectives and examples of adjectives formed from nouns and verbs",
+            "listen to a poem or passage from the teacher and pick out adjectives formed from nouns and verbs",
+            "read a given passage and identify adjectives formed from nouns and verbs",
+            "form adjectives using nouns and verbs",
+            "work with peers to construct simple sentences using the adjectives formed",
+            "engage in language games such as scrabble, puzzle code words, and guessing games"
+          ],
+          "linkedLearningAreas": ["Kiswahili: concept of adjectives."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration", "Digital literacy"],
+          "values": ["Love"],
+          "pertinentContemporaryIssues": ["Self-esteem"]
+        },
+        {
+          "name": "11.4.1 Intensive Reading: Dilemma Narratives",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "describe the characters in a given dilemma narrative",
+            "recognise a closing formula as a feature of dilemma narratives",
+            "relate the lessons learnt in the dilemma narrative to real life experiences",
+            "appreciate the lessons learnt from the dilemma narrative for literary appreciation"
+          ],
+          "keyInquiryQuestions": ["What are the qualities of a good narrator?", "How can narratives contribute to decision making?"],
+          "learningExperiences": [
+            "read the dilemma narrative in a given text and describe the characters",
+            "identify a closing formula as a feature of dilemma narratives",
+            "discuss what makes dilemma narratives interesting",
+            "dramatise parts of the dilemma narrative",
+            "draw a chart showing the sequence of events in a dilemma narrative",
+            "search online and watch an adaptation of a dilemma narrative",
+            "relate the lessons learnt from the dilemma narrative to real life experiences"
+          ],
+          "linkedLearningAreas": ["Kiswahili and Creative Arts and Sports: concept of performance."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and imagination"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Life skills"]
+        },
+        {
+          "name": "11.5.1 Spelling Antonyms, Synonyms, and Numbers",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "recognise antonyms, synonyms, and numbers in words from a selected text",
+            "use antonyms, synonyms, and numbers in words correctly in writing",
+            "appreciate the usage of antonyms, synonyms, and numbers in words in effective writing"
+          ],
+          "keyInquiryQuestions": ["Why is it important to tell the synonyms and antonyms of words?", "Why is it important to write numbers in words?"],
+          "learningExperiences": [
+            "read a text with antonyms, synonyms, and numbers in words from print and non-print sources",
+            "identify the antonyms, synonyms, and numbers in words from a selected text",
+            "listen to a dictation of a text with antonyms and synonyms, and write them down",
+            "collaborate with peers to search for antonyms and synonyms from books, newspapers and the internet, and compile a list",
+            "write a list of antonyms and synonyms and, with peers, exchange for assessment"
+          ],
+          "linkedLearningAreas": ["Kiswahili, Mathematics and Integrated Science: concepts of antonyms, synonyms and writing of numbers."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy", "Collaboration"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Effective communication"]
+        }
+      ]
+    },
+    {
+      "name": "12.0 Traditional Fashion",
+      "subStrands": [
+        {
+          "name": "12.1.1 Listening: Views/Opinions",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "list ways of expressing views/opinions in different contexts",
+            "use different expressions that indicate own views/opinions in a given text",
+            "acknowledge the value of one's views/opinions as a lifelong skill in communication"
+          ],
+          "keyInquiryQuestions": ["Why is it important to express one's opinion?"],
+          "learningExperiences": [
+            "search online and offline for the different ways of expressing views/opinions",
+            "listen to an oral narrative and identify the different ways used to express opinions/views",
+            "role play the different characters in the narrative and bring out different ways of expressing opinions/views",
+            "explain their feelings towards issues raised in the trickster narrative",
+            "write on a chart the words they have used to describe their feelings"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports and Social Studies: lifelong skill of expressing opinions and views."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn", "Digital literacy"],
+          "values": ["Respect", "Unity"],
+          "pertinentContemporaryIssues": ["Effective communication"]
+        },
+        {
+          "name": "12.2.1 Intensive Reading — Comprehension",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the main ideas in a text",
+            "use contextual clues to infer the meaning of words in a text",
+            "describe characters, ideas, or events in a text",
+            "appreciate the importance of reading comprehension in lifelong learning"
+          ],
+          "keyInquiryQuestions": ["How can we tell the meaning of words and phrases in a text?"],
+          "learningExperiences": [
+            "download and share texts with mental images from the texts and draw conclusions",
+            "read a passage individually, and identify keywords in the passage",
+            "infer the meaning of words using contextual clues",
+            "choose descriptive parts of the passage on traditional fashion and share the vivid images created in their mind",
+            "role-play the characters and events in the text",
+            "use contextual clues to decipher the meaning of words",
+            "answer questions based on the passage",
+            "give an appropriate title to a story or passage"
+          ],
+          "linkedLearningAreas": ["Kiswahili: skills of making inferences and visualising."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking", "Imagination"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Analytical thinking"]
+        },
+        {
+          "name": "12.3.1 Phrasal Verbs (put, come, give)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify phrasal verbs formed from put, come and give in a given text",
+            "use given phrasal verbs correctly in sentence construction",
+            "acknowledge the role of phrasal verbs in communication"
+          ],
+          "keyInquiryQuestions": ["Why should we use phrasal verbs correctly?"],
+          "learningExperiences": [
+            "read a text and identify the phrasal verbs formed from put, come and give",
+            "search online and use charts to write the meanings of the phrasal verbs they have identified",
+            "fill in blanks in a text using the most appropriate phrasal verb",
+            "search on the internet for more examples of phrasal verbs",
+            "construct sentences using the phrasal verbs"
+          ],
+          "linkedLearningAreas": ["Kiswahili: similar concepts to phrasal verbs."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication", "Digital literacy"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Effective communication"]
+        },
+        {
+          "name": "12.4.1 Class Reader: Main Ideas",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the main ideas in the section read in the text",
+            "discuss the lessons learnt from the text",
+            "relate the lessons learnt to real life experiences",
+            "appreciate the role of literature in fostering critical thinking"
+          ],
+          "keyInquiryQuestions": ["Why do people read story books?", "What is the importance of reading a short story?"],
+          "learningExperiences": [
+            "read a section of the text aloud in turns and dramatise the events",
+            "discuss the main ideas in the sections read in the text in groups",
+            "relate the lessons learnt from the section read to real life experiences in groups",
+            "draw a chart showing the sequence of the main events in the section read",
+            "search online and watch an adapted dramatisation of the section read"
+          ],
+          "linkedLearningAreas": ["Kiswahili and Creative Arts and Sports: reading and analysis of class readers."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy", "Creativity and imagination", "Critical thinking and problem solving"],
+          "values": ["Peace", "Love"],
+          "pertinentContemporaryIssues": ["Self-awareness", "Social cohesion"]
+        },
+        {
+          "name": "12.5.1 The Writing Process: Dialogues",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "outline the format of a dialogue",
+            "apply the writing process in writing a dialogue",
+            "acknowledge the importance of the writing process in acquiring good writing skills"
+          ],
+          "keyInquiryQuestions": ["What should we consider before writing a dialogue?"],
+          "learningExperiences": [
+            "search online and offline for an example of a dialogue",
+            "dramatise the identified dialogue",
+            "discuss the format of the dialogue they have identified",
+            "fill in missing words in a set dialogue on traditional fashion, individually",
+            "discuss the correctness of the words they have used",
+            "create a rough draft of a short dialogue using the format they have identified individually",
+            "edit each other's dialogue to check for repetition, clarity, grammar, spelling and punctuation errors, in pairs",
+            "revise the dialogue individually",
+            "publish the final product for assessment, share the samples of well written dialogues with others in class"
+          ],
+          "linkedLearningAreas": ["Kiswahili: skill of writing dialogues."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Collaboration"],
+          "values": ["Responsibility", "Unity"],
+          "pertinentContemporaryIssues": ["Effective communication"]
+        }
+      ]
+    },
+    {
+      "name": "13.0 Land Travel",
+      "subStrands": [
+        {
+          "name": "13.1.1 Listening Comprehension: Extensive Listening",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the key issues raised in songs, addressing land travel",
+            "listen attentively to songs on land travel",
+            "use vocabulary identified from songs on land travel correctly",
+            "acknowledge the importance of extensive listening in communication"
+          ],
+          "keyInquiryQuestions": ["How can we tell the main message in a song?"],
+          "learningExperiences": [
+            "listen to songs on local and international land travel from audio recordings",
+            "respond to comprehension questions on key issues raised in the song",
+            "pick out key issues raised from a song sung by the teacher or resource person on land travel",
+            "share ideas on the key issues addressed in the songs they have listened to using wall charts",
+            "identify vocabulary used in songs on land travel and infer their meaning from context",
+            "construct sentences orally using the vocabulary learnt",
+            "sing choral songs on land travel"
+          ],
+          "linkedLearningAreas": ["Integrated Science and Mathematics: listening attentively and vocabulary use."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy"],
+          "values": ["Patriotism"],
+          "pertinentContemporaryIssues": ["Effective communication"]
+        },
+        {
+          "name": "13.2.1 Intensive Reading: Comprehension Strategies",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify key ideas from a passage",
+            "summarise key ideas from a passage",
+            "create mental images from the events in a passage",
+            "deduce the meaning of words from context",
+            "respond to factual and inferential questions correctly from the passage",
+            "acknowledge the importance of comprehension strategies in effective reading"
+          ],
+          "keyInquiryQuestions": ["What is the importance of reading a passage?", "What makes people write passages?"],
+          "learningExperiences": [
+            "read selected grade-appropriate passages on issues related to land travel, such as safety, types of roads and government road agencies from print and online sources",
+            "discuss opinions formed about the characters or ideas presented in the passage",
+            "infer the meaning of words based on how they have been used in the passage",
+            "complete oral and written exercises using the vocabulary learnt",
+            "answer factual and inferential questions from the passages, both orally and in writing",
+            "summarise key ideas presented in the passages by paraphrasing",
+            "work jointly with peers to retell sections of the passage"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports: issues on safety."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking", "Problem solving"],
+          "values": ["Love"],
+          "pertinentContemporaryIssues": ["Safety and security"]
+        },
+        {
+          "name": "13.3.1 Sentences: Simple Sentences",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify simple sentences from varied texts",
+            "construct simple sentences on a variety of issues",
+            "advocate the importance of using a variety of sentences in communication"
+          ],
+          "keyInquiryQuestions": ["What is the role of sentences in a text?", "What constitutes a simple sentence?", "How do you determine what to include in a sentence?"],
+          "learningExperiences": [
+            "listen keenly to a poem or a story on land travel and write down all the simple sentences that feature in the texts",
+            "collaborate with peers to read a print or non-print text on land travel and identify the simple sentences",
+            "tell a chain story featuring simple sentences",
+            "complete a substitution table featuring simple sentences",
+            "complete a mind map to practise the construction of simple sentences",
+            "write a short dialogue using simple sentences and share it with peers online and offline"
+          ],
+          "linkedLearningAreas": ["Social Studies: concept of land travel."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Self-esteem"]
+        },
+        {
+          "name": "13.4.1 Oral Literature: Praise Songs",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the purpose and occasions for which praise songs are performed",
+            "discuss the relationship between the singer and the person being praised in praise songs",
+            "perform praise songs sung in their immediate environment",
+            "collaborate with peers in performing the praise songs",
+            "appreciate the purpose of praise songs in communication"
+          ],
+          "keyInquiryQuestions": ["Why do we sing?", "What are the qualities of a good singer?"],
+          "learningExperiences": [
+            "listen to praise songs from audio-visual sources or from a resource person",
+            "identify and discuss the purpose of the praise songs they have listened to",
+            "share ideas on the relationship between the singer and the person being praised in the praise songs they have listened to",
+            "identify a praise song sung in their immediate environment",
+            "collaborate to present praise songs to the class and share experiences",
+            "discuss the character traits of the singer(s) as brought out in the praise song(s)"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports: performance skills."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy", "Creativity and imagination"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Life skills — living with others"]
+        },
+        {
+          "name": "13.5.1 Creative Writing: Narrative Composition (idioms)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "explain the meaning of specified idioms in context",
+            "create well-written narrative compositions using the specified idioms",
+            "appreciate the role of idioms in creative writing"
+          ],
+          "keyInquiryQuestions": ["What makes a story memorable?", "What is the importance of using idioms in communication?", "How can we respond effectively to a road crash that occurs in our vicinity?"],
+          "learningExperiences": [
+            "brainstorm on the reason creative writers use idiomatic expressions in writing",
+            "explain situations that call for the use of the idiomatic expressions: biting off more than you can chew, own up to something, having a lot on your plate, call it a day, piece of cake, hold your tongue",
+            "confirm the meaning of the idiomatic expressions from print and online dictionaries",
+            "practise using the idiomatic expressions in sentences",
+            "plan a narrative composition based on emergency response during road crashes incorporating the specified idiomatic expression",
+            "write a narrative composition individually",
+            "peer review each other's work and revise as per the suggestions given"
+          ],
+          "linkedLearningAreas": ["Kiswahili: narrative writing skill / creative writing."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Problem Solving", "Creativity and imagination"],
+          "values": ["Integrity"],
+          "pertinentContemporaryIssues": ["Effective communication"]
+        }
+      ]
+    },
+    {
+      "name": "14.0 Sports - Outdoor Games",
+      "subStrands": [
+        {
+          "name": "14.1.1 Consonant Sounds and Intonation",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify words with the sounds /v/, /f/, /n/ and /ŋ/ from a text",
+            "pronounce words with the sounds /v/, /f/, /n/ and /ŋ/ in sentences",
+            "use correct intonation for yes/no and wh-questions in varied contexts",
+            "appreciate the importance of correct pronunciation and intonation in a conversation"
+          ],
+          "keyInquiryQuestions": ["How can one learn to correctly pronounce words?"],
+          "learningExperiences": [
+            "search from print and non-print sources for tongue twisters with some of the target sounds and say them for enjoyment",
+            "watch a video or listen to a recording or conversation on outdoor games and group the words in a table according to the target sounds: /v/ as in very, /f/ as in ferry, /n/ as in been, and /ŋ/ as in being",
+            "listen to, and model native speaker clips with the target sounds in words",
+            "work with peers to practise the pronunciation of words with the target sounds and record themselves",
+            "share the clips for peer review",
+            "listen to an audio or a dramatised conversation on outdoor games in which Yes/No and WH-questions are used and point out whether a rising or falling intonation is used",
+            "write, dramatise and record a dialogue using words with the target sounds as well as Yes/No and WH-questions and share with peers for review"
+          ],
+          "linkedLearningAreas": ["Kiswahili: pronunciation of sounds."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy", "Self-efficacy"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Health education"]
+        },
+        {
+          "name": "14.2.1 Study Skills: Summarising",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the main ideas in texts",
+            "write a summary of ideas from varied texts",
+            "appreciate the importance of summarising information in a given context"
+          ],
+          "keyInquiryQuestions": ["Why is it important to summarise information?", "What factors should one consider when summarising an event?"],
+          "learningExperiences": [
+            "brainstorm on the steps to follow when writing a summary of a text",
+            "read a print or non-print text on varied issues, including outdoor games, and underline the main ideas",
+            "make notes from the underlined sentences and use them to make a rough draft",
+            "use the rough draft to make a fair copy",
+            "share the summaries through charts for peer review",
+            "collaborate with peers to check and make corrections on the written summarised pieces",
+            "discuss the purpose of making summaries"
+          ],
+          "linkedLearningAreas": ["Kiswahili: summarising information."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Life skills"]
+        },
+        {
+          "name": "14.3.1 Subject-Verb Agreement",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the subject and the verb in sentences",
+            "construct sentences ensuring subject-verb agreement",
+            "affirm the importance of subject-verb agreement in sentences"
+          ],
+          "keyInquiryQuestions": ["How do we construct sentences?"],
+          "learningExperiences": [
+            "read texts on varied topics such as outdoor games and identify the subject and verbs in the sentences",
+            "brainstorm and make short notes on the relationship between a subject and a verb in a sentence in terms of number and person",
+            "read sentences and label subject-verb agreement in them",
+            "make sentences based on outdoor sports in which the rule of subject-verb agreement has been applied",
+            "share the sentences in charts for peer review"
+          ],
+          "linkedLearningAreas": ["Integrated Science and Pre-Technical Studies: editing written work."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Collaboration"],
+          "values": ["Love"],
+          "pertinentContemporaryIssues": ["Value for sports"]
+        },
+        {
+          "name": "14.4.1 Features of Style (dialogue, similes, metaphors)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify instances of dialogue, similes, and metaphors in the text",
+            "use the styles of dialogue, similes, and metaphors in guided context",
+            "appreciate the importance of style in a work of art"
+          ],
+          "keyInquiryQuestions": ["Why do we use stylistic devices in writing?"],
+          "learningExperiences": [
+            "search online and offline for examples of dialogue, similes, and metaphors in stories and share them with the rest of the class",
+            "read the class reader and identify, with illustrations, instances of dialogue, similes, and metaphors in the text, and display their work on the class notice boards",
+            "role-play selected dialogues from the class reader and record themselves for video sharing and review",
+            "make sentences using the similes and metaphors identified from the text",
+            "discuss instances in real life where dialogues, similes, and metaphors can be used"
+          ],
+          "linkedLearningAreas": ["Kiswahili: learning of readers."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy", "Learning to learn"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Critical thinking"]
+        },
+        {
+          "name": "14.5.1 Descriptive Writing (200–240 words)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify features of a person, a thing, or a place that can be described",
+            "write a descriptive composition on a given subject",
+            "underscore the importance of creative writing in communication"
+          ],
+          "keyInquiryQuestions": ["What do you consider when describing something?"],
+          "learningExperiences": [
+            "collaborate with peers to view videos or pictures of people, things or places and list the features of each that can be described in an essay",
+            "search online and offline for words and expressions that can be used to describe different features like weather, emotions, events, and characters",
+            "explain the difference between descriptive writing and other forms of writing",
+            "read samples of descriptive essays and classify the features that are described and the expressions used in a graphic form for sharing",
+            "create a descriptive composition of between 200 to 240 words on an interesting topic like outdoor sports and display it in a gallery for peer review and revision"
+          ],
+          "linkedLearningAreas": ["Kiswahili: writing of similar compositions."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication", "Collaboration"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Creative thinking"]
+        }
+      ]
+    },
+    {
+      "name": "15.0 Tourist Attraction Sites - Kenya",
+      "subStrands": [
+        {
+          "name": "15.1.1 Oral Reports",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "outline the organisation of an oral report of events within the classroom",
+            "present an oral report on events that occur within the classroom",
+            "enjoy delivering and listening to oral reports in various contexts"
+          ],
+          "keyInquiryQuestions": ["How can you make an oral report presentation interesting?"],
+          "learningExperiences": [
+            "brainstorm the content and organisation of an oral report e.g. introduction, body, and conclusion",
+            "search online and offline in pairs, the steps for conducting an oral report e.g. research, compile (write), rehearse, and report (present/deliver)",
+            "role-play methods of delivering oral reports such as clear pronunciation, voice projection, tonal variation, use of non-verbal cues, and use of visuals",
+            "use flashcards to prepare speaking notes for the reports",
+            "simulate an oral report preparation and delivery procedure and video or audio record themselves",
+            "watch or listen to the recorded reports and evaluate them in terms of strengths and weaknesses",
+            "collaborate with peers to prepare and present actual oral reports",
+            "write the reports on charts and share them with peers for evaluation"
+          ],
+          "linkedLearningAreas": ["Kiswahili: report presentation."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy", "Critical thinking and problem solving"],
+          "values": ["Love"],
+          "pertinentContemporaryIssues": ["Effective communication"]
+        },
+        {
+          "name": "15.2.1 Reading Fluency",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "recognise the use of fluency strategies in the reading process",
+            "apply fluency strategies while reading",
+            "appreciate the role of reading fluency in communication"
+          ],
+          "keyInquiryQuestions": ["How can you improve your reading fluency?"],
+          "learningExperiences": [
+            "watch and listen to videos of students reading fluently and discuss what makes them good readers",
+            "search online and offline for different reading fluency strategies such as previewing and predicting, skimming, scanning, and ignoring unknown words and share with peers",
+            "watch or listen to sample reading clips and simulate the model reading as they apply reading strategies",
+            "practise, with peers, timed reading, accurate reading, and reading with expression on issues like tourist attraction sites in Kenya",
+            "assess peers' reading based on the aspects of fluency – accuracy, speed, reading",
+            "record sample readers in class and save the recordings on a digital device",
+            "discuss the importance of reading fluently"
+          ],
+          "linkedLearningAreas": ["Kiswahili: teaching of comprehension."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy", "Citizenship"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Effective communication", "Environmental education"]
+        },
+        {
+          "name": "15.3.1 Affirmative and Negative Sentences",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "differentiate between affirmative and negative sentences in spoken and written contexts",
+            "construct affirmative and negative sentences in varied contexts",
+            "acknowledge the expressive role of sentences in effective communication"
+          ],
+          "keyInquiryQuestions": ["When do we use affirmative statements?", "When do we use negative statements?", "Why is it important to use the right sentence when saying something?"],
+          "learningExperiences": [
+            "search online and offline for the differences between affirmative and negative sentences and share them with peers",
+            "role-play a dialogue with affirmative and negative sentences and record themselves",
+            "watch/listen to a conversation on issues like tourist sites in Kenya and pick out the affirmative and negative sentences",
+            "sort jumbled up sentences into affirmative and negative sentences",
+            "construct affirmative and negative sentences",
+            "share sentences made in the form of charts for peer review",
+            "write a short story or dialogue on an issue like tourist attraction sites in Kenya using affirmative and negative sentences"
+          ],
+          "linkedLearningAreas": ["Kiswahili: language use."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Citizenship", "Digital literacy"],
+          "values": ["Unity", "Patriotism"],
+          "pertinentContemporaryIssues": ["Citizenship education", "Creative thinking"]
+        },
+        {
+          "name": "15.4.1 Poetry (subject matter and ideas)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify the subject matter of a poem",
+            "analyse ideas in the poem",
+            "reiterate the role of poetry in passing information"
+          ],
+          "keyInquiryQuestions": ["Why would you use a poem instead of a story to pass information?", "What makes a poem interesting to read?", "What kind of ideas can one convey using a poem?"],
+          "learningExperiences": [
+            "collaborate with peers to recite poems for enjoyment and outline the subject matter",
+            "search online and offline for ways of determining ideas in a poem, such as studying the title, the persona, the events, and the choice of words",
+            "discuss how the use of repetition and other styles can help bring out the ideas in the poem",
+            "collaborate with peers to pick a poem and identify the ideas brought out and share their findings with peers through charts or graphic organisers for review",
+            "dramatise a poem displaying ideas generated from it using placards and record their performances"
+          ],
+          "linkedLearningAreas": ["Kiswahili and Creative Arts and Sports: performance techniques."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Problem Solving", "Critical thinking"],
+          "values": ["Peace"],
+          "pertinentContemporaryIssues": ["Life skills education — decision making"]
+        },
+        {
+          "name": "15.5.1 Functional Writing: Notices and Posters",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "outline the format of presenting notices and posters",
+            "design notices and posters on current issues",
+            "acknowledge the role of notices and posters in disseminating information"
+          ],
+          "keyInquiryQuestions": ["What kind of messages do posters convey?"],
+          "learningExperiences": [
+            "collect posters and notices online or offline on tourist attraction sites in Kenya and display them in class",
+            "brainstorm the format for presenting notices and posters",
+            "study samples of notices and posters presented in class and label features of format",
+            "differentiate between a poster and a notice in writing",
+            "discuss and select issue(s) that can be addressed by notices and posters including matters relating to tourist attraction sites in Kenya",
+            "design a notice and a poster on the selected issue using the model format and display for peer review",
+            "keep the revised notice and poster in their portfolio"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports: skill of making posters."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn", "Citizenship"],
+          "values": ["Patriotism", "Responsibility"],
+          "pertinentContemporaryIssues": ["Effective communication", "Problem solving"]
+        }
+      ]
+    }
+  ]
+}

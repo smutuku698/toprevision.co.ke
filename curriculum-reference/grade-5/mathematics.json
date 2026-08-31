@@ -1,0 +1,573 @@
+{
+  "subject": "Mathematics",
+  "subjectId": "math",
+  "grade": 5,
+  "source": {
+    "title": "Primary School Education Curriculum Design — Mathematics, Grade 5",
+    "path": "grade 5 designs/GRADE-5-MATHEMATICS-Curriculum-Designs.pdf",
+    "publisher": "KICD",
+    "isbn": "978-9914-724-48-6",
+    "firstPublished": 2017,
+    "revised": 2024,
+    "retrievedDate": "2026-08-18",
+    "confidence": "high",
+    "notes": "Read directly via the Read tool (no `pages` param) from the local PDF in 'grade 5 designs/' (space in folder name, not a typo like grade-6's 'desings'). This is Upper Primary content, a notch simpler than Grade 6: whole numbers only reach hundreds of thousands (not millions), no squares/square roots anywhere in Numbers (that's Grade 6+), fractions cap at denominators not exceeding 12 with only same-denominator or one-renaming add/subtract (no LCM-based unlike fractions, no mixed numbers, no reciprocals — all Grade 6+), decimals cap at thousandths with only add/subtract (no percentage conversions), and Simple Equations (1.8) is a brand-new sub-strand not present at Grade 6 at all. Money (2.7) is conceptual/vocabulary-only here (explain budget/tax/bank services, prepare a small budget) with no profit/loss arithmetic (that's Grade 6). Geometry explicitly introduces protractor-based angle measurement (absent at Grade 6, which only reaches angle sums on a line/at a point/in a triangle without a protractor tool) and Volume (2.3) as a wholly new sub-strand deriving v=l×w×h and v=s×s×s practically — also absent at Grade 6."
+  },
+  "strands": [
+    {
+      "name": "1.0 Numbers",
+      "subStrands": [
+        {
+          "name": "1.1 Whole Numbers",
+          "lessonCount": 20,
+          "specificLearningOutcomes": [
+            "Use place value and total value of digits up to hundreds of thousands in different situations",
+            "Read and write numbers up to tens of thousands in words in different situations",
+            "Order numbers up to tens of thousands in different situations",
+            "Round off numbers up to tens of thousands to the nearest hundred and thousand in different situations",
+            "Apply divisibility tests of 2, 5 and 10 in real-life situations",
+            "Determine Highest Common Factor (HCF) and Greatest Common Divisor (GCD) in different situations",
+            "Determine Least Common Multiple (LCM) in real-life situations",
+            "Appreciate use of whole numbers in real-life situations"
+          ],
+          "keyInquiryQuestions": ["Where can we use ordering of numbers in real life?", "Why should we round off numbers?"],
+          "learningExperiences": [
+            "Identify place value of digits up to hundreds of thousands using place value apparatus or place value charts",
+            "Identify total value of digits up to hundreds of thousands using place value charts",
+            "Read numbers up to hundreds of thousands in symbols from number charts or cards",
+            "Read and write numbers up to tens of thousands in words from number charts or cards",
+            "Arrange numbers up to tens of thousands in increasing and decreasing order",
+            "Discuss and round off numbers up to tens of thousands to the nearest hundred and thousand using number cards and share with other groups",
+            "Carry out the divisibility test for 2, 5 and 10 and come up with divisibility rules",
+            "Express numbers in terms of their factors then identify the common factors",
+            "Express the multiples of numbers and identify multiples of the common multiples as well as the least common multiples",
+            "Play games involving numbers using digital devices or other resources"
+          ],
+          "linkedLearningAreas": ["Languages — relate whole numbers to reading and writing number symbols and words"],
+          "scopeNotes": [
+            "exclude: no squares/square roots anywhere in this sub-strand — unlike Grade 6's 1.1 Whole Numbers (which adds squares up to 100 and square roots of perfect squares up to 10,000), Grade 5 stops at place value/total value, ordering, rounding, divisibility tests, HCF/GCD, and LCM.",
+            "include: place value/total value reaches hundreds of thousands (a 6-digit ceiling) even though reading/writing in words and ordering/rounding both cap lower, at tens of thousands (a 5-digit ceiling) — these are two genuinely different numeric ceilings within the same sub-strand, not a typo in the source."
+          ],
+          "assessmentSignal": "Rubric distinguishes 'systematically' (Exceeds) from plain 'correctly' (Meets); for LCM/HCF/GCD/divisibility the 'Approaches Expectations' tier requires at least three of the four skills, and 'Below Expectations' only one — a graded partial-mastery ladder worth reflecting in distractor design (a near-miss answer applying only one test/rule, not a random number).",
+          "coreCompetencies": ["Critical thinking and problem solving — learner orders and rounds off numbers", "Learning to learn — learner reads and writes numbers, computing the total values of numbers"]
+        },
+        {
+          "name": "1.2 Addition",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Add up to three 6-digit numbers without regrouping up to a sum not exceeding 1,000,000 in different situations",
+            "Add up to two 6-digit numbers with double regrouping with the sum not exceeding 1,000,000 in different situations",
+            "Estimate sum by rounding off the addends to the nearest hundred and thousand in different situations",
+            "Create patterns involving the addition of numbers up to a sum of 1,000,000 in real-life situations",
+            "Appreciate use of the addition of whole numbers in real-life situations"
+          ],
+          "keyInquiryQuestions": ["How can you estimate the sum of given numbers?", "How can you create patterns in addition?"],
+          "learningExperiences": [
+            "Work out the sum of three 6-digit numbers without regrouping up to 1,000,000 using place charts or any other resource",
+            "Collaborate with others to work out the sum of two 6-digit numbers with double regrouping with the number not more than 1,000,000 using place value apparatus or any other resource",
+            "Estimate sums by rounding off the addends to the nearest hundred and thousand",
+            "Come up with patterns involving addition of numbers up to a sum of 1,000,000",
+            "Play games involving addition of numbers using digital devices and other resources"
+          ],
+          "linkedLearningAreas": ["Agriculture and Nutrition — relate addition to value addition"],
+          "scopeNotes": [],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Creativity and imagination — learner makes number patterns involving addition", "Digital literacy — learner uses digital devices and other resources to learn and play games in addition concept development"]
+        },
+        {
+          "name": "1.3 Subtraction",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Subtract up to two 6-digit numbers without regrouping in real-life situations",
+            "Subtract up to two 6-digit numbers with regrouping in different situations",
+            "Estimate difference by rounding off the minuend and subtrahend to the nearest hundred and thousand in different situations",
+            "Perform combined operations involving addition and subtraction in different situations",
+            "Create patterns involving subtraction from up to 1,000,000 in different situations",
+            "Appreciate subtraction of numbers in real-life situations"
+          ],
+          "keyInquiryQuestions": ["How do you estimate difference to the nearest hundred?", "How can you create number patterns involving subtraction?"],
+          "learningExperiences": [
+            "Work with peers to subtract up to two 6-digit numbers without regrouping using place value apparatus",
+            "Discuss and work out subtraction of up to two 6-digit numbers with regrouping using place value apparatus",
+            "Team up with peers to estimate difference by rounding off the minuend and subtrahend to the nearest hundred and thousand using a number line",
+            "Work out questions involving addition and subtraction",
+            "Generate patterns involving subtraction of whole numbers from up to 1,000,000",
+            "Play games involving subtraction of numbers using digital devices and other resources"
+          ],
+          "linkedLearningAreas": ["Social Studies — relate subtraction to the decrease of economic resources"],
+          "scopeNotes": [],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Creativity and imagination — learner creates number patterns involving subtraction", "Self-efficacy — learner reports the group's discussion to others in carrying out the various subtraction skills"]
+        },
+        {
+          "name": "1.4 Multiplication",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Multiply up to a 3-digit number by up to a 2-digit number in real-life situations",
+            "Estimate product by rounding off numbers to the nearest ten in different situations",
+            "Make patterns involving multiplication of numbers with product not exceeding 1000 in different situations",
+            "Appreciate use of multiplication in real life"
+          ],
+          "keyInquiryQuestions": ["Where can multiplication be used in real life?", "How can you form patterns involving multiplication?"],
+          "learningExperiences": [
+            "Work out multiplication of up to a 3-digit number by up to a 2-digit number using different methods",
+            "Round off numbers to the nearest tens then get their product using compatibility of numbers or own strategies",
+            "Team up with peers to create patterns involving multiplication of numbers with products not exceeding 1000",
+            "Play games involving multiplication of whole numbers using digital devices and other resources"
+          ],
+          "linkedLearningAreas": ["Agriculture and Nutrition — relate multiplication to sowing tiny seeds gardening skills"],
+          "scopeNotes": [],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Communication and collaboration — learner works with peers to make patterns involving multiplication", "Learning to learn — learner explores other methods of working out products of numbers"]
+        },
+        {
+          "name": "1.5 Division",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Divide up to a 3-digit number by up to a 2-digit number where the dividend is greater than the divisor in real life",
+            "Apply the relationship between multiplication and division in different situations",
+            "Divide up to 3-digit number by 1000 in different situations",
+            "Estimate quotients by rounding off the dividend and divisor to the nearest ten in real-life situations",
+            "Perform combined operations involving addition, subtraction, multiplication and division of whole numbers in different situations",
+            "Appreciate use of division of whole numbers in real-life situations"
+          ],
+          "keyInquiryQuestions": ["Where is division used in real life?", "How can we estimate quotients?"],
+          "learningExperiences": [
+            "Work out division of up to a 3-digit number by up to a 2-digit number where the dividend is greater than the divisor using long and short form",
+            "Collaborate to show that multiplication is the opposite of division",
+            "Estimate quotients by rounding off the dividend and divisor to the nearest ten",
+            "Work out questions involving addition, subtraction, multiplication and division",
+            "Create number games and puzzles involving division",
+            "Share digital resources or other resources with peers while playing games involving the division of whole numbers"
+          ],
+          "linkedLearningAreas": ["Agriculture — relate division to allocation and sharing"],
+          "scopeNotes": [
+            "include: 'divide up to 3-digit number by 1000' is an explicit, distinct outcome (c) from the general division outcome (a) — a decimal-quotient/division-by-a-power-of-ten skill in its own right, not a restatement of the up-to-2-digit-divisor case."
+          ],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Creativity and Imagination — learner creates number games and puzzles involving division", "Digital Literacy — learner plays digital games involving divisions"]
+        },
+        {
+          "name": "1.6 Fractions",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "Simplify fractions in different situations",
+            "Compare fractions in different situations",
+            "Order fractions with denominators not exceeding 12 in different situations",
+            "Add two fractions with the same denominator in different situations",
+            "Subtract two fractions with the same denominator in different situations",
+            "Add two fractions with one renaming in different situations",
+            "Subtract two fractions with one renaming in different situations",
+            "Appreciate the use of fractions in real life"
+          ],
+          "keyInquiryQuestions": ["Why can we order fractions in real life?", "Where are fractions used in real life?"],
+          "learningExperiences": [
+            "Identify equivalent fractions using a fraction board or chart",
+            "Represent equivalent fractions using real objects",
+            "Use charts or other resources to express fractions in their simplest forms",
+            "Arrange given fractions in increasing or decreasing order using different methods",
+            "Add fractions with the same denominator using paper cut-outs, real objects or other resources",
+            "Subtract two fractions with the same denominator using paper cut-outs, number lines, real objects, or other resources",
+            "Carry out addition of two fractions by renaming one fraction using equivalent fractions",
+            "Carry out subtraction of two fractions by renaming one fraction using equivalent fractions"
+          ],
+          "linkedLearningAreas": ["Science and Technology — relate fractions to mixtures"],
+          "scopeNotes": [
+            "exclude: denominators are capped at 12 for ordering; 'one renaming' only (i.e. renaming one of the two fractions to a shared denominator via a simple multiple relationship) for add/subtract with unlike denominators — no LCM-based general unlike-denominator addition, no mixed numbers, no reciprocals, no fraction-to-percentage conversion. All of these are Grade 6 content (see curriculum-reference/grade-6/mathematics.json's 1.4 Fractions) — do not backport."
+          ],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Learning to learn — learner orders, compares and simplifies fractions", "Digital Literacy — learner plays digital games involving fractions"]
+        },
+        {
+          "name": "1.7 Decimals",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Identify place value of decimals up to thousandths in different situations",
+            "Order decimals up to thousandths in different situations",
+            "Add decimals up to thousandths in different situations",
+            "Subtract decimals up to thousandths in different situations",
+            "Multiply decimal numbers of up to thousandths by 1000 in different situations",
+            "Appreciate use of decimals in real-life situations"
+          ],
+          "keyInquiryQuestions": ["Where can you use decimals in real life?", "What is the importance of ordering decimals?"],
+          "learningExperiences": [
+            "Work out place value of decimals up to thousandths using a place value chart",
+            "Order decimals up to thousandths from smallest to largest and from largest to smallest using different methods",
+            "Work out addition of decimals up to thousandths using place value apparatus",
+            "Subtract decimals up to thousandths using place value apparatus",
+            "Collaborate with peers to find information on application of decimals in real-life situations"
+          ],
+          "linkedLearningAreas": ["Agriculture — relate decimal numbers to reading quantities of ingredients"],
+          "scopeNotes": [
+            "exclude: no decimal-to-fraction or decimal-to-percentage conversion here (that's Grade 6's 1.5 Decimals). This sub-strand is place value, ordering, add/subtract, and ×1000 only."
+          ],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Creativity and Imagination — the learner orders decimals up to thousandths from smallest to largest and from largest to smallest using number cards"]
+        },
+        {
+          "name": "1.8 Simple Equations",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Form simple equations with one unknown involving real-life situations",
+            "Solve simple equations with one unknown involving real-life situations",
+            "Appreciate use of equations in solving problems in real life"
+          ],
+          "keyInquiryQuestions": ["Where are equations used in real life?"],
+          "learningExperiences": [
+            "Discuss and come up with equations with one unknown from daily experiences",
+            "Use real objects to form equations with one unknown",
+            "Team up with peers to solve equations with one unknown",
+            "Use digital devices or other resources to learn more about equations"
+          ],
+          "linkedLearningAreas": ["Pre-technical Studies — relate equations with one unknown to marketing goods"],
+          "scopeNotes": [
+            "include: this sub-strand is entirely new at Grade 5 — it does not exist in the Grade 6 design at all (Grade 6's Numbers strand is Whole Numbers/Multiplication/Division/Fractions/Decimals/Inequalities, not Equations). Only one-unknown, one-step-or-simple-multi-step equations from real-life situations, no inequality symbols here (that is Grade 6's separate 1.6 Inequalities sub-strand)."
+          ],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Critical thinking and problem solving — learner forms and solves equations with one unknown", "Digital literacy — learner uses digital devices or other resources to learn more about equations with one unknown"]
+        }
+      ]
+    },
+    {
+      "name": "2.0 Measurement",
+      "subStrands": [
+        {
+          "name": "2.1 Length",
+          "lessonCount": 12,
+          "specificLearningOutcomes": [
+            "Identify the kilometre (km) as a unit of measuring length in real life",
+            "Estimate distance in kilometres in real-life situations",
+            "Identify the relationship between the kilometre (km) and the metre (m) in different situations",
+            "Convert kilometres to metres and metres to kilometres in different situations",
+            "Add metres and kilometres in real-life situations",
+            "Subtract metres and kilometres in real-life situations",
+            "Multiply metres and kilometres by whole numbers in real-life situations",
+            "Divide metres and kilometres by whole numbers in real-life situations",
+            "Appreciate the use of kilometres and metres in measuring length in real life"
+          ],
+          "keyInquiryQuestions": ["How can you measure distance?", "Why should you measure distance?"],
+          "learningExperiences": [
+            "Discuss the kilometre as a unit of measuring length in real life",
+            "Team up with peers to estimate distance in kilometres",
+            "Work with peers to establish the relationship between the kilometre and metre",
+            "Express the distance from kilometres to metres and metres to kilometres",
+            "Carry out addition involving distance in kilometres and metres",
+            "Carry out subtraction involving distance in kilometres and metres",
+            "Carry out multiplication involving distance in kilometres and metres",
+            "Carry out division involving distance in kilometres and metres",
+            "Use digital devices or other resources to get more information involving length in kilometres and metres"
+          ],
+          "linkedLearningAreas": ["Agriculture — relate length measurement to constructing food preservation equipment"],
+          "scopeNotes": [
+            "exclude: this sub-strand is km/m only — no millimetre, no circumference of a circle (both are Grade 6's 2.1 Length content)."
+          ],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Creativity and Imagination — learner measures distance estimated and compares findings with peers", "Critical thinking and problem solving — learner establishes the relationship between the kilometre and metre practically"]
+        },
+        {
+          "name": "2.2 Area",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Identify the square centimetre (cm²) as a unit of measuring area in real life",
+            "Work out area of rectangles and squares in square centimetres (cm²) in different situations",
+            "Appreciate the use of cm² in working out area in real life"
+          ],
+          "keyInquiryQuestions": ["How can you determine the area of different surfaces?"],
+          "learningExperiences": [
+            "Discuss and measure, trace and cut out 1 cm by 1 cm units, and refer the area of each as one square centimetre (1cm²)",
+            "Cover a given surface using 1-centimetre square cut-outs and count the number of cut-outs to get the area in cm²",
+            "Establish the area of rectangles and squares in cm² as the product of the number 1cm² units in the row by the number of units in the column, area of rectangle or square = length x width",
+            "Team up with peers to play games involving area using multiplication charts"
+          ],
+          "linkedLearningAreas": ["Agriculture — relate concept of area to planting fields"],
+          "scopeNotes": [
+            "exclude: rectangles and squares only — no triangle area, no combined-shape area, no circle-area estimation by counting squares (all Grade 6's 2.2 Area content)."
+          ],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Creativity and imagination — learner uses paper cut-outs in covering plane surfaces to get area in cm²", "Self-efficacy — learner measures, traces and cuts out 1 cm by 1cm units, and refers the area of each as one square centimetre (1cm²)"]
+        },
+        {
+          "name": "2.3 Volume",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Identify the cubic centimetre (cm³) as a unit of measuring volume in different situations",
+            "Derive the formula for the volume of cuboid as v = l x w x h practically",
+            "Work out volume of cuboids in cubic centimetres (cm³) using the formula",
+            "Derive the formula for the volume of cube as v = s x s x s practically",
+            "Work out volume of cubes in cubic centimetres (cm³) using the formula",
+            "Appreciate use of cubic centimetres in measuring volume in real life"
+          ],
+          "keyInquiryQuestions": ["Where is volume applicable in real life?"],
+          "learningExperiences": [
+            "Measure the sides of a 1cm cube and identify it as a unit of measuring volume",
+            "Arrange a number of cubes along the length, width and vary the number of layers",
+            "Count the number of cubes used and record, establishing that the total number of cubes represents the volume of the cube or cuboid formed",
+            "Count the number of cubes on the length and multiply by the number in the width and the number of layers to establish the formula for volume (v) of cuboid as v = l x w x h",
+            "Discuss the formula for volume of a cube, v = s x s x s, where s is the side of a cube",
+            "Manipulate cubes and cuboids by flipping around using digital devices or other resources",
+            "Work out the volume of cubes and cuboids in cubic centimetres",
+            "Use digital devices and other resources to play games involving volumes"
+          ],
+          "linkedLearningAreas": ["Agriculture — relate concept of volume to construction of innovative watering equipment"],
+          "scopeNotes": [
+            "include: this sub-strand is entirely new at Grade 5 — Grade 6's Measurement strand has no Volume sub-strand at all. The formula-derivation outcomes (b, d) are their own testable outcomes distinct from the compute outcomes (c, e) — a skill should test both 'why is v=l×w×h true' (e.g. counting a stacked-cube array) and 'compute v given l,w,h', not just the second."
+          ],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Learning to learn — learner counts the number of cubes on the length and multiplies by the number in the width and the number of layers to establish the formula for volume (v) of a cuboid", "Creativity and imagination — learner counts the number of cubes to establish that the total number of cubes represents the volume of cuboid formed"]
+        },
+        {
+          "name": "2.4 Capacity",
+          "lessonCount": 12,
+          "specificLearningOutcomes": [
+            "Identify the millilitre as a unit of measuring capacity in real life",
+            "Measure capacity in millilitres in real-life situations",
+            "Estimate and measure capacity in millilitres in different situations",
+            "Identify the relationship between litres and millilitres in real life",
+            "Convert litres to millilitres and millilitres to litres in real-life situations",
+            "Add litres and millilitres in real-life situations",
+            "Subtract litres and millilitres in real-life situations",
+            "Multiply litres and millilitres by whole numbers in real-life situations",
+            "Divide litres and millilitres by whole numbers in different situations",
+            "Appreciate use of litres and millilitres in measuring capacity in real life"
+          ],
+          "keyInquiryQuestions": ["Where are litres and millilitres used in day-to-day life?"],
+          "learningExperiences": [
+            "Collect safe small containers and read the unit of measurements indicated in them",
+            "Use smaller containers with capacity in millilitres to fill bigger containers",
+            "Identify containers with capacity of 5 millilitres and use them to fill other containers",
+            "Share tasks with peers while filling small containers with water and measure the capacity in millilitres using a container graduated in millilitres",
+            "Use digital device or other resources to find the relationship between millilitres and litres",
+            "Use a container labelled in millilitres to fill a container labelled in litres and find the relationship",
+            "Carry out operations involving addition, subtraction, multiplication and division of litres and millilitres by whole numbers"
+          ],
+          "linkedLearningAreas": ["Science and Technology — relate concept of capacity to water conservation"],
+          "scopeNotes": [
+            "include: estimation/measurement is explicitly framed in multiples of 5 millilitres (per the sub-strand's own Suggested Assessment Rubric — 'Ability to estimate and measure capacity in multiples of 5 millilitres'), not arbitrary millilitre values — reflect this in any estimate-to-nearest-5ml branch.",
+            "exclude: cubic centimetre-to-litre relationship is Grade 6 content (2.3 Capacity there links cm³/millilitres/litres); Grade 5 only relates litres and millilitres to each other."
+          ],
+          "assessmentSignal": "Rubric names estimation to the nearest multiple of 5 millilitres explicitly as the measurable skill.",
+          "coreCompetencies": ["Critical thinking and problem solving — learner converts units of capacity, relates units of capacity and works questions involving capacity"]
+        },
+        {
+          "name": "2.5 Mass",
+          "lessonCount": 12,
+          "specificLearningOutcomes": [
+            "Identify the gramme as a unit of measuring mass in real life",
+            "Measure mass in grammes in different situations",
+            "Estimate and measure mass in grammes in different situations",
+            "Identify the relationship between the kilogramme and the gramme in real-life situations",
+            "Convert kilogrammes to grammes and grammes to kilogrammes in real-life situations",
+            "Add grammes and kilogrammes in real-life situations",
+            "Subtract grammes and kilogrammes in real-life situations",
+            "Multiply grammes and kilogramme by whole numbers in real-life situations",
+            "Divide grammes and kilogrammes by whole numbers in real-life situations",
+            "Appreciate use of kilogrammes and grammes in measuring mass in real life"
+          ],
+          "keyInquiryQuestions": ["What is the importance of measuring mass?"],
+          "learningExperiences": [
+            "Identify different small containers with mass labelled grammes",
+            "Use a spoon or bottle top to scoop sand or soil estimated to be about 5 grammes",
+            "Use the spoon or the bottle top to fill other containers with soil or sand and estimate their masses",
+            "Discuss with peers to establish the relationship between the kilogramme and the grammes using a beam balance or electronic weighing machine (1kg = 1000g)",
+            "Express various values of mass in kilogrammes to grammes and vice versa",
+            "Convert kilogrammes to grammes and grammes to kilogrammes in real life",
+            "Determine mass of items in grammes and kilogrammes by addition, subtraction, multiplication and division in different situations",
+            "Play games involving mass by measuring mass of different objects or substances using improvised weighing balance"
+          ],
+          "linkedLearningAreas": ["Science and Technology — relate concept of mass to measuring mass in grammes"],
+          "scopeNotes": [
+            "exclude: tonne as a unit of mass is Grade 6 content (2.4 Mass there covers kg/tonne) — Grade 5 stops at gramme/kilogramme."
+          ],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Communication and collaboration — learner teams up with peers to estimate and measure mass of items in grammes using a beam balance or electronic weighing machine"]
+        },
+        {
+          "name": "2.6 Time",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "Identify the second as a unit of measuring time from a clock",
+            "Use digital or analogue clocks to read time in seconds",
+            "Identify the relationship between the minute and the second in real-life situations",
+            "Convert minutes to seconds and seconds to minutes in real life",
+            "Add minutes and seconds with conversion in real-life situations",
+            "Subtract minutes and seconds with conversion in real-life situations",
+            "Multiply minutes and seconds by whole numbers in real-life situations",
+            "Divide minutes and seconds by whole numbers in real-life situations",
+            "Appreciate use of minutes and seconds as units of measuring time in real-life situations"
+          ],
+          "keyInquiryQuestions": ["How can we read and tell time?"],
+          "learningExperiences": [
+            "Work with peers to identify the second hand from a clock",
+            "Carry out activities taking 10 seconds",
+            "Use digital devices and other resources to tell time from clocks",
+            "Relate the activities to what can be done in one tenth of the time taken to do the activity; the time taken is 1 second",
+            "Measure time taken to do various activities in seconds",
+            "Establish the relationship between seconds and minute using a clock or stop watch, watches",
+            "Team up with peers to determine time durations in minutes and seconds using different operations in real-life situations"
+          ],
+          "linkedLearningAreas": ["Science and Technology — relate concept of time to change of state of matter due to heating or freezing over time"],
+          "scopeNotes": [
+            "exclude: no a.m./p.m., no 12h/24h conversion, no travel timetables — all Grade 6's 2.5 Time content. Grade 5 Time is entirely about the second as a sub-unit of the minute (reading, converting, and the four operations), not clock-reading conventions."
+          ],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Learning to learn — learner establishes the relationship between seconds and minute using a clock or stop watch, watches"]
+        },
+        {
+          "name": "2.7 Money",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "Explain the term budget in real-life situations",
+            "Identify the importance of a budget in real life",
+            "Prepare a budget of up to 5 items used in daily life",
+            "Explain meaning of tax and its importance to the government",
+            "Identify services provided by banks in real-life situations",
+            "Identify factors to consider in order to save money wisely",
+            "Appreciate use of budgeting, bank services and payment of taxes in real life"
+          ],
+          "keyInquiryQuestions": ["How do you spend your money?", "What is the importance of paying taxes?"],
+          "learningExperiences": [
+            "Discuss meaning and importance of a budget",
+            "Prepare a budget of about 5 items that can be found in the classroom model shop",
+            "Discuss meaning and importance of taxes to the government, and study receipts from sales to identify amount of taxes paid",
+            "Discuss provision of loans, safe custody of items, money deposits and withdrawals, savings as services provided by banks",
+            "Brainstorm on factors to consider when saving money and share with others",
+            "Use digital devices to learn how to transfer money from one person to another as part of bank services"
+          ],
+          "linkedLearningAreas": ["Social Studies — relate concept of money to resources and economic activities in Kenya"],
+          "scopeNotes": [
+            "exclude: no buying/selling price arithmetic, no profit/loss computation, no named tax types like income tax/VAT — those are Grade 6's 2.6 Money content. Grade 5 Money is conceptual: explain budget/tax/bank-services vocabulary and prepare a small (≤5-item) budget, not compute profit/loss from transactions.",
+            "include: 'prepare a budget of up to 5 items' is a concrete, testable outcome — a budget-total addition question over a small item list is in scope even though this sub-strand is otherwise conceptual."
+          ],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Communication and collaboration — learner discusses and shares information about preparation of a shopping budget", "Learning to learn — learner discusses matters on budgeting, savings, and electronic banking"]
+        }
+      ]
+    },
+    {
+      "name": "3.0 Geometry",
+      "subStrands": [
+        {
+          "name": "3.1 Lines",
+          "lessonCount": 4,
+          "specificLearningOutcomes": [
+            "Identify horizontal and vertical lines in different situations",
+            "Draw horizontal and vertical lines in different situations",
+            "Identify perpendicular lines in different situations",
+            "Draw perpendicular lines in different situations",
+            "Identify parallel lines in different situations",
+            "Draw parallel lines in different situations",
+            "Appreciate use of various types of lines in real life"
+          ],
+          "keyInquiryQuestions": ["Where are perpendicular lines used?"],
+          "learningExperiences": [
+            "Work with peers to identify lines in the classroom and within the environment",
+            "Describe lines in the environment and identify them as horizontal and vertical lines, parallel and perpendicular lines",
+            "Work with peers to draw and model horizontal and vertical lines, parallel and perpendicular lines",
+            "Use digital devices and other resources to draw more lines"
+          ],
+          "linkedLearningAreas": ["Creative Arts — relate lines to sketching and drawing"],
+          "scopeNotes": [
+            "exclude: this sub-strand is identify/draw only, at a conceptual level — no line bisection or geometric-instrument construction (compass/ruler bisecting a line, constructing a perpendicular) which is Grade 6's 3.1 Lines content instead."
+          ],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Learning to learn — learner draws different horizontal, vertical, parallel and perpendicular lines", "Digital literacy — learner uses digital devices to learn more about lines"]
+        },
+        {
+          "name": "3.2 Angles",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Relate a turn to angles in real life",
+            "Read angles from protractor in both directions",
+            "Use protractor to measure angles in different situations",
+            "Measure angles in degrees in different situations",
+            "Identify the use of angles in the environment",
+            "Appreciate the use of angles in our day-to-day life"
+          ],
+          "keyInquiryQuestions": ["Where are angles used in the environment?"],
+          "learningExperiences": [
+            "Make clockwise, quarter and half turn, and relate them to angles in the environment",
+            "Discuss the use of angles in the environment",
+            "Team up with peers to make a unit angle and use it to measure angles in the environment",
+            "Divide a 10° angle into 10 equal parts and identify each part as equal to 1 degree",
+            "Measure angles in degrees using a protractor",
+            "Work with peers to measure angles in degrees using a protractor and share results with others",
+            "Use digital devices and other resources to draw plane figures and learn about angles"
+          ],
+          "linkedLearningAreas": ["Creative Arts — relate lines to sketching and drawing"],
+          "scopeNotes": [
+            "include: this is the first grade in the Upper Primary sequence to introduce protractor-based angle measurement in degrees — Grade 6's 3.2 Angles builds on this with angle sums on a line/at a point/in a triangle/rectangle and constructing named triangle types, but does not itself introduce the protractor as a tool (this design does). A skill for this sub-strand should use the engine's interactive `protractor` QuestionKind for the 'read/use a protractor' outcomes, not just a static angle-value fill-blank.",
+            "include: 'read angles from protractor in both directions' refers to a real protractor's dual scale (inner ring counting one way, outer ring the other) — a plausible-distractor question can present 'the wrong-direction reading' as a distractor, since reading the wrong scale is a documented, common real mistake with a physical protractor."
+          ],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Communication and collaboration — learner teams up with peers to make a unit angle and use it to measure angles in the environment", "Learning to learn — learner measures angles in degrees using a protractor and shares results with others"]
+        },
+        {
+          "name": "3.3 Three Dimension (3-D) Objects",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Describe 3-D objects in the environment",
+            "Describe 2-D shapes in 3-D objects in the environment",
+            "Appreciate the use of 3-D objects in the environment"
+          ],
+          "keyInquiryQuestions": ["Where are 3-D objects used in the environment?"],
+          "learningExperiences": [
+            "Share tasks with peers to identify, collect objects and discuss cubes, cuboids, cylinders, spheres and pyramids as 3-D objects in the environment",
+            "Watch a video on 3-D objects",
+            "Describe 2-D shapes found in 3-D objects and share with other groups",
+            "Use digital devices and other resources to draw and learn more about 3-D objects"
+          ],
+          "linkedLearningAreas": ["Creative Arts — relate the concept of 3-D objects and 2-D shapes to modelling"],
+          "scopeNotes": [
+            "include: named 3-D objects are cubes, cuboids, cylinders, spheres and pyramids (5 solids) — all five already have `VisualSpec`/`solid-rotate` support in this codebase (web/src/lib/types.ts), so this sub-strand's identify/describe outcomes are fully renderable without new visual work.",
+            "exclude: no counting of vertices/faces/edges by name and no nets — this is Grade 6's 3.3 3-D Objects content (which explicitly covers vertices/faces/edges of cuboids/cubes, faces/edges of cylinders, and opening up nets). Grade 5 stops at 'describe the 3-D object' and 'describe the 2-D shapes visible on it' (e.g. a cylinder shows circles and a rectangle) at a purely descriptive, non-enumerating level."
+          ],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Critical thinking and imagination — learner identifies 2-D shapes in 3-D objects in the environment"]
+        }
+      ]
+    },
+    {
+      "name": "4.0 Data Handling",
+      "subStrands": [
+        {
+          "name": "4.1 Data Representation",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Collect data of about 30 items relating to real-life experiences",
+            "Draw a table to record data from real-life situations",
+            "Draw tally marks of the collected data",
+            "Prepare a frequency table to represent data",
+            "Interpret data represented by frequency tables",
+            "Appreciate use of frequency tables in real life"
+          ],
+          "keyInquiryQuestions": ["Why is representing data in tables important?"],
+          "learningExperiences": [
+            "Team up with peers to collect data involving day-to-day experiences such as marks, shoe number, age of learners in a class",
+            "Discuss other sources of data such as the number and types of vehicles on a given road near school and home, discuss also number of bicycles or motor cycles",
+            "Prepare data collection and recording tools and record data on books or charts",
+            "Discuss and draw tally marks for the data",
+            "Organise data in a table from real-life situations",
+            "Discuss information represented by objects piled vertically",
+            "Use digital devices and other resources to learn more on representing data in tables"
+          ],
+          "linkedLearningAreas": ["Social Studies — relate data representation to population distribution in the county"],
+          "scopeNotes": [
+            "exclude: this sub-strand stops at tally marks + frequency table + interpretation + vertical piling — no pictographs and no bar graphs (both are Grade 6's 4.1 Bar Graphs content, which explicitly adds pictographs, piling, bar graphs and bar-graph interpretation on top of frequency tables). Grade 5's own visual is the piled-objects representation, not a drawn bar chart — though the engine's `bar-chart`/`grid-shape` VisualSpec can legitimately render the frequency-table data itself (the sub-strand's actual named artifact) without introducing the Grade-6-only pictograph/bar-graph outcome.",
+            "include: 'about 30 items' is the source's own stated data-set size for the collection outcome — use this as the target sample size when generating a data-collection scenario, not an arbitrary number."
+          ],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Learning to learn — learner practises piling items as a form of data organisation", "Digital literacy — learner uses digital devices and other resources to learn more about frequency tables"]
+        }
+      ]
+    }
+  ],
+  "appendixNotes": {
+    "suggestedResources": {
+      "Numbers": "Place value apparatus, number charts, number cards, multiplication tables, place value chart, abacus, equivalent fraction board, circular/rectangular cut-outs, counters",
+      "Measurement": "Metre rule, 1 metre sticks, tape measure, square cut-outs (1cm/1m squares), cubes, cuboids, videos, tea spoons, containers of different sizes, water/sand/soil, manual/electronic weighing machine, beam balance, analogue/digital clocks, digital watches, stopwatch, price list, classroom shop, electronic money transfer chart",
+      "Geometry": "Chalkboard ruler, 30cm ruler, straight edges, unit angles, protractor, rulers, cubes, cuboids, cylinders, spheres, rectangle/circle/triangle cut-outs of different sizes",
+      "DataHandling": "Data from different sources"
+    },
+    "note": "Total 150 lessons across 4 strands / 19 sub-strands (Numbers 8, Measurement 7, Geometry 3, Data Handling 1), matching the source PDF's own Summary of Strands and Sub Strands table exactly. This grade's design is the first Upper Primary Mathematics design to introduce Volume (2.3) and Simple Equations (1.8) as standalone sub-strands, and the first to introduce protractor-based degree measurement (3.2 Angles) — none of these three exist in Grade 6's design, which instead adds squares/square roots, LCM-based fraction addition, tonne as a mass unit, and inequalities, none of which exist in this Grade 5 design. The two grades' Numbers/Measurement/Geometry/Data-Handling strand shapes are structurally parallel but not a strict subset/superset in either direction."
+  }
+}

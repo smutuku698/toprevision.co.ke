@@ -1,0 +1,107 @@
+{
+  "subject": "Indigenous Languages",
+  "grade": 6,
+  "source": "grade-6-curriculum-desings/GRADE-6-INDIGENOUS-LANGUAGE-Curriculum-Designs.pdf (KICD, First Published 2021, Revised 2024)",
+  "scopeNotes": [
+    "Indigenous Languages is deliberately generic/language-agnostic in the KICD design itself: every 'Suggested Vocabulary' list, sample sentence, and all guidance text is written in ENGLISH, because Kenyan schools each teach their own local community's mother tongue (Kikuyu, Dholuo, Kalenjin, Kikamba, etc. — dozens of possibilities) and KICD does not prescribe which one. This matches the already-established, user-confirmed convention used for this project's existing Grade 7, 8, and 9 Indigenous Language builds (see curriculum.ts comments on g7-il-*/g8-il-*/il-* strands: 'generic-English-medium since KICD doesn't prescribe a single mother tongue'). Grade 6 skills are therefore built the same way: English-medium grammar/reading/writing-skill content, contextualised through the 9 official KICD themes, NOT vocabulary in any specific invented indigenous language.",
+    "Structurally Grade 6 differs from Grades 7-9: instead of one strand list of sub-strands each independently themed, Grade 6 is organised as 9 THEMES, each theme containing exactly 3 sub-strands — one per strand (1.x Listening and Speaking, 2.x/similar Reading, 3.x/similar Writing) — every sub-strand is 2 lessons. This mirrors the summary table's Listening and Speaking/Reading/Writing strand totals (18/18/18 = 54 lessons) plus 6 lessons of 'Showcasing concepts and skills' (not covered by generated practice skills, same treatment as other grades' non-testable showcase/CSL lessons).",
+    "27 sub-strands total (9 themes x 3 strands), each mapped 1:1 to one skill file — matching the French/Arabic/German G6 27-file precedent in file count, but themed by the 9 KICD Indigenous-Language themes (not language-learning vocabulary themes)."
+  ],
+  "themes": [
+    {
+      "theme": "Ceremonies and Festivals",
+      "vocabulary": ["gather", "dancers", "elders", "gifts", "decoration", "parade", "celebrate", "anniversary", "cheer", "tradition", "attire", "instruments", "soloists", "style"],
+      "subStrands": [
+        { "code": "1.1.1", "strand": "Listening and Speaking", "title": "Attentive Listening", "focus": ["Vocabulary building", "Adverbs (introduction)"], "outcomes": ["identify vocabulary from a story for comprehension", "construct sentences using vocabulary and adverbs correctly for expression", "cultivate attentive listening skills for effective communication"], "kiq": ["How do we demonstrate attentive listening?", "When do we use adverbs?"] },
+        { "code": "1.2.1", "strand": "Reading", "title": "Reading for Information: Note Making", "focus": ["Key points in a text", "Summarising", "Adverbs"], "outcomes": ["identify key points in a text for information", "summarise key information from a text for expression", "appreciate the role of making summaries in reading"], "kiq": ["Why do we make notes?"] },
+        { "code": "1.3.1", "strand": "Writing", "title": "Handwriting", "focus": ["Features", "Neatness and legibility", "Adverbs"], "outcomes": ["identify features of a good handwriting for effective communication", "re-write an essay using neat and legible handwriting for comprehension", "appreciate neatness and legibility in handwriting"], "kiq": ["Why should we write legibly and neatly?"] }
+      ]
+    },
+    {
+      "theme": "Environmental Conservation",
+      "vocabulary": ["surrounding", "conserve", "pollute", "energy", "recycle", "preserve", "reduce", "reuse", "trees", "rivers", "environment", "litter"],
+      "subStrands": [
+        { "code": "2.1.1", "strand": "Listening and Speaking", "title": "Listening for Information: Active and passive voice", "focus": ["Active voice", "Passive voice"], "outcomes": ["respond to oral instructions related to theme for effective communication", "use passive and active voice in sentences correctly for effective communication", "appreciate attentive listening in comprehending instructions"], "kiq": ["How do we use active and passive voice in sentences?"] },
+        { "code": "2.2.1", "strand": "Reading", "title": "Reading Fluency", "focus": ["Intonation", "Pause"], "outcomes": ["explain the meaning of intonation and pause in reading for expression", "read texts using the right intonation and pause for expression", "desire to apply reading strategies on texts for fluency"], "kiq": ["Why is it important to read fluently?", "How can one conserve the environment?"] },
+        { "code": "2.3.1", "strand": "Writing", "title": "Mechanics of writing", "focus": ["Imperatives", "Punctuation marks — the hyphen, apostrophe, brackets"], "outcomes": ["identify imperatives from a written text for comprehension", "use punctuation marks (the hyphen, apostrophe, brackets) in a written text for effective communication", "appreciate the place of punctuation in writing for effective communication"], "kiq": ["Why is punctuation important?"] }
+      ]
+    },
+    {
+      "theme": "Disaster Awareness",
+      "vocabulary": ["emergency", "disaster", "hazard", "response", "drought", "tremor", "floods", "fire", "terror attack", "rescue", "locusts", "donate", "support", "evacuate"],
+      "subStrands": [
+        { "code": "3.1.1", "strand": "Listening and Speaking", "title": "Listening Comprehension", "focus": ["Adjectives (colour, shape and size)", "Vocabulary building"], "outcomes": ["recognise adjectives (colour, shape, size) from an oral text accurately for comprehension", "use adjectives correctly in conversations related to the theme for effective communication", "enjoy using adjectives to make inferences in varied communication contexts"], "kiq": ["How do we describe objects?", "How can we assist those affected during a disaster?"] },
+        { "code": "3.2.1", "strand": "Reading", "title": "Reading for Information", "focus": ["Proverbs", "Riddles", "Sayings"], "outcomes": ["identify proverbs, riddles and sayings in passages for information", "discuss meaning of proverbs and sayings in texts for information", "appreciate using proverbs, sayings and riddles for language acquisition"], "kiq": ["Why is disaster awareness important?", "How do proverbs and wise sayings make language interesting?"] },
+        { "code": "3.3.1", "strand": "Writing", "title": "Sequencing Ideas", "focus": ["Parts of a composition", "Writing in logical sequence"], "outcomes": ["identify main parts of a composition for expression", "write a composition in a logical sequence for effective communication", "develop a desire to present ideas in a logical sequence"], "kiq": ["How do we sequence ideas in paragraphs?", "How can we prevent some disasters in the environment?"] }
+      ]
+    },
+    {
+      "theme": "Peer Influence",
+      "vocabulary": ["peers", "influence", "friends", "behavior", "mentor", "risky", "clique", "adolescence", "drink", "dress", "rules", "consequences", "discipline"],
+      "subStrands": [
+        { "code": "4.1.1", "strand": "Listening and Speaking", "title": "Self-expression: Pronunciation", "focus": ["Punctuation marks", "Pause", "Intonation"], "outcomes": ["identify punctuation marks for accurate articulation", "use correct pronunciation and pauses in sentences for self-expression", "appreciate punctuation for accurate pronunciation in self-expression"], "kiq": ["Why is it important to observe punctuation marks in self-expression?"] },
+        { "code": "4.2.1", "strand": "Reading", "title": "Reading Comprehension", "focus": ["Reading strategies — prediction, visualizing"], "outcomes": ["identify various reading strategies for information", "apply various reading strategies (prediction, visualizing) in reading texts for information", "recognise the importance of using strategies for extensive reading"], "kiq": ["Why are reading strategies important?"] },
+        { "code": "4.3.1", "strand": "Writing", "title": "Creative Writing: Topical Essay", "focus": ["Features", "Writing a topical essay"], "outcomes": ["identify features of a topical essay for comprehension", "write topical essays creatively for expression and information", "value the importance of writing a topical essay for communication"], "kiq": ["What is a topical essay?", "How is creativity developed?"] }
+      ]
+    },
+    {
+      "theme": "Farm Tools",
+      "vocabulary": ["farm", "tool", "plant", "dig", "jembe", "slasher", "tractor", "modern", "traditional tool", "store", "sharp", "harvest", "weed", "tool store", "farmer", "rake"],
+      "subStrands": [
+        { "code": "5.1.1", "strand": "Listening and Speaking", "title": "Giving Directions", "focus": ["Spelling", "Sentences"], "outcomes": ["write words with correct spelling for accuracy", "construct sentences to give directions for information", "value correct spelling in written texts for effective communication"], "kiq": ["Why are directions important?"] },
+        { "code": "5.2.1", "strand": "Reading", "title": "Reading for Information", "focus": ["Vocabulary building", "Adverbs of time and degree", "Advertisements"], "outcomes": ["identify adverbs of degree and time in a text for comprehension", "infer the meaning of vocabulary from texts for information", "appreciate reading varied texts to acquire information"], "kiq": ["How are adverts important in communication?"] },
+        { "code": "5.3.1", "strand": "Writing", "title": "Creative Writing: Creative language", "focus": ["Creative language — proverbs, metaphors, sayings, similes"], "outcomes": ["identify aspects of creative language in texts based on the theme for fluency", "write texts based on the theme neatly and legibly for effective communication", "appreciate creativity and handwriting in effective communication"], "kiq": ["How do we develop good handwriting?"] }
+      ]
+    },
+    {
+      "theme": "Health and Diseases",
+      "vocabulary": ["prevent", "treatment", "germs", "symptoms", "hygiene", "sick", "health", "disease", "hospital", "doctor", "nurse", "ambulance", "syringe", "medicine", "bandage", "food"],
+      "subStrands": [
+        { "code": "6.1.1", "strand": "Listening and Speaking", "title": "Listening for Information: Interrogatives", "focus": ["Interrogatives"], "outcomes": ["identify interrogatives for comprehension", "use interrogatives appropriately to ask questions for information", "take pleasure in using interrogatives in different oral communication contexts"], "kiq": ["How do we use different interrogatives?"] },
+        { "code": "6.2.1", "strand": "Reading", "title": "Reading Fluency", "focus": ["Intonation", "Speed / pace"], "outcomes": ["differentiate intonation and speed in reading for information", "read a text using the correct intonation and pace for self-expression", "enjoy reading various texts using correct intonation and pace"], "kiq": ["Why is intonation and pace in reading important?"] },
+        { "code": "6.3.1", "strand": "Writing", "title": "Creative Writing: Poetry", "focus": ["Stanza", "Rhythm", "Composing poems"], "outcomes": ["identify stanza and rhythm in a poem for information", "compose a poem for comprehension", "enjoy indigenous poetry for lifelong learning"], "kiq": ["Why do we compose poems?"] }
+      ]
+    },
+    {
+      "theme": "Careers and Professions",
+      "vocabulary": ["career", "employment", "work", "job", "profession", "train", "occupation", "hard work", "employ", "honesty", "income", "teacher", "pilot", "doctor", "farmer", "artist", "driver", "lawyer"],
+      "subStrands": [
+        { "code": "7.1.1", "strand": "Listening and Speaking", "title": "Socialising and Taking Action: Debates and Discussions", "focus": ["Imperatives", "Debating skills"], "outcomes": ["use imperative sentences to discuss topics for self-expressions", "identify debating skills for comprehension", "appreciate debates and discussions for information sharing and socialisation"], "kiq": ["Which skills do we use to debate?", "How do we use imperative sentences?"] },
+        { "code": "7.2.1", "strand": "Reading", "title": "Reading Comprehension", "focus": ["Summarising", "Inferring meaning"], "outcomes": ["summarise information in a text based on a theme for comprehension", "infer meaning of vocabulary in a text for comprehension", "appreciate the use of reading strategies for comprehension"], "kiq": ["Why are careers important?", "How can we ensure we summarise information accurately?"] },
+        { "code": "7.3.1", "strand": "Writing", "title": "Creative Writing: Narrative composition", "focus": ["Narrative composition", "Neatness and legibility"], "outcomes": ["identify elements of a narrative composition for comprehension", "write texts based on the theme using good handwriting for effective communication", "appreciate creativity and good handwriting in effective communication"], "kiq": ["How do we develop a good narrative?"] }
+      ]
+    },
+    {
+      "theme": "Technology",
+      "vocabulary": ["technology", "browse", "computer", "internet", "user", "mobile phone", "printer", "television", "machine", "vehicle"],
+      "subStrands": [
+        { "code": "8.1.1", "strand": "Listening and Speaking", "title": "Expressing Personal Opinions: Direct Object", "focus": ["Direct object", "Expressing opinions respectfully"], "outcomes": ["use a direct object in oral sentences for comprehension", "express personal opinions on care for digital devices for information", "develop a desire to make personal judgements and opinions appropriately in discussions"], "kiq": ["Why is it important to express personal opinions respectfully?", "How do we express ourselves when sharing an opinion?"] },
+        { "code": "8.2.1", "strand": "Reading", "title": "Reading for Information: Visuals", "focus": ["Summarising information", "Interpreting visuals"], "outcomes": ["identify information from visuals for information", "summarise information using a visual for effective communication", "appreciate the role of summarising using visuals for effective communication"], "kiq": ["Why do we say a picture is worth a thousand words?"] },
+        { "code": "8.3.1", "strand": "Writing", "title": "Functional Writing: Formal Letter", "focus": ["Features", "Components", "Composing letters"], "outcomes": ["identify components of a formal letter for information", "compose a formal letter using correct format for communication", "appreciate the use of formal letters to communicate in real life situations"], "kiq": ["Why do we write letters?"] }
+      ]
+    },
+    {
+      "theme": "Patriotism",
+      "vocabulary": ["patriot", "country", "peace", "unity", "love", "build", "community", "flag", "leaders", "patriotic song", "betray"],
+      "subStrands": [
+        { "code": "9.1.1", "strand": "Listening and Speaking", "title": "Listening for Information: Instructions", "focus": ["Responding to instructions", "Verbs", "Adverbs"], "outcomes": ["identify verbs and adverbs in an oral text for information", "respond to instructions related to the theme for comprehension", "desire to express self clearly using verbs and adverbs for effective communication"], "kiq": ["How do we use verbs and adverbs to give instructions?"] },
+        { "code": "9.2.1", "strand": "Reading", "title": "Extensive Reading: Dialogues", "focus": ["Vocabulary building", "Comprehension questions"], "outcomes": ["identify vocabulary from a text for information", "respond to direct and inferential questions for comprehension", "appreciate the importance of reading indigenous texts for enjoyment"], "kiq": ["How can we extract information from a text?"] },
+        { "code": "9.3.1", "strand": "Writing", "title": "Functional Writing: Apology Letter", "focus": ["Components", "Format", "Writing letters"], "outcomes": ["identify key elements of an apology letter for comprehension", "write an apology letter seeking reconciliation for effective communication", "appreciate the use of letters in fostering peaceful co-existence in daily living"], "kiq": ["Why do we write apology letters?"] }
+      ]
+    }
+  ],
+  "skillMapping": {
+    "note": "27 skills = 9 themes x 3 strands. Skill ids follow g6-il-{ls|r|w}-{theme-slug}; codes LS.1-9 / R.1-9 / W.1-9 in theme order 1-9 above.",
+    "files": [
+      "ceremoniesAttentiveListening.ts (LS.1)", "ceremoniesNoteMaking.ts (R.1)", "ceremoniesHandwriting.ts (W.1)",
+      "environmentActivePassiveVoice.ts (LS.2)", "environmentReadingFluency.ts (R.2)", "environmentMechanicsOfWriting.ts (W.2)",
+      "disasterListeningComprehension.ts (LS.3)", "disasterProverbsRiddlesSayings.ts (R.3)", "disasterSequencingIdeas.ts (W.3)",
+      "peerInfluencePronunciation.ts (LS.4)", "peerInfluenceReadingStrategies.ts (R.4)", "peerInfluenceTopicalEssay.ts (W.4)",
+      "farmToolsGivingDirections.ts (LS.5)", "farmToolsReadingForInformation.ts (R.5)", "farmToolsCreativeLanguage.ts (W.5)",
+      "healthInterrogatives.ts (LS.6)", "healthReadingFluency.ts (R.6)", "healthPoetry.ts (W.6)",
+      "careersDebatesDiscussions.ts (LS.7)", "careersReadingComprehension.ts (R.7)", "careersNarrativeComposition.ts (W.7)",
+      "technologyDirectObject.ts (LS.8)", "technologyReadingVisuals.ts (R.8)", "technologyFormalLetter.ts (W.8)",
+      "patriotismInstructions.ts (LS.9)", "patriotismExtensiveReading.ts (R.9)", "patriotismApologyLetter.ts (W.9)"
+    ]
+  }
+}

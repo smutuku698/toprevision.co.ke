@@ -1,0 +1,63 @@
+{
+  "subject": "German",
+  "subjectId": "german",
+  "grade": 9,
+  "source": {
+    "title": "Junior School Curriculum Design — German Grade 9 (Draft, First published 2024)",
+    "url": "https://doyenpublishers.com/wp-content/uploads/2025/04/Grade-9-German-Curriculum-Design.pdf",
+    "publisher": "KICD",
+    "isbn": "978-9914-43-441-5",
+    "retrievedDate": "2026-08-14",
+    "confidence": "high",
+    "notes": "Fetched via the same doyenpublishers.com mirror pattern used for French/Science — WebFetch reported binary/unreadable content but saved the PDF locally, and Claude's Read tool parsed it natively. Structure verbatim from the PDF's SUMMARY OF STRANDS AND SUB STRANDS table and per-theme tables."
+  },
+  "essenceNote": "Kenya's foreign languages at Grade 9 are Arabic, French, German, and Mandarin — each a non-formal, basic (A1/YCT2-equivalent) 4-skills (listening, speaking, reading, writing) curriculum, taught in parallel structure across all four languages per the shared essence statement. German's design is structurally identical to French's: same 3 strands, same 9 themes in the same order.",
+  "strands": [
+    {
+      "name": "1.0 Listening and Speaking",
+      "totalLessons": 27,
+      "subStrands": [
+        { "code": "1.1", "name": "Active Listening, Interactive speaking — Greetings and introduction", "theme": "Greetings and Introduction" },
+        { "code": "1.2", "name": "Listening for information, Oral Expression — Family: Nuclear and extended family", "theme": "Family" },
+        { "code": "1.3", "name": "Active Listening, Interactive speaking — My Surroundings: The countryside", "theme": "My Surroundings" },
+        { "code": "1.4", "name": "Listening for information, Oral Expression — Time: My daily Routine", "theme": "Time" },
+        { "code": "1.5", "name": "Active Listening, Interactive speaking — Fun and enjoyment: making plans and date", "theme": "Fun and Enjoyment" },
+        { "code": "1.6", "name": "Listening for information, Oral Expression — Food and drinks: eating out", "theme": "Food and Drinks" },
+        { "code": "1.7", "name": "Active Listening, Interactive speaking — My Body: At the doctor's", "theme": "My Body" },
+        { "code": "1.8", "name": "Listening for information, Oral Expression — Weather and Environment: My Environment", "theme": "Weather and Environment" },
+        { "code": "1.9", "name": "Active Listening, Interactive speaking — Getting Around: Direction and Location", "theme": "Getting Around" }
+      ]
+    },
+    {
+      "name": "2.0 Reading",
+      "totalLessons": 18,
+      "subStrands": [
+        { "code": "2.1", "name": "Extensive Reading — Greetings and introductions", "theme": "Greetings and Introduction" },
+        { "code": "2.2", "name": "Speed Reading — My Family: Nuclear and extended family", "theme": "Family" },
+        { "code": "2.3", "name": "Skimming for information — My Surroundings (The countryside)", "theme": "My Surroundings" },
+        { "code": "2.4", "name": "Reading for fluency, Scanning for information — Time: my daily Routine", "theme": "Time" },
+        { "code": "2.5", "name": "Reading Aloud (Articulation) — Fun and Enjoyment (Making Plans and Date)", "theme": "Fun and Enjoyment" },
+        { "code": "2.6", "name": "Skimming for information — Food and Drinks (Eating out)", "theme": "Food and Drinks" },
+        { "code": "2.7", "name": "Reading for communication — My Body: At the doctor's", "theme": "My Body" },
+        { "code": "2.8", "name": "Reading Comprehension — Weather and Environment (My Environment)", "theme": "Weather and Environment" },
+        { "code": "2.9", "name": "Scanning for information — Getting around: Direction and Location", "theme": "Getting Around" }
+      ]
+    },
+    {
+      "name": "3.0 Writing",
+      "totalLessons": 9,
+      "subStrands": [
+        { "code": "3.1", "name": "Guided writing (Vocabulary) — Greetings and Introduction", "theme": "Greetings and Introduction" },
+        { "code": "3.2", "name": "Creative writing — Family: Nuclear and extended family", "theme": "Family" },
+        { "code": "3.3", "name": "Coherence writing — My Surroundings: The countryside", "theme": "My Surroundings" },
+        { "code": "3.4", "name": "Coherence writing (Orthography) — Time: my daily Routine", "theme": "Time" },
+        { "code": "3.5", "name": "Functional writing — Fun and enjoyment: Making Plans and Dates", "theme": "Fun and Enjoyment" },
+        { "code": "3.6", "name": "Functional writing: Menu — Foods and drinks: Eating out", "theme": "Food and Drinks" },
+        { "code": "3.7", "name": "Creative writing — My body: At the doctor's", "theme": "My Body" },
+        { "code": "3.8", "name": "Coherence writing — Weather and environment: My Environment", "theme": "Weather and Environment" },
+        { "code": "3.9", "name": "Coherence writing — Getting around: Direction and Location", "theme": "Getting Around" }
+      ]
+    }
+  ],
+  "notes": "Same 9 themes repeat identically across all 3 strands, exactly mirroring French's structure. Each strand teaches the theme's vocabulary through a different modality (LS = oral vocabulary/expression recall, R = short German passage/dialogue + comprehension, W = spelling/gap-fill/word-order/functional writing). Per the standing 'never merge sub-strands' rule, this is 27 distinct skills (9 themes x 3 strands). Verbatim example phrases pulled directly from the curriculum design's own suggested-learning-experiences tables (marked 'z.B.' = 'zum Beispiel', for example) were used as the authentic vocabulary source for building skills, e.g. Ich heiße___/Ich bin___/Mein Name ist___ (greetings), Vater/Mutter/Bruder/Schwester/Oma/Opa (family), miaut-Katze/lange Nase-Elefant (animals), Ich stehe um 7 Uhr auf (routine), Ich möchte bitte...Darf ich...bestellen? (restaurant), Ich habe Kopfschmerzen/Ich gehe zum Arzt (health), Die Sonne scheint/Es regnet (weather), nach rechts/nach links/geradeaus (directions)."
+}

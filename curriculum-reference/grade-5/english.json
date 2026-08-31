@@ -1,0 +1,1532 @@
+{
+  "subject": "English Language",
+  "subjectId": "english",
+  "grade": 5,
+  "source": {
+    "title": "Primary School Education Curriculum Design — English Language, Grade 5 (First Published 2017, Revised 2024)",
+    "publisher": "KICD",
+    "isbn": "978-9914-43-046-2",
+    "retrievedDate": "2026-08-30",
+    "confidence": "high",
+    "notes": "Read directly from 'grade 5 designs/GRADE-5-ENGLISH-LANGUAGE-Curriculum-Designs.pdf' via the Read tool (no pages param), full text extracted. The design is organised as 13 real-world THEMES (Child Rights and Responsibilities, National Celebrations, Etiquette-Table Manners, Road Accidents - Prevention, Traditional Foods, Jobs and Occupations, Learning Through Technology, The Farm-Cash Crops, Communicable Diseases, Leisure Time Activities, Sports - Appreciating Talents, Environmental Pollution, Money - Savings and Banking), each carrying exactly 4 sub-strands: 1 Listening and Speaking, 1 Reading, 1 Grammar in Use, 1 Writing = 52 sub-strands, 150 lessons. Same shape as the Grade 6/7/8 English builds (see curriculum-reference/grade-6/english.json): STRANDS in curriculum.ts are the 4 columns, NOT the 13 themes; each sub-strand maps to one skill file. SUMMARY OF STRANDS AND SUB-STRANDS table (p.xii) groups the sub-strand types as: Listening and Speaking = Listening comprehension / Pronunciation and vocabulary / Speaking fluency (38 lessons); Reading = Extensive reading / Intensive reading / Fluency (39 lessons); Grammar in Use = Word classes / Language patterns / Tense (36 lessons); Writing = Creative writing / Functional writing / Mechanics of writing (36 lessons). The 'themes' array below captures the theme-level SUGGESTED VOCABULARY plus fixed phrases, similes, idioms, proverbs and phrasal verbs blocks verbatim — these are major content pools feeding every Listening & Speaking and Writing (similes/proverbs) skill for that theme. Grade 5's own 'Lesson Allocation at Upper Primary' table gives English 5 lessons/week."
+  },
+  "subjectGeneralLearningOutcomes": [
+    "Listen for the main idea and specific information from a variety of print and digital texts",
+    "Speak, at the right speed, accurately, and with expression on a variety of subjects and genres",
+    "Read a variety of texts fluently, interpretively, and with comprehension for lifelong learning",
+    "Use grammatical forms to communicate ideas, opinions, and emotions appropriately in different settings",
+    "Write texts for various purposes legibly, accurately, creatively, and cohesively for self-expression",
+    "Apply Digital Literacy skills to enhance their language competency"
+  ],
+  "assessmentSignal": "Appendix 1 rubrics — 'Meets expectation' rows: SPEAKING 'Speaks accurately with expression and at the right speed, with minimum hesitation for fluency'; READING FLUENCY 'Reads about 300 words fluently and accurately at the right speed and with expression' (the 'Exceeds' row says 'more than 350 words'; note the printed 'Approaches' row's '800 words' is a typo for a lower band); READING COMPREHENSION 'Reads the text and relates the ideas to real life experiences'; EXTENSIVE READING 'Selects and reads relevant materials of between 1000-1250 words for information and pleasure'; GRAMMAR 'Uses grammatical forms to communicate ideas, opinions, and emotions appropriately in different settings for effective communication'; WRITING 'Uses punctuation, paragraphing and spelling correctly' + 'Writes a variety of writings using the correct formats' + 'Writes creative works clearly and expressively'.",
+  "learningResources": [
+    "Non-digital: course books, story books, poetry books, pictures and photographs, newspapers, magazines, junior encyclopedia, journals, dictionaries, diorama, flash cards, word wheels, word puzzles, code words, charts and realia",
+    "Digital: digital story books, electronic/online dictionaries, electronic and digital devices, flash cards, charts, video clips, audio-visual resources, other web resources"
+  ],
+  "themes": [
+    {
+      "number": "1.0",
+      "name": "Child Rights and Responsibilities",
+      "suggestedVocabulary": ["responsible", "food", "clothing", "shelter", "street", "duties", "punish", "rest", "respect", "needs", "abuse", "violence", "interest", "harm", "rights", "law", "freedom", "security", "unfair", "education", "deny", "protect", "rescue", "citizen", "justice", "community", "equal", "prison", "jail", "adopt", "labour"],
+      "fixedPhrases": ["above all", "all right", "take care off", "fall asleep"],
+      "similes": ["work like a donkey", "as busy as a bee"],
+      "idioms": ["in safe hands"],
+      "proverbs": ["All is well that ends well", "Actions speak louder than words"],
+      "phrasalVerbs": ["breath in", "care for", "left behind"]
+    },
+    {
+      "number": "2.0",
+      "name": "National Celebrations",
+      "suggestedVocabulary": ["parade", "guests", "heroes", "heroines", "leaders", "crowd", "security", "custom", "ceremony", "history", "decorate", "gather", "remember", "costumes", "famous", "patriotic", "citizens", "national anthem", "concert", "event", "entertain", "unity", "fireworks", "ribbons", "memories", "national holidays", "Jamhuri Day", "Labour Day", "independence", "freedom fighter"],
+      "fixedPhrases": ["do your best", "come to an end", "far away", "enjoy yourself", "go to sleep"],
+      "similes": ["as happy as a king", "as happy as a lark"],
+      "idioms": ["just around the corner", "with open arms"],
+      "proverbs": ["Practice makes perfect"],
+      "phrasalVerbs": ["come along", "get away", "move on"]
+    },
+    {
+      "number": "3.0",
+      "name": "Etiquette-Table Manners",
+      "suggestedVocabulary": ["neat", "plate", "cutlery", "choke", "chew", "serve food", "gesture", "mouthful", "order", "host", "restaurant", "belch", "lick", "delicious", "disgusting", "dining room", "good manners", "habit", "set the table", "dessert", "appetizer", "polite", "table", "napkin", "dinner", "table cloth", "glass", "saucer", "serviette", "cloth"],
+      "fixedPhrases": ["I beg your pardon", "wash the dishes", "good appetite", "more than enough", "feel at home", "forgive me"],
+      "similes": ["as hungry as a wolf", "as greedy as a hyena"],
+      "idioms": ["eat like a horse"],
+      "proverbs": ["Courtesy costs nothing"],
+      "phrasalVerbs": ["throw away"]
+    },
+    {
+      "number": "4.0",
+      "name": "Road Accidents - Prevention",
+      "suggestedVocabulary": ["skid", "reckless", "block", "traffic", "speed", "fatal", "first aid", "rescue", "ambulance", "road signs", "pedestrian crossing", "bump", "pedestrian", "risk", "slide", "smog", "brake", "emergency", "police", "license", "prevent", "safety", "vehicle", "prevention", "fracture", "crowd", "victim", "collision", "crash", "expressway", "highway", "seat belt", "hooting", "overtaking", "steering wheel", "roll over", "side impact", "head on collision"],
+      "fixedPhrases": ["by accident", "catch fire", "heavy traffic", "in a hurry", "jump the queue", "in a minute", "a narrow escape", "lose control", "hit and run"],
+      "similes": ["as fast as a hare", "as fast as a deer"],
+      "idioms": ["in a fraction of a second", "in a twinkle of an eye"],
+      "proverbs": ["Prevention is better than cure"],
+      "phrasalVerbs": ["run over", "roll over"]
+    },
+    {
+      "number": "5.0",
+      "name": "Traditional Foods",
+      "suggestedVocabulary": ["dish", "flavour", "smell", "delicious", "appetite", "nature", "culture", "herbs", "grains", "junk food", "obesity", "ugali", "recipe", "tasty", "Kenyan", "wild", "digest", "home-made", "cereals", "mix", "energy", "berries", "vegetables", "healthy", "diet", "githeri", "pilau", "fish", "muthokoi", "avocado", "yams", "sweet potatoes", "arrow roots", "cassava", "millet", "porridge", "nutrients"],
+      "fixedPhrases": ["more than", "more and more", "long ago", "a long time ago"],
+      "similes": ["as sweet as sugar", "as sweet as honey", "as bitter as herbs"],
+      "idioms": ["in hot soup"],
+      "proverbs": ["Charity begins at home"],
+      "phrasalVerbs": ["hurry up", "feed on"]
+    },
+    {
+      "number": "6.0",
+      "name": "Jobs and Occupations",
+      "suggestedVocabulary": ["job", "occupation", "accountant", "actor", "doctor", "engineer", "actress", "banker", "babysitter", "captain", "dentist", "gardener", "garbage collector", "hairdresser", "butcher", "chemist", "cobbler", "security officer", "police officer", "judge", "teacher", "lecturer", "lawyer", "mason", "model", "musician", "architect"],
+      "fixedPhrases": ["how much", "make friends", "by the way"],
+      "similes": ["as busy as an ant", "as sober as a judge", "as free as a bird"],
+      "idioms": ["call a spade a spade"],
+      "proverbs": ["A bad workman quarrels with his tools", "The early bird catches the worm", "Make hay while the sun shines"],
+      "phrasalVerbs": ["stand up", "hurry up"]
+    },
+    {
+      "number": "7.0",
+      "name": "Learning Through Technology",
+      "suggestedVocabulary": ["browse", "browser", "cartoon", "internet", "search", "bundle", "email", "video chat", "Bluetooth", "key in", "boot", "shut down", "log in", "log out", "download", "upload", "delete", "attach", "create", "website", "wireless", "online", "laptop", "tablet", "desktop", "research", "source", "projector", "network", "discover", "connect"],
+      "fixedPhrases": ["make use of"],
+      "similes": ["as wise as Solomon", "as wise as an owl"],
+      "idioms": ["make yourself at home", "in broad daylight"],
+      "proverbs": ["Slow but sure wins the race"],
+      "phrasalVerbs": ["put down", "pick up"]
+    },
+    {
+      "number": "8.0",
+      "name": "The Farm-Cash Crops",
+      "suggestedVocabulary": ["acre", "harvest", "worker", "cooperative", "fertilizer", "greenhouse", "machine", "season", "agriculture", "plantation", "labourer", "swamp", "highland", "subsistence", "sell", "commercial", "equipment", "fertile", "yield", "nursery", "seedling", "climate", "sow", "cash crop", "sugar cane", "coffee", "cultivate", "estate", "granary", "irrigate", "plough", "rice paddy", "scarecrow", "cotton", "wheat", "sisal", "tea"],
+      "fixedPhrases": ["go away", "go on"],
+      "similes": ["as busy as a bee", "as faithful as a dog", "strong like a horse"],
+      "idioms": ["at the end of the day", "not the end of the world"],
+      "proverbs": ["Unity is strength", "The early bird catches the worm", "A bad workman quarrels with his tools"],
+      "phrasalVerbs": ["search for"]
+    },
+    {
+      "number": "9.0",
+      "name": "Communicable Diseases",
+      "suggestedVocabulary": ["virus", "hygiene", "bacteria", "tuberculosis", "measles", "pneumonia", "cold", "mumps", "cholera", "typhoid", "parasite", "infect", "germs", "illness", "symptoms", "vomit", "pharmacy", "treat", "dose", "blood pressure", "weight loss", "injection", "tablet", "vaccine", "fever", "medicine", "syrup", "laboratory", "cure", "outbreak", "epidemic", "immunity"],
+      "fixedPhrases": ["at last", "from time to time", "in future"],
+      "similes": ["as helpless as a baby", "as patient as job"],
+      "idioms": ["spread like wildfire"],
+      "proverbs": ["An apple a day keeps the doctor away", "Cleanliness is next to godliness"],
+      "phrasalVerbs": ["pass away"]
+    },
+    {
+      "number": "10.0",
+      "name": "Leisure Time Activities",
+      "suggestedVocabulary": ["leisure", "interest", "favourite", "cinema", "football", "tennis", "karate", "swimming", "skating", "basketball", "cycling", "jogging", "diving", "fishing", "picnic", "hiking", "gardening", "hobby", "entertain", "enjoy", "race", "talent", "event", "visit", "park"],
+      "fixedPhrases": ["in future", "from now on"],
+      "similes": ["as free as a bird"],
+      "idioms": ["face the music"],
+      "proverbs": ["An idle mind is the devil's workshop", "Birds of the same feather flock together"],
+      "phrasalVerbs": ["shut up"]
+    },
+    {
+      "number": "11.0",
+      "name": "Sports - Appreciating Talents",
+      "suggestedVocabulary": ["competition", "cheer", "score", "award", "medal", "champion", "guest", "spectators", "fans", "courage", "whistle", "upper hand", "walkover", "celebrate", "sports", "ability", "gift", "genius", "artist", "magic", "skill", "blessing", "giant", "adjudicator", "talent show", "athletic", "discover", "brave"],
+      "fixedPhrases": ["at present", "no problem"],
+      "similes": ["as proud as a peacock", "as simple as one, two, three"],
+      "idioms": ["loud and clear"],
+      "proverbs": ["Slow but sure wins the race", "The race is not to the swift"],
+      "phrasalVerbs": ["breath in"]
+    },
+    {
+      "number": "12.0",
+      "name": "Environmental Pollution",
+      "suggestedVocabulary": ["environment", "atmosphere", "conserve", "acid rain", "recycle", "sewage", "poisonous", "pollution", "destroy", "dirt", "disaster", "dump", "erosion", "famine", "poison", "preserve", "purify", "waste", "flood", "dirty", "chemicals", "sick", "cancer"],
+      "fixedPhrases": ["fresh air", "keep a promise", "excuse me"],
+      "similes": ["as white as snow", "as clear as glass", "as clear as the sky"],
+      "idioms": ["feel at home", "fight for your life"],
+      "proverbs": ["Cleanliness is next to godliness"],
+      "phrasalVerbs": ["grow up"]
+    },
+    {
+      "number": "13.0",
+      "name": "Money - Savings and Banking",
+      "suggestedVocabulary": ["debt", "banker", "teller", "lend", "customer care", "banking hall", "queue", "ATM machine", "safe", "save", "savings", "account", "balance", "cash", "deposit", "interest", "internet", "cheque", "exchange", "loan", "value", "credit", "bank manager"],
+      "fixedPhrases": ["be in debt", "make money"],
+      "similes": ["as cheap as dirt", "as good as gold"],
+      "idioms": ["go for", "money changed hands", "loud and clear"],
+      "proverbs": ["A fool and his money are soon parted", "Keep something for a rainy day", "Money does not grow on trees"],
+      "phrasalVerbs": ["give back", "give out", "give away"]
+    }
+  ],
+  "strands": [
+    {
+      "name": "Listening and Speaking",
+      "subStrands": [
+        {
+          "name": "1.1 Listening Comprehension (Child Rights and Responsibilities)",
+          "lessonCount": 3,
+          "targetSounds": ["/ʌ/", "/ɑː/"],
+          "specificLearningOutcomes": [
+            "Recognise sounds /ʌ/ /ɑː/, words, and phrases correctly",
+            "Use words and phrases related to the theme in sentences correctly",
+            "Listen for the main idea and specific details for effective communication",
+            "Respond to information from an oral text",
+            "Adopt attentive listening for effective communication"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we say the sounds in words, phrases, and sentences correctly?",
+            "How can we improve our pronunciation?",
+            "Why should we listen attentively?"
+          ],
+          "learningExperiences": [
+            "Listen to an oral narrative in pairs or groups",
+            "Identify words and phrases containing the sounds /ʌ/ /ɑː/ from a print or audio text",
+            "Say words and phrases related to the theme accurately",
+            "Construct sentences using words and phrases with peers",
+            "Say tongue twisters containing the selected sounds collaboratively with peers",
+            "Write sentences and phrases containing the selected sounds and words",
+            "Make an audio recording of a poem containing the sounds /ʌ/ and /ɑː/",
+            "Play the audio recording and obtain feedback"
+          ],
+          "coreCompetencies": ["Communication and Collaboration", "Digital Literacy", "Learning to Learn"],
+          "linkedLearningAreas": ["Social Studies — child rights and responsibilities"],
+          "scopeNotes": []
+        },
+        {
+          "name": "2.1 Pronunciation and Vocabulary — Listening Comprehension: Dialogue (National Celebrations)",
+          "lessonCount": 3,
+          "targetSounds": ["/p/", "/b/"],
+          "specificLearningOutcomes": [
+            "Identify words, phrases, and sentences containing the target sounds /p/ /b/ from texts",
+            "Construct sentences orally using words related to the theme",
+            "Listen for the main idea and specific details for effective communication",
+            "Interpret a speaker's feelings and emotions (non-verbal cues) correctly during an oral presentation",
+            "Realise the importance of non-verbal cues and appropriate word choice in communication"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we listen carefully?",
+            "Why do we take turns when talking?"
+          ],
+          "learningExperiences": [
+            "Identify words with the sounds /p/ /b/ from print materials such as newspapers, magazines",
+            "Listen to audio-visual recordings of dialogue containing the sounds /b/ /p/",
+            "Visualise saying tongue twisters with the sounds /b/ /p/",
+            "Discuss with peers the vocabulary used in the text and construct sentences using the vocabulary",
+            "Respond correctly to questions based on the dialogue",
+            "Role play the events depicted in the dialogue",
+            "Interpret gestures, eye contacts, and facial expressions correctly"
+          ],
+          "coreCompetencies": ["Self-efficacy", "Learning to Learn", "Digital Literacy"],
+          "linkedLearningAreas": ["Kiswahili — sounds"],
+          "scopeNotes": []
+        },
+        {
+          "name": "3.1 Pronunciation and Vocabulary — Polite Words, Phrases and Expressions (Etiquette-Table Manners)",
+          "lessonCount": 3,
+          "targetSounds": ["/ɔɪ/"],
+          "specificLearningOutcomes": [
+            "Identify polite words, phrases, and expressions in oral contexts",
+            "Construct sentences orally using words related to the theme",
+            "Listen for specific sounds in words, phrases, and expressions",
+            "Use polite words, phrases, and expressions to compliment others",
+            "Recommend appropriate words and phrases for expressing politeness"
+          ],
+          "keyInquiryQuestions": [
+            "Why should you use polite expressions when talking to others?",
+            "Why should you listen to others attentively?",
+            "Which words, phrases, or expressions do we use to show politeness?"
+          ],
+          "learningExperiences": [
+            "Listen to correct pronunciation of sounds, phrases, and expressions from the teacher, audio-visual recordings among others",
+            "Practise saying the sound /ɔɪ/ in words",
+            "Practise using polite words and phrases with peers",
+            "Role play the use of polite words, phrases, and expressions during meals",
+            "Access correct pronunciation of sounds, words, phrases, and expressions from digital texts",
+            "Listen to/recite poems with words featuring the target sounds"
+          ],
+          "coreCompetencies": ["Self-Efficacy", "Digital Literacy"],
+          "linkedLearningAreas": ["Agriculture"],
+          "scopeNotes": ["include: polite words/phrases/expressions used at meals — e.g. 'I beg your pardon', 'good appetite', 'more than enough', 'forgive me', 'please', 'thank you', 'excuse me', 'may I', 'you are welcome'"]
+        },
+        {
+          "name": "4.1 Pronunciation and Vocabulary — Word Stress (noun/verb, verb/adjective contrast) (Road Accidents - Prevention)",
+          "lessonCount": 3,
+          "targetSounds": ["/t/", "/d/"],
+          "specificLearningOutcomes": [
+            "List words whose meaning differs according to pronunciation (Word Stress — contrast between nouns/verbs, verb/adjectives)",
+            "Construct sentences orally using words related to the theme",
+            "Pronounce words using the correct stress",
+            "Use vocabulary related to the theme correctly",
+            "Advocate for the importance of correct use of stress in communication"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we pronounce words correctly?",
+            "Why do words have different meanings at times?"
+          ],
+          "learningExperiences": [
+            "Recite a poem featuring the words skid, speed, hit and run, reckless, block, traffic, fatal, rescue, ambulance, road signs",
+            "Apply the correct stress on the words skid, speed, hit and run, reckless, block, traffic, fatal, rescue, ambulance, road signs",
+            "Listen/watch an audio-visual material on pronunciation",
+            "List the words that are stressed",
+            "Practise saying words using the correct stress, with peers for example; conflict (verb)/conflict (noun), subject (verb)/subject (noun)",
+            "Work jointly to identify the word class of the stressed word",
+            "Say words containing the sounds /t/ and /d/",
+            "Construct sentences orally using the new vocabulary",
+            "Take part in a language game involving word stress"
+          ],
+          "coreCompetencies": ["Communication and Collaboration", "Self-efficacy"],
+          "linkedLearningAreas": ["Environmental Studies — the concept of accidents"],
+          "scopeNotes": ["include: noun/verb stress pairs — REcord/reCORD, PREsent/preSENT, OBject/obJECT, CONflict/conFLICT, SUBject/subJECT, PROduce/proDUCE, PERmit/perMIT, REbel/reBEL, CONtrast/conTRAST, EXport/exPORT, IMport/imPORT, INcrease/inCREASE, DEcrease/deCREASE, CONduct/conDUCT"]
+        },
+        {
+          "name": "5.1 Listening Comprehension — Sounds; Adjectives (Traditional Foods)",
+          "lessonCount": 2,
+          "targetSounds": ["/e/"],
+          "specificLearningOutcomes": [
+            "Recognise sounds, words and phrases correctly",
+            "Listen for the main idea and specific details for effective communication",
+            "Use adjectives to construct sentences orally",
+            "Display varied emotions and feelings during an oral presentation"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we pronounce sounds correctly?",
+            "Which words do we use to describe things, people or events?"
+          ],
+          "learningExperiences": [
+            "Listen to a speech and pick out words containing sound /e/",
+            "Interpret non-verbal cues such as gestures, facial expressions and eye contact collaboratively with peers",
+            "Prepare and make a speech while collaborating with peers",
+            "Listen to correct pronunciation of sounds, words and phrases from the teacher or audio-visual recordings",
+            "Listen to a poem with various adjectives describing traditional foods",
+            "Recite the poem with peers and pick out adjectives",
+            "Search for examples of adjectives in the internet, newspapers and magazines"
+          ],
+          "coreCompetencies": ["Citizenship", "Self-efficacy"],
+          "linkedLearningAreas": ["All other learning areas — listening skills as a learning prerequisite"],
+          "scopeNotes": []
+        },
+        {
+          "name": "6.1 Pronunciation and Vocabulary — Stress; Intonation (Jobs and Occupations)",
+          "lessonCount": 3,
+          "targetSounds": ["/f/", "/v/"],
+          "specificLearningOutcomes": [
+            "Sort statements and questions based on rising and falling intonation",
+            "Pronounce words and phrases with the target sounds /f/ and /v/ correctly",
+            "Construct sentences orally using words related to the theme",
+            "Use stress and intonation appropriately in statements and questions",
+            "Advocate the need for correct stress and intonation in varied contexts"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we pronounce sounds and words correctly?",
+            "Why do we raise or lower our voices when speaking?"
+          ],
+          "learningExperiences": [
+            "Reproduce appropriate patterns of stress and intonation in speech",
+            "Sort the statements and questions on the basis of rising or falling intonation collaboratively with peers",
+            "Practise saying words, phrases and sentences with the sounds /f/ and /v/",
+            "Say tongue twisters with the sounds /f/ and /v/ collaboratively",
+            "Watch a video of a dialogue in which statements and questions are used",
+            "Recite a choral verse with peers",
+            "Use the right intonation on a role play on telephone conversation",
+            "Sing songs featuring stress and intonation"
+          ],
+          "coreCompetencies": ["Communication and Collaboration", "Self-Efficacy"],
+          "linkedLearningAreas": ["Kiswahili and other languages — stress and intonation"],
+          "scopeNotes": ["include: rising intonation on yes/no questions and lists; falling intonation on statements, commands and wh-questions"]
+        },
+        {
+          "name": "7.1 Pronunciation and Vocabulary — Interactive Listening (Learning Through Technology)",
+          "lessonCount": 3,
+          "targetSounds": ["/ə/", "/ɪə/", "/eɪ/"],
+          "specificLearningOutcomes": [
+            "Identify words, phrases or sentences with the target sound /ə/ and the diphthongs /ɪə/ and /eɪ/ from a dialogue",
+            "Construct sentences orally using words related to the theme",
+            "Pronounce sounds correctly for accuracy in speech",
+            "Use words and non-verbal cues to express different moods",
+            "Challenge others to listen interactively for effective communication"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we pronounce sounds and words correctly?",
+            "Why should you give others a chance to speak?",
+            "How do you tell if someone is happy or sad?"
+          ],
+          "learningExperiences": [
+            "Select words with the sound /ə/ and the diphthongs /ɪə/ and /eɪ/ from a dialogue",
+            "Take turns to read a dialogue collaboratively",
+            "Interrupt a conversation appropriately",
+            "View a video of conversation and list words or phrases used to interrupt politely",
+            "Say the target sounds as modelled from a recording",
+            "Make sentences with words containing the sound /ə/ and the diphthongs /ɪə/ /eɪ/"
+          ],
+          "coreCompetencies": ["Self-efficacy", "Digital Literacy"],
+          "linkedLearningAreas": ["Kiswahili — correct pronunciation"],
+          "scopeNotes": ["include: polite-interruption expressions — 'Excuse me', 'Sorry to interrupt', 'May I add something', 'If I may', 'Pardon me', 'Can I say something'"]
+        },
+        {
+          "name": "8.1 Pronunciation and Vocabulary — Oral Narrative Featuring Proverbs and Sayings (The Farm-Cash Crops)",
+          "lessonCount": 3,
+          "targetSounds": ["/k/", "/g/"],
+          "specificLearningOutcomes": [
+            "List proverbs and sayings in a narrative",
+            "Construct sentences orally using words related to the theme",
+            "Pronounce words with the target sounds /k/ /g/ correctly",
+            "Use words, proverbs and sayings appropriately in oral communication",
+            "Display varied emotions and feelings when listening to an oral presentation"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we pronounce words correctly?",
+            "Which proverbs and sayings do you know?",
+            "Why are proverbs and sayings important in speech?"
+          ],
+          "learningExperiences": [
+            "Listen to a narrative and select proverbs and sayings",
+            "Match the vocabulary with their meanings",
+            "Make oral sentences using vocabulary",
+            "Practise saying words with the sounds /k/ /g/ with peers",
+            "Create tongue twisters with the sounds /k/ /g/ with peers",
+            "Search for vocabulary, proverbs and sayings in the internet collaboratively",
+            "Listen and view stories of about 130 words and songs featuring proverbs and sayings",
+            "Create posters and charts with common proverbs and sayings that the learners can relate to with peers and display them in the classroom"
+          ],
+          "coreCompetencies": ["Digital Literacy", "Learning to Learn"],
+          "linkedLearningAreas": ["Social Studies — cash crops"],
+          "scopeNotes": ["include (theme 8 proverbs): 'Unity is strength', 'The early bird catches the worm', 'A bad workman quarrels with his tools'"]
+        },
+        {
+          "name": "9.1 Speaking Fluency: Pronunciation (Communicable Diseases)",
+          "lessonCount": 3,
+          "targetSounds": ["/h/"],
+          "specificLearningOutcomes": [
+            "List words with sound /h/ from an oral text",
+            "Construct sentences orally using words related to the theme",
+            "Speak accurately, at the right speed and with expression on a given topic",
+            "Use vocabulary related to the theme correctly in oral communication",
+            "Display appropriate emotions and feelings when making an oral presentation"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to speak accurately and express the right feelings?",
+            "How can you listen more attentively?",
+            "Which words do you use to talk about diseases?"
+          ],
+          "learningExperiences": [
+            "Listen to a poem or narrative and identify words with the /h/ sound",
+            "Retell a narrative in own words collaboratively",
+            "Listen to graded texts with audio recordings of whole narratives",
+            "Listen to music and pick out target sounds and vocabulary",
+            "Watch news at home for fun, and retell the interesting episodes to peers and friends in the classroom",
+            "Practise delivering the news highlights in the classroom",
+            "Respond to oral questions on given texts confidently and with speed",
+            "Make one-minute speeches on communicable diseases collaboratively with peers",
+            "Recite poems on communicable diseases"
+          ],
+          "coreCompetencies": ["Communication", "Creativity and Imagination"],
+          "linkedLearningAreas": ["Science and Technology — communicable diseases"],
+          "scopeNotes": []
+        },
+        {
+          "name": "10.1 Pronunciation and Vocabulary: Interactive Listening — Choral verse; Conversation Narrative (Leisure Time Activities)",
+          "lessonCount": 3,
+          "targetSounds": ["/s/", "/z/"],
+          "specificLearningOutcomes": [
+            "Identify different moods in a narrative or a choral verse",
+            "Use words and phrases with the selected sound /s/ and /z/ in sentences",
+            "Interrupt politely during a conversation",
+            "Challenge others to listen interactively during conversations"
+          ],
+          "keyInquiryQuestions": [
+            "Why should you interrupt others politely?",
+            "How do you show different moods and feelings when listening to someone?",
+            "Which words do you use to join an on-going conversation?"
+          ],
+          "learningExperiences": [
+            "Listen to a narrative and retell it while expressing different moods or feelings",
+            "Construct sentences collaboratively with peers",
+            "Say words containing the sounds /s/ and /z/ with peers",
+            "Watch a video of a conversational narrative or a choral verse online or offline",
+            "Take turns pick out words that show polite interruption in the video",
+            "Engage in a dialogue and practise interrupting one another politely"
+          ],
+          "coreCompetencies": ["Communication and Collaboration", "Creativity and Imagination"],
+          "linkedLearningAreas": ["Kiswahili — conversing in dialogue form"],
+          "scopeNotes": ["include: moods/feelings a speaker may express — happy/joyful, sad, angry, excited, afraid, surprised, calm, disappointed, proud"]
+        },
+        {
+          "name": "11.1 Pronunciation and Vocabulary — Listening Fluency (Sports - Appreciating Talents)",
+          "lessonCount": 3,
+          "targetSounds": ["/aɪ/"],
+          "specificLearningOutcomes": [
+            "Select words containing the target sound /aɪ/ in sentences",
+            "Construct sentences orally using words related to the theme",
+            "Listen for words with the sound /aɪ/ from an audio text",
+            "Interpret a speaker's emotions and feelings correctly during oral presentations"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to listen carefully?",
+            "How can we become better listeners?"
+          ],
+          "learningExperiences": [
+            "Listen to oral presentations (dialogues or poems on topical issues) containing words with the sound /aɪ/",
+            "Identify words with the sound /aɪ/ from texts",
+            "Practise saying selected tongue twisters collaboratively",
+            "Make a three-minute speech with peers",
+            "Recite poems with peers",
+            "Interpret non-verbal cues correctly"
+          ],
+          "coreCompetencies": ["Communication and Collaboration", "Self-Efficacy"],
+          "linkedLearningAreas": ["Kiswahili — fluency in listening and non-verbal skills"],
+          "scopeNotes": []
+        },
+        {
+          "name": "12.1 Pronunciation and Vocabulary: Speaking Fluency (content from other learning areas); Making a Speech (Environmental Pollution)",
+          "lessonCount": 3,
+          "targetSounds": ["/f/", "/v/"],
+          "specificLearningOutcomes": [
+            "Pronounce words with selected sounds /f/ and /v/ accurately for effective communication",
+            "Construct sentences orally using words related to the theme",
+            "Speak accurately, without hesitation and with expression",
+            "Challenge others to speak accurately, at the right speed and to display appropriate expressions during oral presentations"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we speak clearly and confidently?",
+            "Why do we make speeches?"
+          ],
+          "learningExperiences": [
+            "Say words containing the sounds /f/ and /v/ with peers",
+            "Pronounce the words related to the theme correctly",
+            "Construct oral sentences using vocabulary learnt",
+            "Listen to a recorded speech from a digital device on environmental pollution",
+            "Make short speeches using vocabulary learnt, and appropriate non-verbal cues"
+          ],
+          "coreCompetencies": ["Collaboration", "Self-efficacy"],
+          "linkedLearningAreas": ["Environmental Education"],
+          "scopeNotes": ["include: /f/-/v/ minimal pairs — fan/van, fine/vine, few/view, leaf/leave, safe/save, ferry/very, fast/vast, off/of, half/have, life/live", "note: 'content from other learning areas' — speech topics may draw on Science/Social Studies/Agriculture facts on pollution"]
+        },
+        {
+          "name": "13.1 Pronunciation and Vocabulary — Intensive Listening (dialogue containing similes) (Money - Savings and Banking)",
+          "lessonCount": 3,
+          "targetSounds": ["/m/", "/n/", "/ŋ/", "digraphs", "consonant clusters"],
+          "specificLearningOutcomes": [
+            "Select words and phrases with the target sounds /m/ /n/ /ŋ/, digraphs and consonant clusters from a text",
+            "Use similes and vocabulary related to the theme correctly in sentences",
+            "Judge the appropriateness of words, similes and non-verbal cues during an oral presentation",
+            "Interpret a speaker's feelings and emotions correctly during oral presentations"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we listen attentively?",
+            "How can you tell that someone is attentive?"
+          ],
+          "learningExperiences": [
+            "Listen to a dialogue from an audio-visual recording or read by the teacher and select words with the target sounds, digraphs and clusters",
+            "Say words containing the sounds /m/ /n/ /ŋ/ with peers",
+            "Identify words featuring the target sounds",
+            "Identify similes from an audio visual text",
+            "Use similes and words in sentences with peers",
+            "Discuss new words found in the dialogue collaboratively",
+            "Construct sentences using the new words individually",
+            "Dramatise the dialogue with peers"
+          ],
+          "coreCompetencies": ["Communication and Collaboration", "Digital Literacy"],
+          "linkedLearningAreas": ["All learning areas — listening as a key learning skill"],
+          "scopeNotes": ["include (theme 13 similes): 'as cheap as dirt', 'as good as gold'", "include: consonant digraphs — sh, ch, th, ph, wh, ng, ck; consonant clusters — bl, br, cl, cr, dr, fl, fr, gl, gr, pl, pr, sc, sk, sl, sm, sn, sp, st, str, spr, tr, tw"]
+        }
+      ]
+    },
+    {
+      "name": "Reading",
+      "subStrands": [
+        {
+          "name": "1.2 Extensive Reading — Reference Materials (Child Rights and Responsibilities)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Select relevant reference materials: dictionaries, junior encyclopaedias, and subject-specific encyclopaedias on a variety of subjects",
+            "Spell words correctly for effective communication",
+            "Use reference materials to find the required information",
+            "Adopt the use of reference materials for lifelong learning"
+          ],
+          "keyInquiryQuestions": [
+            "Why do you read books?",
+            "Which type of books do you enjoy reading?"
+          ],
+          "learningExperiences": [
+            "Select appropriate print and non-print reference materials (dictionaries, junior encyclopaedias, and subject-specific encyclopaedias)",
+            "Read selected reference materials independently",
+            "Look for information related to the theme from reference materials",
+            "Report and discuss what they have read with peers",
+            "Visit a library to find reference materials for information related to the theme"
+          ],
+          "coreCompetencies": ["Digital Literacy", "Learning to Learn"],
+          "linkedLearningAreas": ["All other learning areas — using reference materials to search for information"],
+          "scopeNotes": ["include: reference-material types — dictionary, thesaurus, junior/general encyclopaedia, subject-specific encyclopaedia, atlas, glossary, index; dictionary skills — alphabetical order, guide words, headword, entry, pronunciation key, part-of-speech label, definition"]
+        },
+        {
+          "name": "2.2 Intensive Reading — Oral Narrative (about 400 words) and Poem (about 5 stanzas) (National Celebrations)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify characters, places, and events in a story for comprehension",
+            "Predict events in a text for comprehension",
+            "Respond correctly to factual and inferential questions for comprehension",
+            "Use contextual clues to infer the meaning of words for comprehension",
+            "Recommend appropriate reading techniques to peers"
+          ],
+          "keyInquiryQuestions": [
+            "Why is the title of a poem or a story important?",
+            "How do we predict events in a story or poem?",
+            "How do we tell the meaning of unknown words in a story?"
+          ],
+          "learningExperiences": [
+            "Make predictions of what a story is about; what happens next in a story using the title/pictures in a story",
+            "Infer the meaning of words from the context",
+            "Use their imagination to visualise the events in a story",
+            "Draw pictures, diagrams, or posters of events in the story",
+            "Read poems of not more than five stanzas",
+            "Read a narrative of up to 400 words silently",
+            "Retell a narrative or recite a poem and create a video or audio recording of the story"
+          ],
+          "coreCompetencies": ["Creativity and Imagination", "Learning to Learn"],
+          "linkedLearningAreas": ["All other areas of learning — reading for comprehension"],
+          "scopeNotes": ["include: contextual-clue types — definition/explanation clue, synonym clue, antonym/contrast clue, example clue, general-sense-of-passage clue"]
+        },
+        {
+          "name": "3.2 Intensive Reading — Narrative of about 400 words (Etiquette-Table Manners)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Relate events in the story with their life experiences",
+            "Predict events in a text for comprehension",
+            "Create mental images from the events in a story",
+            "Respond to factual and inferential questions correctly",
+            "Relate events in a reading text to real life experiences"
+          ],
+          "keyInquiryQuestions": [
+            "How do you get information from a text?",
+            "Which things do you predict or visualize in a story?"
+          ],
+          "learningExperiences": [
+            "Make predictions on a story when reading",
+            "Use their imagination to visualise the events in a story",
+            "Scan and skim texts for new words and information with peers",
+            "Answer factual and inferential questions from the texts",
+            "Use digital devices to read online stories for comprehension"
+          ],
+          "coreCompetencies": ["Self-Efficacy", "Communication"],
+          "linkedLearningAreas": ["Agriculture — the theme of etiquette"],
+          "scopeNotes": ["include: factual vs inferential question distinction — factual = answer stated directly in the text; inferential = answer worked out from clues + reasoning"]
+        },
+        {
+          "name": "4.2 Intensive Reading: Comprehension — Visuals (Road Accidents - Prevention)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "List the illustrations, posters, videos, pictures, maps, mnemonics in the classroom",
+            "Make predictions based on visuals for comprehension",
+            "Create mental images from text they have viewed, read or heard",
+            "Answer factual and inferential questions correctly",
+            "Judge the appropriateness of visuals in conjunction with peers"
+          ],
+          "keyInquiryQuestions": [
+            "Why are pictures important?",
+            "How can you use pictures to communicate?"
+          ],
+          "learningExperiences": [
+            "View pictures, illustrations, posters, videos, pictures maps, mnemonics, and symbols among others collaboratively with peers",
+            "Describe and interpret visuals correctly with peers",
+            "Preview and make predictions based on pictures and illustrations related to the theme",
+            "Infer the meaning of the words related to the theme",
+            "Compose songs, stories, poems or dialogues on road safety and prevention featuring words",
+            "Answer questions based on the visuals with peers",
+            "Present own stories using pictures or videos",
+            "Create visuals based on their experiences"
+          ],
+          "coreCompetencies": ["Self-Efficacy", "Digital Literacy"],
+          "linkedLearningAreas": ["Art and Craft — interpreting visuals", "Social Studies — interpreting maps and charts"],
+          "scopeNotes": ["include: visual types — illustration, photograph, poster, road sign/symbol, map, chart, diagram, mnemonic, video still", "include: common Kenyan road signs — STOP, give way/yield, pedestrian crossing, school ahead, speed limit, no overtaking, roundabout ahead, bump ahead, sharp bend, level crossing"]
+        },
+        {
+          "name": "5.2 Extensive Reading — Fiction and Non-Fiction Materials (1000-1250 words) (Traditional Foods)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Select relevant reading materials from a collection of books",
+            "Scan a text to obtain specific information",
+            "Skim through digital or print texts to establish appropriateness and relevance",
+            "Read a variety of materials for fluency",
+            "Judge the appropriateness of a reading text on the basis of language and interest"
+          ],
+          "keyInquiryQuestions": [
+            "What materials do you enjoy reading?",
+            "Why is it necessary to read many books?"
+          ],
+          "learningExperiences": [
+            "Work jointly to select texts from a collection",
+            "Preview a text to determine suitability",
+            "Scan a text to pick out vocabulary words",
+            "Skim through reading materials for the main idea",
+            "Select fiction and non-fiction reading materials of between 1000-1250 words (both print and non-print)",
+            "Read selected materials independently",
+            "Set up an after-school reading club where they meet regularly",
+            "Share reflections on the books read collaboratively"
+          ],
+          "coreCompetencies": ["Communication and Collaboration", "Digital Literacy", "Learning to Learn"],
+          "linkedLearningAreas": ["Kiswahili — extensive reading"],
+          "scopeNotes": ["include: fiction vs non-fiction distinction — fiction = imagined story (novel, short story, folktale, fable); non-fiction = factual (biography, report, article, recipe, informational book)", "include: skimming = read fast for the gist/main idea; scanning = search for a specific detail/keyword"]
+        },
+        {
+          "name": "6.2 Intensive Reading — Comprehension Dialogues (about 400 words) (Jobs and Occupations)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Select unfamiliar words and phrases from a reading text",
+            "Use contextual clues to infer the meaning of words from a text",
+            "Respond to direct and inferential questions for comprehension",
+            "Relate events in the story to their own experience"
+          ],
+          "keyInquiryQuestions": [
+            "How can we guess the meaning of words?",
+            "What makes you a good reader?"
+          ],
+          "learningExperiences": [
+            "Make connections between the characters in the text and the people they know",
+            "Relate events in the dialogue to their experiences",
+            "Read and role-play a dialogue of about 400 words collaboratively with peers",
+            "Pick out main ideas from the dialogue",
+            "Answer direct and inferential questions based on the dialogue",
+            "Infer the meaning of words from the context (for example, from words occurring before or after)"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "linkedLearningAreas": ["All other areas of learning — reading for comprehension", "Learner Support Programmes — career guidance via job-occupation dialogues"],
+          "scopeNotes": ["include: occupations and what each does — accountant, doctor, engineer, banker, dentist, gardener, hairdresser, butcher, cobbler, judge, teacher, lawyer, mason, architect, musician, police officer, security officer"]
+        },
+        {
+          "name": "7.2 Extensive Reading — Fiction and Non-Fiction Texts (1000-1250 words) and Poems (not more than 5 stanzas) (Learning Through Technology)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Select relevant reading materials from a collection of books",
+            "Read a variety of materials for information and pleasure",
+            "Judge the appropriateness of reading materials on the basis of interest, complexity and subject"
+          ],
+          "keyInquiryQuestions": [
+            "What kind of information do you find in books?",
+            "Why is it necessary to read many books?",
+            "What do you consider when choosing a material to read?"
+          ],
+          "learningExperiences": [
+            "Skim through reading materials to obtain the main idea",
+            "Preview texts to determine suitability and relevance",
+            "Scan materials for specific details collaboratively",
+            "Select appropriate reading materials from a library",
+            "Read the selected materials individually",
+            "Share reflections on the books read collaboratively",
+            "Keep a record of materials read"
+          ],
+          "coreCompetencies": ["Collaboration", "Learning to Learn"],
+          "linkedLearningAreas": ["All the learning areas — select and read non-fiction materials"],
+          "scopeNotes": ["include: what to consider when choosing a book — interest/topic, language complexity vs own level, purpose (information or pleasure), length, author/genre"]
+        },
+        {
+          "name": "8.2 Fluency in Reading — Texts of about 400 words (The Farm-Cash Crops)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify unfamiliar words in texts for fluency",
+            "Read a text accurately, with expression and at the right speed for fluency",
+            "Recommend to peers and parents to read accurately, at the right speed and without hesitation"
+          ],
+          "keyInquiryQuestions": [
+            "What makes someone a good reader?",
+            "How long do you take to read a text?",
+            "What can you do to improve your reading speed?"
+          ],
+          "learningExperiences": [
+            "Scan through paragraphs for unfamiliar words collaboratively",
+            "Search for an article on a topic they enjoy, select a portion to read",
+            "Set a goal on the number of words to be read per minute",
+            "Find a word or phrase from a word-chart within a stipulated time",
+            "Read a text in unison, as a class or small group (choral reading)",
+            "Participate in a reader's theatre using a short text from a poem or short play — select a story or poem that can be divided into parts or characters; assign a portion to each member with peers; read a portion of the script orally for practice; read the assigned parts with peers",
+            "Echo or imitate a model intonation and expression as they read a short paragraph or sentence at a time"
+          ],
+          "coreCompetencies": ["Learning to Learn"],
+          "linkedLearningAreas": ["All other areas of learning — reading fluency"],
+          "scopeNotes": ["include: the three parts of reading fluency — accuracy (few errors), rate/speed (right pace, not too fast/slow), prosody (expression: phrasing, intonation, stress, attention to punctuation)", "assessment signal: rubric 'Meets' band ~ about 300 words read fluently and accurately at the right speed and with expression"]
+        },
+        {
+          "name": "9.2 Intensive Reading — Descriptive Fictional or Non-Fictional Texts (about 400 words) (Communicable Diseases)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify the main idea in each paragraph",
+            "Visualise events, characters and descriptions in texts for comprehension",
+            "Summarise the main points in a text",
+            "Answer direct and inferential questions for comprehension",
+            "Challenge others to focus on detail when reading a text"
+          ],
+          "keyInquiryQuestions": [
+            "How do you describe things?",
+            "How can you tell what will happen in a story?"
+          ],
+          "learningExperiences": [
+            "Make connections between events in the text and their experiences",
+            "Retell the story collaboratively with peers",
+            "Use illustrations, the introduction and the title of a text to make predictions",
+            "Describe the characters, episodes and places collaboratively in a text",
+            "Scan a text for specific details",
+            "Answer questions from a text",
+            "State the main ideas from a text",
+            "Watch a video related to the theme and pick specific information"
+          ],
+          "coreCompetencies": ["Learning to Learn", "Digital Literacy"],
+          "linkedLearningAreas": ["Physical and Health Education — communicable diseases"],
+          "scopeNotes": ["include: main idea = the most important point a paragraph makes; supporting details = facts/examples/reasons that back it up; summary = main ideas only, in own words, no minor detail", "include: descriptive language cues — sensory words (sight/sound/smell/taste/touch), adjectives, comparisons"]
+        },
+        {
+          "name": "10.2 Intensive Reading — Factual Texts of about 400 words (Leisure Time Activities)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Relate the ideas in a text to their experiences for comprehension",
+            "Respond to direct and inferential questions from a text correctly",
+            "Summarise the main ideas in a text for comprehension",
+            "Encourage others to pay attention to detail when reading"
+          ],
+          "keyInquiryQuestions": [
+            "Why do we read books?",
+            "Why should we make notes when reading?",
+            "What makes you a good reader?"
+          ],
+          "learningExperiences": [
+            "Skim through a text and obtain the main idea",
+            "Scan through a text to obtain specific information",
+            "Discuss and relate ideas to their experiences collaboratively with peers",
+            "Read a text independently and retell it in own words",
+            "Answer direct and inferential questions from the text",
+            "Watch a video on leisure time and write the main points"
+          ],
+          "coreCompetencies": ["Learning to Learn", "Self-efficacy"],
+          "linkedLearningAreas": ["Kiswahili — intensive reading"],
+          "scopeNotes": ["include: note-making forms — key words/phrases (not full sentences), numbered or bulleted points, mind map/spider diagram, headings and sub-points"]
+        },
+        {
+          "name": "11.2 Intensive Reading — Comprehension Strategies (Sports - Appreciating Talents)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Relate ideas in the text to personal experiences",
+            "Create mental images from the events, characters or places in a text",
+            "Answer direct and inferential questions from varied texts correctly",
+            "Judge the appropriateness of digital texts on the basis of word choice, theme and interest"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to relate what you read to real life experiences?",
+            "What digital resources can you use in your reading?",
+            "Why are digital materials more interesting to read than print ones?"
+          ],
+          "learningExperiences": [
+            "Infer the meaning of words from context",
+            "Make connections between own experiences and events in the reading text",
+            "Create pictures, mimes, videos or crossword puzzles with peers",
+            "Search and read texts from the internet with peers",
+            "Dramatise or role play events or characters in stories they have read online",
+            "Print the visuals obtained from online sources and share or display in a gallery"
+          ],
+          "coreCompetencies": ["Critical Thinking and Problem Solving", "Digital Literacy"],
+          "linkedLearningAreas": ["Kiswahili — intensive reading"],
+          "scopeNotes": ["include: named comprehension strategies — predicting, questioning, visualising/mental imagery, making connections (text-to-self, text-to-text, text-to-world), inferring, summarising, monitoring/clarifying"]
+        },
+        {
+          "name": "12.2 Intensive Reading — Poems, Songs and Tongue Twisters (Environmental Pollution)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Create mental images from events, characters and places in a text",
+            "Infer information and meaning of words from context",
+            "Answer factual and inferential questions correctly for comprehension",
+            "Relate events and characters in the reading text to personal experiences"
+          ],
+          "keyInquiryQuestions": [
+            "What can you learn from poems and songs?",
+            "Which poems and songs do you know?",
+            "How do you tell the meaning of unfamiliar words while reading?"
+          ],
+          "learningExperiences": [
+            "Watch a video on environmental pollution and answer questions",
+            "Read a poem or song and role play the events, experiences or characters in the text",
+            "Answer factual and inferential questions on the poem and song they read",
+            "Visualise events, characters or places mentioned in a text",
+            "Draw visuals to summarise information from a text",
+            "Role play events or characters in the poem collaboratively with peers"
+          ],
+          "coreCompetencies": ["Collaboration", "Digital Literacy"],
+          "linkedLearningAreas": ["Creative Arts — songs and poems", "Science and Technology — environmental pollution"],
+          "scopeNotes": ["include: features of a poem — stanza, line, rhyme, rhythm, repetition, title, poet/persona, mood, message/theme", "include: types of environmental pollution — air, water, land/soil, noise"]
+        },
+        {
+          "name": "13.2 Extensive Reading — Newspapers, magazines, class readers and poems (Money - Savings and Banking)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Select suitable reading materials (newspapers, magazines, class readers or poems) from a collection",
+            "Read a variety of materials independently for information and pleasure",
+            "Use comprehension strategies such as previewing, skimming and scanning strategies to find necessary information",
+            "Judge the appropriateness of a reading text on the basis of theme, interest and language complexity"
+          ],
+          "keyInquiryQuestions": [
+            "Why do you read?",
+            "What materials do you enjoy reading?"
+          ],
+          "learningExperiences": [
+            "Select appropriate print and non-print reading materials; newspapers, magazines, class readers or poems",
+            "Scan through a text for specific details and skim through a material to obtain the main idea",
+            "Read selected materials independently",
+            "Promote extensive reading among peers and the greater community",
+            "Collaborate with peers to determine the appropriateness of reading texts on the basis of interest, themes and complexity of language",
+            "Make notes on a topic they read with peers",
+            "Make an entry of what they have read in their creative writing diary",
+            "Visit a library to read online and offline materials"
+          ],
+          "coreCompetencies": ["Digital Literacy", "Learning to Learn"],
+          "linkedLearningAreas": ["Mathematics — vocabulary related to money"],
+          "scopeNotes": ["include: parts of a newspaper — headline, byline, dateline, lead/intro, body, caption, editorial, feature, classified/advert; magazine sections — cover story, feature article, column, interview, letters page"]
+        }
+      ]
+    },
+    {
+      "name": "Grammar in Use",
+      "subStrands": [
+        {
+          "name": "1.3 Word Class: Demonstrative Determiners — this, these, that, those (Child Rights and Responsibilities)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "Identify demonstrative determiners: this, these, that, those, in a variety of texts",
+            "Use demonstrative determiners: this, these, that, those correctly",
+            "Promote the use of the correct demonstrative determiner to use during communication"
+          ],
+          "keyInquiryQuestions": [
+            "How do you identify objects that are near or far?",
+            "How do we show that objects being referred to are singular or more?"
+          ],
+          "learningExperiences": [
+            "Identify demonstrative determiners: this, these, that, those, from a text",
+            "Read sentences containing demonstrative determiners in print or electronic materials",
+            "Construct sentences using demonstrative determiners with peers",
+            "Make sentences containing demonstrative determiners from a substitution table",
+            "Use demonstrative determiners to fill gaps in sentences",
+            "Search for more examples of sentences containing demonstrative determiners in print and digital texts"
+          ],
+          "coreCompetencies": ["Self-efficacy", "Communication and Collaboration", "Digital Literacy"],
+          "linkedLearningAreas": ["Kiswahili and Indigenous Languages — demonstratives"],
+          "scopeNotes": ["include: the 2x2 system — near+singular = this; near+plural = these; far+singular = that; far+plural = those"]
+        },
+        {
+          "name": "2.3 Word Class: Collective Nouns / Reflexive Pronouns (National Celebrations)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify collective nouns and reflexive pronouns in texts",
+            "Use collective nouns and reflexive pronouns in sentences correctly",
+            "Adopt the use of collective and reflexive pronouns during communication"
+          ],
+          "keyInquiryQuestions": [
+            "How do you emphasise that you did something on your own?",
+            "Which words do you use to refer to a group of things or animals?"
+          ],
+          "learningExperiences": [
+            "Identify reflexive pronouns and collective nouns from print and digital texts",
+            "Watch a video clip in which collective nouns and reflexive pronouns (myself, ourselves) have been used in sentences",
+            "Team up to pick out collective nouns and reflexive pronouns",
+            "Construct sentences using collective nouns and reflexive pronouns",
+            "Create and complete crossword puzzles using collective nouns and reflexive pronouns"
+          ],
+          "coreCompetencies": ["Collaboration", "Digital Literacy"],
+          "linkedLearningAreas": ["Kiswahili — collective nouns and reflexive pronouns"],
+          "scopeNotes": ["include: reflexive pronouns — myself, yourself, himself, herself, itself, ourselves, yourselves, themselves", "include: collective nouns — team, crowd, class, herd, flock, swarm, bunch, pride, school (of fish), choir, committee, family, jury, army, fleet, staff, panel"]
+        },
+        {
+          "name": "3.3 Language Pattern — 'too...to/for' and 'must/should + adverb/adverbial' (Etiquette-Table Manners)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify sentences featuring the target language patterns: use of too...to/for and use of Must/Should with an Adverb/Adverbial",
+            "Use the language patterns in sentences correctly",
+            "Promote the use of sentence patterns correctly for clarity of communication"
+          ],
+          "keyInquiryQuestions": [
+            "How do you identify correct sentences?",
+            "Why is it important to use sentences correctly?"
+          ],
+          "learningExperiences": [
+            "Make sentences with too...to/for from a substitution table. For example, 'The stone is too heavy for Nanjala to lift.'",
+            "Construct sentences using 'must/should with an adverb/adverbial'. For example, 'We must brush our teeth every day.'",
+            "Recite poems with the target language pattern",
+            "Discuss instances when the sentence patterns are used",
+            "Fill in blank spaces in sentences using the patterns",
+            "Search for examples of sentences with the language patterns from the internet, newspapers, and magazines among others"
+          ],
+          "coreCompetencies": ["Learning to Learn"],
+          "linkedLearningAreas": ["All other areas of learning in which English is the language of instruction — sentence structure"],
+          "scopeNotes": ["include: pattern A — 'too + adjective + to + verb' / 'too + adjective + for + person/thing (+ to + verb)'", "include: pattern B — subject + must/should + verb + adverb or adverbial phrase (of manner/time/place/frequency), e.g. 'You should chew quietly at the table.', 'We must wash our hands before every meal.'"]
+        },
+        {
+          "name": "4.3 Word Class: Possessive Pronouns (Road Accidents - Prevention)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify possessive forms in print or digital texts",
+            "Use possessive forms correctly in sentences",
+            "Advocate the correct use of possessive forms among peers"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we use possessive forms correctly?",
+            "Which words show something belongs to a person?"
+          ],
+          "learningExperiences": [
+            "Engage in online/offline games involving pronouns collaboratively with peers",
+            "Simulate, dramatise or role play a conversation featuring possessive pronouns",
+            "Watch videos/songs involving the use of possessive pronouns",
+            "Compose songs based on the use of personal and possessive pronouns",
+            "Fill gaps in sentences correctly using possessive pronouns and 'belong to'",
+            "Use the words related to the theme in sentences",
+            "Create a list of sentences using possessive and personal pronouns and featuring the words",
+            "Display the list of sentences on charts and posters"
+          ],
+          "coreCompetencies": ["Communication and Collaboration", "Self-efficacy"],
+          "linkedLearningAreas": ["Kiswahili — pronouns"],
+          "scopeNotes": ["include: possessive pronouns — mine, yours, his, hers, its, ours, theirs (stand alone, no noun after); contrast with possessive adjectives/determiners — my, your, his, her, its, our, their (+ noun); also the phrase 'belong(s) to'"]
+        },
+        {
+          "name": "5.3 Word Class: Adjectives — comparatives/superlatives (regular & irregular); order of adjectives (Traditional Foods)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify comparative and superlative forms of adjectives in a text",
+            "Order adjectives in terms of size, shape and age appropriately",
+            "Use the comparative and superlative forms of adjectives accurately",
+            "Advocate the importance of using adjectives correctly in communication"
+          ],
+          "keyInquiryQuestions": [
+            "How do we compare things, people or events?",
+            "Which words are used to describe things or people?"
+          ],
+          "learningExperiences": [
+            "Describe items using the comparative and superlative forms of adjectives e.g. 'that window is bigger than this one'",
+            "Change positive forms of regular and irregular adjectives to their comparative and superlative forms",
+            "Pick out adjectives of size, shape and age from a narrative or poem in collaboration with peers",
+            "Construct sentences featuring adjectives of size, shape and age",
+            "Fill gaps using adjectives in the correct order",
+            "Create a crossword puzzle using adjectives"
+          ],
+          "coreCompetencies": ["Creativity and Imagination", "Digital Literacy"],
+          "linkedLearningAreas": ["Kiswahili — comparison of adjectives"],
+          "scopeNotes": ["include: regular forms — -er/-est (big/bigger/biggest, tall/taller/tallest), 'more/most' for longer adjectives (delicious/more delicious/most delicious)", "include: irregular forms — good/better/best, bad/worse/worst, far/farther(further)/farthest(furthest), little/less/least, many(much)/more/most", "include: order of adjectives covered here — size, shape, age (e.g. 'a big round old pot')"]
+        },
+        {
+          "name": "6.3 Word Class: Determiners — Quantifiers (Jobs and Occupations)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify quantifying determiners: few/a few, little/a little, a lot of/lots of, each, all, enough, most, least in a variety of texts",
+            "Use quantifying determiners few/a few, little/a little, a lot of/lots of, each, all, enough, most, least appropriately in a variety of contexts",
+            "Judge the appropriateness of quantifying determiners in oral and written texts"
+          ],
+          "keyInquiryQuestions": [
+            "Which words do we use to show amount or quantity?",
+            "Why is it important to tell the quantity of something?"
+          ],
+          "learningExperiences": [
+            "Read a passage related to the theme and identify quantifying determiners from the passage collaboratively",
+            "Match quantifying determiners with corresponding countable and uncountable nouns",
+            "List quantifying determiners that can be used with both countable and uncountable nouns",
+            "Read sentences containing quantifying determiners from the internet with peers",
+            "Construct sentences using quantifying determiners with nouns with peers",
+            "Complete sentences by filling in gaps using the correct quantifying determiners"
+          ],
+          "coreCompetencies": ["Self-Efficacy", "Communication and Collaboration", "Digital Literacy"],
+          "linkedLearningAreas": ["Kiswahili — quantifying determiners"],
+          "scopeNotes": ["include the exact set: few / a few, little / a little, a lot of / lots of, each, all, enough, most, least", "include: countable-only = few/a few, each; uncountable-only = little/a little, least; both = a lot of/lots of, all, enough, most", "include: 'few' vs 'a few' (and 'little' vs 'a little') negative/positive connotation contrast"]
+        },
+        {
+          "name": "7.3 Tense: Future Time using will / shall (Learning Through Technology)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "Identify words that indicate future time using will and shall in sentences",
+            "Use will and shall to express future time correctly",
+            "Collaborate with others to determine the correctness and appropriateness of the tense used in own or provided texts"
+          ],
+          "keyInquiryQuestions": [
+            "Which words do we use to show future time?",
+            "How do you tell that something will happen in the future?"
+          ],
+          "learningExperiences": [
+            "Pick sentences which express future time from a text",
+            "Make sentences from a substitution table",
+            "Answer questions on future time using will/shall collaboratively",
+            "Construct sentences using will/shall collaboratively",
+            "Role play activities they plan or wish to do in future with peers",
+            "Watch videos offline or online and identify sentences featuring future time with peers",
+            "Use computers, tablets or mobile phones to listen to audio materials featuring future time",
+            "Make predictions (on events, weather, among others) using will and shall",
+            "Create display charts with sentences which feature will and shall"
+          ],
+          "coreCompetencies": ["Communication and Collaboration", "Self-efficacy"],
+          "linkedLearningAreas": ["Kiswahili — future time"],
+          "scopeNotes": ["include: 'shall' commonly with I/we; 'will' with all persons; contracted 'll; negatives shan't (rare) / won't", "include: uses — predictions, spontaneous decisions, promises, offers, timetabled future"]
+        },
+        {
+          "name": "8.3 Sentences — Double Imperatives; Question Tags on 'verb to be' (The Farm-Cash Crops)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify question tags and double imperatives from a text",
+            "Use question tags and double imperatives correctly in sentences",
+            "Advocate the correct use of double imperatives and question tags in communication"
+          ],
+          "keyInquiryQuestions": [
+            "What are some of your school rules?",
+            "How do you give instructions?",
+            "Why do we ask questions?"
+          ],
+          "learningExperiences": [
+            "Fill in gaps in sentences using double imperatives",
+            "Select question tags from a story, dialogue or poem",
+            "Match statements with the correct question tag",
+            "Practise giving instructions related to the theme using double imperatives such as: 'shut down your tablets and listen to the teacher', 'Type this word in your tablet and look up its meaning'",
+            "Role play giving and receiving of instructions at home using double imperatives",
+            "Use double imperatives to make rules for their classroom and display them in charts or posters",
+            "Write correct sentences using double imperatives"
+          ],
+          "coreCompetencies": ["Self-efficacy"],
+          "linkedLearningAreas": ["Kiswahili — imperatives"],
+          "scopeNotes": ["include: double imperative = two imperative verbs joined by 'and' (or a linker), e.g. 'Come here and sit down.', 'Wash your hands and dry them.', 'Stop and look before you cross.'", "include: question tags on 'to be' only — is/are/was/were: positive statement -> negative tag ('She is a farmer, isn't she?'); negative statement -> positive tag ('They aren't ripe, are they?'); 'I am' -> 'aren't I?'"]
+        },
+        {
+          "name": "9.3 Word Class: Adverbs (manner, time, place, frequency); modals could/would; 'how many...could/would' (Communicable Diseases)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify adverbs of manner, time, place and frequency in a text",
+            "Use adverbs correctly in oral and written contexts",
+            "Use the modals could and would and the phrase how many...could/would in sentences correctly",
+            "Judge the appropriateness of adverbs used in oral and written texts"
+          ],
+          "keyInquiryQuestions": [
+            "How do we describe when, how, where and how many times an action takes place?",
+            "Which word or words do we use to ask questions?"
+          ],
+          "learningExperiences": [
+            "Identify and list adverbs from a digital or print text collaboratively",
+            "Make sentences from a substitution table using the pattern how many...could/would",
+            "Fill in blank spaces with appropriate adverbs",
+            "Construct sentences using adverbs of manner, time, place and frequency",
+            "Recite poems containing adverbs with peers",
+            "Create a crossword puzzle using different types of adverbs"
+          ],
+          "coreCompetencies": ["Self-efficacy", "Creativity and Imagination"],
+          "linkedLearningAreas": ["Kiswahili — types of adverbs"],
+          "scopeNotes": ["include: adverbs of manner (quickly, carefully, quietly, badly, well), time (now, today, yesterday, soon, later, early), place (here, there, outside, everywhere, nearby), frequency (always, usually, often, sometimes, rarely, never, daily, weekly)", "include: modals could/would for polite requests/hypotheticals; question pattern 'How many ... could/would ...?', e.g. 'How many patients could the nurse treat in an hour?'"]
+        },
+        {
+          "name": "10.3 Word Class: Conjunctions — but, or, yet, because, since, also (Leisure Time Activities)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify conjunctions: but, or, yet, because, since and also, in texts for effective communication",
+            "Use conjunctions but, or, yet, because, since and also, correctly in communication",
+            "Judge the correctness and appropriateness of conjunctions in oral and written texts"
+          ],
+          "keyInquiryQuestions": [
+            "Why do you join words and sentences?",
+            "How do you join words or sentences?"
+          ],
+          "learningExperiences": [
+            "Listen to a short dialogue and identify conjunctions",
+            "Make sentences from a substitution table using but, or, yet, because, since and also",
+            "Construct sentences using conjunctions with peers",
+            "Fill in blank spaces using conjunctions in sentences or paragraphs",
+            "Create a display chart of sentences containing conjunctions with peers",
+            "Conduct a gallery walk and give feedback to each group"
+          ],
+          "coreCompetencies": ["Collaboration", "Creativity and Imagination"],
+          "linkedLearningAreas": ["Kiswahili — conjunctions"],
+          "scopeNotes": ["include the exact set with function: but/yet = contrast; or = alternative/choice; because/since = reason/cause; also = addition"]
+        },
+        {
+          "name": "11.3 Use of Interrogatives — how/what/when/why/who; 'how much more...', 'when/who/why/what else' (Sports - Appreciating Talents)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify interrogatives: how, what, when, why, who in sentences correctly",
+            "Use interrogatives how much more..., when/who/why/what else accurately in sentences",
+            "Adopt the use of interrogatives used in oral and written texts"
+          ],
+          "keyInquiryQuestions": [
+            "Why do we ask questions?",
+            "How do we ask questions?"
+          ],
+          "learningExperiences": [
+            "Mention the words used to ask questions - how, what, when, why, who",
+            "Use the wh- words and how to ask questions collaboratively",
+            "Construct questions using the pattern: how much more..., when/who/why/what else with peers for example, 'who else attended the ceremony?', 'how much more sugar was bought?'",
+            "Use the interrogatives with: else, much to complete sentences",
+            "Use digital devices to practice constructing questions with peers"
+          ],
+          "coreCompetencies": ["Learning to Learn", "Collaboration"],
+          "linkedLearningAreas": ["Kiswahili — interrogatives"],
+          "scopeNotes": ["include: base interrogatives who (person), what (thing), when (time), where (place — implied), why (reason), how (manner/degree)", "include: extended patterns 'how much more ...?', 'how many more ...?', 'who/what/when/why/where else ...?'"]
+        },
+        {
+          "name": "12.3 Word Class: Nouns — nouns that occur only in singular or only in plural / identical in both (Environmental Pollution)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify nouns which occur as same in both singular and plural from given sentences",
+            "Use nouns which occur as same in both singular and plural to make sentences",
+            "Collaborate with others to determine the correctness and appropriateness of nouns used in various texts"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to use words correctly?",
+            "Which singular nouns end with letter -s?"
+          ],
+          "learningExperiences": [
+            "Identify and underline nouns which occur as same in both singular and plural sentences",
+            "Construct sentences with peers using nouns which only occur in singular or plural such as news, dirt, waste and rubbish",
+            "Practise a conversation using plurals of nouns which occur as same in both singular and plural collaboratively",
+            "Watch videos on nouns which only occur in singular or plural and answer questions",
+            "Create display charts on nouns which occur as same in both singular and plural in sentences"
+          ],
+          "coreCompetencies": ["Collaboration", "Digital Literacy"],
+          "linkedLearningAreas": ["Kiswahili — nouns that exist as either singular or plural"],
+          "scopeNotes": ["include (a) identical in singular & plural: sheep, deer, fish, aircraft, series, species, means, offspring, salmon", "include (b) singular-only (uncountable, take singular verb, often end -s: 'news'): news, dirt, waste, rubbish, information, advice, furniture, luggage, homework, weather, progress, litter, sewage, pollution", "include (c) plural-only (take plural verb, no singular): scissors, trousers, shorts, glasses (spectacles), pliers, tongs, clothes, surroundings, belongings, premises"]
+        },
+        {
+          "name": "13.3 Word Class: Prepositions — time (in/on/at), place (in/on/at), direction (into/towards/to/through) (Money - Savings and Banking)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "Identify prepositions of time in, on, at; place in, on, at and direction into, towards, to, through in sentences",
+            "Use prepositions of time, place and direction appropriately for effective communication",
+            "Appreciate the accuracy, appropriateness and correctness of prepositions used in varied texts"
+          ],
+          "keyInquiryQuestions": [
+            "Which words show direction and time?",
+            "Why is it important to show time and direction?"
+          ],
+          "learningExperiences": [
+            "Underline prepositions of time, place and direction in sample sentences: time such as in, on, at; place such as in, on, at; direction such as into, towards, to, through",
+            "Play preposition games and songs online/offline",
+            "Construct sentences using prepositions individually",
+            "Watch videos and online material on prepositions collaboratively",
+            "Create display charts containing prepositions of time and direction",
+            "Create crossword puzzles using prepositions",
+            "Solve code words and crossword puzzles involving prepositions",
+            "Search for prepositions online, from newspapers, magazines among others"
+          ],
+          "coreCompetencies": ["Communication and Collaboration", "Digital Literacy"],
+          "linkedLearningAreas": ["Kiswahili — prepositions"],
+          "scopeNotes": ["include: TIME — 'at' + clock time/mealtimes/night ('at 3 o'clock', 'at noon', 'at night'); 'on' + days/dates ('on Monday', 'on 1st June'); 'in' + months/years/parts of day/seasons ('in June', 'in 2026', 'in the morning')", "include: PLACE — 'at' + point/specific place ('at the bank', 'at the counter'); 'on' + surface ('on the desk', 'on the wall'); 'in' + enclosed space/area ('in the banking hall', 'in Nairobi')", "include: DIRECTION — into (entering), towards (in the direction of), to (destination), through (from one side to the other)"]
+        }
+      ]
+    },
+    {
+      "name": "Writing",
+      "subStrands": [
+        {
+          "name": "1.4 Functional Writing: Filling Forms (Child Rights and Responsibilities)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "Record specific details: personal information, school information, parents'/guardians' details, religion/county information, favourite sport, hobby among others in a variety of forms",
+            "Design a form to obtain the required information",
+            "Acknowledge the importance of filling forms correctly"
+          ],
+          "keyInquiryQuestions": [
+            "Why do we fill forms?",
+            "Why is it important to fill forms accurately?",
+            "What details do we fill in forms?"
+          ],
+          "learningExperiences": [
+            "Search for sample forms from the internet, individually",
+            "Select the information to be filled in a form collaboratively",
+            "Fill a form related to the theme using the following details: personal information, school information, parents'/guardians' details, religion/county information, favourite sport, hobby among others",
+            "Discuss the importance of filling forms correctly with peers",
+            "Design a form to obtain information with peers and upload it online"
+          ],
+          "coreCompetencies": ["Digital Literacy", "Creativity and Imagination"],
+          "linkedLearningAreas": ["Social Studies — child rights and responsibilities"],
+          "scopeNotes": ["include: form fields — full name, admission number, date of birth, age, gender, grade/class, home/postal address, county/sub-county, nationality, religion, parent/guardian name, parent phone/occupation, favourite sport, hobby, signature, date", "include: form conventions — BLOCK/CAPITAL letters, tick boxes, date format, 'N/A', keep within the box, do not leave blanks, sign and date"]
+        },
+        {
+          "name": "2.4 Creative Writing: Open-ended Compositions (100-150 words) (National Celebrations)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Select relevant points when planning a composition",
+            "Write an open-ended composition for comprehension",
+            "Advocate for the use of creativity in writing"
+          ],
+          "keyInquiryQuestions": [
+            "How do we express ideas on different topics?",
+            "Why do we share ideas?"
+          ],
+          "learningExperiences": [
+            "Brainstorm possible points to include in their composition",
+            "Write the first paragraph with peers while observing correct punctuation and spelling",
+            "Complete the composition of about (100-150 words)",
+            "Work jointly to proofread their compositions",
+            "Display the completed compositions in class",
+            "Conduct a gallery walk and give feedback",
+            "Search and read compositions online"
+          ],
+          "coreCompetencies": ["Learning to Learn", "Critical Thinking and Problem Solving"],
+          "linkedLearningAreas": ["Kiswahili — composition writing"],
+          "scopeNotes": ["include: open-ended composition = continue/complete a given opening or given last sentence in own way", "include: planning steps — brainstorm points, select relevant points, order them, draft intro/body/conclusion, proofread punctuation and spelling"]
+        },
+        {
+          "name": "3.4 Mechanics of Writing: Handwriting — joined/cursive script (Etiquette-Table Manners)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify text written in joined letters or cursive script",
+            "Write legibly using joined letters/cursive script",
+            "Recommend ways of improving legibility and neatness in written communication"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we write legibly and neatly?",
+            "How can you improve your handwriting?"
+          ],
+          "learningExperiences": [
+            "Copy words, sentences, and paragraphs using joined letters in their books",
+            "Observe visuals/pictures and compose a story of about (100-120 words) in cursive script",
+            "Discuss the importance of writing legibly and neatly as a class",
+            "Team up to search for information from the internet or print sources and make notes"
+          ],
+          "coreCompetencies": ["Creativity and Imagination", "Digital Literacy"],
+          "linkedLearningAreas": ["All learning areas — legible and neat handwriting"],
+          "scopeNotes": ["include: legibility factors — consistent letter size, even spacing between letters and words, uniform slant, letters sitting on the line, correct letter joins, neat ascenders/descenders, adequate pressure, no over-writing"]
+        },
+        {
+          "name": "4.4 Functional Writing: Friendly Letter — a reply to a friendly letter (Road Accidents - Prevention)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify the components of a friendly letter from a sample letter",
+            "Write a friendly letter using the correct format for effective communication",
+            "Judge the appropriateness of words, phrases and sentences used in friendly letters"
+          ],
+          "keyInquiryQuestions": [
+            "How do you communicate with people who are far away?",
+            "Why do we write letters?"
+          ],
+          "learningExperiences": [
+            "Read a sample friendly letter with peers and pick out the parts such as address, salutation, date, complimentary close among others",
+            "Pick words related to the theme such as (pedestrian crossing, risk, slide, smog, brake, emergency, police, license, prevent, safety, vehicle, prevention)",
+            "Write a reply to a friendly letter using the new words and the correct format",
+            "Proofread/edit the letter collaboratively",
+            "Present the edited version to other groups",
+            "Work jointly to search for more examples of friendly letters on the internet"
+          ],
+          "coreCompetencies": ["Learning to Learn", "Creativity and Imagination"],
+          "linkedLearningAreas": ["Kiswahili — letter writing"],
+          "scopeNotes": ["include: friendly-letter parts in order — sender's address (top right), date, salutation/greeting ('Dear ___,'), introduction, body, conclusion, complimentary close ('Yours ___,' / 'Your friend,' / 'Love,'), sender's name/signature", "include: friendly (informal) vs formal register — contractions, personal tone, questions to the reader allowed"]
+        },
+        {
+          "name": "5.4 Creative Writing: Narrative Compositions (120-160 words) (Traditional Foods)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify the parts of a narrative composition",
+            "Write coherently on different topics",
+            "Create a narrative composition for self-expression",
+            "Promote creativity in writing among peers"
+          ],
+          "keyInquiryQuestions": [
+            "Why do you enjoy reading stories?",
+            "How do you make your composition interesting?"
+          ],
+          "learningExperiences": [
+            "Brainstorm ideas for a narrative composition collaboratively with peers",
+            "Read samples of narrative compositions with peers",
+            "Identify the parts of a narrative composition",
+            "Compose a narrative of 120-160 words individually or collaboratively",
+            "Practise writing own narratives",
+            "Listen or view a recording of a narrative and rewrite it in own words",
+            "Proofread each other's work and give feedback"
+          ],
+          "coreCompetencies": ["Creativity and Imagination", "Learning to Learn"],
+          "linkedLearningAreas": ["Agriculture and Science and Technology — traditional food crops"],
+          "scopeNotes": ["include: parts of a narrative — orientation/beginning (setting, characters, time), complication/middle (problem, series of events, climax), resolution/ending (how the problem is solved, lesson/feeling)", "include: devices that make a story interesting — dialogue, vivid description, suspense, twist, sensory detail, strong opening and closing"]
+        },
+        {
+          "name": "6.4 Creative Writing: Pictorial Composition (120-160 words) (Jobs and Occupations)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Choose possible topics for pictorial compositions",
+            "Create a composition based on the visuals or pictures",
+            "Judge visuals appropriately for creativity in writing"
+          ],
+          "keyInquiryQuestions": [
+            "Why do we enjoy looking at pictures?",
+            "What messages do pictures communicate?"
+          ],
+          "learningExperiences": [
+            "Interpret pictures collaboratively with peers",
+            "Match the pictures with the different parts of a composition: beginning, middle and end",
+            "Watch a variety of pictorial compositions collaboratively with peers",
+            "Arrange different pictures logically to write a story coherently",
+            "Write a pictorial composition of about 120-160 words",
+            "Proof read the pictorial composition",
+            "Display their compositions in the classroom"
+          ],
+          "coreCompetencies": ["Communication and Collaboration", "Creativity and Imagination"],
+          "linkedLearningAreas": ["Art and Craft — drawing", "Social Studies — interpretation of maps and charts"],
+          "scopeNotes": ["include: pictorial composition = a strip/series of pictures put in logical order, then told as a story with beginning, middle, end; each picture becomes a paragraph or key event"]
+        },
+        {
+          "name": "7.4 Mechanics of Writing: Punctuation — commas and double quotation marks (Learning Through Technology)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "Identify commas and double quotation marks in written texts",
+            "Use the comma and double quotation marks correctly in sentences",
+            "Advocate the use of correct punctuation in written communication"
+          ],
+          "keyInquiryQuestions": [
+            "Which punctuation marks do you know?",
+            "Why do we punctuate sentences?"
+          ],
+          "learningExperiences": [
+            "Read a short text and identify punctuation marks used collaboratively with peers",
+            "Use commas to show pauses between words, phrases or clauses",
+            "Complete sentences using double quotation marks and commas",
+            "Pick out sentences with double quotation marks in newspapers, magazines, articles or internet resources",
+            "Play punctuation games with peers",
+            "Create posters or charts with sentences with double quotation marks and commas and display them in class"
+          ],
+          "coreCompetencies": ["Digital Literacy"],
+          "linkedLearningAreas": ["All learning areas, particularly Kiswahili — punctuation"],
+          "scopeNotes": ["include: comma uses — separating items in a list, after an introductory word/phrase, before/after a name in direct address, separating a spoken sentence from 'she said', marking a short pause between clauses", "include: double quotation marks — around the exact words a person speaks (direct speech); capital letter to start the quote; end punctuation inside the closing quote mark"]
+        },
+        {
+          "name": "8.4 Creative Writing: Narrative Composition (120-160 words) featuring Similes and Proverbs (The Farm-Cash Crops)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify similes and proverbs in a variety of texts",
+            "Use similes and proverbs correctly in oral and written texts",
+            "Create a narrative composition featuring similes and proverbs",
+            "Advocate the use of similes and proverbs to enhance creativity in writing"
+          ],
+          "keyInquiryQuestions": [
+            "How do we make our compositions interesting?",
+            "Which similes and proverbs do you know?"
+          ],
+          "learningExperiences": [
+            "Read narratives with formulaic expressions in print and digital format",
+            "List similes and proverbs in texts collaboratively",
+            "Create a clear and coherent storyline using proverbs and similes",
+            "Engage in a dialogue to advance plot and storyline",
+            "Compose a story featuring similes and proverbs with peers",
+            "Write creative compositions featuring similes and proverbs, individually",
+            "Team up to create and display charts with proverbs and similes"
+          ],
+          "coreCompetencies": ["Self-efficacy", "Creativity and Imagination"],
+          "linkedLearningAreas": ["Kiswahili — creative writing"],
+          "scopeNotes": ["include: simile = comparison using 'as...as' or 'like'; draw from theme similes across the design: 'as busy as a bee', 'as faithful as a dog', 'strong like a horse', 'as busy as an ant', 'as free as a bird', 'as proud as a peacock', 'as hungry as a wolf', 'as sweet as honey', 'as fast as a hare'", "include: proverb = a short well-known saying stating a general truth/advice: 'Unity is strength', 'The early bird catches the worm', 'A bad workman quarrels with his tools', 'Make hay while the sun shines', 'Prevention is better than cure', 'Practice makes perfect', 'Slow but sure wins the race'"]
+        },
+        {
+          "name": "9.4 Mechanics of Writing: Punctuation Marks — apostrophe and exclamation mark (Communicable Diseases)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "Identify the apostrophe and exclamation mark in sentences",
+            "Punctuate sentences correctly using the apostrophe and the exclamation mark",
+            "Collaborate with others to punctuate own or provided documents"
+          ],
+          "keyInquiryQuestions": [
+            "Which punctuation marks do you know?",
+            "Why do we punctuate sentences?"
+          ],
+          "learningExperiences": [
+            "Listen to a short oral text and write the text with the correct punctuation marks",
+            "Underline the apostrophe and exclamation marks in a text with peers",
+            "Construct sentences using the apostrophe and exclamation mark",
+            "Watch online videos or slides about the correct use of the apostrophe and exclamation mark",
+            "Create and display charts or posters with sentences in which the apostrophe and exclamation mark are used collaboratively with peers",
+            "Conduct a gallery walk and view the charts made by each group of peers"
+          ],
+          "coreCompetencies": ["Creativity and Imagination", "Learning to Learn"],
+          "linkedLearningAreas": ["All areas of learning; Kiswahili — punctuation as a skill"],
+          "scopeNotes": ["include: apostrophe uses — contraction (don't, isn't, they're, it's = it is), singular possession ('the doctor's coat'), plural possession ('the nurses' room'), possession with irregular plural ('the children's ward'); its (possessive) has NO apostrophe", "include: exclamation mark — ends a sentence showing strong feeling, a command shouted, or an interjection ('Watch out!', 'How fast it spreads!'); use sparingly, one only"]
+        },
+        {
+          "name": "10.4 Creative Writing: Descriptive Composition (120-160 words) (Leisure Time Activities)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Describe people or things mentioned in a text",
+            "Create a descriptive composition related to the theme for effective communication",
+            "Critique a composition on the choice of words, creativity, relevance to theme and logical flow",
+            "Appreciate a well written composition from a text"
+          ],
+          "keyInquiryQuestions": [
+            "How do we describe things or events?",
+            "Why is it important to describe things or events clearly?"
+          ],
+          "learningExperiences": [
+            "Read a sample composition from print or electronic sources",
+            "Talk about people or things in the text",
+            "Make sentences to describe how they spent their leisure time collaboratively",
+            "Organise the sentences to make a paragraph collaboratively",
+            "Write a descriptive composition individually",
+            "Proof read the composition with peers"
+          ],
+          "coreCompetencies": ["Communication and Collaboration", "Learning to Learn"],
+          "linkedLearningAreas": ["Kiswahili — descriptive composition writing"],
+          "scopeNotes": ["include: descriptive-writing tools — the five senses, precise adjectives, comparisons (simile/metaphor), spatial or logical order, showing not telling", "include: critique criteria named in the design — choice of words, creativity, relevance to theme, logical flow"]
+        },
+        {
+          "name": "11.4 Spelling — commonly misspelt words; homophones; homonyms (Sports - Appreciating Talents)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Spell selected words correctly for effective communication",
+            "Use homophones and homonyms in sentences correctly",
+            "Advocate for the use of correct spelling of words in written communication"
+          ],
+          "keyInquiryQuestions": [
+            "Which words do you find difficult to write?",
+            "How do we learn to spell words correctly?"
+          ],
+          "learningExperiences": [
+            "Discuss with peers the words they find difficult to spell",
+            "Make a presentation on correct spelling of homophones and homonyms",
+            "Write words from a dictation by the teacher or from an audio-visual recording",
+            "Play spelling games with peers; for example, scramble or scrabble",
+            "Use a jigsaw puzzle to form words correctly with peers",
+            "Make words from jumbled up letters"
+          ],
+          "coreCompetencies": ["Communication and Collaboration", "Critical Thinking and Problem Solving", "Learning to Learn"],
+          "linkedLearningAreas": ["Kiswahili — proper spelling of words"],
+          "scopeNotes": ["include: homophone = same sound, different spelling & meaning — their/there/they're, to/too/two, your/you're, its/it's, here/hear, know/no, write/right, one/won, sea/see, week/weak, piece/peace, plain/plane, break/brake, whole/hole, flour/flower, past/passed, threw/through, road/rode", "include: homonym = same spelling & sound, different meaning — bat (animal / sports), bark (dog / tree), match (sports / firestick), pitch (field / throw / sound), left (direction / departed), fair (just / event / light), spring (season / coil / water source), well (healthy / water source / adverb)", "include: commonly misspelt words — because, friend, beautiful, necessary, separate, February, Wednesday, address, occurred, receive, believe, definitely, environment, government, sincerely, tomorrow, until, which, weird, exercise"]
+        },
+        {
+          "name": "12.4 Functional Writing: Diary — appointment diary; journal (3 days) (Environmental Pollution)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify the key components of a diary/journal from a sample diary/journal",
+            "Create a journal/diary to convey desired information in the right format",
+            "Collaborate with peers to create personal journals and diaries on varied topics"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we plan our activities in advance?",
+            "What is the most memorable experience in your life?"
+          ],
+          "learningExperiences": [
+            "View a sample diary/journal and identify the components",
+            "Write journal/diary entries with peers",
+            "Create an appointment diary collaboratively",
+            "Create a three-day journal with peers",
+            "Display their work in class and take a gallery walk",
+            "Give feedback to each group about their work after the gallery walk",
+            "Search for examples of diaries or journals on the internet, textbooks or the library",
+            "Create a diary or journal individually"
+          ],
+          "coreCompetencies": ["Creativity and Imagination"],
+          "linkedLearningAreas": ["Kiswahili — diaries and journals"],
+          "scopeNotes": ["include: appointment diary = dated entries listing planned activities with times (like a timetable of what WILL happen)", "include: journal/personal diary = dated first-person entries recording what DID happen and how the writer felt; components — date (and sometimes day/time), entry in first person, past tense for events, feelings/reflection, informal tone"]
+        },
+        {
+          "name": "13.4 Spelling — homophones; words with double consonants; words with double vowels (Money - Savings and Banking)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify homophones, words with double consonants and words with double vowels correctly",
+            "Spell homophones, words with double consonants and words with double vowels correctly",
+            "Use homophones, words with double consonants and words with double vowels in sentences correctly",
+            "Recommend to peers ways of enhancing their spelling skills for clarity of communication",
+            "Collaborate with others to judge the appropriateness of words, phrases and sentences used in own or provided documents"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we write words correctly?",
+            "Which words have the same pronunciation but different spelling?"
+          ],
+          "learningExperiences": [
+            "Identify homophones, words with double consonants such as slipped, clapping, carefully and words with double vowels from a text",
+            "Listen to words read by the teacher or from audio recording, for example: waist/waste, collect/dropped",
+            "Write down words from a dictation correctly",
+            "Use a jigsaw puzzle to form words correctly with peers",
+            "Make words from jumbled up letters",
+            "Form sentences from the words they have spelt",
+            "Search for homophones, words with double consonants and words with double vowels from the internet"
+          ],
+          "coreCompetencies": ["Creativity and Problem Solving", "Learning to Learn"],
+          "linkedLearningAreas": ["Kiswahili — proper spelling"],
+          "scopeNotes": ["include: double consonants — slipped, clapping, carefully, dropped, running, swimming, beginning, hammer, dinner, ladder, arrow, bottle, little, happy, funny, kettle, pillow, lesson, address, borrow, mirror, rabbit, button, cannot, common, cottage, jelly, penny, sudden, summer, tunnel, village, yellow", "include: double vowels — book, look, cook, foot, moon, soon, food, root, tooth, spoon, wood, good, feet, meet, seen, tree, three, green, sleep, deep, keep, week, need, seed, feel, wheel, teeth, cheese, coffee, agree, balloon", "include: homophones — waist/waste, collect (no homophone; paired for dictation with dropped), see/sea, be/bee, blue/blew, cent/scent/sent, cell/sell, allowed/aloud, board/bored, buy/by/bye, coarse/course, sole/soul, sum/some, tail/tale, wait/weight, wear/where, won/one"]
+        }
+      ]
+    }
+  ]
+}

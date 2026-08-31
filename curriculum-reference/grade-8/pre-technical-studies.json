@@ -1,0 +1,230 @@
+{
+  "subject": "Pre-Technical Studies",
+  "subjectId": "pre-technical",
+  "grade": 8,
+  "source": {
+    "title": "Pre-Technical Studies Grade 8 - July 2024 - Revised (KICD Junior School Curriculum Design)",
+    "url": "https://www.teacherspalace.co.ke/uploads/documents/pre-technical-studies-grade-8-july-2024-revised-unlocked-2025-01-05-GPTL6iQdBX.pdf",
+    "publisher": "teacherspalace.co.ke (mirror of official KICD PDF)",
+    "retrievedDate": "2026-08-14",
+    "confidence": "high",
+    "notes": "WebFetch could not extract text from the PDF ('unable to extract text') but reported the file saved locally; the Read tool then parsed the full PDF text natively, verbatim. Cover page reads 'KENYA INSTITUTE OF CURRICULUM DEVELOPMENT / JUNIOR SCHOOL CURRICULUM DESIGN / PRE-TECHNICAL STUDIES / GRADE 8', ISBN 978-9914-43-986-1, first published 2023, revised 2024 -- this matches the confirmed official filename 'Pre-Technical Studies Grade 8 - July 2024 - Revised.pdf' independently verified from KICD's own Google Drive index (file ID 1Cvh2JSBlrHU4z4FKt7uVMgTMXEWq9jdu) on the Grade 8 designs page. All 5 strands and 13 sub-strands below were read verbatim from the 'SUMMARY OF STRANDS AND SUB STRANDS' table (p.xii) and cross-checked against each strand's detailed section (pp.1-31). The document breaks down no further than sub-strand level (no subSubStrands anywhere), same as the Grade 9 Pre-Technical Studies design. Strand 2's summary-table label is just '2.0 Communication' but every detailed body table heading (and the TOC) consistently uses the fuller 'Communication in Pre-Technical Studies' -- the fuller body heading is used here as canonical, following the same precedent set for Grade 9. Content differs substantially from Grade 9 (different sub-strand topics throughout, e.g. Fire Safety/Data Safety instead of Safety on Raised Platforms/Handling Hazardous Substances), confirming Grade 8 is not a re-run of Grade 9 content."
+  },
+  "strands": [
+    {
+      "name": "Foundations of Pre-Technical Studies",
+      "subStrands": [
+        {
+          "name": "Fire Safety",
+          "specificLearningOutcomes": [
+            "Identify possible causes of fire outbreaks in the environment",
+            "Explain ways of preventing fire outbreaks in the environment",
+            "Extinguish fires in the environment using appropriate methods",
+            "Acknowledge the need for fire safety in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "Why is fire safety important?"
+          ],
+          "notes": "Suggested lessons stated inconsistently as 7 in the summary table but 6 lessons in the detailed section heading. Firefighting techniques named: cooling, smothering, starving, interrupting. Causes named: flammable substances, electrical faults, combustible materials."
+        },
+        {
+          "name": "Data Safety",
+          "specificLearningOutcomes": [
+            "Outline the importance of data in an electronic device",
+            "Identify threats to data in an electronic device",
+            "Describe ways of protecting data in an electronic device",
+            "Secure data in an electronic device",
+            "Acknowledge the need for data safety in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "How is data protected in an electronic device?"
+          ],
+          "notes": "Suggested lessons stated as 11 in the summary table but 4 lessons in the detailed section heading. Threats named: virus, unauthorised access. Protection techniques named: passwords, antivirus scanning."
+        }
+      ]
+    },
+    {
+      "name": "Communication in Pre-Technical Studies",
+      "subStrands": [
+        {
+          "name": "Plane Geometry",
+          "specificLearningOutcomes": [
+            "Identify instruments used in drawing",
+            "Explain the layout of a drawing environment",
+            "Construct combined shapes applied in drawing",
+            "Embrace the use of plane geometry in drawing"
+          ],
+          "keyInquiryQuestions": [
+            "How are combined shapes applied in day-to-day life?"
+          ],
+          "notes": "Summary table says 4 lessons; detailed section heading says 8 lessons. Instruments named: set squares, drawing set, straight edges, pencils."
+        },
+        {
+          "name": "Dimensioning",
+          "specificLearningOutcomes": [
+            "Identify the types of dimensioning in drawing",
+            "Draw lines used for dimensioning in drawing",
+            "Dimension given shapes in drawings",
+            "Embrace the importance of dimensioning in drawing"
+          ],
+          "keyInquiryQuestions": [
+            "Why is dimensioning applied in drawings?"
+          ],
+          "notes": "Summary table says 7 lessons; detailed section heading says 10 lessons. Types named: linear, radial, angular, arc. Forms named: parallel, chain, combined."
+        },
+        {
+          "name": "Plain Scale Drawing",
+          "specificLearningOutcomes": [
+            "Describe the features of a plain scale used in drawing",
+            "Interpret a plain scale used in drawing",
+            "Draw plane figures to a given scale",
+            "Appreciate the use of plain scale drawing in the work environment"
+          ],
+          "keyInquiryQuestions": [
+            "What is the importance of drawing figures to scale?",
+            "How are plane figures drawn to scale?"
+          ]
+        },
+        {
+          "name": "Visual Programming",
+          "specificLearningOutcomes": [
+            "Identify types of visual programming applications used in day-to-day life",
+            "Explore the features of visual programming applications in a user environment",
+            "Create instructions to solve problems using visual programming application",
+            "Value the importance of visual programming in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "How are computer programs used in day-to-day life?"
+          ],
+          "notes": "Summary table says 14 lessons; detailed section heading says 13 lessons. Application types named: educational, multimedia, video games. Named examples: Microsoft MakeCode, Scratch, Sprite box. Terminologies covered: syntax, variables, input/output statements, coding, coding blocks, sequence statements, repeating statements, selection statements, variable declarations."
+        }
+      ]
+    },
+    {
+      "name": "Materials for Production",
+      "subStrands": [
+        {
+          "name": "Composite Materials",
+          "specificLearningOutcomes": [
+            "Identify composite materials in the locality",
+            "Describe the composition of composite materials in the locality",
+            "Relate composite materials to their use in a work environment",
+            "Acknowledge the importance of composite materials used in the locality"
+          ],
+          "keyInquiryQuestions": [
+            "How can composite materials be identified?",
+            "Why are composite materials used in day-to-day life?"
+          ],
+          "notes": "Example composites named: concrete, bricks, manufactured boards, stone, paper-mache, plastic-coated paper."
+        },
+        {
+          "name": "Ceramic Materials",
+          "specificLearningOutcomes": [
+            "Identify common ceramic materials in the locality",
+            "Describe the physical properties of ceramic materials in the locality",
+            "Relate ceramic materials to their use in a work environment",
+            "Acknowledge the importance of ceramic materials used in the locality"
+          ],
+          "keyInquiryQuestions": [
+            "How are ceramic materials used in day-to-day life?"
+          ],
+          "notes": "Summary table calls this sub-strand 'Ceramics'; the detailed body section heading calls it 'Ceramic Materials' -- the fuller body heading used here. Example items named: pottery, ceramic utensils, glass, shells. Properties named: brittleness, fire resistance, heat resistance, water resistance, corrosion resistance."
+        }
+      ]
+    },
+    {
+      "name": "Tools and Production",
+      "subStrands": [
+        {
+          "name": "Cutting Tools",
+          "specificLearningOutcomes": [
+            "Identify cutting tools used in the work environment",
+            "Select cutting tools for given tasks in a workplace",
+            "Use cutting tools to perform a given task",
+            "Care for cutting tools in the work environment",
+            "Recognise the importance of cutting tools in the work environment"
+          ],
+          "keyInquiryQuestions": [
+            "Why are cutting tools cared for?"
+          ],
+          "notes": "Example tools named: snips, chisels, handsaws, planes, hacksaws, scrappers, knives, strippers, cutters."
+        },
+        {
+          "name": "Computer Software",
+          "specificLearningOutcomes": [
+            "Identify the categories of computer software used in a workplace",
+            "Explain the functions of different application software in the workplace",
+            "Use computer software to perform tasks in day-to-day life",
+            "Acknowledge the importance of application software in the workplace"
+          ],
+          "keyInquiryQuestions": [
+            "How is computer software used in day-to-day life?",
+            "Why is computer software important?"
+          ],
+          "notes": "Summary table says 6 lessons; detailed section heading says 12 lessons. Categories named: system software, application software. Application software types named: word processing, presentation, spreadsheets."
+        }
+      ]
+    },
+    {
+      "name": "Entrepreneurship",
+      "subStrands": [
+        {
+          "name": "Bookkeeping",
+          "specificLearningOutcomes": [
+            "Explain the importance of bookkeeping in entrepreneurship",
+            "Classify business transactions in bookkeeping",
+            "Prepare simple financial statements for a business",
+            "Appreciate the importance of financial records in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "Why is bookkeeping important to a business?",
+            "How are the statements of financial position, cash flow and income statement prepared?"
+          ],
+          "notes": "Financial statements covered: statement of financial position, cash flow statement, income statement. Uses the bookkeeping equation (assets, liabilities, capital)."
+        },
+        {
+          "name": "Income and Budgeting",
+          "specificLearningOutcomes": [
+            "Identify sources of income for an individual",
+            "Explain the importance of budgeting in day-to-day life",
+            "Prepare a simple budget for personal financial management",
+            "Explore ethical and unethical practices in budgeting",
+            "Appreciate the importance of financial planning in income management"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to prepare a personal budget?",
+            "What are the ethical issues in income and budgeting?"
+          ]
+        },
+        {
+          "name": "Marketing of Goods and Services",
+          "specificLearningOutcomes": [
+            "Explain the importance of marketing to a business",
+            "Analyse the sources of information about the market for its potential customers",
+            "Explore factors considered when selecting a suitable market for goods and services",
+            "Select tools to market goods and services",
+            "Recognise suitable markets for goods and services"
+          ],
+          "keyInquiryQuestions": [
+            "How is the market of goods and services selected?",
+            "Where can information about the market and its potential customers be sourced from?"
+          ],
+          "notes": "Summary table lists this sub-strand as 'Marketing goods and Services'; body section heading uses 'Marketing of Goods and Services' -- fuller body heading used here. Enabling conditions named: type of roads, quality of vehicles, communication networks."
+        },
+        {
+          "name": "Distribution of Goods and Services",
+          "specificLearningOutcomes": [
+            "Explain the role of intermediaries in the distribution of goods and services",
+            "Illustrate the channels for distributing different goods and services in business",
+            "Analyse ethics in distribution of goods and services",
+            "Value the need for distribution of goods and services in the community"
+          ],
+          "keyInquiryQuestions": [
+            "How is the distribution of goods and services carried out in day-to-day life?",
+            "Which ethical issues influence distribution of goods and services?"
+          ]
+        }
+      ]
+    }
+  ]
+}

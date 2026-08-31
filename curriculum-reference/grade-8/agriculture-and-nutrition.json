@@ -1,0 +1,182 @@
+{
+  "subject": "Agriculture",
+  "subjectId": "agriculture-nutrition",
+  "grade": 8,
+  "source": {
+    "title": "Junior School Curriculum Design - Agriculture - Grade 8",
+    "url": "https://doyenpublishers.com/wp-content/uploads/2025/04/Grade-8-Agriculture-Curriculum-Design.pdf",
+    "publisher": "KICD (mirrored via doyenpublishers.com)",
+    "retrievedDate": "2026-08-14",
+    "confidence": "high",
+    "notes": "KICD's own Google Drive index (https://drive.google.com/file/d/1MzOFhLc8kbRwvjg03q7oeDrbbvux75Wy/preview, confirmed via WebFetch) shows the official filename as 'Agriculture Grade8 1.8.2024 - Proofread.pdf', but that Drive file is download-blocked so its text could not be read directly. Direct kicd.ac.ke hosting attempts (e.g. wp-content/uploads/2024/01/GRADE-8-AGRICULTURE-NUTRITION.pdf, found via web search) returned 404 -- likely reorganised/removed since the 2024 revision. The document actually read here (via WebFetch's saved-local-copy + Read, full text read verbatim, NOT summarized) is doyenpublishers.com's mirror. Its title page reads 'KENYA INSTITUTE OF CURRICULUM DEVELOPMENT / JUNIOR SCHOOL CURRICULUM DESIGN / AGRICULTURE / GRADE 8', 'First published 2023 / Revised 2024', ISBN 978-9914-43-980-9, confirming it is authentically a KICD-produced document in the correct revision lineage (matches app's subject name closely enough -- note the official title is simply 'Agriculture', not 'Agriculture and Nutrition', though the design covers both agriculture and home-science/nutrition topics as an integrated learning area per its own essence statement). Strand/sub-strand structure, specific learning outcomes and key inquiry questions below were transcribed verbatim from this PDF's text (read directly via the Read tool, not AI-summarized), cross-checked against the 'SUMMARY OF STRANDS AND SUB STRANDS' table (p.x) which matched the full per-strand breakdown (p.1-21) exactly. Marked high confidence because the full text was read verbatim and the strand/sub-strand list is short and unambiguous (12 sub-strands total, matching the summary table count exactly)."
+  },
+  "strands": [
+    {
+      "name": "Conservation of Resources",
+      "subStrands": [
+        {
+          "name": "Soil Conservation Measures",
+          "specificLearningOutcomes": [
+            "Describe methods of soil conservation in agricultural environment",
+            "Carry out soil conservation activities in the environment",
+            "Demonstrate caring attitude towards soil in the environment"
+          ],
+          "keyInquiryQuestions": [
+            "How can we conserve soil in the environment?"
+          ]
+        },
+        {
+          "name": "Water Harvesting and Storage",
+          "specificLearningOutcomes": [
+            "Discuss ways of storing harvested water for domestic use",
+            "Take part in harvesting and storing water in the school for domestic use",
+            "Show responsibility in harvesting and storing water for domestic use"
+          ],
+          "keyInquiryQuestions": [
+            "How can we harvest and store water for domestic purposes?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Food Production Processes",
+      "subStrands": [
+        {
+          "name": "Kitchen and Backyard Gardening",
+          "specificLearningOutcomes": [
+            "Explain the role of kitchen and backyard garden in food production",
+            "Establish a kitchen and backyard garden for food production",
+            "Adopt the use of kitchen and backyard garden for food production"
+          ],
+          "keyInquiryQuestions": [
+            "How does kitchen garden contribute to food production?"
+          ]
+        },
+        {
+          "name": "Poultry Rearing in a Fold",
+          "specificLearningOutcomes": [
+            "Describe a fold in poultry rearing",
+            "Construct a fold for rearing poultry",
+            "Rear poultry in a fold",
+            "Show responsibility in rearing of poultry"
+          ],
+          "keyInquiryQuestions": [
+            "How can we rear poultry in a fold for food production?"
+          ]
+        },
+        {
+          "name": "Crop Pest and Disease Control",
+          "specificLearningOutcomes": [
+            "Identify vegetable crops attacked by pests and diseases",
+            "Control pests and diseases on vegetable crops",
+            "Acknowledge importance of controlling pests and diseases in vegetable production"
+          ],
+          "keyInquiryQuestions": [
+            "How can we identify vegetable crops attacked by pests and diseases?",
+            "How can we control pests and diseases affecting crops?"
+          ]
+        },
+        {
+          "name": "Preparation of Animal Products",
+          "subSubStrands": [
+            "Processing fish",
+            "Dressing poultry"
+          ],
+          "specificLearningOutcomes": [
+            "Explain the importance of processing fish and dressing poultry carcass",
+            "Process fresh fish for various purposes",
+            "Dress poultry carcass for various purposes",
+            "Uphold ethical and safety practices in preparation of animal products"
+          ],
+          "keyInquiryQuestions": [
+            "How can we process fresh fish?",
+            "How can we dress poultry carcass?"
+          ]
+        },
+        {
+          "name": "Preserving Animal Products",
+          "subSubStrands": [
+            "Milk",
+            "Meat"
+          ],
+          "specificLearningOutcomes": [
+            "Explain the importance of preserving milk and meat at household level",
+            "Preserve meat to prolong shelf life at household level",
+            "Preserve milk to prolong shelf life at household level",
+            "Embrace the use of various methods to preserve animal products at household level"
+          ],
+          "keyInquiryQuestions": [
+            "How can we preserve milk and meat at household level?"
+          ]
+        },
+        {
+          "name": "Cooking: Preparing a Balanced Meal",
+          "specificLearningOutcomes": [
+            "Explain factors to consider in preparing a balanced meal",
+            "Prepare a balanced meal for healthy living",
+            "Use various styles to present the meal",
+            "Adopt the use of a balanced meal in day to day life"
+          ],
+          "keyInquiryQuestions": [
+            "How can we prepare a balanced meal for healthy living?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hygiene Practices",
+      "subStrands": [
+        {
+          "name": "Cleaning the Kitchen",
+          "specificLearningOutcomes": [
+            "Explain the routine cleaning practices of a kitchen",
+            "Carry out cleaning of a kitchen to maintain hygiene",
+            "Appreciate the importance of a clean kitchen for healthy living"
+          ],
+          "keyInquiryQuestions": [
+            "How can daily, weekly and special cleaning enhance hygiene in the kitchen?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Production Techniques",
+      "subStrands": [
+        {
+          "name": "Sewing Skills: Constructing Household Items",
+          "specificLearningOutcomes": [
+            "Identify types of seams used in making household items",
+            "Make samples of seams on a piece of cloth",
+            "Construct a household item using seams",
+            "Appreciate the use of seam in making household items"
+          ],
+          "keyInquiryQuestions": [
+            "How can a household item be made using seams?"
+          ]
+        },
+        {
+          "name": "Constructing Innovative Animal Waterer",
+          "specificLearningOutcomes": [
+            "Explain challenges with animal waterers used in the community",
+            "Design and construct an innovative waterer for water conservation",
+            "Appreciate use of innovative waterers in animal rearing"
+          ],
+          "keyInquiryQuestions": [
+            "How can we make an innovative waterer for small domestic animals?"
+          ]
+        },
+        {
+          "name": "ICT Support Services",
+          "specificLearningOutcomes": [
+            "Describe support services that can be accessed through use of ICT",
+            "Access support services using ICT",
+            "Show responsibility in use of ICT in accessing support services"
+          ],
+          "keyInquiryQuestions": [
+            "How can we access support services using ICT?"
+          ]
+        }
+      ]
+    }
+  ]
+}

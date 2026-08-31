@@ -1,0 +1,591 @@
+{
+  "subject": "Kiswahili",
+  "subjectId": "kiswahili",
+  "grade": 9,
+  "source": {
+    "title": "Mtaala wa Shule ya Junia — Kiswahili, Gredi ya Tisa (Toleo la Kwanza 2024)",
+    "url": "https://www.teacherspalace.co.ke/uploads/documents/kiswahili-gredi-9-2024-revised-oct-unlocked-2024-12-02-d6rmQrFLST.pdf",
+    "publisher": "Kenya Institute of Curriculum Development (KICD) — mirrored via teacherspalace.co.ke",
+    "isbn": "978-9914-43-434-7",
+    "retrievedDate": "2026-08-20",
+    "confidence": "high",
+    "notes": "WebFetch on this URL reported it could not extract text but saved the PDF locally; the Read tool was then used directly on that local file path, which parsed the full ~141-page PDF text natively (not summarized by an intermediate model). Title page reads 'TAASISI YA UKUZAJI MITAALA KENYA ... MTAALA WA SHULE YA JUNIA ... KISWAHILI ... GREDI YA TISA', Toleo la Kwanza 2024, ISBN 978-9914-43-434-7 — the filename ('kiswahili-gredi-9-2024-revised-oct...') matches the official KICD Google Drive filename confirmed in this repo's README ('Kiswahili Gredi 9 -2024 - Revised Oct.pdf'). All strand/sub-strand headings, specific learning outcomes, key inquiry questions, and learning experiences below were transcribed from the Read output of the actual PDF text, not paraphrased or inferred. IMPORTANT STRUCTURAL NOTE: unlike most other Grade 9 subject designs, this document is organized around 15 cross-cutting real-world THEMES ('Mada' 1.0 through 15.0 — e.g. 'Usafi wa Mazingira', 'Utunzaji wa Wanyama', 'Haki za Kibinadamu'), each broken into exactly 4 sub-strands, one per language-skill modality (Kusikiliza na Kuzungumza / Kusoma / Kuandika / Sarufi). This JSON reorganizes those 60 (15x4) sub-strand cells under the 4 modality strands (matching this app's shipped kis-kusikiliza/kis-ufahamu/kis-insha/kis-sarufi strand IDs in web/src/lib/curriculum.ts), with each sub-strand's parent theme recorded in its 'theme' field. Every sub-strand in the source carries 'Vipindi 2' (2 lessons)."
+  },
+  "essenceNote": "Kauli Kiini (source, verbatim): 'Somo la Kiswahili litampa mwanafunzi wa Shule ya Junia umilisi katika shughuli za kila siku. Umilisi huu utajengea haiba na uwezo wake wa kuwasiliana na kuhusiana katika jamii, kitaifa na kimataifa. Aidha, litamwendeleza kielimu na kumwandaa kwa ulimwengu wa kazi. Somo hili litampa mwanafunzi hamasa ya kumudu na kufurahia lugha na fasihi kwa kuzihusisha na tajriba na mazingira yake. Hali kadhalika, litampa mwanafunzi maarifa ya kijamii na kitamaduni. Mwanafunzi ataweza kujieleza na vilevile kupata fursa ya kutoa huduma kwa jamii.' Matokeo ya Kijumla Yanayotarajiwa Katika Shule ya Junia (8 outcomes): kujieleza ipasavyo kwa maandishi na mazungumzo; kuwasiliana ipasavyo katika miktadha mbalimbali ya kijamii; kujenga desturi ya kusoma na kufasiri maandishi kwa ufasaha; kutumia lugha kiubunifu kusimulia na kuandika tungo mbalimbali; kushiriki katika shughuli za kijamii zinazochangia ujifunzaji; kutumia teknolojia ipasavyo kukuza ujuzi wa kidijitali; kutumia maadili yanayohitajika maishani kupitia stadi za lugha; kufurahia na kuthamini Kiswahili kama lugha rasmi, ya taifa na kimataifa.",
+  "themesIndex": [
+    "1.0 Usafi wa Mazingira", "2.0 Mazoezi ya Viungo vya Mwili", "3.0 Utunzaji wa Wanyama",
+    "4.0 Utunzaji wa Maliasili", "5.0 Mitazamo Hasi ya Kijinsia", "6.0 Usalama Barabarani",
+    "7.0 Huduma Katika Asasi za Kijamii", "8.0 Misukosuko ya Kijamii",
+    "9.0 Matumizi ya Vifaa vya Kidijitali Katika Biashara", "10.0 Kukabiliana na Msongo wa Mawazo",
+    "11.0 Haki za Kibinadamu", "12.0 Magonjwa Yanayotokana na Mienendo ya Maisha",
+    "13.0 Mshikamano wa Kijamii", "14.0 Matumizi ya Kodi", "15.0 Maadili ya Kitaifa"
+  ],
+  "strands": [
+    {
+      "name": "Kusikiliza na Kuzungumza",
+      "subStrands": [
+        {
+          "code": "1.1.1", "theme": "1.0 Usafi wa Mazingira", "name": "Kusikiliza na Kujibu — Mjadala", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua vipengele vya kuzingatia katika kusikiliza mjadala", "kutambua vipengele vya kuzingatia katika kuchangia mjadala", "kushiriki mjadala kwa kuzingatia vipengele vifaavyo katika kusikiliza na kuchangia mijadala", "kuchangamkia kushiriki katika mijadala ya miktadha mbalimbali"],
+          "keyInquiryQuestions": ["Je, unazingatia nini wakati wa kusikiliza na kuchangia mjadala?"],
+          "learningExperiences": ["kusikiliza au kutazama mjadala kuhusu suala lengwa katika kifaa cha kidijitali (k.v. redio, kanda za sauti)", "kueleza vipengele vya kusikiliza na kuchangia mjadala vilivyozingatiwa", "kushiriki mjadala kuhusu suala lengwa akiwa na wenzake akizingatia vipengele vifaavyo vya mjadala"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Kujiamini"],
+          "linkedLearningAreas": ["English — kusikiliza na kujibizana", "Integrated Science na Agriculture — usafi wa mazingira"],
+          "notes": "Not directly built. msamiatiMijadala.ts (kis-ls-mijadala, code KZ.1) covers general mjadala/hotuba vocabulary and is the closest existing skill, but is not tied to this theme's usafi-wa-mazingira framing."
+        },
+        {
+          "code": "2.1.1", "theme": "2.0 Mazoezi ya Viungo vya Mwili", "name": "Kusikiliza kwa Kina — Sauti /b/ na /mb/", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutamka sauti /b/ na /mb/ ipasavyo ili kuzitofautisha kimatamshi", "kutamka vitanzandimi vyenye sauti /b/ na /mb/ ipasavyo", "kuunda vitanzandimi vyepesi vyenye sauti /b/ na /mb/", "kuchangamkia matamshi bora ya sauti /b/ na /mb/ katika mazungumzo ya kawaida"],
+          "keyInquiryQuestions": ["Kutamka maneno yenye sauti /b/ na /mb/ ipasavyo kuna umuhimu gani?"],
+          "learningExperiences": ["kusikiliza na kutamka vitanzandimi vyepesi vinavyohusisha matamshi ya sauti /b/ na /mb/ katika kifaa cha kidijitali", "kubuni vitanzandimi vyepesi vinavyohusisha sauti /b/ na /mb/ na kuwasomea wenzake"],
+          "coreCompetencies": ["Ujuzi wa kidijitali", "Ubunifu", "Kujiamini", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — matamshi bora", "Creative Arts and Sports — mazoezi ya viungo vya mwili"],
+          "notes": "Not built."
+        },
+        {
+          "code": "3.1.1", "theme": "3.0 Utunzaji wa Wanyama", "name": "Semi — Tashbihi, Sitiari, Methali", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya tashbihi, sitiari na methali ili kuzipambanua", "kutambua tashbihi, sitiari na methali katika matini ya fasihi simulizi", "kueleza matumizi ya tashbihi, sitiari na methali katika matini ya fasihi simulizi", "kutumia tashbihi, sitiari na methali katika uwasilishaji wa tungo za fasihi simulizi", "kuchangamkia matumizi ya tashbihi, sitiari na methali katika tungo za fasihi simulizi"],
+          "keyInquiryQuestions": ["Tunatumia mbinu gani za lugha katika kuwasilisha tungo za fasihi simulizi?", "Kwa nini tunatumia tashbihi, sitiari na methali kuwasilisha tungo za fasihi simulizi?"],
+          "learningExperiences": ["kutambua tashbihi, sitiari na methali kutoka kwenye tungo simulizi, kapu la semi, au kifaa cha kidijitali", "kusakura mtandaoni matumizi ya tashbihi, sitiari na methali katika tungo za fasihi simulizi", "kushiriki katika uwasilishaji wa tashbihi, sitiari na methali", "kujadiliana na mzazi au mlezi kuhusu tashbihi, sitiari na methali katika jamii yake"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ubunifu", "Hamu ya ujifunzaji", "Uraia", "Ujuzi wa kidijitali"],
+          "linkedLearningAreas": ["English — tungo za fasihi simulizi", "Agriculture — utunzaji wa wanyama"],
+          "notes": "Not built."
+        },
+        {
+          "code": "4.1.1", "theme": "4.0 Utunzaji wa Maliasili", "name": "Semi — Vitendawili na Nahau", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya vitendawili na nahau ili kuipambanua", "kutambua vitendawili na nahau katika matini", "kufafanua umuhimu wa vitendawili na nahau katika fasihi simulizi", "kutumia nahau ipasavyo katika mawasiliano", "kuwasilisha vitendawili kwa kuzingatia vipengele vya uwasilishaji wake", "kuchangamkia matumizi ya nahau na uwasilishaji wa vitendawili katika tungo za fasihi"],
+          "keyInquiryQuestions": ["Unazingatia nini unapowasilisha vitendawili?", "Kwa nini tunatumia nahau katika mawasiliano?"],
+          "learningExperiences": ["kutafiti mtandaoni au maktabani umuhimu wa vitendawili na nahau", "kujaza nafasi katika sentensi kwa kutumia nahau mwafaka", "kujadili vipengele vya uwasilishaji wa vitendawili akiwa na wenzake", "kushirikiana na mzazi au mlezi kutambua vitendawili na nahau katika jamii yake"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Kujiamini", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — vitendawili na nahau", "Social Studies na Agriculture — utunzaji wa maliasili"],
+          "notes": "Not built."
+        },
+        {
+          "code": "5.1.1", "theme": "5.0 Mitazamo Hasi ya Kijinsia", "name": "Ufahamu wa Kusikiliza", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya ufahamu wa kusikiliza", "kujadili kanuni za ufahamu wa kusikiliza", "kujadili vipengele vya ufahamu wa kusikiliza", "kushiriki katika ufahamu wa kusikiliza akizingatia vipengele vyake", "kuchangamkia kushiriki katika kusikiliza kwa ufahamu ili kukuza stadi ya kusikiliza"],
+          "keyInquiryQuestions": ["Je, ni mambo gani unayozingatia ili kupata ujumbe unaposikiliza matini?", "Je, kusikiliza kwa ufahamu kuna faida zipi?"],
+          "learningExperiences": ["kusikiliza ufahamu kuhusu suala lengwa kutoka kwa mwalimu au mgeni mwalikwa na kujibu maswali", "kusikiliza matini kuhusu suala lengwa katika chombo cha kidijitali na kujibu maswali"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Hamu ya ujifunzaji", "Ujuzi wa kidijitali", "Uwazaji kina na utatuzi wa matatizo"],
+          "linkedLearningAreas": ["English — kusikiliza kwa ufahamu", "Social Studies na Religious Studies — mitazamo hasi ya kijinsia"],
+          "notes": "tabiaZaUsikilizaji.ts (kis-ls-usikilizaji, code KZ.2) covers good/bad listening habits generically — the closest existing skill but not theme-specific to gender attitudes."
+        },
+        {
+          "code": "6.1.1", "theme": "6.0 Usalama Barabarani", "name": "Kusikiliza kwa Kufasiri", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya kusikiliza kwa kufasiri ili kuibanisha", "kueleza msimamo na mielekeo kuhusu ujumbe wa matini ya kusikiliza", "kulinganisha misimamo na mielekeo ya ujumbe wa matini aliyosikiliza na ile ya jamii yake kuhusu suala husika", "kujenga mazoea ya kutambua msimamo na mielekeo katika matini mbalimbali ili kupata maana ya ujumbe"],
+          "keyInquiryQuestions": ["Ni misimamo gani iliyopo katika matini ulizowahi kuzisikiliza?"],
+          "learningExperiences": ["kusikiliza habari kuhusu suala lengwa (k.v. miongozo kwa watumiaji wa barabara; wanaotumia usafiri wa shuleni ulioidhinishwa) katika kifaa cha kidijitali na kuchambua misimamo na mielekeo kuhusu ujumbe", "kutoa muhtasari wa habari aliyosikiliza huku wakichanganua misimamo na mielekeo ya msimulizi/msemaji", "kujadili na mzazi au mlezi kuhusu misimamo na mielekeo ya jamii yake kuhusu suala lengwa"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Uwazaji kina na utatuzi wa matatizo", "Kujiamini", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — kusikiliza kwa kufasiri", "Social Studies, Creative Arts and Sports na Agriculture — usalama barabarani"],
+          "notes": "Not built."
+        },
+        {
+          "code": "7.1.1", "theme": "7.0 Huduma Katika Asasi za Kijamii", "name": "Kusikiliza kwa Kutathmini", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya kusikiliza kwa kutathmini ili kuibainisha", "kujadili vipengele vya kuzingatia katika kusikiliza kwa kutathmini", "kutathmini ujumbe wa mzungumzaji", "kutathmini mtazamo wa msemaji kuhusu anachokizungumzia", "kueleza maana ya msamiati kama ulivyotumiwa katika matini aliyosikiliza", "kuchangamkia kushiriki katika kusikiliza kwa kuchanganua ili kuboresha mawasiliano"],
+          "keyInquiryQuestions": ["Unazingatia nini ili kupata ujumbe unaowasilishwa na mzungumzaji?"],
+          "learningExperiences": ["kusikiliza mazungumzo kuhusu suala lengwa (k.v. Majukumu ya Mamlaka ya Uchukuzi na Usalama Barabarani, Kituo cha Huduma kwa Taifa) kutoka kwa mwalimu, mgeni mwalikwa au vifaa vya kidijitali huku akijadili vipengele vya kusikiliza kwa kutathmini vilivyozingatiwa", "kutoa maoni kuhusu suala linaloshughulikiwa katika kauli au kifungu alichosikiliza"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Uwazaji kina na utatuzi wa matatizo"],
+          "linkedLearningAreas": ["English — kusikiliza kwa kutathmini", "Social Studies na Religious Studies — huduma katika asasi za kijamii"],
+          "notes": "Not built."
+        },
+        {
+          "code": "8.1.1", "theme": "8.0 Misukosuko ya Kijamii", "name": "Uzungumzaji wa Kushawishi", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya uzungumzaji wa kushawishi ili kuupambanua", "kubainisha miktadha ya uzungumzaji wa kushawishi", "kujadili vipengele vya kuzingatia katika uzungumzaji wa kushawishi", "kufanya mazungumzo ya kushawishi akizingatia vipengele vya uzungumzaji wa kushawishi", "kujenga mazoea ya kuwasilisha hoja kwa mazungumzo yanayoshawishi hadhira"],
+          "keyInquiryQuestions": ["Ni lini tunatumia mazungumzo ya kushawishi?", "Utafanya nini ili mazungumzo yako yawe na ushawishi kwa wengine?"],
+          "learningExperiences": ["kubuni mazungumzo mepesi kuhusu suala lengwa na kuwawasilishia wenzake wamtathmini iwapo ametumia vipengele vifaavyo", "kusikiliza uzungumzaji wa kushawishi kuhusu suala lengwa kutoka kwenye kifaa cha kidijitali au mgeni mwalikwa"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ubunifu", "Kujiamini", "Amani"],
+          "linkedLearningAreas": ["English — uzungumzaji wa kushawishi", "Social Studies na Religious Studies — misukosuko ya kijamii"],
+          "notes": "Not built."
+        },
+        {
+          "code": "9.1.1", "theme": "9.0 Matumizi ya Vifaa vya Kidijitali Katika Biashara", "name": "Kusikiliza kwa Kina — Sauti /j/ na /nj/", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua sauti /j/ na /nj/ katika maneno", "kutamka maneno yenye sauti /j/ na /nj/ ipasavyo", "kubuni vitanzandimi vinavyohusisha sauti /j/ na /nj/", "kuchangamkia matamshi bora ya sauti /j/ na /nj/ ili kufanikisha mawasiliano"],
+          "keyInquiryQuestions": ["Ni maneno yapi unayoyajua yaliyo na sauti /j/ na /nj/?"],
+          "learningExperiences": ["kusikiliza vitanzandimi katika kifaa cha kidijitali na kutambua maneno yenye sauti /j/ na /nj/", "kubuni vitanzandimi vinavyohusisha sauti /j/ na /nj/ na kuvikariri kwa wenzake"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Kujiamini"],
+          "linkedLearningAreas": ["English — matamshi ya sauti", "Pre-Technical Studies — matumizi ya vifaa vya kidijitali katika biashara"],
+          "notes": "Not built."
+        },
+        {
+          "code": "10.1.1", "theme": "10.0 Kukabiliana na Msongo wa Mawazo", "name": "Mazungumzo — Malumbano ya Utani", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya malumbano ya utani kama kipera cha mazungumzo", "kujadili sifa za malumbano ya utani", "kutambua vipengele vya uwasilishaji wa malumbano ya utani", "kuwasilisha malumbano ya utani kwa kuzingatia vipengele vifaavyo vya uwasilishaji", "kuchangamkia uwasilishaji wa malumbano ya utani kwa kuzingatia vipengele vya kimsingi katika uwasilishaji"],
+          "keyInquiryQuestions": ["Malumbano ya utani huzungumzia nini?"],
+          "learningExperiences": ["kusikiliza malumbano ya utani katika vifaa vya kidijitali au kutoka kwa mgeni mwalikwa au mwalimu", "kuwasilisha malumbano ya utani kwa kuzingatia vipengele vya kimsingi katika uwasilishaji wake"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Uwazaji kina na utatuzi wa matatizo", "Kujiamini"],
+          "linkedLearningAreas": ["English — mazungumzo", "Social Studies na Religious Studies — kukabiliana na msongo wa mawazo"],
+          "notes": "Not built."
+        },
+        {
+          "code": "11.1.1", "theme": "11.0 Haki za Kibinadamu", "name": "Uzungumzaji Katika Sherehe", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya uzungumzaji katika sherehe", "kutambua miktadha katika jamii ambapo uzungumzaji katika sherehe hufanywa", "kujadili ujumbe tofauti-tofauti unaoafiki uzungumzaji katika miktadha mbalimbali ya sherehe", "kujadili vipengele vya kuzingatia katika uzungumzaji katika muktadha wa sherehe", "kutoa mazungumzo katika muktadha wa sherehe kwa kutumia vipengele vifaavyo", "kuchangamkia mazungumzo yafaayo katika miktadha ya sherehe"],
+          "keyInquiryQuestions": ["Ni mambo gani ya kuzingatia wakati wa kuzungumza katika muktadha wa sherehe?"],
+          "learningExperiences": ["kusakura mtandaoni ujumbe unaoafiki uzungumzaji katika miktadha mbalimbali ya sherehe", "kuigiza uzungumzaji katika miktadha ya sherehe huku akizingatia vipengele vya uwasilishaji wa uzungumzaji wa aina hii"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ubunifu", "Kujiamini", "Uwazaji kina na utatuzi wa matatizo"],
+          "linkedLearningAreas": ["English — uzungumzaji", "Social Studies na Religious Studies — haki za binadamu"],
+          "notes": "Not built."
+        },
+        {
+          "code": "12.1.1", "theme": "12.0 Magonjwa Yanayotokana na Mienendo ya Maisha", "name": "Ufahamu wa Kusikiliza — Matini ya Kusikiliza", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza habari katika matini ya kusikiliza", "kukadiria maana ya msamiati mahususi na vifungu katika matini ya kusikiliza", "kuchanganua mitazamo na maoni katika matini ya kusikiliza", "kufurahia kusikiliza matini za kusikiliza ili kupata habari mahususi"],
+          "keyInquiryQuestions": ["Je, unazingatia nini ili kufanikisha ufahamu wa kusikiliza?"],
+          "learningExperiences": ["kueleza hoja muhimu katika habari aliyosikiliza kutoka kwa mwalimu, kifaa cha kidijitali, mgeni mwalikwa au wenzake", "kujadili na wenzake mitazamo na maoni katika kifungu cha kusikiliza"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Uwazaji kina na utatuzi wa matatizo", "Hamu ya ujifunzaji", "Ubunifu"],
+          "linkedLearningAreas": ["English — ufahamu wa kusikiliza", "Agriculture — magonjwa yanayotokana na mienendo ya maisha"],
+          "notes": "Not built."
+        },
+        {
+          "code": "13.1.1", "theme": "13.0 Mshikamano wa Kijamii", "name": "Mazungumzo — Mawaidha", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya mawaidha ili kuipambanua", "kujadili ujumbe na sifa za mawaidha ya kifasihi", "kueleza vipengele vya uwasilishaji wa mawaidha", "kutambua washiriki (fanani na hadhira) katika mawaidha ya fasihi simulizi", "kuchambua sifa za washiriki katika mawaidha ya fasihi simulizi", "kuwasilisha mawaidha kwa kuzingatia vipengele vifaavyo vya uwasilishaji", "kufurahia kushiriki katika uchanganuzi wa wahusika katika tungo za fasihi simulizi"],
+          "keyInquiryQuestions": ["Mawaidha hushirikisha kina nani?"],
+          "learningExperiences": ["kuchambua sifa za washiriki katika mawaidha anayosikiliza kutoka kwa vifaa vya kidijitali, mgeni mwalikwa au mwalimu", "kutunga mawaidha kuhusu suala lengwa na kuwawasilishia wenzake darasani", "kusikiliza mawaidha atakayotolewa na mzazi au mlezi na kuchambua wahusika"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Uwazaji kina na utatuzi wa matatizo", "Kujiamini"],
+          "linkedLearningAreas": ["English — mazungumzo", "Social Studies na Religious Studies — mshikamano wa kijamii"],
+          "notes": "Not built."
+        },
+        {
+          "code": "14.1.1", "theme": "14.0 Matumizi ya Kodi", "name": "Mazungumzo — Mawaidha (vipengele vya lugha)", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua vipengele vya lugha vinavyotumika katika mawaidha", "kujadili umuhimu wa vipengele vya lugha vinavyotumika katika mawaidha", "kujadili ishara zifaazo katika kutoa mawaidha", "kutoa mawaidha kwa kuzingatia vipengele mbalimbali vya lugha ya mawaidha na ishara zifaazo", "kuonea fahari utoaji wa mawaidha katika maisha ya kila siku"],
+          "keyInquiryQuestions": ["Unazingatia nini unapotoa mawaidha?"],
+          "learningExperiences": ["kutoa mawaidha kwa mwenzake yanayohusiana na matumizi ya kodi akizingatia vipengele mbalimbali vya lugha", "kusakura mtandaoni na kusikiliza mawaidha mbalimbali kisha kutambua vipengele vya lugha"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Kujiamini", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — mawaidha ya fasihi simulizi", "Pre-Technical Studies na Religious Studies — matumizi ya kodi"],
+          "notes": "Not built. Note: same 'Mawaidha' mada-ndogo topic as 13.1.1 but with a different focus (linguistic devices of mawaidha vs. participants/ujumbe) — the design deliberately revisits this sub-genre with a different lens across two themes, not a duplicate."
+        },
+        {
+          "code": "15.1.1", "theme": "15.0 Maadili ya Kitaifa", "name": "Kusikiliza kwa Kutathmini", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya kusikiliza kwa kutathmini", "kujadili vipengele vya kuzingatia katika kutathmini mazungumzo", "kusikiliza mazungumzo na kuyatathmini kwa kuzingatia vipengele vifaavyo", "kuchangamkia kutathmini mazungumzo ili kuimarisha mawasiliano"],
+          "keyInquiryQuestions": ["Kusikiliza kwa kutathmini mazungumzo kuna umuhimu gani?", "Unazingatia nini katika kutathmini ufaafu wa mazungumzo?"],
+          "learningExperiences": ["kusikiliza mazungumzo kuhusu suala lengwa kutoka kwa mwalimu, mgeni mwalikwa au kwenye vifaa vya kidijitali na kuyatathmini kwa kuzingatia vipengele mbalimbali", "kushiriki na mzazi au mlezi katika mazungumzo kuhusu suala lengwa na kutoa maoni"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Uwazaji kina na utatuzi wa matatizo", "Kujiamini", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — aina za uzungumzaji", "Social Studies na Religious Studies — maadili ya kitaifa"],
+          "notes": "Not built. Structurally near-identical outcome set to 7.1.1 (also 'Kusikiliza kwa Kutathmini') — the design deliberately repeats this skill across two different real-world themes rather than teaching it once."
+        }
+      ]
+    },
+    {
+      "name": "Kusoma",
+      "subStrands": [
+        {
+          "code": "1.2.1", "theme": "1.0 Usafi wa Mazingira", "name": "Kusoma kwa Ufahamu — Kifungu cha Simulizi", "lessonCount": 2,
+          "specificLearningOutcomes": ["kudondoa habari mahususi katika kifungu cha simulizi", "kupanga matukio yanavyofuatana katika kifungu cha simulizi", "kufanya utabiri na ufasiri kutokana na kifungu cha simulizi", "kueleza maana ya msamiati kama ulivyotumiwa katika kifungu cha simulizi", "kuchangamkia kujibu maswali ya ufahamu ili kukuza uelewa wa habari"],
+          "keyInquiryQuestions": ["Unafanya nini ili kupata habari zilizo katika kifungu cha simulizi kwa usahihi?"],
+          "learningExperiences": ["kutabiri matukio katika kifungu cha simulizi kutokana na picha au matukio", "kutunga sentensi akitumia msamiati wa suala lengwa kwa usahihi na kuwasomea wenzake au kuwatumia mtandaoni"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Kujiamini", "Ubunifu"],
+          "linkedLearningAreas": ["English — kusoma kwa ufahamu", "Integrated Science na Agriculture — usafi wa mazingira"],
+          "notes": "ufahamu.ts (kis-r-ufahamu, code U.1) implements a general 'kifungu + comprehension questions + true/false' branch structure that matches this sub-strand's outcome shape closely, though its 4 passages are self-authored (jamii/soko/maji/pesa-za-simu topics) rather than usafi-wa-mazingira specifically."
+        },
+        {
+          "code": "2.2.1", "theme": "2.0 Mazoezi ya Viungo vya Mwili", "name": "Kusoma kwa Mapana — Matini ya Kujichagulia", "lessonCount": 2,
+          "specificLearningOutcomes": ["kufafanua ujumbe wa matini aliyosoma", "kutambua msamiati uliotumiwa katika matini ya kujichagulia", "kutumia ipasavyo msamiati unaotokana na matini aliyosoma", "kujenga mazoea ya kusoma matini mbalimbali za kujichagulia"],
+          "keyInquiryQuestions": ["Unazingatia nini unapojichagulia matini ya kusoma?", "Ni mambo gani unayoyazingatia unaposoma matini ya kujichagulia?"],
+          "learningExperiences": ["kutumia kamusi kutafuta maana za maneno asiyoyajua", "kusakura mtandaoni na kujichagulia matini ya kusoma kisha afafanue maana ya msamiati na ujumbe"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Kujiamini", "Ubunifu", "Hamu ya ujifunzaji", "Ujuzi wa kidijitali"],
+          "linkedLearningAreas": ["English — kusoma kwa mapana", "Creative Arts and Sports — mazoezi ya viungo vya mwili"],
+          "notes": "Not built."
+        },
+        {
+          "code": "3.2.1", "theme": "3.0 Utunzaji wa Wanyama", "name": "Kusoma kwa Kina — Ushairi: Sifa za Ushairi", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya shairi ili kulitofautisha na tungo nyingine", "kujadili sifa za ushairi kama utanzu wa fasihi andishi", "kueleza sifa za ushairi katika shairi", "kufurahia kuchambua ushairi kama utungo wa fasihi"],
+          "keyInquiryQuestions": ["Je, shairi ulilowahi kusoma lilikuwa linazungumzia nini?", "Unavutiwa na nini unaposoma shairi?"],
+          "learningExperiences": ["kusoma mashairi katika diwani iliyoteuliwa na mwalimu na kueleza sifa za ushairi katika mashairi hayo"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Kujiamini", "Ujuzi wa kidijitali", "Uwazaji kina na utatuzi wa matatizo"],
+          "linkedLearningAreas": ["English — usomaji wa kina", "Agriculture — utunzaji wa wanyama"],
+          "notes": "Not built. Note: the design's chosen 'Vitabu vya Kusoma' genre for Gredi ya Tisa is Diwani ya Mashairi (poetry anthology) — this drives 5 of the 15 Kusoma-kwa-Kina sub-strands (themes 3,6,8,10,13) revisiting ushairi from different analytical angles (sifa/maudhui-dhamira/mandhari-muundo/wahusika/mbinu-za-lugha)."
+        },
+        {
+          "code": "4.2.1", "theme": "4.0 Utunzaji wa Maliasili", "name": "Kusoma kwa Ufasaha", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua vipengele vya kuzingatia katika kusoma kwa ufasaha", "kusoma kifungu cha nathari akizingatia matamshi bora", "kusoma kifungu cha nathari akizingatia kasi ifaayo", "kusoma kifungu cha nathari akizingatia kiwango kifaacho cha sauti", "kusoma kifungu cha nathari akizingatia ishara za mwili zifaazo", "kujenga mazoea ya kusoma kwa ufasaha ili kufanikisha mawasiliano"],
+          "keyInquiryQuestions": ["Je, unaposoma kifungu chochote unazingatia mambo gani?"],
+          "learningExperiences": ["kusoma kifungu cha nathari akizingatia kasi ifaayo (maneno sahihi yasiyopungua 110 kwa dakika)", "kusakura kifungu cha nathari mtandaoni na kuwasomea wenzake kwa ufasaha"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Kujiamini", "Ujuzi wa kidijitali"],
+          "linkedLearningAreas": ["English — kusoma kwa ufasaha", "Social Studies na Agriculture — utunzaji wa maliasili"],
+          "assessmentSignal": "Explicit numeric fluency benchmark given: reading speed of at least 110 correct words per minute (rises to 115 wpm at theme 12.2 and 130 wpm equivalent progression is implied — treat the wpm figure as a hard, gradeable target, not a vague 'read fluently' instruction).",
+          "notes": "Not built."
+        },
+        {
+          "code": "5.2.1", "theme": "5.0 Mitazamo Hasi ya Kijinsia", "name": "Kusoma kwa Ufahamu", "lessonCount": 2,
+          "specificLearningOutcomes": ["kudondoa habari mahususi katika kifungu cha ufahamu", "kufanya utabiri na ufasiri kutokana na kifungu cha ufahamu", "kueleza maana ya msamiati kulingana na kifungu cha ufahamu", "kuchangamkia kusoma kwa ufahamu ili kukuza uelewa wa habari"],
+          "keyInquiryQuestions": ["Kwa nini tunasoma kifungu cha ufahamu?", "Ni mambo gani tunayozingatia tunaposoma kifungu cha ufahamu?"],
+          "learningExperiences": ["kuchopoa msamiati wa suala lengwa kwenye kapu maneno, mti maneno, chati au vitabu", "kutumia maneno hayo kutunga sentensi sahihi kisha kuwasomea wenzake"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Kujiamini"],
+          "linkedLearningAreas": ["English — kusoma kwa ufahamu", "Social Studies na Religious Studies — mitazamo hasi ya kijinsia"],
+          "notes": "ufahamu.ts is the closest generic match again but not theme-specific to gender attitudes."
+        },
+        {
+          "code": "6.2.1", "theme": "6.0 Usalama Barabarani", "name": "Kusoma kwa Kina — Ushairi: Maudhui na Dhamira", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya maudhui na dhamira katika fasihi", "kujadili maudhui na dhamira katika shairi", "kuchambua shairi kwa kuzingatia maudhui na dhamira", "kuchangamkia usomaji wa kina wa mashairi ili kupata ujumbe wake"],
+          "keyInquiryQuestions": ["Je, mashairi uliyowahi kuyasoma yalizungumzia nini?"],
+          "learningExperiences": ["kuchambua shairi kuhusu suala lengwa (k.v. kuhusu data ya usalama barabarani, vipengele vya ndani vya usalama wa gari) kwa kuzingatia maudhui na dhamira", "kusoma mashairi katika diwani ya mashairi iliyoteuliwa na mwalimu na kuyachambua kwa kuzingatia dhamira na maudhui"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Hamu ya ujifunzaji", "Kujiamini"],
+          "linkedLearningAreas": ["English — maudhui na dhamira", "Social Studies, Creative Arts and Sports na Agriculture — usalama barabarani"],
+          "notes": "Not built."
+        },
+        {
+          "code": "7.2.1", "theme": "7.0 Huduma Katika Asasi za Kijamii", "name": "Ufupisho", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya ufupisho ili kuupambanua", "kujadili vipengele vya ufupisho wa kifungu", "kufupisha kifungu akizingatia vipengele vya ufupisho", "kujenga mazoea ya kuwasiliana kwa maelezo mafupi"],
+          "keyInquiryQuestions": ["Je, unazingatia nini unapotaka kueleza jambo kwa ufupi?"],
+          "learningExperiences": ["kusoma kifungu kuhusu suala lengwa (asasi kama vile majukumu ya Mamlaka ya Barabara ya Serikali — Bodi ya Barabara ya Kenya, Mamlaka ya Barabara za Mijini ya Kenya, Mamlaka ya Kitaifa ya Usimamizi wa Mazingira) na kufupisha kwa kuzingatia vipengele vya ufupisho", "kusakura vifungu mbalimbali mtandaoni na kuvifupisha"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Hamu ya ujifunzaji", "Kujiamini"],
+          "linkedLearningAreas": ["English — ufupisho", "Social Studies na Religious Studies — huduma katika asasi za kijamii"],
+          "notes": "Not built."
+        },
+        {
+          "code": "8.2.1", "theme": "8.0 Misukosuko ya Kijamii", "name": "Kusoma kwa Kina — Ushairi: Mandhari na Muundo", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya mandhari katika fasihi", "kutambua mandhari mbalimbali katika shairi", "kueleza umuhimu wa mandhari katika shairi", "kufafanua vipengele vya muundo katika shairi", "kuchambua shairi kwa kuzingatia mandhari na muundo", "kuchangamkia nafasi ya mandhari na muundo katika shairi"],
+          "keyInquiryQuestions": ["Je, mashairi uliyosoma yana mandhari ya aina gani?", "Vipengele vya muundo vinahusu nini?"],
+          "learningExperiences": ["kughani shairi ili kutambua mandhari na muundo katika shairi", "kusoma mashairi katika diwani iliyoteuliwa na mwalimu na kuyachambua kwa kuzingatia mandhari na muundo"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Uwazaji kina na utatuzi wa matatizo", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — mandhari na muundo", "Social Studies na Religious Studies — misukosuko ya kijamii"],
+          "notes": "Not built."
+        },
+        {
+          "code": "9.2.1", "theme": "9.0 Matumizi ya Vifaa vya Kidijitali Katika Biashara", "name": "Kusoma kwa Ufahamu — Kifungu cha Kushawishi", "lessonCount": 2,
+          "specificLearningOutcomes": ["kudondoa habari mahususi katika kifungu cha kushawishi", "kueleza maana za maneno kama yalivyotumiwa katika kifungu cha kushawishi", "kuchangamkia usomaji wa kifungu cha kushawishi ili kukuza hamu ya ujifunzaji"],
+          "keyInquiryQuestions": ["Ni mambo gani unazingatia unaposoma kifungu cha kushawishi?"],
+          "learningExperiences": ["kutunga sentensi akitumia msamiati katika matini aliyoisoma ili kubainisha matumizi ya lugha shawishi", "kutafiti mtandaoni kuhusu matini zinazoshughulikia suala lengwa na kuzisoma"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Hamu ya ujifunzaji", "Kujiamini"],
+          "linkedLearningAreas": ["English — kusoma kidijitali (masomo yote ya Gredi ya Tisa)", "Pre-Technical Studies — matumizi ya vifaa vya kidijitali katika biashara"],
+          "assessmentSignal": "'Uadilifu' (integrity) is explicitly named as a Maadili target here — 'anapochagua matini faafu mtandaoni kwa mujibu wa sifa zinazofaa kuzingatiwa katika uteuzi wa matini husika' — i.e. source-vetting/media-literacy judgment is part of what's assessed, not just comprehension.",
+          "notes": "Not built."
+        },
+        {
+          "code": "10.2.1", "theme": "10.0 Kukabiliana na Msongo wa Mawazo", "name": "Kusoma kwa Kina — Ushairi: Wahusika Katika Shairi", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya wahusika katika fasihi", "kutambua wahusika katika shairi", "kujadili sifa za wahusika katika shairi", "kuchambua shairi kwa kuzingatia sifa za wahusika", "kujenga mazoea ya kuchambua wahusika katika mashairi ili kuimarisha uwazaji wa kina"],
+          "keyInquiryQuestions": ["Ni wahusika gani uliokumbana nao katika mashairi uliyowahi kuyasoma?"],
+          "learningExperiences": ["kutambua wahusika (k.v. nafsineni) katika shairi akishirikiana na wenzake", "kujadili sifa za wahusika kutokana na tabia zao, matendo yao, maelezo ya nafsineni kuwahusu, sura, umbo n.k.", "kuigiza wahusika katika mashairi ili kukuza uelewa wa sifa zao"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Kujiamini", "Ujuzi wa kidijitali", "Ubunifu", "Uwazaji kina na utatuzi wa matatizo", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — kusoma kwa kina", "Social Studies na Religious Studies — msongo wa mawazo"],
+          "notes": "Not built."
+        },
+        {
+          "code": "11.2.1", "theme": "11.0 Haki za Kibinadamu", "name": "Kusoma kwa Mapana — Matini ya Kujichagulia", "lessonCount": 2,
+          "specificLearningOutcomes": ["kuteua matini ya kusoma ya kiwango chake", "kueleza ujumbe katika matini ya kujichagulia", "kutambua maana ya msamiati na matumizi mengine ya lugha katika matini ya kujichagulia", "kutumia msamiati aliojifunza ipasavyo katika sentensi", "kufurahia kusoma matini ya kujichagulia ili kujenga ufasaha wa lugha"],
+          "keyInquiryQuestions": ["Unazingatia nini unapochagua matini ya kusoma?", "Ni mambo gani unayoyazingatia wakati wa kusoma matini ya kujichagulia?"],
+          "learningExperiences": ["kujenga rekodi ya msamiati na matumizi mengine ya lugha aliyojifunza katika kitabu au shajara yake", "kusakura mtandaoni na kujichagulia matini ya ziada kisha aisome"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Kujiamini", "Ubunifu", "Hamu ya ujifunzaji", "Ujuzi wa kidijitali"],
+          "linkedLearningAreas": ["English — kusoma kwa mapana", "Social Studies na Religious Studies — haki za binadamu"],
+          "notes": "Not built."
+        },
+        {
+          "code": "12.2.1", "theme": "12.0 Magonjwa Yanayotokana na Mienendo ya Maisha", "name": "Kusoma kwa Ufasaha", "lessonCount": 2,
+          "specificLearningOutcomes": ["kusoma kifungu kwa kuzingatia matamshi bora", "kusoma kifungu kwa kasi ifaayo", "kusoma kifungu kwa kutumia sauti ipasavyo", "kusoma kifungu kwa kuambatanisha ishara zifaazo", "kujenga mazoea ya kusoma vifungu kwa kuzingatia vipengele vya usomaji matini ufaao ili kufanikisha mawasiliano"],
+          "keyInquiryQuestions": ["Je, unazingatia nini unaposoma kifungu cha nathari?"],
+          "learningExperiences": ["kutazama vielelezo vya video za watu wanaosoma kwa ufasaha makala akiwa na wenzake", "kusoma kifungu kwa kuzingatia kasi ifaayo (maneno sahihi yasiyopungua 115 kwa dakika)"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Kujiamini", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — kusoma kwa ufasaha", "Agriculture — magonjwa yanayotokana na mienendo ya maisha"],
+          "assessmentSignal": "Fluency benchmark raised to 115 wpm here (vs. 110 wpm at theme 4.2.1) — the design progressively raises the reading-speed target across the year; a skill/rubric should track this progression rather than use one fixed wpm figure for the whole grade.",
+          "notes": "Not built."
+        },
+        {
+          "code": "13.2.1", "theme": "13.0 Mshikamano wa Kijamii", "name": "Kusoma kwa Kina — Ushairi: Mbinu za Lugha", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua mbinu za lugha katika fasihi", "kuchanganua matumizi ya lugha katika mashairi", "kutumia mbinu mbalimbali za lugha katika mashairi", "kuchambua shairi kwa kuzingatia mbinu mbalimbali za lugha", "kuchangamkia matumizi ya lugha katika ushairi"],
+          "keyInquiryQuestions": ["Matumizi ya lugha katika shairi yana umuhimu gani kwa msomaji?"],
+          "learningExperiences": ["kutunga shairi jepesi (lisilozidi beti tatu) kwa kuzingatia mbinu mbalimbali za lugha na kuliwasilisha darasani", "kuhakiki uwasilishaji wa wenzake kuhusu matumizi ya mbinu za lugha katika mashairi waliyotunga"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ubunifu", "Kujiamini", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — kusoma kwa kina", "Social Studies na Religious Studies — mshikamano wa kijamii"],
+          "notes": "Not built."
+        },
+        {
+          "code": "14.2.1", "theme": "14.0 Matumizi ya Kodi", "name": "Kusoma kwa Ufahamu — Kifungu cha Mjadala", "lessonCount": 2,
+          "specificLearningOutcomes": ["kudondoa habari mahususi katika kifungu cha mjadala", "kueleza maana ya msamiati na vifungu kama vilivyotumiwa katika kifungu cha mjadala", "kuchanganua mitazamo katika kifungu cha mjadala", "kufurahia kusoma kwa ufahamu ili kukuza uelewa wa habari"],
+          "keyInquiryQuestions": ["Ni mambo gani hujidhihirisha katika kifungu cha mjadala?"],
+          "learningExperiences": ["kusakura mtandaoni kifungu cha mjadala kisha akisome na kudondoa habari mahususi", "kuchanganua mtazamo katika kifungu cha mjadala"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Kujiamini", "Hamu ya ujifunzaji", "Uwazaji kina na utatuzi wa matatizo"],
+          "linkedLearningAreas": ["English — kusoma kwa ufahamu", "Pre-Technical Studies na Religious Studies — matumizi ya kodi"],
+          "notes": "Not built."
+        },
+        {
+          "code": "15.2.1", "theme": "15.0 Maadili ya Kitaifa", "name": "Ufupisho", "lessonCount": 2,
+          "specificLearningOutcomes": ["kujadili vipengele vya kuzingatia katika ufupisho wa habari katika matini", "kuandika ufupisho wa habari kwa kuzingatia vipengele vifaavyo", "kufurahia kufupisha habari kwa usahihi katika miktadha mbalimbali"],
+          "keyInquiryQuestions": ["Unazingatia nini ili kuandika ufupisho ufaao?"],
+          "learningExperiences": ["kujadili vipengele vya ufupisho wa habari (kuzingatia maelekezo ya ufupisho, kueleza habari upya kwa maneno yake mwenyewe, kudondosha mifano na maelezo ya ziada, mpangilio wenye muwala)", "kusoma matini mbalimbali zikiwemo za mtandaoni na kufupisha habari kwa usahihi"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Kujiamini", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — ufupisho", "Social Studies na Religious Studies — maadili ya kitaifa"],
+          "notes": "Not built. Note: same 'Ufupisho' mada-ndogo topic as 7.2.1 revisited under a different theme — see the explicit vipengele-vya-ufupisho list captured here (maelekezo/kueleza-upya-kwa-maneno-yake/kudondosha-mifano/mpangilio-wenye-muwala), which is the closest thing this design gives to a scoreable summarization rubric."
+        }
+      ]
+    },
+    {
+      "name": "Kuandika",
+      "subStrands": [
+        {
+          "code": "1.3.1", "theme": "1.0 Usafi wa Mazingira", "name": "Viakifishi — Koloni na Semi Koloni", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua alama ya koloni na semi koloni katika matini", "kueleza matumizi ya koloni na semi koloni katika matini", "kutumia alama ya koloni na semi koloni ipasavyo katika matini", "kufurahia matumizi yafaayo ya alama ya koloni na semi koloni katika matini mbalimbali"],
+          "keyInquiryQuestions": ["Je, alama ya koloni hutumiwa wapi katika maandishi?", "Je, alama ya semi koloni hutumiwa vipi katika maandishi?"],
+          "learningExperiences": ["kusahihisha kifungu ambacho hakijatumia alama ya koloni na semi koloni ipasavyo", "kuandika sentensi au kifungu kifupi kuhusu suala lengwa kwa kutumia alama ya koloni na semi koloni ipasavyo"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu"],
+          "linkedLearningAreas": ["English — uakifishaji", "Integrated Science na Agriculture — usafi wa mazingira"],
+          "notes": "Not built."
+        },
+        {
+          "code": "2.3.1", "theme": "2.0 Mazoezi ya Viungo vya Mwili", "name": "Insha za Kiuamilifu — Barua ya Kirafiki", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua ujumbe unaoafiki katika kujibu barua ya kirafiki", "kueleza lugha inayofaa katika kujibu barua ya kirafiki", "kufafanua muundo unaofaa katika kujibu barua ya kirafiki", "kujibu barua ya kirafiki akizingatia ujumbe, lugha na muundo ufaao", "kujenga mazoea ya kujibu barua ya kirafiki katika maisha ya kila siku"],
+          "keyInquiryQuestions": ["Unazingatia nini unapojibu barua ya kirafiki?"],
+          "learningExperiences": ["kujadili muundo wa kujibu barua ya kirafiki akishirikiana na wenzake", "kusomea wenzake barua aliyoiandika ili waitolee maoni"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ubunifu", "Kujiamini"],
+          "linkedLearningAreas": ["English — uandishi wa barua ya kirafiki", "Creative Arts and Sports — mazoezi ya viungo vya mwili"],
+          "notes": "Not built by name, but rasmiKawaida.ts (kis-w-rasmi-kawaida, code I.2) sorts casual vs. formal register phrases — a thematically adjacent but not identical skill (this sub-strand is specifically about replying to a kirafiki letter with correct ujumbe/lugha/muundo)."
+        },
+        {
+          "code": "3.3.1", "theme": "3.0 Utunzaji wa Wanyama", "name": "Insha za Kubuni — Masimulizi (Utangulizi, Kiini, Hitimisho, Wahusika)", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua vipengele vya kufafanulia ujumbe wa insha ya masimulizi", "kufafanua ujumbe wa insha ya masimulizi kupitia kwa utangulizi, kiini na hitimisho", "kufafanua ujumbe wa insha ya masimulizi kupitia kwa wahusika", "kuandika insha ya masimulizi kwa kuzingatia ujumbe na muundo ufaao", "kufurahia kufafanua ujumbe wa insha ya kusimulia ili kufanikisha maelezo"],
+          "keyInquiryQuestions": ["Unafanya nini unaposimulia jambo ili ujumbe wako upate kueleweka zaidi?"],
+          "learningExperiences": ["kusoma kielelezo cha insha ya masimulizi na kufafanua ujumbe kupitia kwa utangulizi, kiini na hitimisho", "kuandika insha ya masimulizi akizingatia ufafanuzi ufaao wa ujumbe kupitia kwa wahusika"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Kujiamini"],
+          "linkedLearningAreas": ["English — uandishi wa insha ya masimulizi", "Agriculture — utunzaji wa wanyama"],
+          "notes": "Not built."
+        },
+        {
+          "code": "4.3.1", "theme": "4.0 Utunzaji wa Maliasili", "name": "Insha za Kubuni — Masimulizi (Lugha ya Kitamathali, Matendo ya Wahusika, Mandhari)", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya lugha ya kitamathali, matendo ya wahusika na mandhari ili kuibanisha", "kujadili lugha ya kitamathali, matendo ya wahusika na mandhari katika insha ya masimulizi", "kuandika insha ya masimulizi akizingatia lugha ya kitamathali, matendo ya wahusika na mandhari", "kufurahia kuandika insha za masimulizi akizingatia lugha ya kitamathali, matendo ya wahusika na uchoraji wa mandhari ufaao ili kufanikisha mawasiliano"],
+          "keyInquiryQuestions": ["Je, unazingatia vipengele vipi unapoandika insha ya masimulizi?"],
+          "learningExperiences": ["kusoma vielelezo vya insha ya kubuni na kubainisha lugha ya kitamathali, matendo ya wahusika na mandhari", "kuwasomea wenzake insha aliyoandika ili wachanganue lugha ya kitamathali, matendo ya wahusika na mandhari"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ubunifu", "Hamu ya ujifunzaji", "Kujiamini"],
+          "linkedLearningAreas": ["English — uandishi wa insha ya masimulizi", "Social Studies na Agriculture — utunzaji wa maliasili"],
+          "notes": "Not built."
+        },
+        {
+          "code": "5.3.1", "theme": "5.0 Mitazamo Hasi ya Kijinsia", "name": "Insha za Kiuamilifu — Shajara", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya shajara", "kujadili vipengele vya shajara", "kuandika shajara akizingatia vipengele vyake", "kuonea fahari matumizi ya shajara katika maisha ya kila siku"],
+          "keyInquiryQuestions": ["Kwa nini watu hutumia shajara?"],
+          "learningExperiences": ["kutafiti maktabani au kusakura mtandao salama na kusoma mifano ya shajara", "kuandika shajara akizingatia vipengele vyake kama vile mambo ya kuandika kwenye shajara, muundo na mtindo"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — uandishi wa shajara", "Social Studies na Religious Studies — mitazamo hasi ya kijinsia"],
+          "assessmentSignal": "'Uadilifu' (integrity/honesty) named explicitly as a Maadili target — 'anapoandika matukio ya kweli katika shajara' — truthfulness of content, not just format, is part of what's assessed.",
+          "notes": "Not built."
+        },
+        {
+          "code": "6.3.1", "theme": "6.0 Usalama Barabarani", "name": "Insha za Kubuni — Methali", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya insha za methali ili kuipambanua", "kujadili vipengele vya insha ya methali", "kuandika insha ya methali kwa kuzingatia vipengele vya uandishi husika", "kufurahia kufasiri methali na kuziandikia insha zinazoafiki ili kujenga ubunifu"],
+          "keyInquiryQuestions": ["Unahitaji kufanya nini unapoandika insha ya methali?"],
+          "learningExperiences": ["kuandika insha ya methali (k.v. kuhusu methali zinazoangazia usalama barabarani: 'haraka haraka haina baraka', 'msafiri ni aliye pwani', 'polepole ndio mwendo') kwa kuzingatia vipengele vya uandishi wa insha ya methali"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu"],
+          "linkedLearningAreas": ["English — insha ya methali", "Social Studies, Creative Arts and Sports na Agriculture — usalama barabarani"],
+          "notes": "Not built. The 3 named methali (haraka haraka haina baraka; msafiri ni aliye pwani; polepole ndio mwendo) are an explicit, ready-made content pool for this sub-strand — a hard floor per the mining guide, not a set of samples."
+        },
+        {
+          "code": "7.3.1", "theme": "7.0 Huduma Katika Asasi za Kijamii", "name": "Insha za Kubuni — Maelezo (Lugha Inayoathiri Hisia)", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua lugha inayoathiri hisia mbalimbali katika insha ya maelezo", "kujadili umuhimu wa kutumia lugha inayoathiri hisia mbalimbali katika insha ya maelezo", "kutumia ipasavyo lugha inayoathiri hisia mbalimbali katika kuandika insha ya maelezo", "kufurahia kuandika insha yenye maelezo yanayojenga picha dhahiri"],
+          "keyInquiryQuestions": ["Je, ni nini kinafanya maelezo katika insha kudhihirika?"],
+          "learningExperiences": ["kuandika insha ya maelezo kwa kuzingatia lugha inayoathiri hisia mbalimbali na kutekeleza majukumu ya kushawishi, kuburudisha, kupasha habari au kufunza"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Hamu ya ujifunzaji", "Kujiamini"],
+          "linkedLearningAreas": ["English — insha ya maelezo", "Social Studies na Religious Studies — huduma katika asasi za kijamii"],
+          "notes": "Not built."
+        },
+        {
+          "code": "8.3.1", "theme": "8.0 Misukosuko ya Kijamii", "name": "Viakifishi — Mabano na Kistari Kifupi", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua matumizi ya mabano na kistari kifupi katika matini", "kutumia mabano na kistari kifupi ipasavyo katika matini", "kujenga mazoea ya kutumia ipasavyo mabano na kistari kifupi katika matini ili kufanikisha mawasiliano"],
+          "keyInquiryQuestions": ["Je, mabano hutumiwa vipi katika matini?", "Je, kistari kifupi hutumiwa vipi katika matini?"],
+          "learningExperiences": ["kusahihisha kifungu ambacho hakijatumia mabano na kistari kifupi ipasavyo", "kuwasomea au kuwasambazia wenzake kazi yake kwenye mtandao ili waitolee maoni"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu"],
+          "linkedLearningAreas": ["English — matumizi ya mabano na kistari kifupi", "Social Studies na Religious Studies — misukosuko ya kijamii"],
+          "notes": "Not built."
+        },
+        {
+          "code": "9.3.1", "theme": "9.0 Matumizi ya Vifaa vya Kidijitali Katika Biashara", "name": "Insha za Kubuni — Masimulizi (Ukuzaji wa Wazo Baina ya Aya)", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua vipengele vya ukuzaji wa wazo baina ya aya za insha ya masimulizi", "kueleza ukuzaji wa wazo baina ya aya za insha ya masimulizi", "kuandika insha ya masimulizi inayozingatia ukuzaji wa wazo baina ya aya", "kufurahia kuandika insha za masimulizi zinazozingatia ukuzaji wa wazo baina ya aya ili kufanikisha mawasiliano"],
+          "keyInquiryQuestions": ["Je, unawezaje kulikuza wazo baina ya aya za insha ya masimulizi?"],
+          "learningExperiences": ["kuandika vidokezo vya insha vinavyozingatia ukuzaji wa wazo baina ya aya", "kuandika insha ya masimulizi akizingatia ukuzaji wa wazo baina ya aya na kusaidiana na wenzake kuisahihisha"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Hamu ya ujifunzaji", "Kujiamini"],
+          "linkedLearningAreas": ["English — uandishi wa insha ya masimulizi", "Pre-Technical Studies — matumizi ya vifaa vya kidijitali katika biashara"],
+          "notes": "Not built."
+        },
+        {
+          "code": "10.3.1", "theme": "10.0 Kukabiliana na Msongo wa Mawazo", "name": "Barua Rasmi ya Kuomba Kazi", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya barua rasmi ya kuomba kazi", "kutambua vipengele vya barua rasmi ya kuomba kazi", "kuandika barua rasmi ya kuomba kazi akizingatia vipengele vyake", "kujenga mazoea ya kuandika barua rasmi ya kuomba kazi ipasavyo"],
+          "keyInquiryQuestions": ["Je, unazingatia nini unapoandika barua rasmi ya kuomba kazi?"],
+          "learningExperiences": ["kutambua ujumbe unaoafiki barua rasmi ya kuomba kazi kwa kujadiliana na mwenzake", "kuandika barua rasmi ya kuomba kazi daftarini mwake au katika kifaa cha kidijitali na kuwasomea wenzake au kuwasambazia kupitia mtandao"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — uandishi wa barua rasmi", "Social Studies na Religious Studies — msongo wa mawazo"],
+          "notes": "Not built by name. mpangilioBarua.ts (kis-w-mpangilio-barua, code I.1) covers ordering the parts of a formal letter/email generically — the closest existing skill, but the source sub-strand is specifically about the job-application letter genre (ujumbe unaoafiki barua ya kuomba kazi), which is narrower/more specific than what's shipped."
+        },
+        {
+          "code": "11.3.1", "theme": "11.0 Haki za Kibinadamu", "name": "Insha za Kubuni — Maelezo (Mitazamo)", "lessonCount": 2,
+          "specificLearningOutcomes": ["kujadili mitazamo katika insha za maelezo", "kuandika insha ya maelezo akizingatia mtazamo mahususi", "kufurahia kuandika insha za maelezo zinazoonyesha mitazamo mahususi"],
+          "keyInquiryQuestions": ["Je, ni mambo gani ya kuzingatia katika kuandika insha ya maelezo?"],
+          "learningExperiences": ["kutambua mitazamo mbalimbali ya kimaelezo katika insha za maelezo", "kuandika vidokezo vya insha vinavyozingatia mitazamo ya kimaelezo atakayotumia katika insha yake"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Kujiamini"],
+          "linkedLearningAreas": ["English — uandishi wa insha ya maelezo", "Social Studies na Religious Studies — haki za binadamu"],
+          "notes": "Not built."
+        },
+        {
+          "code": "12.3.1", "theme": "12.0 Magonjwa Yanayotokana na Mienendo ya Maisha", "name": "Hotuba ya Kushawishi", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya hotuba ya kushawishi ili kuitofautisha na aina nyingine za hotuba", "kujadili vipengele vya kuzingatia katika uandishi wa hotuba ya kushawishi", "kuandika hotuba ya kushawishi akizingatia vipengele vifaavyo", "kuchangamkia kuandika ipasavyo hotuba ya kushawishi"],
+          "keyInquiryQuestions": ["Unazingatia nini ili kufanya hotuba kuwa na ushawishi kwa wasomaji?"],
+          "learningExperiences": ["kusoma kielelezo cha hotuba ya kushawishi na kujadili vipengele vilivyotumiwa", "kuandika hotuba ya kushawishi kuhusu suala lengwa akitumia vidokezo walivyovijadili"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu"],
+          "linkedLearningAreas": ["English — uandishi wa kiuamilifu", "Agriculture — magonjwa yanayotokana na mienendo ya maisha"],
+          "notes": "Not built."
+        },
+        {
+          "code": "13.3.1", "theme": "13.0 Mshikamano wa Kijamii", "name": "Insha za Kubuni — Maelezo Kuhusu Hali", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya insha ya maelezo kuhusu hali", "kutambua vipengele vya insha ya maelezo kuhusu hali", "kuandika insha ya maelezo kuhusu hali akizingatia vipengele vyake", "kufurahia kutunga insha za maelezo kuhusu hali"],
+          "keyInquiryQuestions": ["Je, ni mambo gani ya kuzingatia katika kuandika insha ya maelezo kuhusu hali?"],
+          "learningExperiences": ["kutambua vipengele vya insha ya maelezo kuhusu hali katika kielelezo cha insha", "kuandika insha ya maelezo inayohusu hali kwa kutumia tarakilishi akizingatia vipengele vyake"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu"],
+          "linkedLearningAreas": ["English — uandishi wa insha ya maelezo", "Social Studies na Religious Studies — mshikamano wa kijamii"],
+          "notes": "Not built."
+        },
+        {
+          "code": "14.3.1", "theme": "14.0 Matumizi ya Kodi", "name": "Insha za Kiuamilifu — Shajara (Aina za Shajara)", "lessonCount": 2,
+          "specificLearningOutcomes": ["kujadili umuhimu wa shajara", "kueleza aina za shajara ili kuzibainisha", "kuandika aina za shajara akizingatia vipengele vyake", "kuonea fahari matumizi ya shajara katika maisha ya kila siku"],
+          "keyInquiryQuestions": ["Unazingatia nini unapoandika shajara?"],
+          "learningExperiences": ["kutafiti maktabani au mtandaoni aina za shajara", "kujadili na mwenzake aina za shajara alizozitafiti"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — uandishi wa shajara", "Pre-Technical Studies na Religious Studies — matumizi ya kodi"],
+          "notes": "Not built. Note: revisits the same 'Shajara' mada-ndogo topic as 5.3.1, but this time with an explicit focus on distinguishing named TYPES of shajara ('aina za shajara') rather than the format/truthfulness focus of 5.3.1 — the source does not enumerate the specific type names in this section, so that content pool would need re-derivation from a Kiswahili grammar/composition reference before a skill is built."
+        },
+        {
+          "code": "15.3.1", "theme": "15.0 Maadili ya Kitaifa", "name": "Kujibu Baruapepe", "lessonCount": 2,
+          "specificLearningOutcomes": ["kujadili vipengele vya kuzingatia katika kujibu baruapepe", "kujibu baruapepe kwa kuzingatia vipengele vifaavyo", "kujenga mazoea ya kujibu baruapepe ipasavyo"],
+          "keyInquiryQuestions": ["Je, ni mambo gani ya kuzingatia unapoandika baruapepe?", "Je, ni mambo gani ya kuzingatia katika kujibu baruapepe?"],
+          "learningExperiences": ["kutambua na kutumia lugha inayofaa kwa uandishi wa barua ya kujibu baruapepe", "kuandika baruapepe kuhusu suala lengwa kwenye tarakilishi na kuwasambazia wenzake kupitia mtandao"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — uandishi wa kidijitali", "Social Studies na Religious Studies — maadili ya kitaifa"],
+          "notes": "Not built."
+        }
+      ]
+    },
+    {
+      "name": "Sarufi",
+      "subStrands": [
+        {
+          "code": "1.4.1", "theme": "1.0 Usafi wa Mazingira", "name": "Vihusishi — Vihusishi vya Mahali na Vihusishi vya Wakati", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua vihusishi vya mahali na vya wakati katika matini", "kutumia vihusishi vya mahali na vya wakati ipasavyo katika matini", "kuchangamkia matumizi yafaayo ya vihusishi vya mahali na vya wakati katika matini mbalimbali"],
+          "keyInquiryQuestions": ["Je, ni wakati gani tunatumia vihusishi vya mahali?", "Je, vihusishi vya wakati vinatumika wakati gani?"],
+          "learningExperiences": ["kutambua vihusishi vya mahali na vya wakati kutoka kwa kapu maneno, mti maneno, chati, vitabu au tarakilishi", "kutunga sentensi au vifungu vifupi kwa kutumia vihusishi vya mahali na vya wakati akizingatia masuala mtambuko mbalimbali likiwemo suala la usafi wa mazingira"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu"],
+          "linkedLearningAreas": ["English — vihusishi vya mahali na vya wakati", "Integrated Science na Agriculture — usafi wa mazingira"],
+          "notes": "Not built."
+        },
+        {
+          "code": "2.4.1", "theme": "2.0 Mazoezi ya Viungo vya Mwili", "name": "Vihusishi — Vihusishi vya -a Unganifu na Vihusishi vya Sababu", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua vihusishi vya -a unganifu na vya sababu katika matini", "kutumia vihusishi vya -a unganifu na vya sababu ipasavyo katika matini", "kuchangamkia matumizi yafaayo ya vihusishi vya -a unganifu na vya sababu katika mawasiliano"],
+          "keyInquiryQuestions": ["Vihusishi vya -a unganifu na vya sababu vinatofautianaje?"],
+          "learningExperiences": ["kutunga sentensi au vifungu vifupi kwa kutumia vihusishi vya -a unganifu na vya sababu akizingatia suala la mazoezi ya viungo vya mwili", "kumsomea mzazi au mlezi wake sentensi au vifungu alivyotunga ili amtolee maoni"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — vihusishi", "Creative Arts and Sports — mazoezi ya viungo vya mwili"],
+          "notes": "Not built."
+        },
+        {
+          "code": "3.4.1", "theme": "3.0 Utunzaji wa Wanyama", "name": "Vihusishi — Vihusishi Vilinganishi na Kihusishi 'na'", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua vihusishi vilinganishi na kihusishi na katika matini", "kutumia vihusishi vilinganishi na kihusishi na ipasavyo katika matini", "kuchangamkia kutumia vihusishi vilinganishi na kihusishi na katika mawasiliano ya kila siku"],
+          "keyInquiryQuestions": ["Vihusishi vilinganishi na kihusishi na huchangia vipi katika mawasiliano?"],
+          "learningExperiences": ["kuchopoa vihusishi vilinganishi na kihusishi na katika kapu maneno, mti maneno, chati au tarakilishi", "kumtajia mzazi au mlezi wake kihusishi na na vihusishi vilinganishi katika mazingira ya nyumbani"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Kujiamini", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — aina za vihusishi", "Agriculture — utunzaji wa wanyama"],
+          "notes": "Not built."
+        },
+        {
+          "code": "4.4.1", "theme": "4.0 Utunzaji wa Maliasili", "name": "Nyakati na Hali — -ki- ya Masharti na -ka- ya Kufuatana kwa Vitendo", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua -ki- ya masharti na -ka- ya kufuatana katika matini", "kutumia -ki- ya masharti na -ka- ya kufuatana ipasavyo katika matini", "kujenga mazoea ya kutumia ipasavyo -ki- ya masharti na -ka- ya kufuatana kwa vitendo ili kufanikisha mawasiliano"],
+          "keyInquiryQuestions": ["-ki- ya masharti hutumiwa wakati gani katika sentensi?", "-ka- ya kufuatana kwa vitendo hutumiwa wakati gani katika sentensi?"],
+          "learningExperiences": ["kuchagua sentensi zinazoashiria matumizi ya hali ya masharti -ki- na -ka- ya kufuatana kwa vitendo kutokana na mchanganyiko wa sentensi kutoka vitabuni, tarakilishi, chati", "kutunga sentensi au kifungu kifupi kuonyesha matumizi ya hali ya -ki- na -ka- ya kufuatana kwa vitendo akizingatia suala la utunzaji wa maliasili"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Kujiamini"],
+          "linkedLearningAreas": ["English — nyakati na hali", "Social Studies na Agriculture — utunzaji wa maliasili"],
+          "notes": "Note: this is the closest source sub-strand to nyakati.ts (kis-g-nyakati, code S.2), but it covers a NARROWER and DIFFERENT pair of markers (-ki- ya masharti / -ka- ya kufuatana kwa vitendo — conditional and sequential-action markers) than what the shipped skill actually tests (the four basic tense markers -li-/-na-/-ta-/-me-, which the G7 sarufi strand description explicitly names as its own 'Nyakati na hali' topic — see curriculum.ts g7-ksw-sarufi). nyakati.ts as shipped is therefore likely mismatched to the wrong grade's curriculum design rather than a genuine build of this G9 sub-strand — flag for the user to confirm whether it should be reclassified (e.g. to isBonus) or rebuilt to cover -ki-/-ka- instead."
+        },
+        {
+          "code": "5.4.1", "theme": "5.0 Mitazamo Hasi ya Kijinsia", "name": "Hali za Masharti — -nge- na -ngali-", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya hali ya masharti", "kutambua matumizi ya hali ya masharti ya -nge- na -ngali- katika matini", "kutumia hali ya masharti -nge- na -ngali- ipasavyo katika matini", "kuchangamkia matumizi yafaayo ya hali ya masharti -nge- na -ngali- ili kukuza ufasaha wa lugha"],
+          "keyInquiryQuestions": ["Je, unapotaka kuonyesha hali ya masharti unatumia viambishi gani?"],
+          "learningExperiences": ["kutafiti mtandaoni au maktabani maana ya hali ya masharti", "kutunga sentensi kuonyesha matumizi ya hali ya -nge- na -ngali- akizingatia suala la mitazamo hasi ya kijinsia"],
+          "coreCompetencies": ["Mawasiliano na Ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Kujiamini"],
+          "linkedLearningAreas": ["English — hali ya masharti", "Social Studies na Religious Studies — mitazamo hasi ya kijinsia"],
+          "notes": "Not built."
+        },
+        {
+          "code": "6.4.1", "theme": "6.0 Usalama Barabarani", "name": "Vielezi — Vielezi vya Namna na Vielezi vya Wakati", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua vielezi vya namna na vya wakati katika matini", "kutumia vielezi vya namna na vya wakati ipasavyo katika matini", "kuchangamkia kutumia vielezi vya namna na vya wakati katika matini"],
+          "keyInquiryQuestions": ["Ni vielezi vipi unavyovijua?", "Vielezi huchangia vipi katika mawasiliano?"],
+          "learningExperiences": ["kuchopoa vielezi vya namna na vya wakati kutoka kwenye chati, kadi maneno, kapu maneno au tarakilishi", "kutunga sentensi au vifungu vifupi kwa kutumia vielezi vya namna na vya wakati akizingatia suala la usalama barabarani"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — vielezi", "Social Studies, Creative Arts and Sports na Agriculture — usalama barabarani"],
+          "notes": "Not built."
+        },
+        {
+          "code": "7.4.1", "theme": "7.0 Huduma Katika Asasi za Kijamii", "name": "Vielezi — Vielezi vya Mahali na Vielezi vya Idadi", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua vielezi vya mahali na vya idadi katika matini", "kutumia vielezi vya mahali na vya idadi ipasavyo katika matini", "kuchangamkia kutumia vielezi vya mahali na vya idadi katika sentensi na vifungu"],
+          "keyInquiryQuestions": ["Ni mahali gani panaweza kutajwa na vielezi vya mahali?", "Ni idadi gani zinazoweza kutajwa na vielezi vya idadi?"],
+          "learningExperiences": ["kuchopoa vielezi vya mahali na vya idadi kwenye chati, kadi maneno, kapu maneno au tarakilishi", "kutunga sentensi au vifungu kwa kutumia vielezi vya mahali na vya idadi akizingatia suala la huduma katika asasi za kijamii"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Kujiamini", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — vielezi vya mahali na vya idadi", "Social Studies na Religious Studies — huduma katika asasi za kijamii"],
+          "notes": "Not built."
+        },
+        {
+          "code": "8.4.1", "theme": "8.0 Misukosuko ya Kijamii", "name": "Ngeli na Upatanisho wa Kisarufi — Ngeli ya U-ZI na YA-YA", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua viambishi vya upatanisho wa kisarufi vya ngeli ya U-ZI na YA-YA katika sentensi", "kutambua nomino za ngeli ya U-ZI na YA-YA katika matini", "kutumia nomino za ngeli ya U-ZI na YA-YA katika matini kwa kuzingatia upatanisho ufaao wa kisarufi", "kuchangamkia upatanisho ufaao wa ngeli ya U-ZI na YA-YA ili kujenga ufasaha wa lugha"],
+          "keyInquiryQuestions": ["Ni vitu gani katika mazingira yako vyenye majina yaliyo katika ngeli ya U-ZI na YA-YA?"],
+          "learningExperiences": ["kutaja majina ya vitu katika mazingira ya shuleni yaliyo katika ngeli ya U-ZI na YA-YA", "kuunda sentensi au vifungu vifupi vyenye upatanisho ufaao wa kisarufi wa ngeli ya U-ZI na YA-YA akizingatia suala la misukosuko ya kijamii"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Kujiamini"],
+          "linkedLearningAreas": ["English — dhana ya ngeli", "Social Studies na Religious Studies — misukosuko ya kijamii"],
+          "notes": "Not built by name. ngeliKivumishi.ts (kis-g-ngeli-kivumishi, code S.1) tests noun-class agreement across M-WA/M-MI/KI-VI/JI-MA/N-N classes with adjectives — a different set of noun classes than U-ZI/YA-YA named here, and tests adjective agreement rather than the general grammatical agreement this sub-strand describes. Not a direct build of this or 9.4.1."
+        },
+        {
+          "code": "9.4.1", "theme": "9.0 Matumizi ya Vifaa vya Kidijitali Katika Biashara", "name": "Ngeli na Upatanisho wa Kisarufi — Ngeli ya LI, KU, PA-KU-MU", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua viambishi vya upatanisho wa kisarufi vya ngeli ya LI, KU na PA-KU-MU katika sentensi", "kutambua nomino za ngeli ya LI, KU na PA-KU-MU katika matini", "kutumia nomino za ngeli ya LI, KU na PA-KU-MU katika matini kwa kuzingatia upatanisho ufaao wa kisarufi", "kuchangamkia matumizi yafaayo ya upatanisho wa kisarufi wa ngeli ya LI, KU na PA-KU-MU katika mawasiliano ya kila siku"],
+          "keyInquiryQuestions": ["Ni vitu gani katika mazingira yako vyenye majina yaliyo katika ngeli ya LI, KU na PA-KU-MU?"],
+          "learningExperiences": ["kutaja majina ya vitu katika mazingira ya shuleni yaliyo katika ngeli ya LI, KU na PA-KU-MU", "kutunga sentensi au vifungu vifupi vyenye upatanisho wa kisarufi ufaao wa ngeli ya LI, KU na PA-KU-MU akizingatia suala la matumizi ya vifaa vya kidijitali katika biashara"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ubunifu", "Kujiamini"],
+          "linkedLearningAreas": ["English — ngeli na upatanisho wa kisarufi", "Pre-Technical Studies — matumizi ya vifaa vya kidijitali katika biashara"],
+          "notes": "Not built — see cross-reference note on 8.4.1 re: ngeliKivumishi.ts."
+        },
+        {
+          "code": "10.4.1", "theme": "10.0 Kukabiliana na Msongo wa Mawazo", "name": "Vinyume vya Vihusishi", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya vinyume vya vihusishi", "kutambua vinyume vya vihusishi katika matini", "kutumia vinyume vya vihusishi ipasavyo katika matini", "kujenga mazoea ya kutumia ipasavyo vinyume vya vihusishi"],
+          "keyInquiryQuestions": ["Kwa nini tunatumia vinyume vya vihusishi katika mawasiliano?"],
+          "learningExperiences": ["kuandika sentensi upya kwa kuzingatia vinyume vya vihusishi", "kutunga sentensi au kifungu kifupi kuonyesha matumizi ya vinyume vya vihusishi akizingatia suala la kukabiliana na msongo wa mawazo"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Kujiamini", "Uwazaji kina na utatuzi wa matatizo"],
+          "linkedLearningAreas": ["English — dhana ya vinyume", "Social Studies na Religious Studies — msongo wa mawazo"],
+          "notes": "Not built."
+        },
+        {
+          "code": "11.4.1", "theme": "11.0 Haki za Kibinadamu", "name": "Mnyambuliko wa Vitenzi — Kauli ya Kutendana, Kutendeana, Kutendesha", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua viambishi vya kauli ya kutendana, kutendeana na kutendesha katika vitenzi", "kutumia vitenzi katika kauli ya kutendana, kutendeana na kutendesha ipasavyo katika matini", "kuchangamkia kutumia vitenzi katika kauli ya kutendana, kutendeana na kutendesha ipasavyo katika matini ili kufanikisha mawasiliano"],
+          "keyInquiryQuestions": ["Kwa nini ni muhimu kujifunza kauli za vitenzi?"],
+          "learningExperiences": ["kugeuza vitenzi katika kauli ya kutendana, kutendeana na kutendesha", "kutunga sentensi au vifungu kwa kutumia vitenzi katika kauli ya kutendana, kutendeana na kutendesha akizingatia suala la haki za kibinadamu"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Kujiamini"],
+          "linkedLearningAreas": ["English — mnyambuliko wa vitenzi", "Social Studies na Religious Studies — haki za binadamu"],
+          "notes": "Not built."
+        },
+        {
+          "code": "12.4.1", "theme": "12.0 Magonjwa Yanayotokana na Mienendo ya Maisha", "name": "Aina za Sentensi — Sentensi Tata", "lessonCount": 2,
+          "specificLearningOutcomes": ["kueleza maana ya sentensi tata ili kuitofautisha na aina nyingine za sentensi", "kutambua sentensi tata katika matini", "kuchambua maana mbalimbali ya sentensi tata", "kujenga ujuzi wa kuchanganua maana mbalimbali katika sentensi tata ili kufasiri habari kikamilifu"],
+          "keyInquiryQuestions": ["Nini kinafanya sentensi kuwa tata?"],
+          "learningExperiences": ["kutambua sentensi tata zinazojitokeza katika matini mbalimbali", "kutunga sentensi tata kwa kuzingatia suala la magonjwa yanayotokana na mienendo ya maisha"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Kujiamini", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — aina za sentensi", "Agriculture — magonjwa yanayotokana na mienendo ya maisha"],
+          "notes": "Not built. 'Sentensi tata' here refers to an ambiguous/multi-meaning sentence (the outcomes emphasize disambiguating multiple possible meanings), not necessarily the 'complex sentence' (clause-subordination) sense the English cognate might suggest — verify against a Kiswahili grammar reference before building."
+        },
+        {
+          "code": "13.4.1", "theme": "13.0 Mshikamano wa Kijamii", "name": "Ukanushaji — Hali ya Masharti -nge-, -ngali-, -ki-", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua ukanushaji wa hali ya masharti -nge-, -ngali-, na -ki- katika matini", "kutumia hali ya ukanushaji wa hali ya masharti ya -nge-, -ngali- na -ki- ipasavyo katika matini", "kuchangamkia matumizi sahihi ya ukanushaji wa hali ya masharti ya -nge-, -ngali- na -ki- katika maisha ya kila siku"],
+          "keyInquiryQuestions": ["Ni nini kinachoonyesha kuwa sentensi iko katika hali ya masharti?"],
+          "learningExperiences": ["kukanusha sentensi katika hali ya masharti ya -nge-, -ngali- na -ki- katika kikundi", "kutumia ukanushaji wa masharti ya -nge-, -ngali- na -ki- kuandika kifungu kifupi kuhusu suala la mshikamano wa kijamii"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Uwazaji kina na utatuzi wa matatizo", "Ubunifu", "Kujiamini"],
+          "linkedLearningAreas": ["English — ukanushaji", "Social Studies na Religious Studies — mshikamano wa kijamii"],
+          "notes": "Not built. Directly builds on 5.4.1's -nge-/-ngali- and 4.4.1's -ki- markers, now in negated form — a skill built here should reuse/extend those two sub-strands' verb-conjugation data rather than duplicate it from scratch."
+        },
+        {
+          "code": "14.4.1", "theme": "14.0 Matumizi ya Kodi", "name": "Udogo na Ukubwa wa Nomino", "lessonCount": 2,
+          "specificLearningOutcomes": ["kutambua hali ya udogo na ukubwa katika nomino", "kutumia nomino katika hali ya udogo na ukubwa ipasavyo katika matini", "kuchangamkia kutumia kwa ufasaha nomino katika hali ya udogo na ukubwa ili kufanikisha mawasiliano"],
+          "keyInquiryQuestions": ["Ni maneno gani unayoyajua yaliyo katika hali ya udogo na ukubwa?"],
+          "learningExperiences": ["kuandika majina ya vifaa vya darasani katika udogo na ukubwa", "kutunga sentensi akitumia nomino katika hali ya udogo na ukubwa kwa kuzingatia suala la matumizi ya kodi"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ujuzi wa kidijitali", "Ubunifu", "Kujiamini", "Hamu ya ujifunzaji"],
+          "linkedLearningAreas": ["English — dhana ya nomino", "Pre-Technical Studies na Religious Studies — matumizi ya kodi"],
+          "notes": "Not built."
+        },
+        {
+          "code": "15.4.1", "theme": "15.0 Maadili ya Kitaifa", "name": "Usemi Halisi na Usemi wa Taarifa", "lessonCount": 2,
+          "specificLearningOutcomes": ["kujadili kanuni za kubadilisha usemi halisi kuwa usemi wa taarifa", "kutumia usemi halisi na usemi wa taarifa ipasavyo katika matini", "kuchangamkia matumizi ya usemi halisi na usemi wa taarifa katika mawasiliano ya kila siku"],
+          "keyInquiryQuestions": ["Usemi halisi unatofautianaje na usemi wa taarifa?", "Unazingatia nini unapoandika usemi halisi?", "Unazingatia nini unapoandika usemi wa taarifa?"],
+          "learningExperiences": ["kugeuza sentensi zilizo katika usemi halisi ziwe katika usemi wa taarifa (na kinyume chake)", "kushiriki katika mchezo wa kuchopoa kadi katika vikundi — kikundi kimoja kichopoe sentensi katika usemi halisi na kingine kichopoe sentensi hiyo katika usemi wa taarifa"],
+          "coreCompetencies": ["Mawasiliano na ushirikiano", "Ubunifu", "Kujiamini"],
+          "linkedLearningAreas": ["English — usemi halisi na usemi wa taarifa", "Social Studies na Religious Studies — maadili ya kitaifa"],
+          "notes": "Not built."
+        }
+      ]
+    }
+  ],
+  "csaMradiNote": "The design also mandates a cross-subject Community Service Learning (CSL) project ('Kazi Mradi ya Shughuli ya Huduma ya Kijamii Inayochangia Ujifunzaji') spanning 6 stages (Utambuzi wa Tatizo, Kubuni Suluhisho, Mpango wa Mradi, Utekelezaji, Kuonyesha Mradi na Kuandika Ripoti, Tafakuri) across the school year — not a Kiswahili-specific sub-strand, but Kiswahili is named as the subject whose teacher coordinates it school-wide. Not modeled as a quiz skill (out of scope for this app's generative-question format) but recorded here for completeness per the mining guide.",
+  "notes": "MAJOR CONTENT-BREADTH GAP: this design enumerates 60 distinct sub-strands (15 real-world themes x 4 language-skill modalities), each explicitly requiring its own coverage per the 'never merge sub-strands' rule in README.md. Only 8 Kiswahili G9 skill files are currently shipped (web/src/skills/kiswahili/*.ts), and cross-referencing them against this mined content shows: (1) NONE of the 8 shipped skills implement a specific named sub-strand's exact content pool (e.g. the 3 named methali for 6.3.1, the diwani-ya-mashairi ushairi analysis for the 5 poetry sub-strands, the U-ZI/YA-YA/LI/KU/PA-KU-MU noun classes for 8.4.1/9.4.1) — they are generic, self-authored skills that sit thematically adjacent to one or more sub-strands without matching any single one's specific enumerated content; (2) nyakati.ts in particular appears to test G7's basic tense-marker curriculum (-li-/-na-/-ta-/-me-) rather than this G9 design's actual -ki-/-ka-/-nge-/-ngali- conditional-and-sequential markers — flag to the user as a probable grade-curriculum mismatch, not just a breadth gap; (3) the Kusikiliza-kwa-Kina sound-drill sub-strands (2.1.1 /b/-/mb/, 9.1.1 /j/-/nj/) and most of the insha/sarufi sub-strands (viakifishi, barua rasmi ya kuomba kazi, hotuba ya kushawishi, ngeli U-ZI/YA-YA/LI/KU/PA-KU-MU, vinyume vya vihusishi, sentensi tata, ukanushaji, udogo/ukubwa wa nomino, kujibu baruapepe, usemi halisi/taarifa) have no shipped skill at all. This is consistent with the pattern the mining guide was written to catch (Grade 7 SI.3) but at a larger scale — 52 of 60 sub-strands (87%) have no dedicated skill. Recommend a full mining-guide-compliant audit/rebuild pass on Kiswahili G9 before it is considered content-complete, matching the depth already given to mathematics.json and french.json in this folder."
+}

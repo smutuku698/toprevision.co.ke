@@ -1,0 +1,414 @@
+{
+  "subject": "Mathematics",
+  "subjectId": "math",
+  "grade": 9,
+  "source": {
+    "title": "Mathematics Grade 9 - July 2024 - Revised (KICD Junior School Curriculum Design: Mathematics, Grade 9)",
+    "url": "https://easylearn.co.ke/images/document/11752376/Mathematics-Grade-9-July-2024-Revised.pdf",
+    "publisher": "Kenya Institute of Curriculum Development (KICD) — mirrored via easylearn.co.ke",
+    "retrievedDate": "2026-08-13",
+    "confidence": "high",
+    "notes": "WebFetch on this URL reported 'unable to extract text' but the PDF was saved locally; the Read tool was then used directly on that local file path, which parsed the full 57-page PDF text natively (not summarized by an intermediate model). The document's own title page reads 'KENYA INSTITUTE OF CURRICULUM DEVELOPMENT ... JUNIOR SCHOOL CURRICULUM DESIGN ... MATHEMATICS ... GRADE 9', First published 2024, ISBN 978-9914-43-431-6 — consistent with the official KICD Google Drive filename confirmed in this repo's README ('Mathematics Grade 9 - July 2024 - Revised.pdf', Drive file ID 1HgntYl8nS1zydy8k00KrjEt_zJiMqISL) and with the mirror's own filename/title ('Mathematics-Grade-9-July-2024-Revised.pdf'). All strand/sub-strand headings, specific learning outcomes, and key inquiry questions below were transcribed verbatim from the Read output of the actual PDF text, not paraphrased or inferred. One minor internal inconsistency in the source itself is worth flagging: the 'SUMMARY OF STRANDS AND SUB-STRANDS' table (p.xii) lists sub-strand 2.2 as 'Equation of a Straight Line' (singular), while the detailed strand section heading on p.10 reads '2.2 Equations of Straight Lines' (plural) — this JSON uses the summary table's naming for the sub-strand 'name' field and records the variant in that sub-strand's notes."
+  },
+  "strands": [
+    {
+      "name": "Numbers",
+      "subStrands": [
+        {
+          "name": "Integers",
+          "notes": "Design subtitle under this sub-strand heading: 'Simple and combined operations on Integers' — a single descriptor, not a further breakdown into multiple named topics, so subSubStrands is omitted here.",
+          "specificLearningOutcomes": [
+            "perform basic operations on Integers in different situations",
+            "work out combined operations on Integers in different situations",
+            "apply Integers to real-life situations",
+            "appreciate the use of integers in real-life situations"
+          ],
+          "keyInquiryQuestions": [
+            "How do we carry out operations of integers in real-life situations?",
+            "How do we apply integers in daily activities?"
+          ]
+        },
+        {
+          "name": "Cubes and Cube Roots",
+          "subSubStrands": [
+            "Cubes of numbers by multiplication, mathematical tables and calculator",
+            "Cube roots of numbers by multiplication, mathematical tables and calculator"
+          ],
+          "specificLearningOutcomes": [
+            "work out cubes of numbers by multiplication in real-life situations",
+            "determine cubes of numbers from mathematical tables in different situations",
+            "determine cube roots of numbers by factor method in different situations",
+            "determine cube roots of numbers from mathematical tables in different situations",
+            "determine cube and cube roots of numbers using a calculator",
+            "apply cubes and cube roots in real-life situations"
+          ],
+          "keyInquiryQuestions": [
+            "How do we work out the cubes of numbers?",
+            "How do we work out the cube roots of numbers?",
+            "Where do we apply cubes and cube roots in real-life situations?"
+          ]
+        },
+        {
+          "name": "Indices and Logarithms",
+          "subSubStrands": [
+            "Numbers in index form",
+            "laws of indices",
+            "Powers of 10 to common logarithms"
+          ],
+          "specificLearningOutcomes": [
+            "express numbers in index form in different situations",
+            "generate the laws of Indices in different situations",
+            "apply the laws of indices in different situations",
+            "relate powers of 10 to common logarithms in different situations",
+            "appreciate the use of indices and logarithms in real-life situations"
+          ],
+          "keyInquiryQuestions": [
+            "How do we express numbers in powers?"
+          ]
+        },
+        {
+          "name": "Compound Proportions and Rates of Work",
+          "subSubStrands": [
+            "Proportional parts",
+            "Ratios",
+            "Rates of work"
+          ],
+          "specificLearningOutcomes": [
+            "divide quantities into proportional parts in real-life situations",
+            "relate different proportional parts in real-life situations",
+            "work out compound proportions using the ratio method in different situations",
+            "calculate rates of work in real-life situations",
+            "appreciate the use of compound proportions and rates of work in real-life situations"
+          ],
+          "keyInquiryQuestions": [
+            "What are proportions?",
+            "Why do we work fast?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Algebra",
+      "subStrands": [
+        {
+          "name": "Matrices",
+          "subSubStrands": [
+            "Order of a matrix",
+            "Position of items in a matrix",
+            "Compatibility of matrices",
+            "Addition and subtraction of matrices"
+          ],
+          "specificLearningOutcomes": [
+            "identify a matrix in different situations",
+            "determine the order of a matrix in different situations",
+            "determine the position of items in a matrix in different situations",
+            "determine the compatibility of matrices in addition and subtraction",
+            "carry out addition and subtraction of matrices in real-life situations",
+            "reflect on the use of matrices in real-life situations"
+          ],
+          "keyInquiryQuestions": [
+            "How do we use matrices in real-life situations?"
+          ]
+        },
+        {
+          "name": "Equation of a Straight Line",
+          "notes": "Summary table (p.xii) names this sub-strand 'Equation of a Straight Line' (singular); the detailed section heading (p.10) reads 'Equations of Straight Lines' (plural). Recorded here verbatim from the summary table, per the source's own internal naming inconsistency.",
+          "subSubStrands": [
+            "Gradient of a line",
+            "Equation of a straight line",
+            "Equation of a straight line in the form of y = mx + c",
+            "The x and y intercepts of a straight line"
+          ],
+          "specificLearningOutcomes": [
+            "identify the gradient in real-life situations",
+            "determine the gradient of a line from two known points",
+            "determine the equation of a straight line given two points",
+            "determine the equation of a straight line from a known point and a gradient",
+            "express the equation of a straight line in the form of y = mx + c",
+            "interpret the equation y = mx + c in different situations",
+            "determine the x and y intercepts of a straight line",
+            "recognize the use of equations of straight lines in real life"
+          ],
+          "keyInquiryQuestions": [
+            "How do we use gradient or steepness in our daily activities?"
+          ]
+        },
+        {
+          "name": "Linear Inequalities",
+          "subSubStrands": [
+            "Linear inequalities in one unknown",
+            "Linear inequality in two unknowns"
+          ],
+          "specificLearningOutcomes": [
+            "solve linear inequalities in one unknown",
+            "represent linear inequalities in one unknown graphically",
+            "represent linear inequality in two unknowns graphically",
+            "apply linear inequalities to real-life situations",
+            "reflect on the use of linear inequalities in real life"
+          ],
+          "keyInquiryQuestions": [
+            "How do we represent linear inequalities in graphs?",
+            "How do we use linear inequalities in real-life situations?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Measurements",
+      "subStrands": [
+        {
+          "name": "Area",
+          "subSubStrands": [
+            "Area of a pentagon and a hexagon",
+            "Surface area of triangular and rectangular-based prisms",
+            "Surface area of triangular, rectangular and square-based pyramids, cones, and spheres",
+            "Area of a sector and segment of a circle"
+          ],
+          "specificLearningOutcomes": [
+            "calculate the area of a pentagon and a hexagon in different situations",
+            "work out the surface area of triangular and rectangular-based prisms",
+            "work out the surface area of triangular, rectangular, and square-based pyramids",
+            "calculate the area of a sector and segment of a circle",
+            "work out the surface area of a cone in real-life situations",
+            "calculate the surface area of a sphere in real-life situations",
+            "recognise the use of the area in real-life situations"
+          ],
+          "keyInquiryQuestions": [
+            "How do we work out the area of different surfaces?"
+          ]
+        },
+        {
+          "name": "Volume of Solids",
+          "subSubStrands": [
+            "Volume of triangular and rectangular-based prisms",
+            "Volume of triangular, rectangular, and squares-based pyramids",
+            "The volume of a frustum and a sphere"
+          ],
+          "specificLearningOutcomes": [
+            "work out the volume of triangular and rectangular-based prisms",
+            "calculate the volume of a triangular, rectangular, and square-based pyramid",
+            "work out the volume of a cone in real-life situations",
+            "determine the volume of a frustum in real-life situations",
+            "calculate the volume of a sphere in real-life situations",
+            "promote the use of volume and capacity of different containers in real-life situations"
+          ],
+          "keyInquiryQuestions": [
+            "How do we determine the volume of different solids?",
+            "How do we use the volume of solids in real-life situations?"
+          ]
+        },
+        {
+          "name": "Mass, Volume, Weight and Density",
+          "subSubStrands": [
+            "Conversions of units of mass",
+            "Relating mass and weight",
+            "Mass, volume, and density of substances"
+          ],
+          "specificLearningOutcomes": [
+            "convert units of mass from one form to another in different situations",
+            "relate mass and weight in real-life situations",
+            "determine mass, volume, and density of different substances",
+            "apply density to real-life situations",
+            "recognise the use of density in daily life"
+          ],
+          "keyInquiryQuestions": [
+            "How do you weigh materials and objects?"
+          ]
+        },
+        {
+          "name": "Time, Distance and Speed",
+          "subSubStrands": [
+            "Speed in km/h and m/s",
+            "Average speed",
+            "Acceleration",
+            "Longitudes and local time"
+          ],
+          "specificLearningOutcomes": [
+            "work out speed in km/h and m/s in real-life situations",
+            "work out average speed in real-life situations",
+            "determine velocity in real-life situations",
+            "work out acceleration in real-life situations",
+            "identify the longitudes on the globe",
+            "relate longitudes to time on the globe",
+            "determine the local time of places on the earth along different longitudes",
+            "appreciate the use of time and distance in real-life situations"
+          ],
+          "keyInquiryQuestions": [
+            "How do we observe speed in daily activities?",
+            "Why does time vary in different places of the world?"
+          ]
+        },
+        {
+          "name": "Money",
+          "subSubStrands": [
+            "Currencies of other countries",
+            "Currency conversions",
+            "Export, import and excise duties",
+            "Value Added Tax"
+          ],
+          "specificLearningOutcomes": [
+            "identify currencies that are used in different countries",
+            "convert currency from one form to another in real-life situations",
+            "determine export duties charged on goods in real-life situations",
+            "determine import duties charged on goods",
+            "work out excise duty charged on goods and services in real-life situations",
+            "calculate value added tax charged on goods and services",
+            "appreciate the use of money in day-to-day activities"
+          ],
+          "keyInquiryQuestions": [
+            "Why do we change currencies from one form to another?",
+            "How do we determine taxes charged on different goods."
+          ]
+        },
+        {
+          "name": "Approximations and Errors",
+          "subSubStrands": [
+            "Errors from estimations and actual measurements",
+            "Percentage errors"
+          ],
+          "specificLearningOutcomes": [
+            "approximate quantities in measurements in different situations",
+            "determine errors using estimations and actual measurements of quantities",
+            "determine percentage errors using actual measurements of quantities",
+            "appreciate approximations and errors in real-life situations"
+          ],
+          "keyInquiryQuestions": [
+            "How do we estimate measurements of different quantities?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Geometry",
+      "subStrands": [
+        {
+          "name": "Coordinates and Graphs",
+          "subSubStrands": [
+            "Straight line graph",
+            "Parallel and perpendicular lines",
+            "Gradients of parallel and perpendicular lines"
+          ],
+          "specificLearningOutcomes": [
+            "plot out points on a Cartesian plane",
+            "draw a straight-line graph given an equation",
+            "draw parallel lines on the Cartesian plane",
+            "relate the gradients of parallel lines",
+            "draw perpendicular lines on the Cartesian plane",
+            "relate the gradients of perpendicular lines",
+            "apply graphs of straight lines in a real-life situation"
+          ],
+          "keyInquiryQuestions": [
+            "How do we draw graphs of straight lines?",
+            "How do we interpret graphs of straight lines?"
+          ]
+        },
+        {
+          "name": "Scale Drawing",
+          "subSubStrands": [
+            "Compass and true bearings",
+            "Bearing of a point",
+            "Angles of elevation and depression",
+            "Simple surveying"
+          ],
+          "specificLearningOutcomes": [
+            "identify compass and true bearings in real-life situations",
+            "determine the bearing of a point from another point in real-life situations",
+            "locate a point using bearing and distance in real-life situations",
+            "identify angles of elevation in real-life situations",
+            "determine angles of elevation in different situations",
+            "identify angles of depression in real-life situations",
+            "determine angles of depression in different situations",
+            "apply scale drawing in simple surveying",
+            "appreciate the use of scale drawing in real-life situations"
+          ],
+          "keyInquiryQuestions": [
+            "How do we use scale drawing in real life?"
+          ]
+        },
+        {
+          "name": "Similarity and Enlargement",
+          "subSubStrands": [
+            "Similar figures",
+            "Properties of enlargement",
+            "Linear scale factor"
+          ],
+          "specificLearningOutcomes": [
+            "identify similar figures and their properties",
+            "draw similar figures in different situations",
+            "determine properties of enlargement of different figures",
+            "apply properties of enlargement to draw similar objects and their images",
+            "determine the linear scale factor of similar figures",
+            "promote the use of similarity and enlargement in real-life situations"
+          ],
+          "keyInquiryQuestions": [
+            "What are similar objects?",
+            "How do we use enlargement in real-life situations?"
+          ]
+        },
+        {
+          "name": "Trigonometry",
+          "subSubStrands": [
+            "Angles and sides of right-angled triangles",
+            "Trigonometric ratios for acute angles"
+          ],
+          "specificLearningOutcomes": [
+            "identify angles and sides of right-angled triangles in different situations",
+            "identify Sine, Cosine, and Tangent ratios from a right-angled triangle in different situations",
+            "read tables of trigonometric ratios for acute angles",
+            "determine trigonometric ratios of acute angles using calculators",
+            "apply trigonometric ratios to calculate lengths and angles of right-angled triangles in different situations",
+            "appreciate the use of trigonometric ratios in real-life situations"
+          ],
+          "keyInquiryQuestions": [
+            "What is the relationship between angles and sides in a right-angled triangle?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Data Handling and Probability",
+      "subStrands": [
+        {
+          "name": "Data Interpretation (Grouped Data)",
+          "subSubStrands": [
+            "Frequency distribution tables of grouped data",
+            "Modal class",
+            "Mean and median of grouped data"
+          ],
+          "specificLearningOutcomes": [
+            "determine appropriate class width for grouping data",
+            "draw frequency distribution tables of grouped data",
+            "identify the modal class of grouped data",
+            "calculate the mean of grouped data from real-life situations",
+            "determine the median of grouped data from real-life situations",
+            "appreciate data interpretation in real-life situations"
+          ],
+          "keyInquiryQuestions": [
+            "How do we interpret data?"
+          ]
+        },
+        {
+          "name": "Probability",
+          "subSubStrands": [
+            "Experiments involving equal and likely outcomes",
+            "Range of probability of an event",
+            "Exclusive and independent events",
+            "Tree diagram"
+          ],
+          "specificLearningOutcomes": [
+            "perform experiments involving equal and likely outcomes in different situations",
+            "determine the range of probability of an event",
+            "identify mutually exclusive events in real-life situations",
+            "perform experiments of single chance involving mutually exclusive events",
+            "perform experiments involving independent events in different situations",
+            "draw a tree diagram for a single outcome",
+            "appreciate the probability of events occurring in real-life situations"
+          ],
+          "keyInquiryQuestions": [
+            "Why is probability important in real-life situations?"
+          ]
+        }
+      ]
+    }
+  ]
+}

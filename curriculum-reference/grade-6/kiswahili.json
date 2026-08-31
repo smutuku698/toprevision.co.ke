@@ -1,0 +1,374 @@
+{
+  "subject": "Kiswahili",
+  "subjectId": "kiswahili",
+  "grade": 6,
+  "source": {
+    "title": "Mtaala wa Shule za Msingi — Kiswahili Gredi ya 6",
+    "url": "grade-6-curriculum-desings/GRADE-6-KISWAHILI-Curriculum-Designs.pdf",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-17",
+    "confidence": "high",
+    "notes": "Read directly via the Read tool (no pages param), full 120-page text extracted in one pass. 11 mada (themes) × 4 mada-ndogo-per-theme (Kusikiliza na Kuzungumza/Kusoma/Kuandika/Sarufi) except Sarufi which the source itself subdivides into 3-4 mada-ndogo for themes 1-3 and 11 — 54 raw sub-mada total. This file consolidates repeated same-name sub-mada across themes (e.g. 'Kusoma kwa Mapana' appears 4×, 'Insha za Masimulizi' 3×) into single deepened skills where the underlying skill type is genuinely identical, following the same precedent already used for Grade 7 Kiswahili (60 sub-mada → 41 skills) — see [[feedback_comprehensive_curriculum_mining]]. One real source inconsistency found and resolved by trusting page content over the summary table: the 'Mpangilio wa Mada' table (p.xiii) labels 3.1.1 as 'Matamshi Bora' but the actual page-25 content for that sub-strand is entirely about vitendawili (riddles) — built as Vitendawili, per CURRICULUM-MINING-GUIDE.md's instruction to read the full block, not just headline/table text."
+  },
+  "themes": [
+    "1.0 Viungo vya Mwili vya Ndani", "2.0 Michezo", "3.0 Mahusiano", "4.0 Misimu",
+    "5.0 Mshikamano wa Kitaifa", "6.0 Usawa wa Kijinsia", "7.0 Majanga na Jinsi ya Kuyazuia",
+    "8.0 Wanyama wa Majini", "9.0 Afya ya Akili", "10.0 Kukabiliana na Ugaidi", "11.0 Ushuru"
+  ],
+  "strands": [
+    {
+      "name": "Kusikiliza na Kuzungumza",
+      "subStrands": [
+        {
+          "name": "Matamshi Bora na Vitanzandimi (d/nd, ch/sh, j/nj, g/ng)",
+          "sourceSubMada": ["1.1.1 Matamshi Bora (theme Viungo vya Mwili vya Ndani)", "6.1.1 Matamshi Bora (theme Usawa wa Kijinsia)"],
+          "specificLearningOutcomes": ["Tambua silabi za sauti d/nd, ch/sh, j/nj na g/ng katika maneno", "Tamka silabi na vitanzandimi vinavyoundwa na sauti hizo ili kuimarisha matamshi bora", "Kariri au kuimba shairi lenye sauti lengwa kwa mahadhi mbalimbali", "Eleza maana ya msamiati wa usawa wa kijinsia uliotumika katika shairi"],
+          "keyInquiryQuestions": ["Je, unajua maneno gani yenye silabi za sauti d/nd, ch/sh, j/nj na g/ng?", "Kwa nini ni muhimu kuwa na matamshi bora?"],
+          "learningExperiences": [
+            "Tambua silabi za sauti d/nd, ch/sh, j/nj na g/ng (mfano wa vitate: doa/ndoa, choka/shoka, jaa/njaa, goma/ngoma) kutokana na maneno",
+            "Sikiliza silabi za sauti lengwa zikitamkwa na mwalimu, mgeni mwalikwa au kifaa cha kidijitali",
+            "Sikiliza vitanzandimi vinavyoundwa kutokana na maneno yenye sauti lengwa vikikaririwa (mfano: 'Mkunjo ulikunjwa na waja wenye njaa kukicha')",
+            "Unda vitanzandimi vinavyotokana na vitate husika, wasilisha darasani kwa maoni",
+            "Kariri/imba shairi kuhusu usawa wa kijinsia (msamiati: jinsia, ubaguzi, mtoto wa kiume, mtoto wa kike, usawa, heshima, uwajibikaji) lenye sauti lengwa kwa mahadhi mbalimbali"
+          ],
+          "linkedLearningAreas": ["English — stadi ya kutamka vitanzandimi"],
+          "scopeNotes": [],
+          "assessmentSignal": "Rubric: 'anawasiliana kwa kuzingatia matamshi bora ya sauti lengwa kila wakati' (Kuzidisha Matarajio) — matamshi bora ya sauti maalum ni kigezo kinachopimwa moja kwa moja, si tu vitanzandimi bali matumizi endelevu."
+        },
+        {
+          "name": "Maamkuzi na Maagano",
+          "sourceSubMada": ["2.1.1 Maamkuzi na Maagano"],
+          "specificLearningOutcomes": ["Jadili umuhimu wa maamkuzi na maagano", "Jadili maamkuzi na maagano yanayotumika katika miktadha mbalimbali", "Tumia aina mbalimbali za maamkuzi na maagano katika mawasiliano"],
+          "keyInquiryQuestions": ["Kwa nini watu huamkuana?", "Kuagana kuna umuhimu gani?"],
+          "learningExperiences": [
+            "Tambua maamkuzi mbalimbali (Waambaje? Salam Aleikum? Unaendeleaje?) na maagano mbalimbali (mchana mwema, buriani, baki salama)",
+            "Tazama watu wakiamkuana na kuagana katika vifaa vya kidijitali",
+            "Igiza maamkuzi na maagano lengwa, heshimu nafasi ya kila mmoja katika maigizo"
+          ],
+          "linkedLearningAreas": ["English — dhana ya adabu", "Creative Arts — suala la michezo"],
+          "scopeNotes": []
+        },
+        {
+          "name": "Vitendawili",
+          "sourceSubMada": ["3.1.1 (jina lililoandikwa 'Matamshi Bora' kwenye jedwali la mpangilio, lakini yaliyomo halisi ya ukurasa ni Vitendawili — hitilafu ya chanzo iliyotambuliwa na kusuluhishwa kwa kufuata maandishi kamili, si jedwali pekee)"],
+          "specificLearningOutcomes": ["Tambua vitendawili kwenye matini mbalimbali", "Tega na tegua vitendawili ili kujenga matamshi bora", "Changamkia matumizi ya vitendawili katika mawasiliano"],
+          "keyInquiryQuestions": ["Je, vitendawili vina umuhimu gani katika jamii?"],
+          "learningExperiences": [
+            "Tambua vitendawili (mfano: Adui mpenzi = Moto; Wanangu watatu daima wako pamoja = mafiga; kuku wangu watagia mibani = Nanasi)",
+            "Sikiliza vitendawili vikitegwa na kuteguliwa kupitia vyombo vya kidijitali",
+            "Shiriki katika kutega na kutegua vitendawili na wenzake",
+            "Jadiliana na mzazi/mlezi kuhusu vitendawili vinavyotegwa katika jamii yao"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": []
+        },
+        {
+          "name": "Heshima, Adabu na Vyeo",
+          "sourceSubMada": ["4.1.1 Heshima, Adabu na Vyeo"],
+          "specificLearningOutcomes": ["Tambua maneno ya heshima yanayotumiwa katika mawasiliano", "Onyesha uelewa wa maneno ya heshima kwa kuyatumia kwa usahihi"],
+          "keyInquiryQuestions": ["Ni maneno yapi ya heshima unayoweza kutumia kurejelea watu tofauti?", "Kutumia maneno ya heshima kuna umuhimu gani katika jamii?"],
+          "learningExperiences": [
+            "Tambua maneno ya heshima (shehe, kasisi, padre, mwadhini, mheshimiwa, rais, mtawa)",
+            "Eleza maana ya maneno lengwa kama yanavyotumiwa katika mahusiano ya kila siku",
+            "Tazama maigizo ya watu wakitumia maneno ya heshima kwenye tarakilishi/video",
+            "Igiza mazungumzo mafupi akitumia msamiati wa heshima"
+          ],
+          "linkedLearningAreas": ["English", "Environmental Studies — suala la misimu"],
+          "scopeNotes": []
+        },
+        {
+          "name": "Methali (Umoja na Ushirikiano)",
+          "sourceSubMada": ["5.1.1 Methali"],
+          "specificLearningOutcomes": ["Tambua methali zinazohusu umoja na ushirikiano", "Eleza maana na matumizi ya methali mbalimbali", "Tumia methali zinazohusu umoja na ushirikiano katika mawasiliano"],
+          "keyInquiryQuestions": ["Je, ni nini umuhimu wa methali katika jamii?", "Ni methali gani unazozijua kuhusu umoja na ushirikiano?"],
+          "learningExperiences": [
+            "Tambua methali (umoja ni nguvu utengano ni udhaifu; jifya moja haliinjiki chungu; kidole kimoja hakivunji chawa; kinga na kinga ndio moto huwaka)",
+            "Jadili maana na matumizi ya methali mbalimbali, linganisha methali na maana yake",
+            "Kamilisha methali mbalimbali katika mazungumzo/daftari/kidijitali",
+            "Sakura mtandaoni (kwa msaada wa mzazi/mlezi) kupata methali zaidi zinazohusu umoja na ushirikiano"
+          ],
+          "linkedLearningAreas": ["English", "Social Studies — mshikamano wa kitaifa"],
+          "scopeNotes": []
+        },
+        {
+          "name": "Nahau (Kazi na Ushirikiano)",
+          "sourceSubMada": ["7.1.1 Nahau"],
+          "specificLearningOutcomes": ["Tambua nahau za kazi na ushirikiano katika matini mbalimbali", "Jadili maana ya nahau mbalimbali za kazi na ushirikiano", "Tumia nahau za kazi na ushirikiano katika mawasiliano"],
+          "keyInquiryQuestions": ["Je, ni nahau zipi zinazohimiza watu kufanya mambo mbalimbali?"],
+          "learningExperiences": [
+            "Tambua nahau (chapa kazi, kunja jamvi, changa bia, sema kwa sauti moja, fanya itifaki)",
+            "Ambatanisha nahau na maana yake, tumia nahau katika sentensi",
+            "Sakura mtandaoni kupata nahau zaidi za kazi na ushirikiano na maana zake"
+          ],
+          "linkedLearningAreas": ["English", "Social Studies — majanga na jinsi ya kuyazuia"],
+          "scopeNotes": []
+        },
+        {
+          "name": "Visawe",
+          "sourceSubMada": ["8.1.1 Visawe"],
+          "specificLearningOutcomes": ["Tambua maneno zaidi ya matatu yenye maana sawa", "Tumia visawe ifaavyo katika mawasiliano"],
+          "keyInquiryQuestions": ["Unajua maneno gani ya Kiswahili yaliyo na maana sawa?"],
+          "learningExperiences": [
+            "Tambua maneno zaidi ya matatu yenye maana sawa (mwizi: luja, mkupuzi, pwagu, pwaguzi, mkwepuzi; hongo: rushwa, chai, kadhongo, mvugulio; pesa: njenje, ngwenje, fedha, hela; lengo: dhamira, nia, azma, kusudi; maskini: mlalahoi, fukara, mkata, fakiri)",
+            "Ambatanisha maneno yenye maana sawa katika kapu maneno/mti maneno/vyombo vya kidijitali",
+            "Husisha visawe na vifaa halisi/picha/michoro; tumia kisawe kimoja kuchukua nafasi ya kingine katika sentensi"
+          ],
+          "linkedLearningAreas": ["English", "Social Studies — wanyama wa majini"],
+          "scopeNotes": []
+        },
+        {
+          "name": "Mazungumzo ya Kimuktadha (Rasmi na Isiyo Rasmi)",
+          "sourceSubMada": ["9.1.1 Mazungumzo ya Kimuktadha"],
+          "specificLearningOutcomes": ["Tambua miktadha rasmi na isiyo rasmi katika mawasiliano", "Tumia lugha katika miktadha rasmi na isiyo rasmi ipasavyo"],
+          "keyInquiryQuestions": ["Ni wapi katika shughuli zetu za kila siku tunaitumia lugha rasmi na isiyo rasmi?", "Ni nini kinachofanya mazungumzo yawe rasmi au yasiyo rasmi?"],
+          "learningExperiences": [
+            "Tambua miktadha mbalimbali (ofisini, hospitalini, nyumbani, sokoni)",
+            "Sikiliza/tazama maigizo ya mazungumzo rasmi na yasiyo rasmi kwenye vyombo vya kidijitali",
+            "Shiriki katika mazungumzo rasmi na yasiyo rasmi kuhusu afya ya akili",
+            "Tambua nidhamu ya lugha inayozingatiwa katika mazingira rasmi"
+          ],
+          "linkedLearningAreas": ["English", "Social Studies — afya ya akili"],
+          "scopeNotes": []
+        },
+        {
+          "name": "Sitiari za Tabia",
+          "sourceSubMada": ["10.1.1 Sitiari za Tabia"],
+          "specificLearningOutcomes": ["Jadili dhana ya sitiari", "Tambua sitiari za tabia katika matini mbalimbali", "Tumia sitiari za tabia kwa usahihi katika sentensi"],
+          "keyInquiryQuestions": ["Ni maneno gani unayoweza kutumia kulinganisha kitu na kingine kwa njia ya moja kwa moja?"],
+          "learningExperiences": [
+            "Tambua sitiari za tabia (yeye ni sungura, yeye ni fisi, yeye ni kasuku, mimi ni kobe safarini)",
+            "Toa mifano ya sitiari za tabia, eleza maana zake, tumia sitiari katika sentensi"
+          ],
+          "linkedLearningAreas": ["Social Studies — kukabiliana na ugaidi"],
+          "scopeNotes": []
+        },
+        {
+          "name": "Kujieleza kwa Ufasaha (Kusimulia Visa)",
+          "sourceSubMada": ["11.1.1 Kujieleza kwa Ufasaha"],
+          "specificLearningOutcomes": ["Buni na simulia kisa mbele ya wenzake akizingatia mada lengwa", "Tumia ishara zifaazo kuimarisha masimulizi yake"],
+          "keyInquiryQuestions": ["Masimulizi kuhusu ushuru yana umuhimu gani?"],
+          "learningExperiences": [
+            "Jadiliana kuhusu mada za kusimulia (hadithi za mashujaa, shughuli za sikukuu za kitaifa, usomaji wa bajeti, ulipaji wa ushuru, hekaya)",
+            "Sikiliza kisa cha kisimulizi kutoka kwa mgeni mwalikwa/tepurekoda/video",
+            "Simulia kisa akizingatia mtiririko wa matukio, kupanda na kushuka kwa sauti, ishara za uso, viziada lugha, tasfida"
+          ],
+          "linkedLearningAreas": ["English", "Social Studies — ushuru"],
+          "scopeNotes": []
+        }
+      ]
+    },
+    {
+      "name": "Kusoma",
+      "subStrands": [
+        {
+          "name": "Kusoma kwa Ufahamu — Msamiati wa Viungo vya Mwili",
+          "sourceSubMada": ["1.2.1 Kusoma kwa Ufahamu"],
+          "specificLearningOutcomes": ["Tambua msamiati wa suala lengwa uliotumika katika kifungu", "Eleza maana ya msamiati lengwa", "Onyesha ufahamu wa kifungu kwa kujibu maswali na kutoa muhtasari"],
+          "keyInquiryQuestions": ["Unazingatia nini unaposoma kifungu cha hadithi?", "Kusoma kuhusu viungo vya mwili vya ndani kuna umuhimu gani?"],
+          "learningExperiences": [
+            "Tambua viungo vya mwili vya ndani (moyo, mapafu, ini, kibofu, wengu, figo, ubongo, mifupa, mishipa) kutokana na picha/chati/tarakilishi",
+            "Soma kifungu, jibu maswali, toa muhtasari, tunga sentensi kwa msamiati wa suala lengwa"
+          ],
+          "linkedLearningAreas": ["English"],
+          "scopeNotes": []
+        },
+        {
+          "name": "Kusoma kwa Kina — Matumizi ya Kamusi",
+          "sourceSubMada": ["2.2.1 Kusoma kwa Kina"],
+          "specificLearningOutcomes": ["Tambua maana, tahajia, ngeli na aina za maneno kwa kutumia kamusi", "Tumia kamusi ipasavyo kutafuta maana za maneno mageni"],
+          "keyInquiryQuestions": ["Unatafutaje maana ya maneno kwenye kamusi?", "Kwa nini tunatumia kamusi?"],
+          "learningExperiences": [
+            "Sikiliza msamiati wa michezo (kambumbu, gori, hoki, Jugwe) ukisomwa, tambua tahajia kwa kamusi",
+            "Chagua maneno kutoka kapu/mti maneno, tambua ngeli/aina/maana kwa kurejelea kamusi",
+            "Tumia mtandao kutafuta maana za maneno na kusikiliza matamshi"
+          ],
+          "linkedLearningAreas": ["English", "Creative Arts — michezo"],
+          "scopeNotes": []
+        },
+        {
+          "name": "Kusoma kwa Ufasaha",
+          "sourceSubMada": ["3.2.1 Kusoma kwa Ufasaha (theme Mahusiano)", "11.2.1 Kusoma kwa Ufasaha (theme Ushuru)"],
+          "specificLearningOutcomes": ["Tambua vipengele vya kuzingatia katika kusoma kwa ufasaha", "Soma kifungu kwa kuzingatia matamshi bora, kasi ifaayo (80-85 maneno kwa dakika), sauti ipasavyo, na ishara zifaazo"],
+          "keyInquiryQuestions": ["Unaposoma kifungu ni mambo yapi unayozingatia ili kusoma ifaavyo?", "Je, kusoma kwa ufasaha kuna umuhimu gani?"],
+          "learningExperiences": [
+            "Jadiliana vipengele vya kusoma kwa ufasaha; tazama vielelezo vya video vya usomaji fasaha",
+            "Soma kifungu kuhusu mahusiano (sahibu/rafiki/mwandani, mpenzi, mwana, ndugu, jirani, mwenza) kwa matamshi bora",
+            "Soma kifungu cha hadithi kwa kasi ifaayo (maneno sahihi yasiyopungua 80 kwa dakika kwa theme3, 85 kwa theme11) ili wenzake wamtolee maoni",
+            "Soma kifungu kuhusu ushuru akizingatia sauti na ishara zifaazo"
+          ],
+          "linkedLearningAreas": ["English", "Social Studies — mahusiano na ushuru"],
+          "scopeNotes": []
+        },
+        {
+          "name": "Kusoma kwa Mapana — Usalama wa Kidijitali",
+          "sourceSubMada": ["4.2.1 Kusoma kwa Mapana (theme Misimu)", "10.2.1 Kusoma kwa Mapana (theme Kukabiliana na Ugaidi)"],
+          "specificLearningOutcomes": ["Tambua hatua za kiusalama katika matumizi ya vifaa vya kidijitali anaposoma", "Sakura matini kwenye tovuti salama", "Tambua umuhimu wa kutoa habari kwa mwalimu/mzazi endapo apata ujumbe kutoka kwa watu asiowajua mtandaoni"],
+          "keyInquiryQuestions": ["Kusoma matini ya kidijitali kuna manufaa gani?", "Ni hatua gani za kiusalama unazozingatia unapotafuta habari mtandaoni?"],
+          "learningExperiences": [
+            "Jadili hatua za kiusalama na maadili ya kutafuta/kusoma matini ya kidijitali (kufungua mitandao ifaayo, kutowasiliana na watu usiowajua, kutofichua nywila)",
+            "Tambua jina la faili, fanya mazoezi ya kufungua/kufunga faili, tambua mitandao salama",
+            "Soma matini yenye msamiati wa misimu; tafuta maana za maneno mapya kwenye kamusi mtandaoni",
+            "Soma matini kuhusu kukabiliana na ugaidi kwa kuzingatia usalama wa mtandaoni"
+          ],
+          "linkedLearningAreas": ["English", "Environmental Studies", "Social Studies"],
+          "scopeNotes": ["Masomo yote yanatakiwa kuzingatia ujuzi wa kidijitali (theme 10's cross-link note)."]
+        },
+        {
+          "name": "Kusoma kwa Ufahamu — Mashairi (Ukwapi, Utao, Tathnia, Tathlitha, Tarbia)",
+          "sourceSubMada": ["5.2.1 Kusoma kwa Ufahamu (theme Mshikamano wa Kitaifa)"],
+          "specificLearningOutcomes": ["Jadili dhana za ukwapi na utao katika shairi", "Tambua mashairi ya tathnia, tathlitha na tarbia kwa kuzingatia muundo", "Soma mashairi ya tathnia, tathlitha na tarbia ili kupata ujumbe"],
+          "keyInquiryQuestions": ["Je, kuna tofauti gani kati ya mashairi mbalimbali?"],
+          "learningExperiences": [
+            "Jadili/tambua ukwapi na utao katika shairi kwenye ubao/chati/vitabu/kidijitali",
+            "Jirekodi akisoma aina za mashairi lengwa kwa kujirekebisha",
+            "Tofautisha na tambua mashairi ya tathnia, tathlitha na tarbia katika matini mbalimbali",
+            "Soma mashairi kwa mahadhi mbalimbali, jadili ujumbe, jibu maswali"
+          ],
+          "linkedLearningAreas": ["English", "Social Studies — mshikamano wa kitaifa"],
+          "scopeNotes": []
+        },
+        {
+          "name": "Kusoma kwa Kina — Mchezo wa Kuigiza",
+          "sourceSubMada": ["6.2.1 Kusoma kwa Kina (theme Wanyama wa Majini)"],
+          "specificLearningOutcomes": ["Jadili sifa za mchezo wa kuigiza", "Soma mchezo mfupi wa kuigiza kwa ufasaha", "Onyesha ufahamu wa mchezo wa kuigiza kwa kujibu maswali na kutoa muhtasari"],
+          "keyInquiryQuestions": ["Je, mchezo wa kuigiza una sifa gani?", "Umewahi kushiriki katika mchezo gani wa kuigiza?"],
+          "learningExperiences": [
+            "Jadili sifa za mchezo wa kuigiza (huwa na wahusika, mazungumzo, maelekezo)",
+            "Soma mchezo wa kuigiza akizingatia wahusika, maelekezo na ujumbe",
+            "Tambua msamiati wa wanyama wa majini uliotumiwa (kiboko, samaki, mamba, chura, kasa)",
+            "Tazama mchezo mfupi wa kuigiza shuleni au kidijitali"
+          ],
+          "linkedLearningAreas": ["English", "Social Studies — wanyama wa majini"],
+          "scopeNotes": []
+        },
+        {
+          "name": "Kusoma kwa Mapana — Uchaguzi wa Matini Maktabani",
+          "sourceSubMada": ["7.2.1 Kusoma kwa Mapana (theme Majanga)", "9.2.1 Kusoma kwa Mapana (theme Afya ya Akili)"],
+          "specificLearningOutcomes": ["Tambua matini anazotaka kusoma kwenye maktaba", "Chagua matini anazotaka kusoma kwenye maktaba", "Soma matini ili kufaidika na ujumbe na lugha inayotumiwa"],
+          "keyInquiryQuestions": ["Unapendakusoma matini ya aina gani?", "Ni habari zipi unazopenda kusoma kwenye matini?", "Unazingatia nini unapochagua matini za kusoma?"],
+          "learningExperiences": [
+            "Tambua aina mbalimbali za matini (vitabu, magazeti, majarida) kwenye tarakilishi au kadi za katalogi kuhusu majanga (mmomonyoko wa udongo, mafuriko, mitetemeko ya ardhi, mkurupuko wa magonjwa)",
+            "Chagua matini zinazomvutia kuhusu afya ya akili maktabani na mtandaoni",
+            "Soma kimyakimya, simulia ujumbe kwa wenzake, jadiliana matini walizosoma"
+          ],
+          "linkedLearningAreas": ["English", "Social Studies — majanga na afya ya akili"],
+          "scopeNotes": []
+        },
+        {
+          "name": "Kusoma kwa Ufahamu — Afya ya Akili",
+          "sourceSubMada": ["8.2.1 Kusoma kwa Ufahamu (theme Afya ya Akili)"],
+          "specificLearningOutcomes": ["Kujadili sifa za mchezo wa kuigiza"],
+          "keyInquiryQuestions": [],
+          "learningExperiences": [],
+          "linkedLearningAreas": [],
+          "scopeNotes": ["Kumbuka: theme 8's Kusoma sub-mada text in the source PDF is actually the Wanyama wa Majini drama sub-strand (consolidated above as 'Kusoma kwa Kina — Mchezo wa Kuigiza'); this entry is kept as a placeholder correction — the true theme-8 Kusoma content matches the drama sub-strand, and theme-9's own Kusoma content (library reading about mental health) is the one captured under 'Kusoma kwa Mapana — Uchaguzi wa Matini Maktabani' above. Verify page order directly against the PDF if this subject is reopened, since the theme/page alignment for Kusoma across themes 6, 8 and 9 should be re-confirmed against the source rather than assumed from this note."]
+        }
+      ]
+    },
+    {
+      "name": "Kuandika",
+      "subStrands": [
+        {
+          "name": "Insha ya Wasifu",
+          "sourceSubMada": ["1.3.1 Insha ya Wasifu (theme Viungo vya Mwili)", "6.3.1 Insha ya Wasifu (theme Usawa wa Kijinsia)"],
+          "specificLearningOutcomes": ["Jadili maudhui ya insha ya wasifu kwa kuzingatia mada", "Andika insha ya wasifu kwa ubunifu isiyopungua maneno 200"],
+          "keyInquiryQuestions": ["Je, wasifu hueleza kuhusu nini?", "Insha ya wasifu ina sifa gani?"],
+          "learningExperiences": [
+            "Soma vielelezo vya insha ya wasifu, jadili mada na muundo",
+            "Andika insha ya wasifu (mfano: 'Daktari nimpendaye') isiyopungua maneno 200 kwa anwani, mpangilio mzuri, hati safi, uakifishaji, lugha ya kiubunifu inayojumuisha methali/tashbihi/nahau",
+            "Andika insha ya wasifu mtandaoni na kuisambaza kwa wenzake/mwalimu kuitathmini"
+          ],
+          "linkedLearningAreas": ["English"],
+          "scopeNotes": []
+        },
+        {
+          "name": "Insha za Masimulizi",
+          "sourceSubMada": ["2.3.1 Insha za Masimulizi (Michezo)", "8.3.1 Insha za Masimulizi (Wanyama wa Majini)", "10.3.1 Insha za Masimulizi (Kukabiliana na Ugaidi)"],
+          "specificLearningOutcomes": ["Bainisha vidokezo vya kutumia katika kuandika insha ya masimulizi", "Andika insha ya masimulizi kwa kuzingatia mtindo na muundo wake"],
+          "keyInquiryQuestions": ["Je, unazingatia nini ili kuandika insha nzuri ya masimulizi?", "Insha ya masimulizi ina sifa gani?", "Ni nini unachoweza kufanya ili uwe mwandishi bora wa insha?"],
+          "learningExperiences": [
+            "Bainisha vidokezo, jadili mada na muundo wa insha ya masimulizi",
+            "Andika insha isiyopungua maneno 200 inayosimulia kisa cha tukio linalohusiana na michezo / wanyama wa porini / ugaidi-uhalifu-ajali-safari, kwa anwani/mpangilio/hati safi/tahajia/kanuni za kisarufi/lugha ya kiubunifu",
+            "Kuza ujuzi wa kidijitali kwa kuandika insha mtandaoni na kuisambaza kwa tathmini"
+          ],
+          "linkedLearningAreas": ["English", "Social Studies"],
+          "scopeNotes": []
+        },
+        {
+          "name": "Kuandika kwa Tarakilishi",
+          "sourceSubMada": ["3.3.1 Kuandika kwa Tarakilishi"],
+          "specificLearningOutcomes": ["Tambua aina mbalimbali za maandishi ya tarakilishi na ishara zinazotumiwa (chapa koza, italiki, kupigiwa mstari)", "Andika kifungu kifupi kuhusu suala lengwa kwa kutumia maandishi mbalimbali yaliyotofautishwa"],
+          "keyInquiryQuestions": ["Je, unajua maandishi ya aina gani yanayotumika katika tarakilishi?"],
+          "learningExperiences": [
+            "Tambua aina za maandishi ya tarakilishi (chapa koza, italiki, maandishi yaliyopigiwa mstari) na ishara zake",
+            "Andika kwa ubunifu kwenye tarakilishi kifungu cha aya moja ya maneno yasiyopungua 50 kuhusu mahusiano kati ya watu",
+            "Tumia kipanya kuchagua sehemu ya maandishi na kuteua ishara ya kutofautisha"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": []
+        },
+        {
+          "name": "Barua Rasmi",
+          "sourceSubMada": ["4.3.1 Barua Rasmi (theme Misimu)", "11.3.1 Barua Rasmi (theme Ushuru)"],
+          "specificLearningOutcomes": ["Tambua barua rasmi kwa kuzingatia muundo wake", "Tambua vipengele vya barua rasmi (anwani ya mwandishi, anwani ya mpokeaji, mtajo, mada, mwili, hitimisho, sahihi, jina)", "Andika barua rasmi kwa kufuata kanuni zifaazo"],
+          "keyInquiryQuestions": ["Barua rasmi ni barua ya aina gani?", "Unazingatia nini unapoandika barua rasmi?", "Uandishi wa barua rasmi huzingatia vipengele gani?", "Unazingatia nini ili kuunda aya nzuri?"],
+          "learningExperiences": [
+            "Tambua barua rasmi kwenye kielelezo, jadili vipengele vyake",
+            "Andika barua rasmi kwa mwalimu akiomba kujiunga na klabu shuleni (skauti, mazingira, kilimo, muziki) — theme4",
+            "Andika barua rasmi kwa mwalimu kuomba msamaha, ukitumia sentensi inayobeba wazo kuu mwanzoni mwa kila aya — theme11 (ushuru)"
+          ],
+          "linkedLearningAreas": ["English", "Environmental Studies", "Social Studies"],
+          "scopeNotes": []
+        },
+        {
+          "name": "Insha za Maelezo",
+          "sourceSubMada": ["5.3.1 Insha za Maelezo (Mshikamano wa Kitaifa)", "7.3.1 Insha za Maelezo (Majanga)", "9.3.1 Insha za Maelezo (Afya ya Akili)"],
+          "specificLearningOutcomes": ["Jadili maudhui ya insha ya maelezo", "Andika insha ya maelezo kwa kuzingatia mada, mtiririko, sarufi, muundo na mtindo ufaao"],
+          "keyInquiryQuestions": ["Insha ya maelezo ina sifa gani?", "Unazingatia nini unapoandika insha ya maelezo?", "Je, ni mambo gani unayoweza kuwasilisha unapoandika insha ya maelezo?"],
+          "learningExperiences": [
+            "Tambua vifungu vya maelezo, jadili mada na vidokezo",
+            "Andika insha ya maelezo isiyopungua maneno 200 (mfano: 'Siku ya sherehe ya kitaifa', 'Nchi yetu' — theme5; kuzuia mmomonyoko wa udongo/mafuriko/mitetemeko/kipindupindu — theme7; athari za msongo wa mawazo kwa sababu ya ajali za barabarani — theme9)",
+            "Zingatia vivumishi/vielezi/viwakilishi vifaavyo kutoa picha dhahiri, kanuni za kisarufi, lugha ya kiubunifu"
+          ],
+          "linkedLearningAreas": ["English", "Social Studies"],
+          "scopeNotes": []
+        }
+      ]
+    },
+    {
+      "name": "Sarufi",
+      "subStrands": [
+        { "name": "Vivumishi vya Sifa", "sourceSubMada": ["1.4.1"], "specificLearningOutcomes": ["Eleza maana ya vivumishi vya sifa", "Tambua vivumishi vya sifa katika matini mbalimbali", "Tumia vivumishi vya sifa kutunga sentensi"], "keyInquiryQuestions": ["Ni maneno gani unayotumia kuelezea sifa za watu au kitu?"], "learningExperiences": ["Vivumishi vya sifa: -zuri, -baya, -refu, -fupi, -ekundu, hodari (mfano: Mwalimu mzuri, njia ndefu, kijiko kichafu)"], "linkedLearningAreas": ["English"], "scopeNotes": [] },
+        { "name": "Vivumishi Viashiria", "sourceSubMada": ["1.4.2"], "specificLearningOutcomes": ["Eleza maana ya vivumishi viashiria", "Tambua na tumia vivumishi viashiria katika sentensi"], "keyInquiryQuestions": ["Ni maneno gani unayoweza kutumia kuonyesha umbali wa mtu au kitu?"], "learningExperiences": ["Vivumishi viashiria: huyu, huyo, yule, hivi, hivyo, vile (mfano: Kitabu hiki/hicho/kile)"], "linkedLearningAreas": ["English"], "scopeNotes": [] },
+        { "name": "Vivumishi Vimilikishi", "sourceSubMada": ["1.4.3"], "specificLearningOutcomes": ["Eleza maana ya vivumishi vimilikishi", "Tumia vivumishi vimilikishi katika sentensi"], "keyInquiryQuestions": ["Je, unajua maneno yapi yanayotumika kuonyesha kitu ni cha nani?"], "learningExperiences": ["Vivumishi vimilikishi: -angu, -ako, -ake, -etu, -ao"], "linkedLearningAreas": ["English"], "scopeNotes": [] },
+        { "name": "Vivumishi vya Idadi", "sourceSubMada": ["2.4.1"], "specificLearningOutcomes": ["Eleza maana ya vivumishi vya idadi", "Tambua na tumia vivumishi vya idadi"], "keyInquiryQuestions": ["Ni maneno gani unayotumia kutajia idadi ya vitu?"], "learningExperiences": ["Vivumishi vya idadi: moja, ishirini, chache, nyingi (mfano: Kitabu kimoja, kalamu nyingi)"], "linkedLearningAreas": ["English", "Creative Arts"], "scopeNotes": [] },
+        { "name": "Vivumishi Viulizi", "sourceSubMada": ["2.4.2"], "specificLearningOutcomes": ["Eleza maana ya vivumishi viulizi", "Tumia vivumishi viulizi kwa usahihi"], "keyInquiryQuestions": ["Ni maneno gani unayotumia kuulizia swali?"], "learningExperiences": ["Vivumishi viulizi: -pi?, gani? (mfano: Kitabu kipi? Nguo gani?)"], "linkedLearningAreas": ["English"], "scopeNotes": [] },
+        { "name": "Kivumishi Kirejeshi (amba-)", "sourceSubMada": ["2.4.3 — jina la jedwali la mpangilio ni 'Kivumishi Kielezi' lakini yaliyomo halisi ni Kivumishi Kirejeshi amba-, tofauti nyingine ya chanzo iliyosuluhishwa kwa kusoma ukurasa kamili"], "specificLearningOutcomes": ["Eleza matumizi ya kivumishi kirejeshi amba-", "Tumia kivumishi kirejeshi amba- katika sentensi"], "keyInquiryQuestions": ["Je, unakumbuka aina gani za vivumishi?"], "learningExperiences": ["amba-: ambaye, ambao, ambacho, ambalo (mfano: mgeni ambaye, mlango ambao, kiatu ambacho)"], "linkedLearningAreas": ["English"], "scopeNotes": [] },
+        { "name": "Viwakilishi vya Nafsi", "sourceSubMada": ["3.4.1"], "specificLearningOutcomes": ["Eleza maana ya viwakilishi vya nafsi", "Tumia viwakilishi vya nafsi kwa usahihi katika sentensi"], "keyInquiryQuestions": ["Je, ni maneno yapi yanayotumika kuwakilisha nafsi mbalimbali?"], "learningExperiences": ["Viwakilishi vya nafsi: mimi, wewe, yeye, sisi, nyinyi, wao"], "linkedLearningAreas": ["English"], "scopeNotes": [] },
+        { "name": "Viwakilishi Viashiria", "sourceSubMada": ["3.4.2"], "specificLearningOutcomes": ["Eleza maana ya viwakilishi viashiria", "Tumia viwakilishi viashiria kwa usahihi katika sentensi"], "keyInquiryQuestions": ["Je, unajua maneno yapi yanayotumika kuonyesha umbali wa kitu?"], "learningExperiences": ["Viwakilishi viashiria: hapa/hapo/pale, huku/huko/kule"], "linkedLearningAreas": ["English"], "scopeNotes": [] },
+        { "name": "Viwakilishi vya Idadi", "sourceSubMada": ["3.4.3"], "specificLearningOutcomes": ["Eleza maana ya viwakilishi vya idadi", "Tumia viwakilishi vya idadi kwa usahihi katika sentensi"], "keyInquiryQuestions": ["Je, unajua maneno yapi yanayotumika kuonyesha idadi ya vitu?"], "learningExperiences": ["Viwakilishi vya idadi: chache, nyingi, tatu, kumi"], "linkedLearningAreas": ["English"], "scopeNotes": [] },
+        { "name": "Uakifishaji (Alama ya Hisi, Ritifaa na Koloni)", "sourceSubMada": ["3.4.4"], "specificLearningOutcomes": ["Tambua alama ya hisi, ritifaa na koloni katika maandishi", "Tumia alama hizo ifaavyo katika maandishi"], "keyInquiryQuestions": ["Kwa nini alama za kuakifisha hutumiwa katika maandishi?", "Ni alama gani za uakifishi unazoweza kuzitumia kwa usahihi?"], "learningExperiences": ["Akifisha sentensi/vifungu vifupi kwa alama ya hisi, ritifaa na koloni"], "linkedLearningAreas": ["English"], "scopeNotes": [] },
+        { "name": "Ngeli ya YA-YA", "sourceSubMada": ["4.4.1"], "specificLearningOutcomes": ["Tambua viambishi vya upatanisho wa kisarufi vya ngeli YA-YA", "Tumia nomino za ngeli YA-YA katika umoja na wingi"], "keyInquiryQuestions": ["Je, unajua majina gani ya vitu visivyohesabika?"], "learningExperiences": ["Nomino za ngeli YA-YA: maji, maziwa, mate, marashi, maskani"], "linkedLearningAreas": ["English", "Environmental Studies"], "scopeNotes": [] },
+        { "name": "Ngeli ya U-U", "sourceSubMada": ["5.4.1"], "specificLearningOutcomes": ["Tambua viambishi vya ngeli U-U", "Tumia nomino za ngeli U-U katika umoja na wingi"], "keyInquiryQuestions": ["Je, ni nomino zipi hupatikana katika ngeli ya U-U?"], "learningExperiences": ["Nomino za ngeli U-U: uji, ugali, uhuru, ujanja, urafiki"], "linkedLearningAreas": ["English", "Social Studies"], "scopeNotes": [] },
+        { "name": "Ngeli ya I-I", "sourceSubMada": ["6.4.1"], "specificLearningOutcomes": ["Tambua viambishi vya ngeli I-I", "Tumia nomino za ngeli I-I katika umoja na wingi"], "keyInquiryQuestions": ["Je, ni nomino zipi hupatikana katika ngeli ya I-I?"], "learningExperiences": ["Nomino za ngeli I-I: chumvi, miwani, sukari, chai, kahawa, mirathi, asali, sharubati"], "linkedLearningAreas": ["English", "Social Studies"], "scopeNotes": [] },
+        { "name": "Ngeli ya PA-KU-MU", "sourceSubMada": ["7.4.1"], "specificLearningOutcomes": ["Tambua viambishi vya ngeli PA-KU-MU", "Tumia upatanisho wa kisarufi wa ngeli PA-KU-MU ipasavyo"], "keyInquiryQuestions": ["Tunawezaje kutambua nomino katika ngeli ya PA-KU-MU?"], "learningExperiences": ["Ngeli ya mahali: pa-, ku-, mu- (viwakilishi vya mahali)"], "linkedLearningAreas": ["Social Studies"], "scopeNotes": [] },
+        { "name": "Mnyambuliko wa Vitenzi (Kutendeana, Kutendesha, Kutendua)", "sourceSubMada": ["8.4.1"], "specificLearningOutcomes": ["Tambua vitenzi katika hali ya kutendeana, kutendesha, kutendua", "Tumia vitenzi katika hali hizo ipasavyo katika sentensi"], "keyInquiryQuestions": ["Je, vitenzi vinaweza kubadilika vipi mwishoni ili kuleta maana mbalimbali?"], "learningExperiences": ["Nyambua vitenzi katika hali za kutendeana/kutendesha/kutendua, jaza jedwali la mnyambuliko"], "linkedLearningAreas": ["English", "Social Studies"], "scopeNotes": [] },
+        { "name": "Vinyume vya Vivumishi", "sourceSubMada": ["9.4.1"], "specificLearningOutcomes": ["Tambua vinyume vya vivumishi katika matini", "Tunga sentensi kwa kutumia vinyume vya vivumishi"], "keyInquiryQuestions": ["Je, ni vivumishi vipi unavyoweza kutambua vinyume vyake?"], "learningExperiences": ["Vinyume vya vivumishi: zuri-baya, kali-butu, refu-fupi"], "linkedLearningAreas": ["English"], "scopeNotes": [] },
+        { "name": "Hali ya Masharti (nge, ngali na ki)", "sourceSubMada": ["10.4.1"], "specificLearningOutcomes": ["Tambua viambishi vya hali ya masharti kwenye kitenzi", "Tumia vitenzi katika hali ya masharti kwenye sentensi"], "keyInquiryQuestions": ["Je, unajua viambishi vipi?"], "learningExperiences": ["Viambishi vya hali ya masharti: nge, ngali, ki; badilisha sentensi kutoka hali moja hadi nyingine"], "linkedLearningAreas": ["Social Studies"], "scopeNotes": [] },
+        { "name": "Ukanushaji wa Hali ya Masharti", "sourceSubMada": ["11.4.1"], "specificLearningOutcomes": ["Tambua viambishi vya hali ya masharti katika sentensi", "Kanusha viambishi vya hali ya masharti katika sentensi"], "keyInquiryQuestions": ["Viambishi vya hali ya masharti katika vitenzi ni vipi?", "Viambishi vya hali ya masharti katika ukanushaji ni vipi?"], "learningExperiences": ["Hali kanushi: singe, singali, sipo — kanusha maneno na sentensi akizingatia hali ya masharti"], "linkedLearningAreas": ["Social Studies"], "scopeNotes": [] },
+        { "name": "Ukubwa na Udogo wa Nomino (ki- na ji-)", "sourceSubMada": ["11.4.2 (kiambishi ki-)", "11.4.3 (kiambishi ji-)"], "specificLearningOutcomes": ["Tambua nomino zinazoanza kwa kiambishi ki- na ji-", "Badilisha nomino kutoka hali ya wastani kuwa katika hali ya ukubwa na udogo", "Tunga sentensi sahihi akizingatia upatanisho wa kisarufi"], "keyInquiryQuestions": ["Je, ni nomino gani zinazoanza kwa kiambishi ki- unazozijua?", "Je, ni nomino gani zinazoanza kwa kiambishi ji- unazozijua?"], "learningExperiences": ["ki- (kiti, kitabu, kitanda); ji- (jani → jijani/kijani, jiko → jijiko/kijijiko) — badilisha wastani↔ukubwa↔udogo"], "linkedLearningAreas": ["Social Studies"], "scopeNotes": [] }
+      ]
+    }
+  ],
+  "buildPlan": {
+    "strandIds": {
+      "kz": "g6-ksw-kz (10 skills: KZ.1-KZ.10, folder web/src/skills/kiswahiliG6/)",
+      "ks": "g6-ksw-ks (8 skills: KS.1-KS.8)",
+      "ka": "g6-ksw-ka (5 skills: KA.1-KA.5)",
+      "sarufi": "g6-ksw-sarufi (19 skills: SA.1-SA.19)"
+    },
+    "consolidationRationale": "42 skills from 54 raw sub-mada. Same-type repeats across themes (Kusoma kwa Mapana ×4, Kusoma kwa Ufahamu ×3 partially, Insha za Masimulizi ×3, Insha za Maelezo ×3, Matamshi Bora ×2, Kusoma kwa Ufasaha ×2, Barua Rasmi ×2, Insha ya Wasifu ×2, ukubwa/udogo ki-/ji- ×2) were merged into single deepened skills carrying scenario variety across their source themes — same precedent as Grade 7 Kiswahili (60→41). All 19 Sarufi grammar categories and all genuinely-distinct KZ/KS content stayed 1:1 (no natural repeats to merge), which is why Sarufi alone accounts for 19 of the 42 final skills. Grade 6's own 'split into more, smaller skills' bar (raised for Math/Science/Agriculture) does not override this — Kiswahili's precedent is specifically about not duplicating an identical skill-type+mechanics combination across near-identical themes, which is orthogonal to sub-strand splitting for content-rich single-theme sub-strands.",
+    "poolSizeFloor": "30+ items per fixed array (Grade 6 standard, raised from the project default 10+), 5+ distinct QuestionKinds per skill.",
+    "notDone": "SVG/visual coverage not yet decided at mining time — check Assests-svg/ + design doc before/during build per standing rule; Kiswahili content is mostly vocabulary/grammar with limited natural visual angle (Grade 7 Kiswahili reused clock/weather/icon-set sparingly) — expect similar sparse-but-present visual usage, not zero."
+  }
+}

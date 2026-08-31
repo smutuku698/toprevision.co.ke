@@ -1,0 +1,597 @@
+You are an expert curriculum developer and Senior Assessment Specialist specializing in the Kenyan Competency-Based Curriculum (CBC) for Junior and Senior Secondary levels. 
+
+Your task is to generate high-rigor, high bar and fully interactive contextualized assessment questions for a specific topic based on the parameters provided below.
+
+### ⚙️ SYSTEM PARAMETERS (To be provided by the user)
+- [SUBJECT]: e.g., ill provide this for you {}
+- [STRAND] and [substrand and specific lesson/concept]: follow form the curriculum designs provided at C:\Users\SimonNthenge\Documents\ixl quizmaster\designs
+- [SUB-STRAND]: e.g., Human Health
+- [SPECIFIC LESSON/CONCEPT]: e.g., Cellular Respiration / Transmission of Vector-borne diseases
+- [GRADE LEVEL]: e.g., I will provide {}
+- [LOCALIZATION FOCUS]: e.g., Western Kenya, Coastal region, specific counties/towns
+
+---
+
+### 🏛️ CORE EXECUTION MANDATES
+
+1. High Rigor & Quality Bar: 
+Avoid shallow, recall-only questions. Every question must target higher-order thinking skills (Application, Analysis, Evaluation, Creation) under Bloom’s Revised Taxonomy and CBC Core Competencies.
+
+2. Breadth and Diversity (Anti-Repetition):
+Because CBC has broad strands but numerous micro-lessons, you must extract diverse angles from the lesson. Do not repeat the same testing mechanism. Mix abstract conceptualizing with concrete local realities.
+
+3. Complete Localization:
+All scenarios, names, geographical markers, and socio-economic contexts must be authentically Kenyan. Use realistic local names (e.g., Akinyi, Mwangi, Kerubo, Mutua), towns/counties (e.g., Kakamega, Kilifi, Machakos), and everyday Kenyan challenges or innovations.
+
+4. Valid SVG Visual Elements:
+When requested or structurally vital, embed standalone, responsive, clean SVG code directly within the question. The SVG must be a functional diagram (e.g., a geometric proof, a biological pathway, a geographical map, or data chart) using clear contrasting colors (e.g., black/blue lines on white backgrounds) and legible text labels.
+
+---
+
+### 📐 QUESTION ARCHITECTURE Requirements
+
+For the specified lesson, generate questions matching these three distinct phases of CBC learning:
+
+#### PHASE 1: INTRODUCTIONS & CONCEPTUAL FOUNDATIONS
+- Question Type: Complex Multi-Part or Matrix Matching.
+- Focus: Assess the structural understanding of the core concept, its definitions, and internal mechanics before moving to applications.
+- Requirement: Must include a clean, inline **SVG Visual Diagram** representing the concept framework, a process flow, or anatomical/structural components.
+
+#### PHASE 2: MAIN CONTENTS & ANALYTICAL DEPTH
+- Question Type:As arelady given in your memory and also you must include Data Interpretation, Case Study, or Structured Free-Response.
+- Focus: Deep critical thinking, evaluating variables, predicting outcomes, or analyzing a localized problem statement.
+- Requirement: Provide a realistic local scenario or data matrix.
+
+#### PHASE 3: REAL-LIFE APPLICATION & APPRECIATION
+- Question Type: Performance Task Blueprint, Guided Project Design, or Socio-Economic Evaluation.
+- Focus: How the concept solves a local community issue, entrepreneurial applications, environmental conservation, or appreciation of national resources/indigenous knowledge systems.
+- Requirement: Explicitly map out the Core Competencies developed (e.g., Communication, Critical Thinking, Self-Efficacy).
+
+---
+
+### 🎨 SVG TECHNICAL SPECIFICATIONS
+- Wrap code strictly in standard markdown blocks: ```xml ... ```
+- Use `viewBox="0 0 500 300"` for scaling.
+- Ensure high contrast: white or transparent backgrounds, dark grey `#333333` or primary blue lines.
+- Set font-family to `sans-serif` with crisp font sizes. All text elements must be fully visible within the viewBox bounds.
+
+---
+
+### 📥 OUTPUT FORMAT
+Present your response organized clearly by the three phases. For each phase, provide:
+1. The **Question/Task** text (with SVG code block embedded where required).
+3. The **CBC Core Competencies** and **Pertinent Contemporary Issues (PCIs)** addressed.
+
+============+++++++++===
+
+
+
+
+
+2. include specific performance level descriptors (Below Expectation, Approaching Expectation, Meeting Expectation, Exceeding Expectation) with a percentage as well to have nice data based result important for later metrics on dashboard at end of each skill – this should be build into the shstem to do this automatically after every session. 
+
+
+
+==============+====================+++++++++++++++
+To make these highly useful for creating exam papers, you need to know exactly which parts are pre-labeled to provide context and which parts must be left blank or lettered (X, Y, Z) for the students to identify.
+Here is the high-rigor exam blueprint for Grade 7 and Grade 8, updated with precise instructions for blind/lettered testing points.
+________________________________________
+📊 Grade 7 Exam-Ready Image Specifications
+Subject: Integrated Science
+•	Mixtures, Elements, and Compounds
+o	Fractional Distillation Setup:
+	Labeled: Thermometer, Heat source, Distillation flask, Fractionating column, Liebig condenser casing.
+	Lettered (X, Y, Z): X at the water inlet, Y at the water outlet, and Z pointing to the pure distillate collecting in the receiver flask.
+o	Paper Chromatography Setup:
+	Labeled: Glass beaker, Chromatography paper strip, Glass rod support.
+	Lettered (A, B, C): A pointing to the baseline (pencil line), B pointing to the solvent front, and C pointing to a separated pigment band.
+o	States of Matter Particle Arrangements:
+	Labeled: Arrow indicating "Increasing Heat Energy".
+	Lettered (X, Y, Z): X over the box showing tightly packed, regular rows of spheres (Solid), Y over the box showing loosely grouped spheres (Liquid), and Z over the box showing widely spaced, random spheres (Gas).
+•	Living Things and Their Environment
+o	Light Microscope Structure:
+	Labeled: Eyepiece, Objective lenses, Stage, Base, Arm.
+	Lettered (P, Q, R): P pointing to the coarse adjustment knob, Q pointing to the fine adjustment knob, and R pointing to the stage clips/mirror.
+o	Plant Cell Cross-Section:
+	Labeled: Nucleus, Cytoplasm, Cell membrane.
+	Lettered (X, Y, Z): X pointing to the thick outer cell wall, Y pointing to a large central vacuole, and Z pointing to a chloroplast.
+o	Animal Cell Cross-Section:
+	Labeled: Cell membrane, Nucleus.
+	Lettered (A, B): A pointing to a mitochondrion (elliptical with internal folds), and B pointing to the cytoplasm.
+•	Human Anatomy (Excretory System)
+o	Human Skin Cross-Section:
+	Labeled: Hair shaft, Blood vessels, Epidermis layer.
+	Lettered (X, Y, Z): X pointing to a coiled sweat gland, Y pointing to the sebaceous (oil) gland, and Z pointing to the erector pili muscle.
+o	Internal Kidney Anatomy (L-Section):
+	Labeled: Renal artery, Renal vein, Ureter tube.
+	Lettered (P, Q, R): P pointing to the outer renal cortex, Q pointing to the inner renal medulla, and R pointing to the renal pelvis funnel.
+o	Nephron Structure:
+	Labeled: Proximal convoluted tubule, Collecting duct.
+	Lettered (A, B, C): A pointing to the cup-like Bowman's capsule, B pointing to the knot of capillaries (Glomerulus), and C pointing to the Loop of Henle loop.
+Subject: Agriculture and Nutrition
+•	Conserving Agricultural Environment
+o	Standard Soil Profile:
+	Labeled: Plants growing on the surface, Bedrock at the base.
+	Lettered (A, B, C): Horizon A (Topsoil layer), Horizon B (Subsoil layer), and Horizon C (Substratum/weathered rock layer) left blank for soil horizon naming.
+o	Physical Soil Conservation Structure:
+	Labeled: Slope direction arrow, Natural hillside grade line.
+	Lettered (X, Y): X pointing to the built embankment wall (Bund), and Y pointing to the grass strip/trench dug to catch runoff water.
+o	Drip Irrigation Layout:
+	Labeled: Water storage tank, Main water valve, Crop rows.
+	Lettered (P, Q): P pointing to the main filtration unit, and Q pointing to an individual emitter/dripper nozzle.
+•	Crop Production (Nutrient Deficiency)
+o	Nitrogen Deficiency Symptoms:
+	Labeled: Overall shape of a standard green maize leaf.
+	Lettered (X): X pointing directly to a V-shaped yellow discoloration pattern crawling down the center midrib.
+o	Phosphorus Deficiency Symptoms:
+	Labeled: Overall outline of a young crop leaf.
+	Lettered (Y): Y highlighting a dark purplish or bronze coloration concentrated entirely along the leaf margins.
+o	Potassium Deficiency Symptoms:
+	Labeled: Normal green leaf tissue near the leaf stem/petiole.
+	Lettered (Z): Z pointing to scorched, dry, dead brown outer margins and tip margins of the leaf.
+________________________________________
+📊 Grade 8 Exam-Ready Image Specifications
+Subject: Integrated Science
+•	Reproduction in Humans
+o	Male Reproductive System:
+	Labeled: Urinary bladder, Erectile tissue, Urethra pathway.
+	Lettered (A, B, C): A pointing to the testis gland, B pointing to the sperm duct (Vas deferens), and C pointing to the prostate gland.
+o	Female Reproductive System:
+	Labeled: Vagina canal, Cervix opening.
+	Lettered (X, Y, Z): X pointing to an ovary, Y pointing to a fallopian tube (Oviduct), and Z pointing to the muscular wall of the uterus (Endometrium).
+o	Hormonal Cycle Line Graph:
+	Labeled: Horizontal Axis marked "Days 1 to 28", Vertical Axis marked "Hormone Level".
+	Lettered (P, Q): Line graph curve P representing the sudden spike of LH (Luteinizing Hormone) at Day 14, and curve Q representing Progesterone levels rising after Day 14.
+•	Electrical Energy and Circuits
+o	Series Resistor Network:
+	Labeled: Connecting wires, Cell/Battery pack, Resistors $R_1$, $R_2$, $R_3$.
+	Lettered (X, Y): X over a meter connected directly in the main line (Ammeter), and Y over a meter wired across one resistor (Voltmeter).
+o	Parallel Resistor Network:
+	Labeled: Main line switch, Three parallel branches.
+	Lettered (A, B, C): A pointing to the common junctions splitting current, B indicating an individual branch switch, and C marking the total current reading point.
+o	Dry Cell Internal Anatomy:
+	Labeled: Cardboard outer insulation cover, Brass top cap.
+	Lettered (X, Y, Z): X pointing to the central black rod (Carbon cathode), Y pointing to the outer metal container wall (Zinc anode), and Z pointing to the chemical paste filling (Ammonium chloride).
+•	Light and Optics
+o	Reflection on Plane Surface:
+	Labeled: Flat surface mirror base line, Perpendicular dashed Normal line.
+	Lettered (i, r): Angle i between the incoming ray and normal line, and Angle r between the outgoing ray and normal line.
+o	Glass Block Refraction:
+	Labeled: Rectangular glass block outer boundaries, Incident light ray striking the glass.
+	Lettered (X, Y): X pointing to the bent light ray moving inside the glass medium (Refracted ray), and Y pointing to the ray exiting back out into the air (Emergent ray).
+o	Convex Lens Image Formation:
+	Labeled: Lens outline, Principal axis line, Focal points marked $F$ and $2F$, Real object standing between $F$ and $2F$.
+	Lettered (Image): The resulting inverted, magnified arrow drawn on the other side of the lens is left blank or lettered Z for students to describe its features.
+Subject: Agriculture and Nutrition
+•	Livestock Production
+o	Ruminant Stomach Compartments:
+	Labeled: Esophagus intake pipe, Small intestine outlet.
+	Lettered (1, 2, 3, 4): Compartment 1 (Rumen), Compartment 2 (Reticulum), Compartment 3 (Omasum), and Compartment 4 (Abomasum).
+o	Dairy Cow Conformation Points:
+	Labeled: Head profile, Back line, Leg placement.
+	Lettered (X, Y): X pointing to a wedge-shaped, deep udder structure, and Y pointing to a prominent, winding milk vein on the underbelly.
+o	Poultry Deep Litter Housing:
+	Labeled: Feeder troughs, Drinking fonts, Roof trusses.
+	Lettered (A, B): A pointing to the open ventilation wire mesh sections on the upper walls, and B pointing to the thick wood-shavings floor layer (Litter layer).
+Subject: Pre-Technical Studies
+•	Energy and Power Systems
+o	Solar Photovoltaic Grid Layout:
+	Labeled: Solar panels on roof, Household appliances drawing power.
+	Lettered (X, Y, Z): X pointing to the charge controller unit, Y pointing to the deep-cycle battery bank, and Z pointing to the power inverter unit.
+o	Four-Stroke Engine Cycles:
+	Labeled: Piston cylinder, Spark plug, Connecting rods.
+	Lettered (1, 2, 3, 4): Labels over the four distinct engine stroke diagrams where valve openings and piston arrow directions indicate 1 (Intake), 2 (Compression), 3 (Power), and 4 (Exhaust).
+o	Hydraulic Ram System:
+	Labeled: Fluid reservoir tank, Sealed pipe walls.
+	Lettered ($F_1$, $F_2$): $F_1$ over a small piston diameter input area, and $F_2$ over a large piston diameter output lifting platform area to assess pressure distribution questions.
+________________________________________
+📊 Grade 9 Exam-Ready Image Specifications
+Subject: Integrated Science
+•	Acids, Bases, and Indicators
+o	pH Scale Chart:
+	Labeled: Numerical scale values ranging strictly from 0 to 14.
+	Lettered (X, Y, Z): X over the color block section representing strongly acidic zones (pH 1–3), Y over the neutral zone (pH 7), and Z over the strongly alkaline/basic zone (pH 12–14).
+o	Acid-Base Titration Equipment:
+	Labeled: Retort stand, Conical flask holding a measured solution.
+	Lettered (A, B): A pointing to the long, graduated stopcock tube (Burette), and B pointing to the delivery tool used to measure the base sample (Pipette).
+o	Reaction of Acid with Metal Carbonate:
+	Labeled: Test tube containing dilute hydrochloric acid and calcium carbonate chips, Delivery tube.
+	Lettered (X, Y): X pointing to gas bubbles evolving in the first test tube, and Y pointing to the indicator liquid turning milky white in the receiving test tube (Limewater test).
+•	Mechanics (Force, Work, and Energy)
+o	Levers Classes:
+	Labeled: Uniform rigid beams.
+	Lettered (E, F, L): Points on three separate diagrams where students must identify which point represents the Effort (E), Fulcrum (F), or Load (L) to classify 1st, 2nd, and 3rd class levers.
+o	Pulley System Setup:
+	Labeled: Fixed upper beam anchor points, String paths.
+	Lettered (W, E): W pointing to a suspended block weight (Load), and E pointing to an arrow indicating the direction of pulling force (Effort).
+o	Inclined Plane Vector System:
+	Labeled: Triangular ramp shape, Angle of incline $\theta$.
+	Lettered (X, Y): X pointing to a block being pulled up the ramp surface, and Y pointing to a hanging weights arrangement counter-balancing friction forces.
+•	Astronomy and Space Exploration
+o	Solar Eclipse Mechanics:
+	Labeled: The Sun sphere on the far left edge of the diagram.
+	Lettered (X, Y): X pointing to the small middle orbital sphere blocking light (Moon), and Y pointing to the large sphere catching the shadow paths (Earth).
+o	Lunar Eclipse Mechanics:
+	Labeled: The Sun sphere, Earth sphere sitting squarely in the middle path.
+	Lettered (Z, Shadow): Z pointing to the darkened sphere tracking through the shadow (Moon), with the dark cone region labeled Umbra/Penumbra or left blank for identification.
+o	The Solar System Map:
+	Labeled: Sun core, Ringed orbits paths around the center.
+	Lettered (A, B, C): A pointing to the planet closest to the sun (Mercury), B pointing to the largest planet (Jupiter), and C pointing to the ring system planet (Saturn).
+Subject: Agriculture and Nutrition
+•	Livestock Health and Parasites
+o	Tick Morphology (External Parasite):
+	Labeled: Cephalothorax head segment, Oval unsegmented abdomen.
+	Lettered (X, Y): X pointing to the mouthparts arrangement (Capitulum), and B pointing to the four pairs of jointed walking legs (Adult arachnid trait).
+o	Liver Fluke Life Cycle (Internal Parasite):
+	Labeled: Grazing livestock animal hosts, Water body environment.
+	Lettered (X): X pointing to an intermediate aquatic host shell diagram (Freshwater snail) required to break or continue the cycle.
+o	Tsetse Fly Identification:
+	Labeled: Large compound eyes, Thorax structure.
+	Lettered (Z): Z pointing to a forward-pointing probiscus mouth needle and a distinct wing fold pattern (Hatchet cell) showing wings folded completely over the back.
+•	Farm Structures and Maintenance
+o	Barbed Wire Fence Corner Assembly:
+	Labeled: Line posts, Spaced wire strands.
+	Lettered (X, Y): X pointing to a thick corner anchor post (Strainer post), and Y pointing to a diagonal wooden support pole brace (Strut/Stay).
+o	Concrete Block Retaining Wall Cross-Section:
+	Labeled: Stacked masonry units, Soil backfill mass.
+	Lettered (P, Q): P pointing to a wide subterranean concrete pad base (Footing), and Q pointing to drainage relief pipes running through the block face (Weep holes).
+o	Farm Workshop Tool Board:
+	Labeled: Hammers, Hand saws, Wrenches.
+	Lettered (X, Y): X pointing to an Adjustable pipe wrench profile, and Y pointing to a Mortise woodwork chisel profile.
+Subject: Pre-Technical Studies
+•	Electronics and Semiconductors
+o	P-N Junction Diode Diagram:
+	Labeled: External connecting terminals, Positively charged hole carriers.
+	Lettered (X, Y): X pointing to the central barrier dividing layer (Depletion region), and Y pointing to the free-electron rich side zone (N-type semiconductor material).
+o	Full-Wave Bridge Rectifier Circuit:
+	Labeled: AC input power source terminals, Output load resistor.
+	Lettered ($D_1, D_2, D_3, D_4$): Four connected diode symbols oriented in a loop diamond layout where individual diode direction arrows are left blank or lettered to determine operational flow during alternating phase cycles.
+o	Transistor Pinout Layout:
+	Labeled: Semi-circular casing body profile view.
+	Lettered (E, B, C): Three terminal wire leads labeled E (Emitter), B (Base), and C (Collector) for tracking connections.
+Here is the highly specific Primary Level Exam-Ready Image Blueprint based strictly on Kenya's 2024 Revised/Rationalized CBC Curriculum. [1, 2] 
+At the Primary level, the subjects have been significantly consolidated to reduce workload: Lower Primary (Grades 1–3) features 7 learning areas (Hygiene & Nutrition integrated into Environmental Activities), and Upper Primary (Grades 4–6) features 8 learning areas (Agriculture merged with Home Science, and Physical Health Education merged with Creative Arts). [1, 2] 
+To support strict exam testing, each entry details what must be pre-labeled to provide context and what must be lettered (X, Y, Z) or left blank for students to identify.
+________________________________________
+🎒 Lower Primary (Grades 1–3) Exam Blueprint
+Subject: Environmental Activities (Including Rationalized Hygiene & Nutrition) [1, 2] 
+•	
+•	Strand: Our Environment and Weather
+o	Substrand: Weather Instruments and Conditions
+	Standard Windvane:
+	Labeled: Cardinal direction arms clearly marked north, south, east, and west (N, S, E, W), and supporting vertical metal pole.
+	Lettered (X, Y): X pointing to the flat tail fin assembly (captures wind), and Y pointing to the front-pointing arrow tip indicating wind direction.
+	Simple Liquid Thermometer:
+	Labeled: Sealed outer glass capillary tube, and numerical temperature markings along the side scale.
+	Lettered (A, B): A pointing to the expanded bulb at the base, and B pointing to the liquid meniscus line showing current expansion height.
+	Rain Gauge Layout:
+	Labeled: External container walls firmly anchored in the ground, and internal measuring cylinder.
+	Lettered (X, Y): X pointing to the wide-mouth collection funnel sitting on top, and Y pointing to the millimeters line scale on the glass tube.
+•	Strand: Care of the Body and Health
+o	Substrand: Human Teeth Structures
+	Incisor Tooth:
+	Labeled: Gumline position separator.
+	Lettered (X, Y): X pointing to the flat, sharp biting upper edge (crown), and Y pointing to the single embedded root shaft underneath.
+	Molar Tooth:
+	Labeled: Protective outer layer enamel, and internal pulp cavity.
+	Lettered (A, B): A pointing to the broad, bumpy chewing surface (cusps), and B pointing to the split double/triple rootsanchored into the jaw.
+	Primary (Milk) vs Permanent Dentition Arc:
+	Labeled: Symmetrical jaw layout model displaying teeth arrangements.
+	Lettered (X): X highlighting the total count difference or missing space locations where childhood premolars have not yet formed.
+•	
+Subject: Mathematical Activities [3, 4] 
+•	
+•	Strand: Geometry
+o	Substrand: Two-Dimensional Shapes
+	Basic Polygon Sorting Grid:
+	Labeled: Grid framework separating three layout spaces.
+	Lettered (X, Y, Z): X over a shape with 3 straight sides and 3 corners (Triangle), Y over a shape with 4 equal sides and square corners (Square), and Z over a curved rim lacking vertices (Circle).
+	Lines of Symmetry Demonstration:
+	Labeled: Outlines of balanced everyday objects like butterflies, leaves, and shirts.
+	Lettered (A, B): A over a correctly dashed central mirroring line, and B over an incorrect, offset diagonal line to test spatial classification.
+	Pattern Extrapolation Chains:
+	Labeled: Repeating string showing a sequence of alternating solid tokens (e.g., triangle, triangle, circle, triangle, triangle).
+	Lettered (X, Y): Blank empty boxes marked X and Y at the tail end of the line where students must draw the next sequential items.
+•	
+________________________________________
+🎒 Upper Primary (Grades 4–6) Exam Blueprint
+Subject: Science and Technology [2, 5] 
+•	
+•	Strand: Living Things
+o	Substrand: Plants Classification (Flowering and Non-Flowering)
+	Dicotyledonous Leaf vs Monocotonous Leaf Structure:
+	Labeled: Main leaf petiole branch connections.
+	Lettered (X, Y): X pointing to a network of branching net-like veins (Dicot), and Y pointing to straight, unbranched parallel veins running edge-to-edge (Monocot).
+	Parts of a Typical Flowering Plant:
+	Labeled: Main stem axis, Mature green leaves.
+	Lettered (A, B, C): A pointing to the colorful reproductive petals (Flower), B pointing to a developing seed pod (Fruit), and C pointing to the underground water gathering system (Roots).
+	Fungi Group Organism (Mushroom structural map):
+	Labeled: Ground substrate line, and lower vegetative thread network (Mycelium).
+	Lettered (X, Y): X pointing to the wide top umbrella cap (Pileus), and Y pointing to the vertical supporting stalk pillar (Stipe).
+•	Strand: Human Body Systems
+o	Substrand: The Digestive System
+	Upper Alimentary Tract Layout:
+	Labeled: Mouth opening cavity, and muscular tongue profile.
+	Lettered (X, Y, Z): X pointing to the long throat transport tube (Esophagus), Y pointing to the wide J-shaped muscular storage sac (Stomach), and Z pointing to the large dark triangular organ on the left (Liver).
+	Intestinal Tract Layout:
+	Labeled: Stomach base connection point, and final exit opening (Anus).
+	Lettered (A, B): A pointing to the highly coiled narrow tube center (Small Intestine), and B pointing to the wider outer frame tube (Large Intestine).
+	Internal Stomach Cross-Section:
+	Labeled: Oesophageal entrance valve ring, and duodenum exit valve ring.
+	Lettered (X): X pointing directly to the internal folded ridges of the stomach wall (Rugae) responsible for churning actions.
+•	
+Subject: Agriculture and Nutrition (2024 Merged Area) [1, 2] 
+•	
+•	Strand: Soil and Crop Production
+o	Substrand: Compost Preparation (Pit and Heap Methods)
+	Layered Compost Pit Cross-Section:
+	Labeled: Pit structural dug outline walls, and air ventilation stick inserted in the center.
+	Lettered (A, B, C): A pointing to the base layer of dry twigs (for aeration), B pointing to a thick middle layer of green kitchen organic waste, and C pointing to a top sealing layer of topsoil/manure.
+	Soil Erosion Types Display:
+	Labeled: Normal original flat topsoil field horizon line.
+	Lettered (X, Y): X pointing to shallow, narrow finger-like channels carved by rainwater run-off (Rill erosion), and Y pointing to deep, wide impassable chasms carved into the hillside (Gully erosion).
+	Damping-off Disease in Nursery Beds:
+	Labeled: Wooden seed nursery frame bed bounding rows of young seedlings.
+	Lettered (Z): Z highlighting a seedling collapsing at the soil baseline due to a pinched, rotted, water-soaked stem lesion point.
+•	Strand: Home Science & Food Preparation
+o	Substrand: Kitchen Tools and Sewing Equipment
+	Traditional Three-Stone Cookstove vs Charcoal Jiko:
+	Labeled: Fuelwood logs in the traditional hearth setup.
+	Lettered (X, Y): X pointing to the charcoal combustion fuel grate cavity on the metallic portable jiko, and Y pointing to the ash collection door underneath.
+	Sewing Stitches Dictionary:
+	Labeled: Fabric layer baseline border.
+	Lettered (A, B, C): A pointing to long, loose temporary holding loops (Tacking stitches), B pointing to neat, overlapping permanent link lines (Backstitches), and C pointing to folded edge protection lines (Hemming stitches).
+	Handwashing Station (Leaky Pipe Tip-Tap system):
+	Labeled: Supporting branch tripod frame setup, and foot pedal string string connector line.
+	Lettered (X): X pointing to a suspended plastic water container tilted downward to release a steady stream via a small drilled ventilation hole.
+•	
+Subject: Creative Arts (2024 Merged Art, Music, & PHE) [1, 2] 
+•	
+•	Strand: Art and Craft Techniques
+o	Substrand: Tonal Value Scale and Perspective Drawing
+	9-Step Tonal Value Bar:
+	Labeled: Step 1 block left completely clean white (Highlight point).
+	Lettered (X, Y): X over a middle block showing medium grey hatch shading, and Y over the final block filled solid dark black (Deep shadow point).
+	One-Point Perspective Room Grid:
+	Labeled: Horizontal eye-level line crossing across the rear wall layout.
+	Lettered (Z): Z pointing to the single central junction dot where all receding parallel lines converge (Vanishing Point).
+	Coiled Pottery Construction Technique:
+	Labeled: Flat, circular clay disc pancake base.
+	Lettered (A, B): A pointing to an individual rope-like strand of clay (Coil), and B pointing to the smooth inner wall where joints are welded together using clay slip.
+•	
+________________________________________
+📊 Complete Junior High (Grade 9) Exam-Ready Image Specifications
+To complete your full request across all levels, here are the remaining Grade 9 strands under the 2024 revised compulsory framework: [4] 
+Subject: Creative Arts and Sports (2024 Merged Framework) [1, 5] 
+•	
+•	Strand: Sports and Physical Health Education
+o	Substrand: Athletics and Field Dimensions
+	Standard Track Relay Exchange Zone Grid:
+	Labeled: Staggered lane markers, and directional running arrows.
+	Lettered (X, Y): X pointing to the 20-meter legal passing zone boundaries box lines, and Y pointing to the acceleration zone limit line.
+	High Jump Layout Plan (Fosbury Flop action):
+	Labeled: Vertical upright support stands holding the crossbar framework.
+	Lettered (A, B): A pointing to the semi-circular approach run-up path line, and B pointing to the thick impact landing foam cushion safety pad mat.
+	Netball Court Layout Boundary Specifications:
+	Labeled: Goal posts at both terminal ends of the court.
+	Lettered (X, Y, Z): X pointing to the center transverse circle line ring, Y pointing to the semi-circular goal shooting area radius arc line (D-zone), and Z highlighting side boundary lines.
+•	
+Subject: Social Studies (Merged with Life Skills) [1, 5] 
+•	
+•	Strand: African Physical Environment
+o	Substrand: Map Reading, Interpretation, and Climatic Zones
+	Topographical Map Contour Formations:
+	Labeled: Contour line intervals tracking elevation numbers (e.g., 1000m, 1100m, 1200m).
+	Lettered (X, Y): X pointing to a concentric ring pattern with closely packed lines indicating a steep hill summit, and Y pointing to a V-shaped line pattern pointing toward higher ground indicating a river valley channel.
+	Cross-Section of a Fold Mountain System:
+	Labeled: Directional tectonic compression stress force arrows at the outer flanks.
+	Lettered (A, B): A pointing to the upward crest wave arch fold line (Anticline), and B pointing to the downward trough dip fold line (Syncline).
+	Climatic Regions Map of Africa:
+	Labeled: Equator line ($0^\circ$), Tropic of Cancer ($23.5^\circ\text{N}$), and Tropic of Capricorn ($23.5^\circ\text{S}$).
+	Lettered (X, Y, Z): X over the central equatorial rain belt zone (Congo Basin), Y over the expansive dry hot desert zone (Sahara), and Z over the Mediterranean tip borders.
+•	
+Here is the final piece to complete your entire curriculum catalog: the Pre-Primary (PP1 & PP2) blueprint and the remaining core Grade 9 compulsory subjects under Kenya’s 2024 Revised CBC Framework.
+At the Pre-Primary level, the focus is entirely on basic identification, safety, and foundational tracing, using very clear, bold lines with minimal visual clutter.
+________________________________________
+🧸 Pre-Primary (PP1 & PP2) Exam Blueprint
+Subject: Environmental Activities
+•	Strand: My Self and My Family
+o	Substrand: Parts of the Body and Senses
+	Face Profile Layout:
+	Labeled: Hair outline, chin, and outer ears.
+	Lettered (X, Y, Z): X pointing to the eye, Y pointing to the nose, and Z pointing to the mouth for basic label matching or drawing connections.
+	Hand and Feet Senses:
+	Labeled: Wrist line and ankle boundaries.
+	Lettered (A, B): A pointing to the five individual fingers (Touch), and B pointing to the toenails area.
+	Everyday Basic Emotions Faces:
+	Labeled: Round circle head frames.
+	Lettered (X, Y): X over a face with a large upward curving line mouth (Happy), and Y over a face with a downward curving mouth line and teardrop (Sad).
+•	Strand: Safety and Health Care
+o	Substrand: Dangerous Objects and Personal Hygiene Tools
+	Sharp Household Hazards Grid:
+	Labeled: Safe plastic toys grouped in a box on the left.
+	Lettered (A, B, C): A over a razor blade drawing, B over a long kitchen knife silhouette, and C over an open safety pin to assess "Do Not Touch" sorting questions.
+	Personal Hygiene Cleaning Set:
+	Labeled: A water tap running water into a bucket.
+	Lettered (X, Y): X pointing to a small rectangular bar of hand soap, and Y pointing to a small plastic toothbrush tool.
+	Road Crossing Safety (Zebra Crossing):
+	Labeled: Paved asphalt road borders and a sidewalk curb line.
+	Lettered (Z): Z highlighting the alternating thick white painted blocks on the road where it is safe to cross.
+Subject: Mathematical Activities
+•	Strand: Classification and Number Work
+o	Substrand: Sorting, Grouping, and Counting Objects
+	Object Sorting Buckets:
+	Labeled: Two empty collection bucket vectors.
+	Lettered (X, Y): X over a scattered pool of natural objects (e.g., leaves, twigs, stones), and Y over household plastic kitchen spoons to assess sorting by category.
+	Trace-and-Count Dot Clusters:
+	Labeled: A numerical box displaying a bold number "4".
+	Lettered (A): Box A containing a cluster of exactly four large dotted circles that the child must trace and count to match the number.
+	Big vs Small Size Comparison:
+	Labeled: Standard size benchmark box.
+	Lettered (X, Y): X pointing to a giant, oversized ball circle shape, and Y pointing to a tiny bead-sized circle shape on the same baseline.
+________________________________________
+📊 Grade 9 Exam Blueprint (Remaining Core Subjects)
+Subject: Mathematics
+•	Strand: Algebra and Graphs
+o	Substrand: Simultaneous Equations & Quadratic Graphs
+	Linear Intersection System Graph:
+	Labeled: X-axis and Y-axis scales, grids, and equations written on lines: Line 1 (y = 2x + 1) and Line 2 (x + y = 4).
+	Lettered (P): Point P placed directly on the exact coordinates where the two lines cross over each other (Intersection point solution).
+	Parabola Turning Point Curve:
+	Labeled: Cartesian grid framework mapping a U-shaped quadratic curve (y = ax² + bx + c).
+	Lettered (X, Y): X pointing to the lowest trough point of the curve (Minimum vertex), and Y pointing to the locations where the curve intersects the horizontal axis (X-intercepts/roots).
+	Linear Inequality Region Shading:
+	Labeled: A boundary line plotted cleanly across a Cartesian layout grid.
+	Lettered (R): R placed in the center of a heavily shaded area representing the true solution region bounded by the inequality constraints (e.g., y ≥ 2x - 3).
+•	Strand: Geometry and Trigonometry
+o	Substrand: Right-Angled Triangles and Bearings
+	Trigonometric Triangle Vector:
+	Labeled: Right-angle square symbol (90°) at the base corner, and angle θ marked at the bottom corner node.
+	Lettered (A, B, C): A pointing to the longest slanted side (Hypotenuse), B pointing to the side opposite angle θ (Opposite), and C pointing to the baseline side (Adjacent).
+	True Bearings Navigation Layout:
+	Labeled: Master true North arrow point line (N) extending straight upward from Point Origin O.
+	Lettered (θ, X): Angle θ mapping a clockwise rotational sweep arc from the North line, and X marking the target destination point to calculate the final bearing angle value.
+	Angle of Elevation and Depression:
+	Labeled: A tall vertical lookup tower pillar structure model.
+	Lettered (A, B): A pointing to the angle between the horizontal line of sight and an observer looking upward at a plane (Elevation), and B pointing to the downward looking angle from the tower top down to a car on the ground (Depression).
+Subject: Religious Education (CRE / IRE / HRE Framework)
+•	Strand: Historical Narratives and Sacred Geography
+o	Substrand: Journeys of Faith and Sacred Sites Maps
+	The Exodus Route Map Line:
+	Labeled: Outline of Egypt borders, Nile Delta, and the Mediterranean coastline.
+	Lettered (X, Y, Z): X marking the starting area (Land of Goshen), Y marking the water crossing point (Red Sea), and Z pointing to the mountain ranges destination (Mount Sinai).
+	Early Christian/Islamic Historical Sites Grid (e.g., Journey to Madinah/Hijrah):
+	Labeled: Coastline of the Arabian Peninsula.
+	Lettered (A, B): A pointing to the holy city of Makkah starting point, and B pointing to the northern city city destination of Madinah (Yathrib).
+	The Temple Assembly Cross-Section:
+	Labeled: Outer courtyard wall bounds, and main entry doors.
+	Lettered (X, Y): X pointing to the intermediate sanctuary chamber (Holy Place), and Y pointing to the innermost sacred curtain chamber box (Most Holy Place / Holy of Holies).
+Subject: Social Studies (Remaining Strands)
+•	Strand: History and Government
+o	Substrand: Pre-Colonial African Kingdoms & Systems
+	Trade Routes Network Across Africa:
+	Labeled: Coastlines of West Africa and North Africa ports.
+	Lettered (X, Y): X pointing to the trans-Saharan caravan paths moving desert salt, and Y pointing to the forest paths moving gold commodities northward.
+	Structure of the Pre-Colonial Buganda Kingdom Administration:
+	Labeled: Hierarchical institutional structure chart box layouts.
+	Lettered (A, B): A over the topmost supreme ruler king box (Kabaka), and B over the traditional prime minister legislative advisor council box (Katikkiro).
+	Archaeological Sites Map of East Africa:
+	Labeled: Lake Victoria contours, and regional national borders.
+	Lettered (X, Y, Z): X pointing to the Rift Valley dig site in Kenya (Olorgesailie), Y pointing to Tanzania’s gorge location (Olduvai Gorge), and Z pointing to Uganda’s site (Nsongezi).
+
+
+
+
+
+Here is the Language and Literacy Blueprint to fill in the missing subjects across all levels (Pre-Primary, Primary, and Junior High) under the 2024 Revised CBC Curriculum.
+Languages in a high-rigor exam use images differently than sciences. Instead of technical diagrams, they use visual comprehension grids, sequence chains, functional signage, and phonics prompts to test writing, grammar, listening, and comprehension.
+________________________________________
+🧸 Pre-Primary (PP1 & PP2) Missing Subjects
+Subject: Language Activities / Phonics
+•	Strand: Foundational Phonics and Vocabulary
+o	Substrand: Letter-Sound Recognition Grid
+	Initial Sound Association Board:
+	Labeled: Bold letters written next to frame boxes: A, B, C.
+	Lettered (X, Y, Z): X showing an apple silhouette, Y showing a ball silhouette, and Z showing a cat outline. Students draw lines to match the correct letter-sound.
+	Rhyming Words Object Matrix:
+	Labeled: A master picture box containing a drawing of a Pan.
+	Lettered (A, B): A showing a drawing of a Van, and B showing a drawing of a Log. Students identify which image rhymed with the master.
+	Missing CVC Word Visual Prompt:
+	Labeled: An incomplete text frame below an image reading __ a t.
+	Lettered (X): X pointing to a bold line drawing of a Mat or Hat to test initial consonant printing.
+Subject: Shughuli za Lugha (Kiswahili)
+•	Strand: Kutambua Sauti na Kusoma
+o	Substrand: Sauti za Silabi
+	Chati ya Picha na Silabi:
+	Labeled: Silabi zilizoandikwa kwa herufi nzito: TA, MA, PA.
+	Lettered (X, Y, Z): X ikionyesha picha ya Taa, Y ikionyesha picha ya Macho, na Z ikionyesha picha ya Pasi kwa ajili ya zoezi la kuunganisha.
+	Uainishaji wa Vitu vya Nyumbani:
+	Labeled: Mfumo wa sanduku mbili: Sebule na Jikoni.
+	Lettered (A, B): A ikionyesha mchoro wa Kiti, na B ikionyesha mchoro wa Sufuria. Mwanafunzi anachagua picha inayofaa kuwekwa jikoni.
+________________________________________
+🎒 Lower Primary (Grades 1–3) Missing Subjects
+Subject: English Language
+•	Strand: Reading Comprehension and Grammar
+o	Substrand: Prepositions and Spatial Orientation
+	The Classroom Object Placement Grid:
+	Labeled: A standard study desk and a teacher's blackboard frame in the background.
+	Lettered (X, Y, Z): X showing a cat completely underneath the desk, Y showing a book sitting flat on top of the desk, and Z showing a ball resting inside an open school bag.
+	Four-Panel Story Sequencing Chain:
+	Labeled: Four sequential comic frame slots detailing a child washing hands. Panel 1 shows turning on a tap.
+	Lettered (A, B, C): Blank circle placeholders A, B, and C in the corners where students must write numbers 2, 3, and 4 to establish chronological composition.
+	Action Verbs Pronoun Association Chart:
+	Labeled: Pronouns printed clearly on the left: He, She, They.
+	Lettered (X, Y): X showing a stick figure running fast, and Y showing two distinct stick figures playing soccer together to evaluate subject-verb agreement (runs vs run).
+Subject: Kiswahili (Gredi ya 1–3)
+•	Strand: Sarufi na Kusoma kwa Ufahamu
+o	Substrand: Ngeli za Nomino na Viashiria
+	Chati ya Ngeli ya A-WA (Umoja na Wingi):
+	Labeled: Maneno yaliyoandikwa: "Mtu mmoja" na "Watu wengi".
+	Lettered (X, Y): X ikionyesha mchoro wa Mtoto mmoja, na Y ikionyesha kikundi cha Watoto watatu ili kutathmini matumizi ya viashiria (huyu / hawa).
+	Alama za Usalama Barabarani (Ufahamu):
+	Labeled: Rangi za taa za trafiki: Nyekundu (Simama), Njano (Tayari).
+	Lettered (Z): Z ikionyesha rangi ya Kijani iliyoachwa wazi au yenye herufi ili mwanafunzi aandike maana yake (Nenda).
+________________________________________
+🎒 Upper Primary (Grades 4–6) Missing Subjects
+Subject: English Language
+•	Strand: Language Use, Mechanics and Literacy
+o	Substrand: Punctuation Prompts and Structural Reading
+	Dialogue Punctuation Comic Strip:
+	Labeled: Two characters engaged in an argument. Speech balloons are provided above their heads.
+	Lettered (X, Y): X and Y point to empty square boxes inside the speech bubbles where punctuation marks like quotation marks “ ”, exclamation marks !, or question marks ? must be inserted.
+	Functional Signage Context Clues:
+	Labeled: A public post outline standing near a building entrance corridor.
+	Lettered (Z): An official graphic warning sign bearing a symbol of a lit cigarette crossed out with a bold diagonal slash, lettered Z for identifying situational rules in a reading test.
+	Parts of Speech Tree Layout:
+	Labeled: A decorative graphic tree structure branching into categories: Nouns, Adjectives, Adverbs.
+	Lettered (A, B): Leaves marked A containing the word "Quickly", and leaf B containing "Beautiful". Students must classify which branch each leaf belongs to.
+Subject: Kiswahili (Gredi ya 4–6)
+•	Strand: Ufahamu wa Kusoma na Kuandika
+o	Substrand: Akisami na Mapambo ya Lugha
+	Mchoro wa Sehemu za Duara (Akisami):
+	Labeled: Duara zima lililochorwa mistari ya kukata sawasawa.
+	Lettered (X, Y): X ikionyesha sehemu moja iliyopakwa rangi kati ya nne (Robo), na Y ikionyesha sehemu tatu zilizopakwa rangi kati ya nane (Tatu masubui/Tatu kwa nane).
+	Methali kwa Picha (Vitendawili vya Kuona):
+	Labeled: Mandhari ya usuli ya mawingu na mvua.
+	Lettered (Z): Z ikionyesha mchoro wa mtu anayevuna mazao shambani kueleza kwa vitendo methali kama vile "Mvunaji ni mla mchele" au "Asiyefanya kazi, hali".
+________________________________________
+📊 Junior High (Grades 7–9) Missing Subjects
+Subject: English / Functional Writing
+•	Strand: Advanced Grammar and Functional Composition
+o	Substrand: Official Correspondence and Creative Formats
+	Official Business Letter Layout Skeleton:
+	Labeled: The general margins, body paragraph block outlines, and ending greeting template formulas (Yours faithfully).
+	Lettered (X, Y, Z): X pointing to the top right empty box (Sender's Address), Y pointing to the left-aligned address block (Recipient's Address), and Z pointing to the center subject line header (REF: ________).
+	Poetic Device Meter Line Graph:
+	Labeled: A line tracking rising and falling voice pitches across a stanza line text block.
+	Lettered (A, B): A over a symbols indicator tracking stressed syllables (/), and B over unstressed syllable curved markers (˘) to test understanding of iambic pentameter rhythm layouts.
+	Poster Design Advert Advertisement Evaluation:
+	Labeled: A mock event flyer promoting a school tree-planting drive.
+	Lettered (X, Y): X pointing to the large, bold catchy phrase text block at the absolute top (Catchphrase/Headline), and Y pointing to a small icon block detailing times and locations (Call to Action/Logistics).
+Subject: Kiswahili (Kidato cha Kwanza - Tatu / JSS)
+•	Strand: Fasihi Simulizi na Sarufi Ndani ya Muktadha
+o	Substrand: Ngeli za Nomino na Muundo wa Sentensi
+	Mchoro wa Muundo wa Sentensi (Vichanganuzi Vya Matawi):
+	Labeled: Sentensi iliyoandikwa chini: "Mtoto mtiifu anasoma vizuri."
+	Lettered (X, Y, Z): X ikionyesha tawi linalowakilisha Kikundi Nomino (KN), Y ikionyesha Kikundi Tenzi (KT), na Z ikielekeza kwenye vijenzi vidogo kama vile Kielezi (E) au Kivumishi (V).
+	Mavazi na Utamaduni wa Waswahili (Msamiati):
+	Labeled: Sura ya mtu na msimamo wa mwili kwa ujumla.
+	Lettered (A, B): A ikielekeza kwenye vazi lililofungwa kiunoni au kichwani (Kanzu/Kofia ya kikofia), na B ikielekeza kwenye ushungi au mtandio uliotumiwa kujifunika mabegani.
+Subject: Foreign/Indigenous Languages (French, German, Arabic, Local Languages)
+•	Strand: Vocabulary, Dialogue, and Culture Context
+o	Substrand: Interpersonal Communications Prompts
+	A Map of the Target Language Nation (e.g., France/Germany):
+	Labeled: Surrounding ocean borders and international neighboring border lines.
+	Lettered (X, Y): X pointing precisely to the capital city dot icon (e.g., Paris/Berlin), and Y highlighting a prominent river lifeline running across the interior geography.
+	Time Management Digital vs Analog Clock Face Alignment:
+	Labeled: A digital prompt box displaying 14:30.
+	Lettered (Z): An analog clock template next to it where the hands are missing or drawn with letters Z on the minute hand position to test translation comprehension phrases like "Demie heure" or "Halb drei".
+	Market Commerce Dialogue Transaction Scene:
+	Labeled: Store counter displaying priced goods with specific foreign currency symbols (€ / ﷼).
+	Lettered (A, B): Speech balloon A from the buyer is blank (testing a greeting phrase/price inquiry like "Combien coûte...?"), and speech balloon B from the seller is left blank to evaluate mathematical and verbal currency exchange responses.
+
+
+
+
+
+

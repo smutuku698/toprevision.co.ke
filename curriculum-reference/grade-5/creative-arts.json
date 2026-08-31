@@ -1,0 +1,669 @@
+{
+  "subject": "Creative Arts",
+  "subjectId": "creative-arts-sports",
+  "grade": 5,
+  "source": {
+    "title": "Primary School Curriculum Design — Creative Arts, Grade 5 (First Published 2017, Revised 2024)",
+    "publisher": "KICD",
+    "isbn": "978-9914-43-955-5",
+    "retrievedDate": "2026-08-30",
+    "confidence": "high",
+    "notes": "Read directly from 'grade 5 designs/GRADE-5-CREATIVE-ARTS-Curriculum-Designs.pdf' via the Read tool (no pages param), full text — all 3 strands, both optional sub-strands, the two Suggested Assessment Rubrics, Appendix I (CSL) and Appendix II (Learning Resources / Assessment Methods / Non-formal Activities). Official Grade 5 subject name is 'Creative Arts' alone (not 'Creative Arts & Sports', which applies only from Grade 7) — see namesByGrade on the subject entry in web/src/lib/curriculum.ts. Essence statement: Creative Arts at this level is an integrated learning area consisting of Art and Craft, Music, and Physical Health Education. Total suggested lessons: 180. Strand 2.0 has an optional sub-strand where the learner MUST cover ONE of Swimming OR Indigenous Kenyan Games — this build ships both as separate skills (g5-cas-swimming, g5-cas-indigenous-kenyan-games)."
+  },
+  "strands": [
+    {
+      "name": "1.0 Creating and Executing",
+      "subStrands": [
+        {
+          "name": "1.1 Wind Musical Instruments (Drawing)",
+          "skillId": "g5-cas-wind-instruments-drawing",
+          "lessonCount": 15,
+          "subStrandBullets": [
+            "Identifying: name, community, method of playing",
+            "Role of parts",
+            "Care — handling, hygiene and storage",
+            "Texture — cross-hatching",
+            "Crayon etching"
+          ],
+          "specificLearningOutcomes": [
+            "Identify indigenous wind musical instruments from Kenyan communities",
+            "Explain the role of the parts of a wind instrument in sound production",
+            "Make a wind instrument using locally available materials",
+            "Care for an indigenous Kenyan musical wind instrument",
+            "Draw a wind instrument using the crayon etching technique",
+            "Value indigenous wind musical instruments from Kenyan communities"
+          ],
+          "keyInquiryQuestions": [
+            "What is the importance of indigenous wind instruments in Kenyan communities?",
+            "Why is it necessary to care for and maintain a wind instrument?"
+          ],
+          "learningExperiences": [
+            "View real/pictures/videos of indigenous wind instruments from Kenyan communities and identify them",
+            "Name the parts of a wind instrument and discuss how they contribute to sound production",
+            "Source locally available materials and make a wind instrument while observing safety and clean the working area",
+            "Tune the wind instrument made for functionality",
+            "Brainstorm on the caring for a wind instrument and its importance",
+            "Take turns to practise care and maintenance of a wind instrument",
+            "Explore real/virtual drawings to discuss texture (cross-hatching)",
+            "Draw a composition of any two musical instruments using the crayon etching technique with emphasis on texture (cross-hatching)",
+            "Display and talk about own and others' created work using appropriate language"
+          ],
+          "coreCompetencies": [
+            "Creativity and Imagination — the learner searches for appropriate materials and ways of making a wind instrument",
+            "Communication and collaboration — the learner speaks clearly and effectively while discussing the care of a wind instrument and its importance"
+          ],
+          "linkedLearningAreas": [
+            "Social Studies — the learner applies the knowledge of indigenous communities to identify wind musical instruments from the Kenyan communities"
+          ],
+          "scopeNotes": [
+            "include: identification covers name, community of origin, and method of playing of indigenous Kenyan wind instruments",
+            "include: role/function of the parts of a wind instrument in sound production",
+            "include: care of a wind instrument specifically means handling, hygiene and storage",
+            "include: two named drawing techniques — texture via cross-hatching, and crayon etching (crayon sgraffito) applied to a composition of two instruments"
+          ],
+          "assessmentSignal": "Rubric 'Meets Expectations' rewards being able to create/execute wind instruments using locally available materials AND a drawing using crayon etching — both the craft and the drawing technique are tested.",
+          "buildNotes": "Instrument set (all real, documented Kenyan indigenous wind instruments, no invented names): nzumari and chivoti (coastal Swahili / Mijikenda), coro (Kalenjin animal-horn trumpet), oporo (Luo side-blown horn), nyanga panpipes (Kuria). 5 QuestionKinds (multiple-choice, categorize, click-match, ordering, fill-blank). No wind-instrument or drawing-swatch VisualSpec exists in the shared set — visual omitted deliberately for this pass, consistent with the other Grade 5/6 Creative Arts skills."
+        },
+        {
+          "name": "1.2 Football",
+          "skillId": "g5-cas-football",
+          "lessonCount": 18,
+          "subStrandBullets": [
+            "Kicking (instep, outside of the foot)",
+            "Stopping (inside of the foot, step trap)",
+            "Dribbling (straight dribble)",
+            "Papier mâché (shredding, soaking, pounding, mixing with adhesive)",
+            "Casting"
+          ],
+          "specificLearningOutcomes": [
+            "Execute the skills of kicking, stopping and dribbling in football",
+            "Prepare papier mâché for casting cones",
+            "Cast marking cones using papier mâché for a Football game",
+            "Appreciate playing Football game on a field marked using cones for enjoyment"
+          ],
+          "keyInquiryQuestions": [
+            "Why is the Football game popular?",
+            "What are the advantages of casting with papier mâché?"
+          ],
+          "learningExperiences": [
+            "Observe a virtual or live game to identify kicking, stopping and dribbling skills in Football",
+            "Demonstrate in-step kick and outside of the foot kicking in Football",
+            "Demonstrate inside of the foot and step trap stopping in Football",
+            "Demonstrate straight dribbling skill in Football",
+            "Practise kicking skills in Football",
+            "Practise stopping skills in Football",
+            "Practise dribbling skills in Football",
+            "Observe videos on casting method in sculpture to familiarise with procedure",
+            "Prepare papier mâché following correct procedure",
+            "Use a mould to cast papier mâché cones following correct procedure",
+            "Paint the cones for marking the playing area",
+            "Mark the playing area using the cones",
+            "Play mini football games within the marked field while applying skills learnt"
+          ],
+          "coreCompetencies": [
+            "Digital literacy — the learner operates digital devices to observe kicking, stopping and dribbling skills in Football",
+            "Creativity and imagination — the learner comes up with new ideas on how to improvise cones using papier mâché"
+          ],
+          "linkedLearningAreas": [
+            "Mathematics — the learner is exposed to ball trajectory as they practise kicking, stopping and dribbling"
+          ],
+          "scopeNotes": [
+            "include: kicking is specifically the instep kick and the outside-of-the-foot kick",
+            "include: stopping is specifically the inside-of-the-foot stop and the step trap (sole trap)",
+            "include: dribbling is specifically the straight dribble",
+            "include: papier mâché preparation is the four named steps — shredding, soaking, pounding, mixing with adhesive — followed by casting cones in a mould"
+          ],
+          "assessmentSignal": "Rubric rewards creating/executing marking cones using papier mâché, and the stopping, kicking and dribbling skills.",
+          "buildNotes": "5 QuestionKinds (multiple-choice, categorize, click-match, ordering, fill-blank). No football-skill or papier-mâché VisualSpec exists — omitted deliberately."
+        },
+        {
+          "name": "1.3 Rhythm",
+          "skillId": "g5-cas-rhythm",
+          "lessonCount": 15,
+          "subStrandBullets": [
+            "Note values, symbols and their rests: minim, crotchet and a pair of quavers",
+            "French rhythm names taa-aa, taa and ta-te",
+            "Making a calligraphy pen (use bamboo/papyrus stick, fountain pen or any other)",
+            "Writing in calligraphy"
+          ],
+          "specificLearningOutcomes": [
+            "Interpret rhythmic patterns involving minim, crotchet, a pair of quavers and their rests",
+            "Create rhythms using music note symbols and their rests",
+            "Make a calligraphy pen for writing",
+            "Write in calligraphy French rhythm names of a rhythmic pattern",
+            "Aurally identify rhythm in two-beat patterns",
+            "Compose simple rhythms in two-beat patterns",
+            "Enjoy creating rhythms using music notes and their rests"
+          ],
+          "keyInquiryQuestions": [
+            "How can rhythmic patterns be created?",
+            "Why is calligraphy lettering used in writing?"
+          ],
+          "learningExperiences": [
+            "Listen to/sing simple songs involving minim, crotchet, pair of quavers and their rests and clap/tap their rhythmic patterns",
+            "Relate the French rhythm names to music note symbols and their rests",
+            "Practise writing the note symbols; a minim, crotchet, a pair of quavers and their rests on monotone",
+            "Apply composition techniques to create original rhythmic patterns and write them using French rhythm names and note symbols and their rests",
+            "Make a calligraphy pen using locally available materials while taking care of the environment",
+            "Practise writing letters of the alphabet (lower case) in calligraphy taking into account the angle of slants and ascenders/descenders",
+            "Write simple words in calligraphy among them French rhythm names",
+            "Clap/tap/stamp the beat/pulse and identify the strong and weak beats of music in two-beat patterns",
+            "Sing or listen to different types of songs and rhythmic patterns to identify two-beat patterns",
+            "Compose two-beat rhythmic patterns",
+            "Present composed rhythmic patterns to peers for review and feedback"
+          ],
+          "coreCompetencies": [
+            "Communication and collaboration — the learner listens keenly to peers' presentations on rhythmic patterns and speaks clearly to provide feedback",
+            "Creativity and Imagination — the learner utilises the composition techniques to compose original rhythmic patterns in two-beat patterns",
+            "Learning to Learn — the learner takes initiative to understand how rhythmic patterns are created"
+          ],
+          "linkedLearningAreas": [
+            "English — the learner uses the knowledge of the alphabet to practise writing in calligraphy"
+          ],
+          "scopeNotes": [
+            "include: note values are exactly minim (2 beats), crotchet (1 beat), a pair of quavers (1 beat total), plus their rests",
+            "include: French rhythm names are exactly taa-aa (minim), taa (crotchet), ta-te (pair of quavers)",
+            "include: calligraphy covers making a pen from a bamboo/papyrus stick and writing with a consistent slant, ascenders and descenders",
+            "include: metre work is limited to two-beat patterns — identifying strong (beat 1) and weak (beat 2) beats, and composing two-beat rhythms"
+          ],
+          "assessmentSignal": "Rubric rewards creating rhythms using note values and rests, and making a calligraphy pen for writing.",
+          "buildNotes": "6 QuestionKinds (multiple-choice, click-match, categorize, number-line, ordering, fill-blank). Uses the registered { type: 'music-note' } VisualSpec for note/rest recognition (crotchet, quaver-pair, minim, crotchet-rest, minim-rest). number-line branch totals the beats of an rng-built pattern of French rhythm names."
+        },
+        {
+          "name": "1.4 Painting and Mosaic",
+          "skillId": "g5-cas-painting-and-mosaic",
+          "lessonCount": 12,
+          "subStrandBullets": [
+            "Colour wheel",
+            "Painting — wash techniques",
+            "Materials for mosaic",
+            "Making mosaic"
+          ],
+          "specificLearningOutcomes": [
+            "Identify primary and secondary colours on the colour wheel",
+            "Paint a scenery composition using the wash technique",
+            "Prepare materials for making a mosaic picture",
+            "Create a mosaic picture to apply the characteristics",
+            "Appreciate painting and mosaic as picture making techniques"
+          ],
+          "keyInquiryQuestions": [
+            "How do we use pictures in our daily lives?"
+          ],
+          "learningExperiences": [
+            "Paint a colour wheel with primary and secondary colours",
+            "Demonstrate wash out technique of painting (flat and graded wash)",
+            "Paint a simple composition of a scenery using washout technique with focus on colour value",
+            "Observe real/virtual mosaic pictures to identify materials and characteristics",
+            "Collect and prepare materials for making mosaic; recyclable coloured paper or banana fibres, suitable adhesives and supports",
+            "Paint the support in one colour to contrast the pasted material",
+            "Sketch on the support one form; a fruit/bird/animal or any other",
+            "Create a mosaic with emphasis on: mono media and spacing of the materials",
+            "Display and talk about own and others work in a just manner"
+          ],
+          "coreCompetencies": [
+            "Creativity and Imagination — the learner generates original ideas and expresses them through a painting or mosaic picture",
+            "Critical Thinking and Problem solving — the learner analyses and evaluates choices in colour and technique to make pictures"
+          ],
+          "linkedLearningAreas": [
+            "Science and Technology — the learner understands the concepts of colour classification into primary and secondary colours",
+            "Mathematics — the learner explores geometric patterns in mosaic compositions"
+          ],
+          "scopeNotes": [
+            "include: colour wheel work is primary (red, yellow, blue) and secondary (orange, green, purple) colours only",
+            "include: wash technique is specifically the flat wash and the graded wash, with focus on colour value (lightness/darkness)",
+            "include: mosaic materials are recyclable coloured paper OR banana fibres, plus suitable adhesives and a support",
+            "include: making the mosaic emphasises mono media (one type of material) and even spacing between the pieces; the support is painted one contrasting colour first"
+          ],
+          "assessmentSignal": "Rubric rewards painting a scenery composition (wash technique). Core Competencies box names 'Critical Thinking and Problem solving' — so the skill carries at least one Evaluate-tier branch (judging colour/technique choices against a stated goal), per RIGOR-STANDARDS.md.",
+          "buildNotes": "5 QuestionKinds (multiple-choice, categorize, click-match, ordering, fill-blank). Uses the registered { type: 'color-wheel' } VisualSpec (highlight primary/secondary)."
+        },
+        {
+          "name": "1.5 Melody",
+          "skillId": "g5-cas-melody",
+          "lessonCount": 15,
+          "subStrandBullets": [
+            "Sol-fa syllables: d r m f s",
+            "Kodaly hand signs: d r m f s",
+            "Composition techniques: Stepwise motion, narrow leaps, repetition of pitches, variation of pitches, ending on a long note",
+            "Qualities of a card: (layout, colour, lettering)",
+            "Card design"
+          ],
+          "specificLearningOutcomes": [
+            "Sing the sol-fa syllables d r m f s for pitch discrimination",
+            "Interpret the hand signs of the sol-fa syllables d r m f s",
+            "Compose short melodies based on the sol-fa syllables d r m f s",
+            "Make a decorated melody card for creativity",
+            "Appreciate melodies created by self and others"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it necessary to apply composition techniques in composing a melody?"
+          ],
+          "learningExperiences": [
+            "Sing familiar songs based on the sol-fa syllables d r m f s",
+            "Sing the sol-fa syllables in ascending and descending order",
+            "Search for videos or watch live demonstrations of the Kodaly hand signs for d r m f s and practise performing the hand signs",
+            "Orally and aurally identify the pitches d r m f s displayed on cards or played on a melodic instrument",
+            "Collaboratively play melody games such as question and answer phrases, completing a given phrase orally",
+            "Listen to songs and discuss the composition techniques used",
+            "Apply compositional techniques to create short melodies using the sol-fa syllables d r m f s and the note values learnt observing integrity",
+            "Measure, cut and fold paper to create card layout (use a hard coloured paper)",
+            "Write own created melody (using either French rhythm names or note symbols) on the card neatly",
+            "Cut out and paste assorted coloured papers to decorate the card while observing safety"
+          ],
+          "coreCompetencies": [
+            "Self-efficacy — the learner creates original melodies and records them using digital devices",
+            "Digital literacy — the learner uses digital devices to search and watch videos of hand signs",
+            "Creativity and imagination — the learner explores the sol-fa syllables and note values to create original melodies and cards"
+          ],
+          "linkedLearningAreas": [
+            "English — the learner articulates vowels and syllables as they sing the sol-fa scale reinforcing language skills"
+          ],
+          "scopeNotes": [
+            "include: sol-fa is limited to the five syllables d r m f s (doh, re, me, fah, soh)",
+            "include: Kodaly hand signs for those same five syllables",
+            "include: the five named composition techniques — stepwise motion, narrow leaps, repetition of pitches, variation of pitches, ending on a long note",
+            "include: card qualities are exactly layout, colour and lettering; the card carries the learner's own written melody"
+          ],
+          "assessmentSignal": "Rubric rewards creating short melodies using d r m f s and performing the hand signs of the sol-fa syllables d r m f s.",
+          "buildNotes": "6 QuestionKinds (multiple-choice, ordering, click-match, categorize, number-line, fill-blank). Uses the registered { type: 'sol-fa-ladder' } VisualSpec (highlight doh/re/me/fah/soh). number-line branch marks a syllable's scale-degree position (doh=1 .. soh=5)."
+        },
+        {
+          "name": "1.6 Rounders",
+          "skillId": "g5-cas-rounders",
+          "lessonCount": 16,
+          "subStrandBullets": [
+            "Rounders bat",
+            "Carving a bat",
+            "Batting",
+            "Fielding"
+          ],
+          "specificLearningOutcomes": [
+            "Identify the features of a rounders bat for familiarisation",
+            "Identify materials and tools used in carving",
+            "Carve a bat for playing the Rounders game",
+            "Execute batting and fielding skills in a Rounders game for skills acquisition",
+            "Value the safety of self and others when playing the game of Rounders"
+          ],
+          "keyInquiryQuestions": [
+            "How do fielding skills help players in a Rounders game?"
+          ],
+          "learningExperiences": [
+            "Observe illustrations or actual samples of rounders bats to identify the features (knob, handle, grip, head, length and thickness)",
+            "Watch videos/pictures on the carving technique for familiarisation",
+            "Assemble materials and tools for carving a bat with a focus on wood-cutting tools",
+            "Collaboratively, use locally available wood to carve rounders' bats while observing safety",
+            "Demonstrate batting skills",
+            "Practise batting using the improvised bat",
+            "Practise fielding skills",
+            "Play a Rounders game while observing safety"
+          ],
+          "coreCompetencies": [
+            "Communication and Collaboration — the learner talks, shares materials and ideas on executing the skill of batting, fielding when playing Rounders",
+            "Creativity and Imagination — the learner works with peers and exchange new ideas to inspire creativity when carving the bat"
+          ],
+          "linkedLearningAreas": [
+            "Mathematics — the learner acquires concepts of order and counting while practising fielding and batting"
+          ],
+          "scopeNotes": [
+            "include: bat features are exactly knob, handle, grip, head, length and thickness",
+            "include: carving focuses on wood-cutting tools (saw, chisel, gouge, whittling knife, rasp) and locally available wood, with safety of self and others",
+            "include: skills are batting and fielding; fielding's role (catching to dismiss, limiting runs) is the key inquiry"
+          ],
+          "assessmentSignal": "Rubric rewards creating/executing a bat for playing Rounders and the batting and fielding skills.",
+          "buildNotes": "5 QuestionKinds (multiple-choice, categorize, click-match, ordering, fill-blank). No rounders-bat or carving-tool VisualSpec exists — omitted deliberately."
+        }
+      ]
+    },
+    {
+      "name": "2.0 Performing and Displaying",
+      "subStrands": [
+        {
+          "name": "2.1 Athletics",
+          "skillId": "g5-cas-athletics",
+          "lessonCount": 16,
+          "subStrandBullets": [
+            "Baton change (upsweep, downsweep)",
+            "Relays",
+            "Plaiting technique"
+          ],
+          "specificLearningOutcomes": [
+            "Improvise batons for relay racing",
+            "Make ropes using plaiting technique for relay racing",
+            "Perform the skill of visual baton change in a relay race",
+            "Execute nonvisual baton change in a relay race",
+            "Appraise self and peers' performance in a relay race"
+          ],
+          "keyInquiryQuestions": [
+            "Why is observance of the visual and non-visual baton change skill important in a relay race?",
+            "How are plaiting materials prepared?"
+          ],
+          "learningExperiences": [
+            "Collect appropriate locally available materials for making batons (plastic, wood, bamboo, aluminium) and improvise a baton",
+            "Explore actual and virtual samples of plaited basketry items",
+            "Collect materials for plaiting a rope (sisal, leather, old fabric)",
+            "Prepare and decorate the material for ropes by cutting to size and dyeing/painting",
+            "Plait a 3-strand rope for use as tape for ending races",
+            "Demonstrate the skill of baton change (upsweep)",
+            "Demonstrate the skills of baton change (down sweep)",
+            "Practise the skill of baton change in a relay race while observing safety",
+            "Participate in a relay race with peers running towards the finishing tape"
+          ],
+          "coreCompetencies": [
+            "Creativity and Imagination — the learner comes up with new ideas on how to improvise a baton",
+            "Learning to learn — the learner acquires new skills of baton change (upsweep and down sweep)"
+          ],
+          "linkedLearningAreas": [
+            "Mathematics — the learner uses concepts of measuring to make an improvised baton for relay"
+          ],
+          "scopeNotes": [
+            "include: baton change is exactly the upsweep and the downsweep",
+            "include: relay skills also distinguish the visual baton change (receiver looks back) from the non-visual baton change (receiver eyes-forward, on a call)",
+            "include: baton materials are plastic, wood, bamboo, aluminium",
+            "include: plaiting is a 3-strand rope from sisal, leather or old fabric, prepared by cutting to size and dyeing/painting, used as the finishing tape"
+          ],
+          "assessmentSignal": "Rubric rewards performing/displaying batons for relay racing and baton change in a relay race.",
+          "buildNotes": "5 QuestionKinds (multiple-choice, categorize, click-match, ordering, fill-blank). No relay-changeover or plaiting VisualSpec exists — omitted deliberately."
+        },
+        {
+          "name": "2.2 Fabric Decoration",
+          "skillId": "g5-cas-fabric-decoration",
+          "lessonCount": 10,
+          "subStrandBullets": [
+            "Materials (dyes, tying materials, cotton fabric, dye fasteners)",
+            "Tie and dye (circles)",
+            "Appliqué"
+          ],
+          "specificLearningOutcomes": [
+            "Identify techniques used to decorate a fabric",
+            "Decorate a fabric using the tie and dye technique",
+            "Decorate a fabric using appliqué for expression",
+            "Value tie and dye and appliqué techniques for decorating a fabric"
+          ],
+          "keyInquiryQuestions": [
+            "Why is fabric decoration important?",
+            "What are the sources of natural dyes?"
+          ],
+          "learningExperiences": [
+            "Explore virtual and actual sources to identify fabrics decorated using tie and dye (circle) and appliqué",
+            "Source materials such as recyclable fabrics, tying/stitching/pasting materials and dye (natural/artificial)",
+            "Prepare the dye bathe (primary colour) using dyes, water and fasteners",
+            "Explore tying the fabrics in varied ways using circle techniques",
+            "Dye in one colour, untie and iron",
+            "Decorate the fabric using appliqué technique with emphasis on; contrast of the surface and pasted fabrics (colour/patterns) using stitching or pasting method",
+            "Neaten the decorated fabrics by trimming and ironing",
+            "Show and talk about own and others decorated fabrics"
+          ],
+          "coreCompetencies": [
+            "Digital literacy — the learner explores virtual and actual sources to study techniques of fabric decoration",
+            "Creativity and imagination — the learner decorates the fabric using appliqué technique"
+          ],
+          "linkedLearningAreas": [
+            "Agriculture — the learner studies techniques of fabric decoration focusing on tie and dye, appliqué and materials in fabric decoration"
+          ],
+          "scopeNotes": [
+            "include: named materials are dyes, tying materials, cotton fabric, dye fasteners (fixatives/salt)",
+            "include: tie and dye is specifically the circle technique, dyed in one primary colour, then untied and ironed",
+            "include: appliqué emphasises contrast (colour/pattern) between the surface and pasted fabrics, attached by stitching OR pasting, then neatened by trimming and ironing",
+            "include: sources of natural dyes are an explicit key inquiry question"
+          ],
+          "assessmentSignal": "Rubric rewards performing/displaying decorated fabric using tie and dye AND decorated fabric using appliqué — both techniques are tested.",
+          "buildNotes": "5 QuestionKinds (multiple-choice, categorize, click-match, ordering, fill-blank). The ordering branch randomly runs the tie-and-dye OR the appliqué process. No tie-dye/appliqué VisualSpec exists — omitted deliberately."
+        },
+        {
+          "name": "2.3 Kenyan Folk Dance",
+          "skillId": "g5-cas-kenyan-folk-dance",
+          "lessonCount": 12,
+          "subStrandBullets": [
+            "Background of the dance: name, community of origin, performers (soloist, chorus/response, instrumentalist, dancers), occasion",
+            "Components of a dance: songs, costumes, body movements, adornment, ornaments, formations, props and instruments",
+            "Performance components: songs, body movements, formations and patterns, instruments, costumes, body adornment, ornaments, props, safety and etiquette"
+          ],
+          "specificLearningOutcomes": [
+            "Discuss the background of a Kenyan folk dance",
+            "Describe components of a Kenyan folk dance",
+            "Discuss the roles of folk dance in the community",
+            "Make an ornament using available materials to enhance performance of a Kenyan folk dance",
+            "Perform in a folk dance from a Kenyan indigenous community",
+            "Acknowledge the role of folk dance in the society"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it necessary to perform a folk dance?",
+            "How do the components of a folk dance contribute to its performance?"
+          ],
+          "learningExperiences": [
+            "Watch a Kenyan folk-dance performance and discuss the background details",
+            "Identify and describe the components of a Kenyan folk dance",
+            "Brainstorm on the social and economic roles of Kenyan folk dances in the community",
+            "Use available materials to make ornaments for use in performing a Kenyan folk dance using one-way technique (beadwork)",
+            "Explore making ornaments considering; colour variation, size of beads",
+            "Identify and take a role to perform a Kenyan folk dance adhering to performance components"
+          ],
+          "coreCompetencies": [
+            "Communication and collaboration — the learner uses dance performance as an avenue to communicate ideas, feelings and emotions",
+            "Creativity and Imagination — the learner uses various dance formations and patterns in a folk dance",
+            "Citizenship — the learner performs folk dances from diverse Kenya communities"
+          ],
+          "linkedLearningAreas": [
+            "Indigenous languages — the learner performs dance songs in indigenous languages"
+          ],
+          "scopeNotes": [
+            "include: background details are name, community of origin, performers (soloist, chorus/response, instrumentalist, dancers), and occasion",
+            "include: components are songs, costumes, body movements, adornment, ornaments, formations, props and instruments",
+            "include: performance components add formations AND patterns, and safety and etiquette",
+            "include: the social AND economic roles of folk dance in the community must both be discussed",
+            "include: the ornament is made with the one-way beading technique, considering colour variation and bead size"
+          ],
+          "assessmentSignal": "Rubric rewards performing/displaying a folk dance from a Kenyan indigenous community (Strand 2 rubric) and, in Strand 3, discussing a Kenyan folk dance elaborately.",
+          "buildNotes": "5 QuestionKinds (multiple-choice, categorize, click-match, ordering, fill-blank). Dances named are real documented Kenyan folk dances across different communities: isukuti (Luhya), kilumi (Kamba), mwomboko (Kikuyu), chakacha (coastal), adumu (Maasai). No folk-dance/beadwork VisualSpec exists — omitted deliberately."
+        },
+        {
+          "name": "2.4 Puppetry",
+          "skillId": "g5-cas-puppetry",
+          "lessonCount": 8,
+          "subStrandBullets": [
+            "Glove puppet"
+          ],
+          "specificLearningOutcomes": [
+            "Identify a glove puppet for familiarisation",
+            "Make a glove puppet using recyclable materials",
+            "Perform a puppet show while singing topical songs for enjoyment"
+          ],
+          "keyInquiryQuestions": [
+            "Why are features of a puppet exaggerated?"
+          ],
+          "learningExperiences": [
+            "Observe sample puppets in actual/virtual sources to identify a glove puppet for familiarisation",
+            "Explore the environment responsibly to gather recyclable materials for making glove puppets (found objects)",
+            "Make a glove puppet using recyclable materials with emphasis on functionality and exaggeration",
+            "Decorate the puppet to bring out features for aesthetics",
+            "Present a puppet show incorporating topical songs with proper voice projection and clarity in pronunciation of words (diction)"
+          ],
+          "coreCompetencies": [
+            "Creativity and imagination — the learner explores new materials and ideas when making puppets from recyclable materials"
+          ],
+          "linkedLearningAreas": [
+            "Science and Technology — the learner conserves the environment by recycling and upcycling found objects when making puppets"
+          ],
+          "scopeNotes": [
+            "include: puppet type is specifically the glove puppet",
+            "include: making it emphasises functionality (it fits the hand and moves) and exaggeration (features large enough to read at a distance)",
+            "include: decoration is for aesthetics; the show uses topical songs (about current issues), with voice projection and diction",
+            "note: this is a thin 8-lesson sub-strand — the build still reaches 5 QuestionKinds by branching identify / term-match / material-sort / make-order / show-true-false / reasoning / fill-blank"
+          ],
+          "assessmentSignal": "Rubric rewards performing/displaying a glove puppet.",
+          "buildNotes": "5 QuestionKinds (multiple-choice, categorize, click-match, ordering, fill-blank). No puppet VisualSpec exists — omitted deliberately."
+        },
+        {
+          "name": "2.5 Descant Recorder",
+          "skillId": "g5-cas-descant-recorder",
+          "lessonCount": 13,
+          "subStrandBullets": [
+            "Notes B A G C1 D1",
+            "Playing Techniques: fingering, breath control, tonguing, tone quality"
+          ],
+          "specificLearningOutcomes": [
+            "Play notes B A G C1 D1 on the descant recorder",
+            "Play a melody built on the notes G A B C' D' on the descant recorder applying appropriate techniques",
+            "Create a random repeat pattern based on the notes B A G C1 D1 using a stencil",
+            "Enjoy playing melodies using the descant recorder"
+          ],
+          "keyInquiryQuestions": [
+            "How is a good tone produced on the descant recorder?"
+          ],
+          "learningExperiences": [
+            "Observe the baroque fingering chart for note C1 and D1 and practise fingering the notes",
+            "Responsibly search and watch a video/observe a demonstration on how to play notes C1 and D1",
+            "Play notes B A G C1 D1 on the descant recorder with appropriate techniques",
+            "Play simple melodies based on the notes B A G C1 D1 on the descant recorder applying appropriate playing techniques",
+            "Collaboratively create stencils of the notes B A G C1 D1",
+            "Print random repeat patterns on paper with the stencils using contrasting colours (dabbing/spraying method) and mount the patterns for display",
+            "Play melodies based on the notes B A G C1 D1 before peers for review"
+          ],
+          "coreCompetencies": [
+            "Digital literacy — the learner connects to digital resources to search for information on how notes are played on the descant recorder",
+            "Communication and Collaboration — the learner collaboratively with peers performs and creates stencils of the notes B A G C1 D1"
+          ],
+          "linkedLearningAreas": [
+            "English — the learner uses English as the language of communication in providing feedback on peers' performances of melodies on the descant recorder"
+          ],
+          "scopeNotes": [
+            "include: notes are exactly B A G C1 D1 (high C and high D), read from the baroque fingering chart",
+            "include: playing techniques are exactly fingering, breath control, tonguing, tone quality; 'how a good tone is produced' is the key inquiry",
+            "include: the craft output is a random repeat pattern of the note shapes, printed by stencil in contrasting colours (dabbing/spraying) and mounted"
+          ],
+          "assessmentSignal": "Rubric rewards performing/displaying a melody built on notes B A G C1 D1 on a descant recorder AND a random repeat pattern based on B A G C1 D1.",
+          "buildNotes": "6 QuestionKinds (multiple-choice, categorize, click-match, ordering, number-line, fill-blank). Uses the registered { type: 'recorder-fingering' } VisualSpec for B A G C1 D1. number-line branch marks a note's pitch-order rank (G=1 .. D1=5)."
+        },
+        {
+          "name": "2.6 Swimming (Optional — MUST choose ONE of Swimming OR Indigenous Kenyan Games)",
+          "skillId": "g5-cas-swimming",
+          "lessonCount": 15,
+          "subStrandBullets": [
+            "Front crawl"
+          ],
+          "specificLearningOutcomes": [
+            "Describe the Front crawl technique in swimming",
+            "Perform the Front crawl technique for skill acquisition",
+            "Apply the front crawl technique in swimming for enjoyment",
+            "Appreciate own and others' efforts in performing the Front crawl technique"
+          ],
+          "keyInquiryQuestions": [
+            "Why is hygiene and safety necessary in swimming?"
+          ],
+          "learningExperiences": [
+            "Watch an actual or live performance of a Front crawl in swimming to talk about the skill",
+            "Demonstrate the front crawl skill in swimming (glide, body position, arm action, leg action and breathing) while inside the water",
+            "Practise Front crawl skill while ensuring smooth progression (leg, arm action, rhythm and tempo)",
+            "Swim using Front crawl in mini games while observing pool hygiene and safety",
+            "Talk about own and others' performance for feedback"
+          ],
+          "coreCompetencies": [
+            "Digital literacy — the learner uses digital devices to watch video clips of Front crawl in swimming",
+            "Learning to learn — the learner demonstrates and practises the Front crawl skills with persistence"
+          ],
+          "linkedLearningAreas": [
+            "Science and technology — the learner is exposed to the concept of floating"
+          ],
+          "scopeNotes": [
+            "include: the stroke is exactly the front crawl, broken into glide, body position, arm action, leg action and breathing",
+            "include: smooth progression means building up leg, then arm action, then rhythm and tempo",
+            "include: pool hygiene and safety, and why they matter, is the key inquiry",
+            "note: OPTIONAL sub-strand — the learner covers this OR 2.6 Indigenous Kenyan Games; this build ships both as separate skills"
+          ],
+          "assessmentSignal": "Rubric rewards performing/displaying Front crawl (or indigenous counting games).",
+          "buildNotes": "5 QuestionKinds (multiple-choice, categorize, click-match, ordering, fill-blank). No swimming-stroke VisualSpec exists — omitted deliberately."
+        },
+        {
+          "name": "2.6 Indigenous Kenyan Games (Optional — MUST choose ONE of Swimming OR Indigenous Kenyan Games)",
+          "skillId": "g5-cas-indigenous-kenyan-games",
+          "lessonCount": 15,
+          "subStrandBullets": [
+            "Counting games"
+          ],
+          "specificLearningOutcomes": [
+            "Identify types of indigenous counting games played in Kenya",
+            "Perform different indigenous counting games for skill acquisition",
+            "Perform indigenous counting games to a musical rhythm",
+            "Appreciate the role played by counting games for fitness and health"
+          ],
+          "keyInquiryQuestions": [
+            "How do indigenous counting games enhance physical fitness?"
+          ],
+          "learningExperiences": [
+            "Watch a virtual or live demonstration of indigenous counting game and identify the skills",
+            "Demonstrate different indigenous counting games while observing safety",
+            "Collaboratively, practise different indigenous counting games while observing safety",
+            "Practise different types of indigenous counting games while combining it with musical rhythm"
+          ],
+          "coreCompetencies": [
+            "Communication and Collaboration — the learner works with others to practice indigenous counting games",
+            "Learning to learn — the learner acquires skills in indigenous counting games"
+          ],
+          "linkedLearningAreas": [
+            "Mathematics — the learner uses the knowledge of counting during the performance of the indigenous counting games"
+          ],
+          "scopeNotes": [
+            "include: the games are counting games — active playground games where players count aloud while doing a physical action",
+            "include: the games are performed to a musical rhythm",
+            "include: how counting games build physical fitness and health is the key inquiry",
+            "note: OPTIONAL sub-strand (alternative to 2.6 Swimming). Appendix II resources: counter, ropes, bean bags, counting video games"
+          ],
+          "assessmentSignal": "Rubric rewards performing/displaying Front crawl/indigenous counting games.",
+          "buildNotes": "5 QuestionKinds (multiple-choice, categorize, click-match, ordering, fill-blank). Games modelled: skipping-rope counting game, hopscotch, bean-bag toss-and-count, ball-catch counting game (kati-style), clapping-and-counting circle game. No counting-game VisualSpec exists — omitted deliberately."
+        }
+      ]
+    },
+    {
+      "name": "3.0 Appreciation in Creative Arts",
+      "subStrands": [
+        {
+          "name": "3.1 Analysis of Creative Arts works",
+          "skillId": "g5-cas-analysis-of-creative-arts-works",
+          "lessonCount": 15,
+          "subStrandBullets": [
+            "Components of a folk dance; community, occasion, participants, songs, body movement, formations, instruments, costumes, body adornment, ornament",
+            "East African Community Anthem: message, values, occasion and etiquette in performance"
+          ],
+          "specificLearningOutcomes": [
+            "Showcase artworks in a school gallery for critique",
+            "Discuss a Kenyan folk dance using appropriate terminologies",
+            "Discuss the East African Community Anthem to foster patriotism",
+            "Participate in ball games and athletics",
+            "Value appreciation of Creative Arts works drawn from various cultural backgrounds"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to showcase Creative Arts works?"
+          ],
+          "learningExperiences": [
+            "Prepare display areas within the school with peers using available resources",
+            "Display artworks kept in the portfolio on the display areas within the school (drawings, painting, card, a puppet, decorated fabric, mosaic and ornaments)",
+            "Take a gallery walk and talk about own and others work considering; type of art, materials, media and aesthetic",
+            "Listen to selected folk dances from Kenyan communities and critically analyse the components",
+            "Listen to a recording/watch a performance of the East African Community Anthem (in unison) with peers and talk about it focussing on; its message, values, occasions when performed and etiquette in performance",
+            "Participate in Football, Athletics, Rounders and Swimming/Indigenous counting games for fun and inter-class/school championships",
+            "Appreciate the sports performances with focus on; fair play and observance of the code of conduct to enhance sportsmanship"
+          ],
+          "coreCompetencies": [
+            "Communication and collaboration — the learner contributes to group discussions by listening keenly and in critiquing artworks clearly",
+            "Digital literacy — the learner uses digital technology to watch artworks in e-galleries for analysis",
+            "Citizenship — the learner gets to appreciate artworks from various Kenyan cultures",
+            "Learning to learn — the learner takes the initiative to understand how different components of folk dance contribute to its overall performance"
+          ],
+          "linkedLearningAreas": [
+            "Integrated Science — the learner manipulates digital devices when exploring e-galleries",
+            "Indigenous languages — the learner's speaking skill is enhanced through performance of songs for folk dances in indigenous languages"
+          ],
+          "scopeNotes": [
+            "include: the gallery walk critiques each work by type of art, materials, media and aesthetic",
+            "include: folk-dance discussion must use the correct terminology — community, occasion, participants, songs, body movement, formations, instruments, costumes, body adornment, ornament",
+            "include: the EAC Anthem is discussed by its message, values, occasion(s) performed and etiquette in performance",
+            "include: sports appreciation focuses on fair play and observance of the code of conduct (sportsmanship)",
+            "PCI: 'Analytical and creative thinking' — the learner develops analysis and critical thinking as they analyse artworks and a folk dance"
+          ],
+          "assessmentSignal": "Strand 3 rubric: 'Appreciates and/or discusses 3 items of Creative Arts elaborately' — showcasing artworks in a school gallery, a Kenyan folk dance, the East African Community Anthem, and participating in a game. Because the PCI names analytical/critical thinking and the whole strand is analysis/critique, the skill carries Analyse/Evaluate-tier branches (judging a critique as fair/unfair, a sports moment as good/poor sportsmanship), per RIGOR-STANDARDS.md.",
+          "buildNotes": "5 QuestionKinds (multiple-choice, categorize, click-match, ordering, fill-blank). No gallery or anthem VisualSpec exists — omitted deliberately."
+        }
+      ]
+    }
+  ]
+}

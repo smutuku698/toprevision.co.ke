@@ -1,0 +1,311 @@
+{
+  "subject": "Agriculture and Nutrition",
+  "subjectId": "agriculture-nutrition",
+  "grade": 7,
+  "source": {
+    "title": "Junior School Curriculum Design — Agriculture and Nutrition, Grade 7",
+    "path": "designs-grade-7/GRADE-7-AGRICULTURE-NUTRITION.pdf",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-17",
+    "confidence": "high",
+    "notes": "Read in full via the Read tool (no pages param). First published 2022, Revised 2024. Backfilled retroactively — skills already shipped in web/src/skills/agricultureG7/ before this record was written. 4 strands: 1.0 Conservation of Resources, 2.0 Food Production Processes, 3.0 Hygiene Practices, 4.0 Production Techniques. Sub-strand 2.4's full body-text name is 'Cooking: Grilling, Roasting and Steaming' — the front-matter Summary of Strands and Sub Strands table abbreviates it to 'Cooking: Roasting and steaming', omitting Grilling; the body text (which also names grilling explicitly in its outcomes and learning experiences) is treated as authoritative."
+  },
+  "strands": [
+    {
+      "name": "1.0 Conservation of Resources",
+      "subStrands": [
+        {
+          "name": "1.1 Controlling Soil Pollution",
+          "lessonCount": 7,
+          "specificLearningOutcomes": [
+            "explain the causes of soil pollution in gardening",
+            "control soil pollution in home environment",
+            "demonstrate responsibility in using safe farming practices to conserve the soil"
+          ],
+          "keyInquiryQuestions": ["How can household practices cause soil pollution?"],
+          "learningExperiences": [
+            "search and watch a video clip or print media on causes of soil pollution and then share experiences on causes of soil pollution such as waste water, excessive use of artificial fertilizers, agricultural chemicals and plastic wastes",
+            "engage in safe soil pollution control practices such as safe disposal of household waste water, used chemical containers and plastic wastes",
+            "create awareness messages against improper disposal of waste water, dumping of soil pollutants, used chemical containers and plastic wastes and use of correct types and amounts of farm chemicals and fertilizers"
+          ],
+          "linkedLearningAreas": ["Integrated Science: relating soil pollution to other forms of environmental pollution."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Citizenship"],
+          "values": ["Patriotism"],
+          "pertinentContemporaryIssues": ["Environmental conservation"]
+        },
+        {
+          "name": "1.2 Constructing Water Retention Structures",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "describe how surface run-off can be used in gardening",
+            "construct water retention structures to conserve surface runoff",
+            "adopt utilization of surface run-off in gardening"
+          ],
+          "keyInquiryQuestions": ["How can surface run-off be conserved for gardening purposes?", "How does construction of water retention structures conserve water?"],
+          "learningExperiences": [
+            "search for information and discuss how surface run-off can be conserved in structures such as water retention ditches and water retention pits for gardening",
+            "construct retention ditches or retention pits for water conservation and establish a crop of their choice such as a banana sucker, sugarcane, napier grass or arrowroot"
+          ],
+          "linkedLearningAreas": ["Social Studies: destruction of environment by excess water in socio-economic amenities."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem solving"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Environmental protection"]
+        },
+        {
+          "name": "1.3 Conserving Food Nutrients",
+          "lessonCount": 9,
+          "specificLearningOutcomes": [
+            "identify ways of conserving vitamins and mineral salts in vegetables",
+            "conserve vitamins and mineral salts in vegetables",
+            "adopt conservation of vitamins and mineral salts in vegetables"
+          ],
+          "keyInquiryQuestions": ["How do we conserve vitamins and mineral salts in vegetables?"],
+          "learningExperiences": [
+            "search for information and discuss ways of conserving vitamins and mineral salts in vegetables such as washing, peeling, cutting, cooking time, and covering",
+            "conserve vitamins and mineral salts in vegetables during food handling, preparation and cooking",
+            "adopt appropriate ways of handling, preparing and cooking vegetables to conserve vitamins and mineral salts"
+          ],
+          "linkedLearningAreas": ["Integrated Science: healthy growth and development."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn"],
+          "values": ["Integrity"],
+          "pertinentContemporaryIssues": ["Health promotion"]
+        },
+        {
+          "name": "1.4 Growing Trees",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "explain the importance of trees in conserving the environment",
+            "plant trees to conserve the environment",
+            "adopt tree planting as a way of conserving the environment"
+          ],
+          "keyInquiryQuestions": ["How can growing of trees conserve the environment?"],
+          "learningExperiences": [
+            "search for information on importance of trees and make presentations in class to share their findings",
+            "plant at least one tree either from seeds, or seedlings or cuttings and take care of the seedling until it is fully established"
+          ],
+          "linkedLearningAreas": ["Social Studies: conservation of natural resources."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Citizenship"],
+          "values": ["Patriotism"],
+          "pertinentContemporaryIssues": ["Environmental protection"]
+        }
+      ]
+    },
+    {
+      "name": "2.0 Food Production Processes",
+      "subStrands": [
+        {
+          "name": "2.1 Preparing Planting Site and Establishing Crop",
+          "lessonCount": 9,
+          "specificLearningOutcomes": [
+            "determine appropriate tilth for selected planting material",
+            "prepare a suitable tilth for establishing selected planting material",
+            "adopt appropriate tilth in establishing a selected planting material"
+          ],
+          "keyInquiryQuestions": ["How does planting material determine planting site preparation?"],
+          "learningExperiences": [
+            "observe provided planting materials and suggest appropriate tilth for each material (small sized seeds for fine tilth, medium sized seeds for medium tilth and large planting materials like tubers, suckers and cuttings for coarse tilth)",
+            "prepare suitable sites (fine tilth for small seeds, medium tilth for medium sized seeds, coarse tilth for large planting materials like tubers, suckers and cuttings)",
+            "establish a planting material of their choice in the selected soil tilth"
+          ],
+          "linkedLearningAreas": ["Integrated Science: relating planting site (tilth) and seed size to the concept of germination."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem solving"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Safety of self and others"]
+        },
+        {
+          "name": "2.2 Selected Crop Management Practices",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "explain management practices carried out on crops",
+            "carry out management practices in crop production",
+            "appreciate importance of various management practices in crop production"
+          ],
+          "keyInquiryQuestions": ["How can we carry out management practices in crop production?"],
+          "learningExperiences": [
+            "watch a video, or a demonstration on management practices (gapping, thinning, weeding, earthing-up)",
+            "carry out selected management practices (gapping, thinning, weeding through physical methods, earthing-up)",
+            "make class presentations on the importance of the selected management practices in crop production"
+          ],
+          "linkedLearningAreas": ["Mathematics: plant spacing and population that guide gapping and thinning relate to measurement and numbers."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Safety and security"]
+        },
+        {
+          "name": "2.3 Preparing Animal Products: Eggs and Honey",
+          "lessonCount": 9,
+          "specificLearningOutcomes": [
+            "explain how to prepare animal products for various purposes",
+            "prepare animal products for various purposes",
+            "embrace preparation of animal products for various purposes"
+          ],
+          "keyInquiryQuestions": ["How can we prepare animal products?"],
+          "learningExperiences": [
+            "search for information, discuss and share experiences on how to prepare eggs and honey for use and storage",
+            "prepare eggs (sorting, grading, packing) and honey (crushing and straining method, packing in appropriate containers)",
+            "display prepared animal products and adopt the practice at home and in school"
+          ],
+          "linkedLearningAreas": ["Pre-Technical Studies: presentation of products for marketing."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy"],
+          "values": ["Integrity"],
+          "pertinentContemporaryIssues": ["Food hygiene"]
+        },
+        {
+          "name": "2.4 Cooking: Grilling, Roasting and Steaming",
+          "lessonCount": 9,
+          "specificLearningOutcomes": [
+            "describe methods of cooking different types of foods",
+            "cook food using various methods",
+            "appreciate the use of varied methods of cooking food"
+          ],
+          "keyInquiryQuestions": ["Why should we use different methods of cooking food?"],
+          "learningExperiences": [
+            "use digital resources, print materials or resource person to source for information on grilling, roasting and steaming foods",
+            "use grilling, steaming and roasting methods to prepare foods while observing safety of self and others",
+            "make class presentations on the use of varied methods of cooking food"
+          ],
+          "linkedLearningAreas": ["Integrated Science: cooking methods relate to transfer of heat."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Safety of self and others"]
+        }
+      ]
+    },
+    {
+      "name": "3.0 Hygiene Practices",
+      "subStrands": [
+        {
+          "name": "3.1 Hygiene in Rearing Animals",
+          "lessonCount": 9,
+          "specificLearningOutcomes": [
+            "describe hygiene practices in rearing domestic animals",
+            "carry out hygiene practices in rearing domestic animals",
+            "appreciate importance of hygiene practices in rearing domestic animals"
+          ],
+          "keyInquiryQuestions": ["How can we maintain hygiene while rearing animals?"],
+          "learningExperiences": [
+            "search for information on hygienic practices (clean feeders and waterers, clean and well ventilated housing, clean animal) in rearing domestic animals such as pets",
+            "carry out appropriate hygiene practices in rearing domestic animals such as cleaning feeders, waterers, cleaning animal structures",
+            "make class presentation on the importance of hygiene in rearing domestic animals"
+          ],
+          "linkedLearningAreas": ["Social Studies: animal production as an economic activity."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Animal welfare"]
+        },
+        {
+          "name": "3.2 Laundry: Loose Coloured Items",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "describe how to launder a loose coloured article for hygiene purpose",
+            "launder a loose coloured article for hygiene purposes",
+            "embrace laundering of loose coloured article for hygiene purposes"
+          ],
+          "keyInquiryQuestions": ["How do you launder a loose coloured article for hygienic purposes?"],
+          "learningExperiences": [
+            "watch a video clip or a demonstration on how to launder a loose coloured item (sorting, washing by kneading and squeezing, drying, finishing)",
+            "launder a loose coloured item (sorting, washing by kneading and squeezing, drying, finishing)"
+          ],
+          "linkedLearningAreas": ["Creative Arts: tie and dye technique of fixing colours."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Health promotion"]
+        }
+      ]
+    },
+    {
+      "name": "4.0 Production Techniques",
+      "subStrands": [
+        {
+          "name": "4.1 Sewing Skills: Knitting",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "describe knitting stitches used in making household articles",
+            "knit various articles for household use",
+            "embrace knitted articles for household use"
+          ],
+          "keyInquiryQuestions": ["How do you knit an article for household use?"],
+          "learningExperiences": [
+            "use digital devices or real materials or print media to identify basic knitting stitches (purl and knit)",
+            "knit a simple household article such as a tools bag, scarf, gloves, mats or table wipers"
+          ],
+          "linkedLearningAreas": ["Creative Arts: weaving technique."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and imagination"],
+          "values": ["Integrity"],
+          "pertinentContemporaryIssues": ["Safety of self and others"]
+        },
+        {
+          "name": "4.2 Constructing Framed Suspended Garden",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "describe framed suspended garden for growing crops",
+            "construct a framed structure for suspended garden",
+            "embrace the use of framed suspended garden for growing crops"
+          ],
+          "keyInquiryQuestions": ["How are framed suspended gardens constructed?"],
+          "learningExperiences": [
+            "search for photos, videos and illustrations on framed suspended gardens to describe how they are constructed",
+            "innovate and construct framed suspended gardens using locally available materials such as wires, wooden planks, metal bars and poles",
+            "establish a crop on the constructed framed suspended garden"
+          ],
+          "linkedLearningAreas": ["Pre-Technical Studies: drawing, designing and use of related tools."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and imagination"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Environmental awareness"]
+        },
+        {
+          "name": "4.3 Adding Value to Crop Produce",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "explain ways of adding value on crop produce",
+            "add value to a selected crop produce",
+            "appreciate the importance of value addition on crop produce"
+          ],
+          "keyInquiryQuestions": ["Why do we add value to crop produce?", "How can we add value to crop produce?"],
+          "learningExperiences": [
+            "discuss ways of adding value to crop produce such as potatoes, cassava, groundnuts, simsim, sweet potatoes and pumpkin",
+            "process a provided sample of crop produce such as potatoes, cassava, groundnuts, simsim, sweet potatoes and pumpkin to add value using appropriate methods like drying and frying",
+            "compare the processed crop produce to raw crop produce in terms of monetary value and storage life"
+          ],
+          "linkedLearningAreas": ["Pre-Technical Studies: commodity marketing."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem solving"],
+          "values": ["Integrity"],
+          "pertinentContemporaryIssues": ["Food and nutrition security"]
+        },
+        {
+          "name": "4.4 Making Homemade Soap",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "identify the forms of soap used at household level",
+            "make homemade soap using natural ingredients",
+            "embrace homemade soap for household use"
+          ],
+          "keyInquiryQuestions": ["How can we make soap using natural ingredients?"],
+          "learningExperiences": [
+            "brainstorm and share experiences on forms of soap (liquid, cake/bar, paste, powder) used at household level",
+            "use natural ingredients such as ashes, salt, water, animal fats or plant oils to make soap",
+            "use the homemade soap for cleaning purposes"
+          ],
+          "linkedLearningAreas": ["Integrated Science: recycling and reusing wastes."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem solving"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Financial literacy"]
+        }
+      ]
+    }
+  ]
+}

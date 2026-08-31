@@ -1,0 +1,908 @@
+{
+  "subject": "Indigenous Language",
+  "subjectId": "indigenous-language",
+  "grade": 9,
+  "source": {
+    "title": "Junior School Curriculum Design: Indigenous Languages, Grade 9",
+    "url": "https://doyenpublishers.com/wp-content/uploads/2025/04/Grade-9-Indigenous-Language-Curriculum-Design.pdf",
+    "publisher": "KICD",
+    "isbn": "978-9914-43-437-8",
+    "retrievedDate": "2026-08-20",
+    "confidence": "high",
+    "notes": "WebFetch could not extract text from the PDF directly but saved it locally; the Read tool then parsed the full PDF text natively (Claude's built-in PDF reader), not a WebFetch summary — every strand/sub-strand heading, SLO, KIQ, learning-experience bullet (including every parenthetical list), core competency, PCI, and Link-to-other-learning-area line below is transcribed verbatim from that read. Revised in 2024. Per the README's known-good sourcing pattern, this mirror copy was located via web search after the easylearn.co.ke Grade-9-specific URL guessed from the Grade 8 pattern could not be confirmed directly; the doyenpublishers.com URL above resolved to the authentic KICD document (title page, ISBN, and KICD branding all match). STRUCTURAL NOTE: unlike Grade 8's design (which is organised body-first around 9 themes-as-strands), the Grade 9 design's own front-matter 'SUMMARY OF STRANDS AND SUB STRANDS' table AND its body headings agree on a 3-strand structure — Listening and Speaking, Reading, Writing — each containing all 9 real-world themes as its sub-strands (matching this app's web/src/lib/curriculum.ts, which defines exactly il-listening-speaking / il-reading / il-writing as the 3 Grade 9 strands). This file therefore uses that 3-strand structure, not theme-as-strand. Content is generic-English-medium (grammar, comprehension and composition concepts) applied to indigenous-language-medium themes, not vocabulary in one specific mother tongue, since KICD's design is deliberately language-agnostic — confirmed both by the Essence Statement ('a people's culture is best passed on through their language... reasonable proficiency in the mother tongue... will be a prerequisite') and by every theme's 'Suggested Vocabulary' box listing only ENGLISH glosses (e.g. Theme 1: 'hero, heroine, community, save, serve...'), never target-language words. Lesson allocation per the front-matter table: Listening and Speaking 16, Reading 20, Writing 18, plus a separate 6-lesson 'Showcasing Concepts and Skills in Indigenous Language (Exhibitions)' entry not tied to any one theme = 60 total. This does not sum cleanly against the 9-themes x 2-lessons-per-substrand pattern actually used in the body (9x2=18 for every strand, not 16/20/18) — the document's own closing note under the summary table says 'The suggested number of lessons per Sub Strand may be less or more depending on the context,' so this is treated as an approximation in the front matter rather than a mining error. The Table of Contents in the source PDF omits 'THEME 6: ECONOMIC ACTIVITIES' from its listing (jumping from Theme 5 to Theme 7) but the theme's full 3-substrand body text (pages 31-36) is present and complete — a ToC typo, not a missing theme; captured in full below. The document also includes a 6-milestone Community Service-Learning (CSL) Appendix 1 (Problem Identification -> Designing a Solution -> Planning -> Implementation -> Showcasing/Exhibition -> Reflection) and an Appendix 2 table of suggested assessment methods / learning resources / non-formal activities per strand, both noted at top level below rather than per sub-strand since they are cross-cutting."
+  },
+  "essenceNote": "Per the design's own Essence Statement: 'Learners in Junior School will be exposed to a rich and supportive range of activities to develop indigenous language through the non-formal dimension... the indigenous language, like any other language, is central to the success or failure of education and development programmes... Reasonable proficiency in the mother tongue at this level will be a prerequisite for study of the subject at the Senior School level.' Subject General Learning Outcomes (by end of Junior School): (1) respond appropriately to a variety of communication in the indigenous language, (2) express themselves confidently and appropriately in a variety of social contexts, (3) demonstrate knowledge of and apply indigenous knowledge, culture and values in varied situations, (4) comprehend information in different contexts in the indigenous language, (5) read fluently and write legibly in different formats to express a variety of ideas and opinions, (6) enjoy communicating using a variety of cultural language strategies.",
+  "crossCuttingNotes": {
+    "communityServiceLearningProject": "Appendix 1: Grade 9 learners undertake an integrated, cross-subject Community Service-Learning (CSL) group project via a 6-step milestone approach staggered across the 3 terms: (1) Problem Identification (studying community challenges — environmental degradation, lifestyle/communicable/non-communicable diseases, poverty, violence and conflicts, food security), (2) Designing a solution, (3) Planning (roles, activities, resources, timelines), (4) Implementation (with evidence kept), (5) Showcasing/Exhibition and Report Writing, (6) Reflection (linking project work back to academic concepts). Coordinated by the Social Studies teacher across subjects; assessed formatively on skills applied, core competencies developed, and values nurtured. Not tied to any single Indigenous Language sub-strand — cross-cutting.",
+    "appendix2AssessmentAndResources": "Appendix 2 lists, per strand: Listening and Speaking — oral narration, debates, public speaking, oral discussions/presentations, role plays, word games, oral reading, peer/self-assessment, dictation, aural tests; resources include dictionaries, newspapers, word walls/language corners, poetry books, flash cards, resource persons, plus digital sources (language games, songs, digital story books, recording devices, audio-visual resources); non-formal activities include debating sessions, club/society activities, community-event talks, composing/performing songs, mock interview panels, story-telling sessions during inter-class festivals. Reading — reading aloud, matching tasks, learner summaries, record of books read, portfolios, puzzles, mind maps; same resource list; non-formal activities include book clubs, poem recitation at school events, collecting community literature, spelling-bee contests, Pictionary sessions, language games. Writing — peer assessment, dictation, portfolio, anecdotal records, checklists/criteria, sentence construction; same resource list plus locally available materials for customised cultural objects; non-formal activities include dramatising/filming skits, composing poems in music/drama clubs, writing/compiling articles for magazines and clubs."
+  },
+  "strands": [
+    {
+      "name": "1.0 Listening and Speaking",
+      "totalLessonsPerFrontMatterTable": 16,
+      "subStrands": [
+        {
+          "code": "1.1.1",
+          "theme": "Theme 1: Community Heroes and Heroines",
+          "name": "Listening for Information",
+          "lessonCount": 2,
+          "builtAs": "il-ls-heroes-nouns-paraphrase (LS.1), web/src/skills/indigenousLanguage/heroesNounsParaphrase.ts",
+          "suggestedVocabulary": ["hero", "heroine", "community", "save", "serve", "leader", "patriotic", "unite", "celebrate", "brave", "coward"],
+          "subSubStrands": ["Nouns (names of people, things and places)", "Paraphrasing"],
+          "specificLearningOutcomes": [
+            "identify target words (names of people, things and places) from an oral text for information",
+            "paraphrase the main ideas in an oral text for comprehension",
+            "acknowledge the important role of effective listening in learning"
+          ],
+          "keyInquiryQuestions": ["How do get information from an oral text?", "Why are some individuals considered community heroes or heroines?"],
+          "learningExperiences": [
+            "work jointly with peers to pick out nouns (names of people, things and places) in a text",
+            "list the nouns on charts for display in the language corner",
+            "discuss with peers the various ways of listening for information",
+            "listen to an audio recording on community heroes and heroines",
+            "pick out the main ideas from the recording",
+            "make notes on the qualities of an ethical leader from the text",
+            "share their findings with peers for review",
+            "work collaboratively to role-play a news report on a community hero or heroine of choice"
+          ],
+          "linkedLearningAreas": ["Social Studies — the learner relates information derived from texts on community heroes and heroines to the concept of nationalism"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Communication and Collaboration — engaging actively using facts and examples when sharing findings on qualities of an ethical leader with peers for review",
+            "Digital Literacy — interacting with digital content when listening to an audio recording on community heroes and heroines"
+          ],
+          "assessmentSignal": "PCI 'Good Governance' is realised specifically through identifying the qualities of an ethical leader from the listened-to text — a question branch on ethical-leader qualities (not just generic hero facts) is curriculum-endorsed.",
+          "notes": "Values developed: Respect, Responsibility."
+        },
+        {
+          "code": "2.1.1",
+          "theme": "Theme 2: ICT — Cyber Security",
+          "name": "Listening for Comprehension",
+          "lessonCount": 2,
+          "builtAs": "il-ls-ict-pronouns-mainidea (LS.2), web/src/skills/indigenousLanguage/ictPronounsMainIdea.ts",
+          "suggestedVocabulary": ["technology", "computer", "safe", "hacker", "sites", "accountability", "cyber security", "internet", "intonation", "password"],
+          "subSubStrands": ["Identifying main idea", "Pronouns", "Comprehension"],
+          "specificLearningOutcomes": [
+            "identify the main idea and specific details in a text for comprehension",
+            "respond to texts on the theme for information",
+            "acknowledge the importance of listening for comprehension"
+          ],
+          "keyInquiryQuestions": ["Why is it important to identify the main idea in a text?", "How can you benefit from technology?"],
+          "learningExperiences": [
+            "listen to recordings of stories based on the theme",
+            "work with peers to identify pronouns from the listened to recordings",
+            "create a list of the pronouns identified and list them on a chart for display",
+            "work collaboratively to use the pronouns to construct sentences",
+            "discuss the main ideas from the recordings",
+            "answer direct and inferential questions from the texts listened to",
+            "conduct a debate on the advantages and disadvantages of the internet"
+          ],
+          "linkedLearningAreas": ["English and Kiswahili — the learner relates the concept of listening for comprehension to listening skills"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Digital Literacy — interacting with digital content when listening to recordings of stories based on the theme",
+            "Communication and Collaboration — speaking engagingly with facts and examples when conducting a debate on advantages/disadvantages of the internet"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: ICT. Values: Unity, Responsibility."
+        },
+        {
+          "code": "3.1.1",
+          "theme": "Theme 3: Serving the Community",
+          "name": "Pronunciation",
+          "lessonCount": 2,
+          "builtAs": "MISMATCH — see notes",
+          "suggestedVocabulary": ["community", "sanitation", "education", "boreholes", "mentorship", "literacy", "serve", "environment", "old", "sick", "persons living with disabilities"],
+          "subSubStrands": ["Commonly mispronounced words", "Intonation"],
+          "specificLearningOutcomes": [
+            "identify commonly mispronounced words for effective communication",
+            "pronounce target words correctly for fluency",
+            "apply correct intonation in words for accurate communication",
+            "acknowledge the role of accentuation in indigenous language speech"
+          ],
+          "keyInquiryQuestions": ["How can we tell the difference between one indigenous language and another?", "Why should we take part in community service?"],
+          "learningExperiences": [
+            "work with peers to identify words that are commonly mispronounced",
+            "list the words on a chart and display in class",
+            "conduct a gallery walk to read the words in turns",
+            "read words displayed on flashcards using correct intonation",
+            "watch a pre-recorded audio clip on the theme and identify vocabulary used",
+            "prepare a short talk on community service using correct intonation and accentuation",
+            "present the talk to peers for review",
+            "hold a discussion forum on instances in which wrong intonation on words affects meaning implied in a language"
+          ],
+          "linkedLearningAreas": ["English and Kiswahili — the learner relates the concept of pronunciation to the concepts of stress and intonation"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Communication and Collaboration — contributing to group decision making when working with peers to identify commonly mispronounced words",
+            "Learning to Learn — planning and managing time effectively to prepare and present a short talk using correct intonation and accentuation"
+          ],
+          "assessmentSignal": null,
+          "notes": "GAP FLAG: the shipped skill for this code (LS.3, il-ls-community-conjunctions-requests, web/src/skills/indigenousLanguage/communityConjunctionsRequests.ts, titled 'Serving the community: conjunctions and polite requests') does NOT match this sub-strand's actual PDF content. The design's 3.1.1 sub-strand is 'Pronunciation' — commonly mispronounced words and correct intonation/accentuation — not conjunctions or polite-request phrasing (that content belongs to Theme 4's negotiation sub-strand, 4.1.1, which IS correctly built as il-ls-negotiation-phrases). This is the one sub-strand across all 27 in this subject where the shipped skill's content diverges from its themed source text; every other LS/R/W code was cross-checked against the shipped skill title and content-matches cleanly. Recommend either retitling/rebuilding this skill to cover mispronounced-words + intonation, or building a companion skill for the missing content — flagged per CURRICULUM-MINING-GUIDE.md's 'nothing silently skipped' rule rather than silently accepted. PCI: Civic Responsibility. Values: Respect, Unity."
+        },
+        {
+          "code": "4.1.1",
+          "theme": "Theme 4: Safety in Public Places",
+          "name": "Conversation skills — Negotiation",
+          "lessonCount": 2,
+          "builtAs": "il-ls-negotiation-phrases (LS.4), web/src/skills/indigenousLanguage/negotiationPhrases.ts",
+          "suggestedVocabulary": ["safe", "speeding", "road crash", "distracted driving", "emergency", "public", "police", "report", "precaution", "terror", "crime", "accident", "response"],
+          "specificLearningOutcomes": [
+            "recognise words used to interrupt politely during conversations for effective communication",
+            "apply turn-taking skills and interrupting politely during a conversation for effective communication",
+            "embrace good negotiation skills in communication"
+          ],
+          "keyInquiryQuestions": ["How can we interrupt another speaker during a conversation?", "Why is it important to take safety precautions in public places?"],
+          "learningExperiences": [
+            "listen to an audio recording of a conversation between people negotiating over an issue",
+            "identify words that the speakers use to interrupt each other",
+            "work in partnership with peers to list the words on flashcards",
+            "search from online and offline sources for words used to interrupt politely in a conversation",
+            "display the words on the language corner for a gallery walk",
+            "work collaboratively to conduct a mock group interview on the theme (safety in public places) using proper turn-taking skills and interrupting politely"
+          ],
+          "linkedLearningAreas": ["Social Studies — the learner relates the skills used in negotiation during conversations to the concept of peace building"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Digital Literacy — using digital technology to accomplish tasks when searching online/offline for words used to interrupt politely",
+            "Citizenship — working collaboratively to develop a constructive dialogue when conducting a mock group interview using proper turn-taking and polite interruption"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Peace Education. Values: Love, Integrity."
+        },
+        {
+          "code": "5.1.1",
+          "theme": "Theme 5: Our Cultural Heritage",
+          "name": "Presentation Skills — Public speaking",
+          "lessonCount": 2,
+          "builtAs": "il-ls-nonverbal-cues (LS.5), web/src/skills/indigenousLanguage/nonVerbalCues.ts",
+          "suggestedVocabulary": ["culture", "pride", "monuments", "museum", "artefacts", "dressing", "ornaments", "tools", "homes", "attire"],
+          "specificLearningOutcomes": [
+            "recognise non-verbal cues in oral presentations for effective communication",
+            "pick out key messages from a speech for information",
+            "make a speech on cultural heritage",
+            "desire to enhance conversational skills to improve their communication"
+          ],
+          "keyInquiryQuestions": ["How would you present an impromptu speech to an audience?", "Why should we preserve aspects of our cultures?"],
+          "learningExperiences": [
+            "watch a video recording of a speech and identify non-verbal cues (e.g. gestures, facial expressions, appearance, tonal variations, body movements) used",
+            "work jointly with peers to identify what the non-verbal cues imply or communicate",
+            "discuss the importance of non-verbal cues in public presentations",
+            "paraphrase the key issues of discussion from the speech listened to",
+            "work collaboratively to make/customise their own simple attire and ornaments as a way of appreciating their cultural heritage",
+            "prepare a short presentation on cultural heritage",
+            "use their customised attire and ornaments when presenting a short speech on the theme",
+            "peer review each other's presentation by assessing the use of non-verbal cues and relevance of message",
+            "conduct a photo gallery walk to appreciate various cultures as part of cultural heritage"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports — the learner relates the skills used in public presentations to the concept of performances"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Creativity and Imagination — exchanging ideas that inspire creativity when making/customising their own simple attire and ornaments",
+            "Self-efficacy — showing personal skills by using customised attire and ornaments when presenting a short speech"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Cultural Awareness. Values: Responsibility, Patriotism."
+        },
+        {
+          "code": "6.1.1",
+          "theme": "Theme 6: Economic Activities",
+          "name": "Intensive Listening",
+          "lessonCount": 2,
+          "builtAs": "il-ls-riddles-tonguetwisters (LS.6), web/src/skills/indigenousLanguage/riddlesTongueTwisters.ts",
+          "suggestedVocabulary": ["Farming", "fishing", "pastoralism", "trading", "apprenticeship", "craft", "resource"],
+          "subSubStrands": ["Riddles", "Tongue twisters"],
+          "specificLearningOutcomes": [
+            "recite tongue twisters for language acquisition",
+            "solve riddles for comprehension",
+            "use tongue twisters and riddles appropriately in oral texts for communication",
+            "acknowledge the role of tongue twisters and riddles in language acquisition"
+          ],
+          "keyInquiryQuestions": ["How can we ensure we say tongue twisters correctly?", "Why are riddles important in a community?"],
+          "learningExperiences": [
+            "work with peers to collect varied tongue twisters and riddles from the community",
+            "take turns to recite the tongue twisters",
+            "work with peers to conduct a speed game to recite the tongue twisters within the shortest time possible",
+            "work jointly with peers to discuss the riddling process",
+            "collaborate with peers to solve riddles",
+            "compose a spoken word piece (utterance) with relevant tongue twisters and riddles",
+            "perform the spoken word piece during club activities",
+            "organise the riddles and tongue twisters in a portfolio"
+          ],
+          "linkedLearningAreas": ["English — the learner relates the concept of solving riddles and reciting tongue twisters to similar concepts in the study of short forms"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Communication and Collaboration — working jointly with peers to conduct a speed game to recite the tongue twisters within the shortest time possible",
+            "Creativity and Innovation — sharing new ideas that inspire creativity when composing a spoken word piece with relevant tongue twisters and riddles"
+          ],
+          "assessmentSignal": null,
+          "notes": "This theme's table-of-contents entry is missing from the source PDF's TABLE OF CONTENTS listing (jumps Theme 5 -> Theme 7) but its full body text (pp.31-36) is present and complete — a ToC omission, not a missing theme. PCI: Peer education and mentorship. Values: Unity, Peace."
+        },
+        {
+          "code": "7.1.1",
+          "theme": "Theme 7: First Aid",
+          "name": "Presentation Skills — Debate",
+          "lessonCount": 2,
+          "builtAs": "il-ls-debate-qualities-adverbs (LS.7), web/src/skills/indigenousLanguage/debateQualitiesAdverbs.ts",
+          "suggestedVocabulary": ["gauze", "first aid kit", "injury", "ambulance", "emergency", "wound", "fracture", "resuscitation"],
+          "subSubStrands": ["Qualities of an effective debater", "Adverbs", "Actual debate"],
+          "specificLearningOutcomes": [
+            "outline the qualities of an effective debater for information",
+            "participate in a debate on the theme for effective communication",
+            "acknowledge the role debates play in language acquisition"
+          ],
+          "keyInquiryQuestions": ["How can we be more persuasive during a debate?", "Why is first aid important?"],
+          "learningExperiences": [
+            "listen to an online or recorded public presentation on the theme",
+            "discuss qualities of an effective public speaker from the presentation",
+            "use adverbs to describe the actions of the presenters from the recording",
+            "list the adverbs on manila paper for display",
+            "work with peers to discuss the qualities of an effective debater",
+            "collaborate with peer and allocate roles to hold a debating session on a topic of choice",
+            "peer review each other's performance",
+            "discuss with peers some of the best debaters in various fields"
+          ],
+          "linkedLearningAreas": ["Integrated Science — the learner relates vocabulary learnt on first aid to safety measures"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Communication and Collaboration — collaborating with peers and allocating roles to hold a debating session on a topic of choice",
+            "Digital Literacy — interacting with digital content when listening to an online or recorded public presentation"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Safety and security. Values: Love, Respect."
+        },
+        {
+          "code": "8.1.1",
+          "theme": "Theme 8: Indigenous Literature",
+          "name": "Story telling — Legends",
+          "lessonCount": 2,
+          "builtAs": "il-ls-storytelling-legends (LS.8), web/src/skills/indigenousLanguage/storytellingLegends.ts",
+          "suggestedVocabulary": ["story", "books", "poems", "songs", "legends", "literature"],
+          "specificLearningOutcomes": [
+            "explain the characteristics of a good story teller for information",
+            "retell a legend from a community for effective communication",
+            "acknowledge the role of legends in the preservation of culture"
+          ],
+          "keyInquiryQuestions": ["How can one listen to get information?", "How does a community preserve its culture?"],
+          "learningExperiences": [
+            "work with peers to discuss modern day legends in the society",
+            "collect a variety of legend stories from the community",
+            "organise the collection of legends in the class portfolio",
+            "collaborate with peers to identify features that make a story telling session interesting (e.g. songs, audience involvement, tonal variation)",
+            "take turns to conduct a story telling session on legends from African communities",
+            "work jointly with peers to record the story telling session",
+            "peer assess each other's presentation",
+            "listen to a resource person retell a legend",
+            "discuss moral lessons learnt from the legend and relate them to real life"
+          ],
+          "linkedLearningAreas": ["English and Kiswahili — the learner relates the concept of legends to their learning of narratives"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Digital Literacy — using digital technology to jointly record the story telling session",
+            "Creativity and Imagination — taking turns to conduct a story telling session on legends from African communities"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Good Governance (discussing moral lessons learnt from the legend and relating them to real life). Values: Unity, Patriotism."
+        },
+        {
+          "code": "9.1.1",
+          "theme": "Theme 9: Kenyan Cultures",
+          "name": "Presentation Skills",
+          "lessonCount": 2,
+          "builtAs": "il-ls-presentation-qualities (LS.9), web/src/skills/indigenousLanguage/presentationQualities.ts",
+          "suggestedVocabulary": ["greetings", "good manners", "thank you", "welcome", "sorry", "excuse me", "please", "hello"],
+          "specificLearningOutcomes": [
+            "outline the qualities of an effective presenter for information",
+            "present a short talk on Kenyan cultures for effective communication",
+            "acknowledge the Kenyan cultures as a source of pride for its people"
+          ],
+          "keyInquiryQuestions": ["How can you hold an audience's attention when making a presentation?", "Why are all the Kenyan communities important?"],
+          "learningExperiences": [
+            "conduct a research on how other Kenyan communities say common greetings and words like thank you and welcome",
+            "create a word bank for the common greetings and words identified from other communities",
+            "discuss with peers the qualities that make an effective presenter",
+            "prepare a short talk on the topic Kenyan cultures as a source of the people's pride",
+            "make the presentation during club activities while engaging the audience and applying the public presentation skills",
+            "work collaboratively with peers to peer review each other's presentation",
+            "stage the best presentations during an interclass festival",
+            "work jointly with peers to record the presentations",
+            "compose a song on the theme and present it in a school or community function"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports — the learner relates the concept of public presentations to the concept of performance"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Citizenship — accumulating information when conducting research on how other Kenyan communities say common greetings and words",
+            "Self-efficacy — effectively prioritising tasks when making the presentation while engaging the audience and applying public presentation skills"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Ethnic and Racial Relations. Values: Unity, Responsibility."
+        }
+      ]
+    },
+    {
+      "name": "2.0 Reading",
+      "totalLessonsPerFrontMatterTable": 20,
+      "subStrands": [
+        {
+          "code": "1.2.1",
+          "theme": "Theme 1: Community Heroes and Heroines",
+          "name": "Reading for Comprehension",
+          "lessonCount": 2,
+          "builtAs": "il-r-heroes-comprehension (R.1), web/src/skills/indigenousLanguage/heroesComprehension.ts",
+          "specificLearningOutcomes": [
+            "outline reading strategies for use on a given text",
+            "answer comprehension questions from a text for information",
+            "embrace the use of appropriate comprehension skills for lifelong learning"
+          ],
+          "keyInquiryQuestions": ["How should you read for comprehension?", "Why are community heroes and heroines important in the society?"],
+          "learningExperiences": [
+            "explain the pre-reading steps to peers",
+            "read a text on community heroes and heroines and make short notes",
+            "identify vocabulary related to community heroes and heroines from the texts",
+            "collaborate with peers to conduct a spelling-bee mini-contest to spell of the vocabulary identified",
+            "work jointly with peers to infer the meaning of vocabulary from context",
+            "make notes on the main ideas from a text and share with peers",
+            "make a summary of a section of the text",
+            "share the summaries with their peers for review",
+            "answer direct and inferential questions from the text"
+          ],
+          "linkedLearningAreas": ["English — the learner relates the concept of writing summaries to the learning of reading strategies"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Critical Thinking and Problem-solving — following simple instructions during the spelling-bee mini-contest",
+            "Citizenship — accumulating information when reading a text on community heroes and heroines and making short notes"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Social Cohesion. Values: Unity, Love."
+        },
+        {
+          "code": "2.2.1",
+          "theme": "Theme 2: ICT — Cyber Security",
+          "name": "Reading for Comprehension: Poetry",
+          "lessonCount": 2,
+          "builtAs": "il-r-ict-poetry-devices (R.2), web/src/skills/indigenousLanguage/ictPoetryDevices.ts",
+          "specificLearningOutcomes": [
+            "identify features of style used in poems for comprehension",
+            "relate themes in poems to real life for effective communication",
+            "advocate for reading of poems for enjoyment"
+          ],
+          "keyInquiryQuestions": ["Why are poems important?", "How can we get specific details from a poem?"],
+          "learningExperiences": [
+            "conduct a reader's theatre to read poems based on the theme",
+            "work with peers to identify the main ideas in the poems",
+            "develop a vocabulary bank on words related to the theme from the poems",
+            "identify features of style used in the poem (e.g. rhyme, metaphors, similes, repetition)",
+            "discuss the themes in a poem and relate them to real life",
+            "work jointly to compose a simple poem on the theme",
+            "organise their best poems in the class portfolio",
+            "stage choral verses on the poems during inter-class festivals or clubs"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports — the learner relates the concept of poetry to their learning of poems for performance"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Creativity and Imagination — exchanging new ideas that inspire creative thinking when composing a simple poem on the theme",
+            "Self-efficacy — effectively ordering and prioritising tasks when developing a vocabulary bank"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Information Technology (composing/staging choral verses on cyber security). Values: Unity, Respect."
+        },
+        {
+          "code": "3.2.1",
+          "theme": "Theme 3: Serving the Community",
+          "name": "Extensive Reading: Library skills",
+          "lessonCount": 2,
+          "builtAs": "il-r-library-skills (R.3), web/src/skills/indigenousLanguage/libraryskills.ts",
+          "specificLearningOutcomes": [
+            "describe key practices for effective library use",
+            "respond to texts related to the theme for information",
+            "embrace extensive reading of indigenous literature for enjoyment"
+          ],
+          "keyInquiryQuestions": ["How can we make use of the library resources well?", "How have you engaged yourself in serving your community and society?"],
+          "learningExperiences": [
+            "work with peers to collect varied reading resources on people who have served their communities well and successfully",
+            "organise the reading resources in the class portfolio",
+            "work with peers to discuss key considerations when using the library",
+            "conduct a silent reading session to read resources and grade appropriate texts",
+            "answer questions related to the texts read",
+            "prepare a reading log with details of the texts read (e.g. title, author, characters, setting, summary of events) for future reference",
+            "collaborate with peers to come up with a reading club for indigenous languages materials"
+          ],
+          "linkedLearningAreas": ["Religious Studies — the learner relates the skills acquired in extensive reading to their independent reading"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Citizenship — accumulating varied reading resources on people who have served their communities well and successfully",
+            "Critical thinking and problem-solving — exploring views when discussing key considerations when using the library"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Civic Responsibility. Values: Respect, Patriotism."
+        },
+        {
+          "code": "4.2.1",
+          "theme": "Theme 4: Safety in Public Places",
+          "name": "Extensive reading — short stories",
+          "lessonCount": 2,
+          "builtAs": "il-r-safety-shortstories (R.4), web/src/skills/indigenousLanguage/safetyShortStories.ts",
+          "subSubStrands": ["Vocabulary", "Adjectives", "Summary writing"],
+          "specificLearningOutcomes": [
+            "identify vocabulary from texts on the theme for language acquisition",
+            "use vocabulary related to the theme for sentence construction",
+            "summarise the main ideas in a text for information",
+            "advocate for reading widely for enjoyment"
+          ],
+          "keyInquiryQuestions": ["Why are short stories important?", "Why is it important to ensure safety in your environment and especially roads?"],
+          "learningExperiences": [
+            "work collaboratively with peers to conduct a reader's theatre to read short stories on the theme (causes of road crashes and mitigation measures)",
+            "pick out vocabulary related to the theme from the short stories",
+            "work jointly to conduct a spelling bee contest to spell the vocabulary identified",
+            "find the meaning of the vocabulary spelt",
+            "work with peers to pick out adjectives used in the text",
+            "use the vocabulary and adjectives to construct simple sentences and share with peers for review",
+            "collaboratively identify the main ideas of the text",
+            "make a summary on the main ideas from the short story"
+          ],
+          "linkedLearningAreas": ["English and Kiswahili — the learner relates the concept of extensive reading to literary appreciation"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Learning to Learn — motivated to learn continuously by finding the meaning of the vocabulary spelt",
+            "Self-efficacy — showing concerted attention to manage tasks when conducting a spelling bee contest"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Safety and Security. Values: Respect, Responsibility."
+        },
+        {
+          "code": "5.2.1",
+          "theme": "Theme 5: Our Cultural Heritage",
+          "name": "Reading for Information — Plays",
+          "lessonCount": 2,
+          "builtAs": "il-r-heritage-plays (R.5), web/src/skills/indigenousLanguage/heritagePlays.ts",
+          "specificLearningOutcomes": [
+            "identify vocabulary related to cultural heritage for language acquisition",
+            "respond to a text on the theme for comprehension",
+            "embrace lessons learnt from plays for lifelong learning"
+          ],
+          "keyInquiryQuestions": ["How do you read for information?", "How can plays be used to preserve our cultural heritage?"],
+          "learningExperiences": [
+            "conduct a reader's theatre to read plays related to the theme",
+            "work collaboratively to identify vocabulary related to the theme from the plays",
+            "list the vocabulary on flashcards and organise them in a vocabulary bank",
+            "use the vocabulary to fill word puzzles",
+            "work with peers to construct simple paragraphs",
+            "answer direct and inferential questions on the play read",
+            "work collaboratively to discuss the lessons learnt from the plays read and make connections to real life",
+            "roleplay one of the plays read with peers in class",
+            "work with peers to record the play and store the recorded clip in a digital portfolio"
+          ],
+          "linkedLearningAreas": ["Social Studies — the learner relates the vocabulary derived from plays on cultural heritage to concepts on the social organisation of communities"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Critical Thinking and Problem Solving — analysing concepts by logical reasoning when using the vocabulary to fill word puzzles",
+            "Digital Literacy — using digital technology to record the play and store the recorded clip in a digital portfolio"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Cultural Awareness. Values: Social Justice, Respect."
+        },
+        {
+          "code": "6.2.1",
+          "theme": "Theme 6: Economic Activities",
+          "name": "Reading for Comprehension",
+          "lessonCount": 2,
+          "builtAs": "il-r-economic-verbs (R.6), web/src/skills/indigenousLanguage/economicVerbs.ts",
+          "subSubStrands": ["Vocabulary", "Verbs", "Comprehension"],
+          "specificLearningOutcomes": [
+            "identify vocabulary related to the theme from texts for language acquisition",
+            "respond to comprehension questions from texts on theme for compression",
+            "advocate reading texts and indigenous literature widely for enjoyment"
+          ],
+          "keyInquiryQuestions": ["How do we read for comprehension?", "Why do people take part in economic activities in the society?"],
+          "learningExperiences": [
+            "read texts on the theme",
+            "identify vocabulary related to the theme — economic activities",
+            "pick out verbs from the text and list them down",
+            "create a vocabulary list of words related to the theme",
+            "work with peers to find the meaning of the words",
+            "work with peers to create mind maps to establish other words related to the new words (e.g. opposites, synonyms)",
+            "construct sentences using vocabulary and verbs related to economic activities",
+            "answer direct and inferential questions from comprehension passages related to the theme"
+          ],
+          "linkedLearningAreas": ["English and Kiswahili — the learner relates their knowledge of verbs to the concept of word classes"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Learning to Learn — motivated to learn continuously by identifying vocabulary related to the theme",
+            "Critical thinking and Problem-solving — analysing concepts by logical reasoning when creating mind maps to establish other words related to new words"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Poverty (interacting with texts on economic activities to get creative ideas for poverty eradication). Values: Love, Social Justice."
+        },
+        {
+          "code": "7.2.1",
+          "theme": "Theme 7: First Aid",
+          "name": "Reading for Information — Visuals",
+          "lessonCount": 2,
+          "builtAs": "il-r-firstaid-visuals (R.7), web/src/skills/indigenousLanguage/firstAidVisuals.ts",
+          "specificLearningOutcomes": [
+            "describe visuals accompanying texts for comprehension",
+            "make connections between visuals and accompanying texts for information",
+            "create visuals from written texts for effective communication",
+            "acknowledge the importance of visuals to understanding of texts"
+          ],
+          "keyInquiryQuestions": ["Why are visuals important?", "How do visuals summarise information?", "How can you help people involved in a road crash?"],
+          "learningExperiences": [
+            "work with peers to search for a collection of varied visuals (for example pictures, graphs, charts) on of types of injuries sustained through road clashes and how to administer first aid",
+            "describe the visuals and predict what story or information the visual could represent",
+            "make connections between visuals and their accompanying texts based on the theme",
+            "read a text on the theme and create a visual to summarise the information in the text",
+            "work with peers in teams to conduct a pictionary session where they begin to draw a picture and another team tries to guess what it could be before it is complete",
+            "organise the visuals drawn in the class portfolio"
+          ],
+          "linkedLearningAreas": ["Integrated Science — the learner relates the concepts from texts on first aid to their learning of health education"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Critical Thinking and Problem-solving — following simple instructions when creating a visual to summarise the information in the text read",
+            "Learning to Learn — building on their own learning experiences when describing visuals and predicting what story/information the visual could represent"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Safety and Security. Values: Unity, Responsibility."
+        },
+        {
+          "code": "8.2.1",
+          "theme": "Theme 8: Indigenous Literature",
+          "name": "Intensive Reading — Legends",
+          "lessonCount": 2,
+          "builtAs": "il-r-legends-adjectives (R.8), web/src/skills/indigenousLanguage/legendsAdjectives.ts",
+          "subSubStrands": ["Characteristics", "Adjectives"],
+          "specificLearningOutcomes": [
+            "outline the characteristics of legends for information",
+            "respond to questions from legends for comprehension",
+            "acknowledge reading of legends from various cultures for enjoyment"
+          ],
+          "keyInquiryQuestions": ["How do you read intensively?", "Why can an individual be considered a legend in the society?"],
+          "learningExperiences": [
+            "read legendary narratives from various sources",
+            "identify legendary characters from stories",
+            "work with peers to create mind maps to describe their character using relevant adjectives",
+            "share ideas on the unique qualities of the legendary characters",
+            "identify vocabulary from the narratives and list them",
+            "infer meaning of the new words from the narratives",
+            "answer direct and inferential questions from stories on legends"
+          ],
+          "linkedLearningAreas": ["English and Kiswahili — the learner relates the concept of legends to similar concepts"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Learning to Learn — engaging in collective learning as they read legendary narratives and identify legendary characters with peers",
+            "Critical Thinking and Problem-solving — logically analysing concepts when creating mind maps to describe character using relevant adjectives"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Cultural Awareness. Values: Patriotism, Love."
+        },
+        {
+          "code": "9.2.1",
+          "theme": "Theme 9: Kenyan Cultures",
+          "name": "Extensive reading — Grade appropriate texts",
+          "lessonCount": 2,
+          "builtAs": "il-r-cultures-prepositions (R.9), web/src/skills/indigenousLanguage/culturesPrepositions.ts",
+          "subSubStrands": ["Vocabulary", "Identifying main ideas", "Prepositions"],
+          "specificLearningOutcomes": [
+            "outline the main ideas from texts for comprehension",
+            "infer the meaning of vocabulary from the text for language acquisition",
+            "advocate for reading indigenous literature for enjoyment"
+          ],
+          "keyInquiryQuestions": ["How do we read for information?", "How can we ensure we live harmoniously with all the other Kenyan communities?"],
+          "learningExperiences": [
+            "read grade-appropriate texts and outline the main ideas",
+            "identify vocabulary from the texts",
+            "work with peers to find meaning of the new words from context",
+            "play a language game to match the vocabulary identified to their synonyms",
+            "identify prepositions used from the texts read and create a list",
+            "use the vocabulary identified and prepositions to construct sentences related to the theme",
+            "write a summary of the key ideas in the texts read",
+            "create a reading log with details of grade appropriate texts read (e.g. title, author, characters, setting, summary of events, vocabulary)",
+            "team up with peers to prepare a mosaic on a creative idea presenting Kenyan cultures"
+          ],
+          "linkedLearningAreas": ["Religious Studies — the learner relates the concept of interaction with other Kenyan cultures to the concept of living together"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Learning to Learn — motivated to learn continuously by using the vocabulary identified to construct sentences related to the theme",
+            "Critical Thinking and Problem-solving — following simple instructions when playing a language game to match vocabulary to synonyms"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Human Rights. Values: Responsibility, Unity."
+        }
+      ]
+    },
+    {
+      "name": "3.0 Writing",
+      "totalLessonsPerFrontMatterTable": 18,
+      "subStrands": [
+        {
+          "code": "1.3.1",
+          "theme": "Theme 1: Community Heroes and Heroines",
+          "name": "Handwriting",
+          "lessonCount": 2,
+          "builtAs": "il-w-heroes-spelling (W.1), web/src/skills/indigenousLanguage/heroesSpelling.ts",
+          "subSubStrands": ["Legibility and neatness", "Spacing", "Spelling"],
+          "specificLearningOutcomes": [
+            "outline characteristics of good handwriting for information",
+            "rewrite a short essay neatly and legibly for effective communication",
+            "assess handwritten texts for correct spelling and word spacing",
+            "embrace good handwriting for effective communication"
+          ],
+          "keyInquiryQuestions": ["Why should we write neatly and legibly?", "How can illegible handwriting result to miscommunication?"],
+          "learningExperiences": [
+            "work with peers to search for handwritten texts that are neatly and legibly written",
+            "hold a discussion on characteristics of a good handwriting",
+            "use the discussion findings to create a criteria or checklist for assessing good handwriting",
+            "rewrite a short essay on the theme using neat and legible handwriting and share with peers",
+            "assess each other's work according to the criteria or checklist prepared for correct word spacing, neatness and legibility",
+            "identify commonly misspelt words",
+            "rewrite the commonly misspelt words correctly and neatly",
+            "peer assess each other's work for correct spelling",
+            "organize their neatly written work in the class portfolio"
+          ],
+          "linkedLearningAreas": ["Social Studies — the learner relates the concept around the theme of community heroes and heroines to leadership"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Citizenship — demonstrating tolerance when assessing others' work according to the criteria/checklist for word spacing, neatness and legibility",
+            "Learning to Learn — building on own learning experiences when using discussion findings to create a criteria/checklist for assessing good handwriting"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Good Governance. Values: Patriotism, Respect."
+        },
+        {
+          "code": "2.3.1",
+          "theme": "Theme 2: ICT — Cyber Security",
+          "name": "Social Writing — Email",
+          "lessonCount": 2,
+          "builtAs": "il-w-ict-email-components (W.2), web/src/skills/indigenousLanguage/ictEmailComponents.ts",
+          "specificLearningOutcomes": [
+            "identify components of emails for effective communication",
+            "compose and send an email message for self-expression",
+            "acknowledge the importance of using email services in social writing"
+          ],
+          "keyInquiryQuestions": ["How do you normally communicate with your friends?"],
+          "learningExperiences": [
+            "work with peers to collect varied sample emails from different sources for discussion in class",
+            "identify components of an email",
+            "make notes on the components of an email",
+            "brainstorm ideas to incorporate when writing an email to a friend",
+            "work jointly with peers to create an email address",
+            "draft a simple email to a friend on a subject related to the theme",
+            "edit and proofread the email received from peers",
+            "revise their email based on the comments given by peers",
+            "conduct a debate on the advantages and disadvantages of using email for communication"
+          ],
+          "linkedLearningAreas": ["Pre-Technical Studies — the learner relates the skills learnt in email writing to the concept of digital communication"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Digital literacy — using technology skills when working jointly with peers to create an email address",
+            "Critical Thinking and Problem Solving — analysing concepts by logical reasoning when conducting a debate on advantages/disadvantages of email"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: ICT. Values: Unity, Responsibility."
+        },
+        {
+          "code": "3.3.1",
+          "theme": "Theme 3: Serving the Community",
+          "name": "Creative Writing — Poetry",
+          "lessonCount": 2,
+          "builtAs": "il-w-poetry-features (W.3), web/src/skills/indigenousLanguage/poetryFeatures.ts",
+          "specificLearningOutcomes": [
+            "identify the features of a poem for information",
+            "compose a short poem on the theme for creative expression",
+            "acknowledge the role of poetry in creating awareness on community service"
+          ],
+          "keyInquiryQuestions": ["What makes a poem different from a story or a passage?"],
+          "learningExperiences": [
+            "work with peers to collect varied poems from the community",
+            "organise the poems collected in the class portfolio",
+            "conduct a reader's theatre to read poems on the theme",
+            "identify the features (e.g. poet, persona, stanzas and lines) in the poems",
+            "work jointly with peers to brainstorm ideas to consider when composing a poem on the theme — serving the community",
+            "work jointly with peers to compose a short poem on the theme and share for feedback",
+            "revise the poem based on the suggestions given by peers",
+            "display their best poems in the class gallery wall",
+            "join a club or society and initiate community service activities within the school environment"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports — the learner relates the concept of poetry to composition and performance of poetry"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Creativity and Imagination — exchanging new ideas that inspire creativity when composing and sharing a short poem on the theme",
+            "Communication and Collaboration — working jointly with peers to brainstorm ideas to consider when composing a poem on the theme"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Human rights and Responsibilities. Values: Unity, Peace."
+        },
+        {
+          "code": "4.3.1",
+          "theme": "Theme 4: Safety in Public Places",
+          "name": "Essay writing",
+          "lessonCount": 2,
+          "builtAs": "il-w-descriptive-essay (W.4), web/src/skills/indigenousLanguage/descriptiveEssay.ts",
+          "subSubStrands": ["Descriptive essays (280-320 words)", "Adjectives"],
+          "specificLearningOutcomes": [
+            "explain the steps involved in writing a descriptive essay for information",
+            "write a descriptive essay for effective communication",
+            "recognise the role of writing on various topics for creative expression and enjoyment"
+          ],
+          "keyInquiryQuestions": ["How can we describe events, people and things accurately?", "How should one behave in public places to avoid putting others in danger?"],
+          "learningExperiences": [
+            "watch audio-visual clips on what to do in the event of an unforeseen disaster in a public place",
+            "make notes on the do's and don'ts in such scenarios",
+            "work with peers to use adjectives to describe a safe and unsafe public place",
+            "surf the internet or find publications on sample descriptive essays",
+            "discuss the parts of a descriptive essay (introduction, body, conclusion)",
+            "draft the introductory paragraph of a descriptive essay (280-320 words) related to the theme",
+            "share their work with peers for review",
+            "revise the essay based on feedback from peers",
+            "complete the descriptive essay and publish it in a school or public magazine"
+          ],
+          "linkedLearningAreas": ["Pre-Technical Studies — the learner relates the skills on surfing the internet to access resources to online research"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Communication and Collaboration — contributing to group decision making when using adjectives to describe a safe and unsafe public place",
+            "Digital Literacy — interacting with digital content when surfing the internet to find sample descriptive essays"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Civic Responsibility (writing an essay on safety in public places and publishing it). Values: Responsibility, Patriotism."
+        },
+        {
+          "code": "5.3.1",
+          "theme": "Theme 5: Our Cultural Heritage",
+          "name": "Creative Writing — Plays",
+          "lessonCount": 2,
+          "builtAs": "il-w-play-features (W.5), web/src/skills/indigenousLanguage/playFeatures.ts",
+          "specificLearningOutcomes": [
+            "explain the features of a play for information",
+            "write a short play based on the theme for communication",
+            "recognise the contribution of playwriting in the preservation of culture"
+          ],
+          "keyInquiryQuestions": ["How does a play differ from a story?", "How are plays written?"],
+          "learningExperiences": [
+            "watch a live or recorded grade appropriate skit in class and discuss the characters and use of dialogue",
+            "search online or offline for grade appropriate short play scripts related to the theme and read with peers",
+            "work jointly with peers to discuss the features of a play with emphasis on the characters, setting language and stage directions",
+            "sketch a one-scene play related to the theme",
+            "exchange the play with peers for review",
+            "revise the script according to the suggestions given by their peers",
+            "write a two-scene play based on the theme",
+            "work with peers to allocate roles and act out the play",
+            "partner with peers to organise a class mini-festival and stage the plays",
+            "organise their best play scripts in the class portfolio"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports — the learner relates the concept of play writing and cultural heritage to their learning of creative composition of artistic work"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Creativity and imagination — exchanging new ideas to inspire creativity when writing a two-scene play based on the theme",
+            "Learning to learn — planning and managing tasks effectively when partnering with peers to organize a class mini-festival and stage the plays"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Ethnic Relations. Values: Peace, Social Justice."
+        },
+        {
+          "code": "6.3.1",
+          "theme": "Theme 6: Economic Activities",
+          "name": "Writing for information — Homonyms",
+          "lessonCount": 2,
+          "builtAs": "il-w-economic-homonyms (W.6), web/src/skills/indigenousLanguage/economicHomonyms.ts",
+          "specificLearningOutcomes": [
+            "identify homonyms for information",
+            "distinguish meaning between homonyms for comprehension",
+            "appreciate writing in indigenous languages for enjoyment"
+          ],
+          "keyInquiryQuestions": ["How can you distinguish meaning between two different words with same spelling?", "Why do economic activities differ from one location to another?"],
+          "learningExperiences": [
+            "work with peers to put together a collection of homonyms from the community",
+            "create mind maps to identify the different meaning of the words",
+            "construct sentences to clearly bring a distinction in meaning between homonyms",
+            "fill in gaps with correct words from a set of homonyms",
+            "compose a paragraph with the homonyms to create distinct difference in meaning between the words",
+            "share their work with peers for review"
+          ],
+          "linkedLearningAreas": ["English — the learner relates the concept of homonyms to similar content"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Communication and Collaboration — working jointly with others to put together a collection of homonyms from the community",
+            "Critical Thinking and Problem-solving — following simple instructions when filling in gaps with correct words from a set of homonyms"
+          ],
+          "assessmentSignal": null,
+          "notes": "PCI: Social Cohesion. Values: Peace, Integrity."
+        },
+        {
+          "code": "7.3.1",
+          "theme": "Theme 7: First Aid",
+          "name": "Assessment of writing — Narrative Composition",
+          "lessonCount": 2,
+          "builtAs": "il-w-composition-quality (W.7), web/src/skills/indigenousLanguage/compositionQuality.ts",
+          "specificLearningOutcomes": [
+            "recognise the features of a well written composition for information",
+            "assess written texts for relevance, punctuation and neatness",
+            "acknowledge the need for quality in written work for effective communication"
+          ],
+          "keyInquiryQuestions": ["How do you ensure quality of written work?"],
+          "learningExperiences": [
+            "search online and offline for features of a well written composition",
+            "work with peers to distinguish samples of neat and well written compositions from those that are not well written",
+            "outline common errors made when writing",
+            "work with peers to prepare a criteria or checklist for assessing written texts based on key features (e.g. relevance, punctuation, neatness)",
+            "write a short narrative composition on types of injuries sustained through road clashes and how to administer first aid",
+            "share their work with peers for assessment against the set criteria or checklist",
+            "review their written compositions based on feedback from peers",
+            "display their quality written work on the class gallery"
+          ],
+          "linkedLearningAreas": ["Mathematics — the learner relates the concept of preparing a criteria or checklist to the concept of data collection and presentation using tables"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Critical Thinking and Problem-solving — working with peers to analyse concepts when distinguishing neat/well written compositions from those that are not",
+            "Learning to Learn — motivated to learn continuously when working with peers to prepare a criteria/checklist for assessing written texts"
+          ],
+          "assessmentSignal": "This W.7 sub-strand's suggested composition topic is the same road-crash/first-aid content as R.7's visuals sub-strand within the same theme — a curriculum-endorsed intra-theme content link (compose the narrative about the same injuries/first-aid scenario read about in Reading), not an accidental duplication.",
+          "notes": "PCI: Civic Responsibility. Values: Responsibility, Unity."
+        },
+        {
+          "code": "8.3.1",
+          "theme": "Theme 8: Indigenous Literature",
+          "name": "Creative writing — short story",
+          "lessonCount": 2,
+          "builtAs": "il-w-shortstory-features (W.8), web/src/skills/indigenousLanguage/shortStoryFeatures.ts",
+          "specificLearningOutcomes": [
+            "explain the features of a short story for information",
+            "write a short story featuring a hero or heroine for creative expression",
+            "recognise the place of short story writing in indigenous knowledge preservation"
+          ],
+          "keyInquiryQuestions": ["How can we differentiate a short story from a novel?", "Why is it important for a community to honour its heroes and heroines?"],
+          "learningExperiences": [
+            "read a short story from print or digital sources on community legends",
+            "work jointly with peers to examine the features of a short story",
+            "make notes on the features of a short story",
+            "identify a community or national hero and heroine and their unique qualities",
+            "prepare an outline of a short story featuring the community or national hero or heroine",
+            "use the outline to write a short story on the hero or heroine",
+            "share their story with peers for review",
+            "publish their refined short story in a school or public magazine"
+          ],
+          "linkedLearningAreas": ["English — the learner relates the concept of writing short stories to their learning of the concept of creative writing"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Digital Literacy — interacting with digital content when reading a short story from digital sources on community legends",
+            "Self-efficacy — showing concerted attention by using the outline to write a short story on the hero or heroine"
+          ],
+          "assessmentSignal": "This sub-strand's plot/character-terms content (exposition/rising action/climax/falling action/resolution; character/setting/plot/conflict/theme) is not stated as a separate parenthetical list in the Suggested Learning Experiences column — it is inferred from 'examine the features of a short story' / 'make notes on the features of a short story' plus the general narrative-writing SLO. The shipped skill (shortStoryFeatures.ts) supplies these standard short-story-craft terms explicitly; treat as a reasonable, pedagogically standard operationalisation of 'features of a short story' rather than a verbatim-sourced list.",
+          "notes": "Cross-theme note: this W.8 sub-strand's suggested topic (a short story featuring 'a community or national hero and heroine') deliberately echoes Theme 1 (Community Heroes and Heroines) — a curriculum-sanctioned callback, not an accidental overlap. PCI: Social cohesion. Values: Patriotism, Respect."
+        },
+        {
+          "code": "9.3.1",
+          "theme": "Theme 9: Kenyan Cultures",
+          "name": "Functional Writing — Letters of application",
+          "lessonCount": 2,
+          "builtAs": "il-w-application-letter (W.9), web/src/skills/indigenousLanguage/applicationLetter.ts",
+          "subSubStrands": ["Scholarship letter"],
+          "specificLearningOutcomes": [
+            "recognise the components of a letter of application for information",
+            "write a letter of application for a scholarship for effective communication",
+            "acknowledge writing as a means of communicating for lifelong learning"
+          ],
+          "keyInquiryQuestions": ["Why do we make applications whenever we need formal opportunities?", "How do application letters differ from other letters?"],
+          "learningExperiences": [
+            "search online and offline for samples of scholarship application letters",
+            "work with peers to identify the components of a well written scholarship application letter",
+            "compose an application letter for a scholarship for Senior School education funding",
+            "share their written letters with peers for review",
+            "organize their reviewed letter in a portfolio"
+          ],
+          "linkedLearningAreas": ["English and Kiswahili — the learner relates the concept of writing letters to similar concepts in functional writing"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Communication and Collaboration — contributing to group decision making when identifying the components of a well written scholarship application letter",
+            "Digital Literacy — using digital technology to search online and offline for samples of scholarship application letters"
+          ],
+          "assessmentSignal": null,
+          "notes": "The design specifies the scholarship is explicitly 'for Senior School education funding' — an application-letter skill should frame its scenario around Senior School transition funding specifically, not a generic scholarship, to match the source's intent. PCI: Human Rights. Values: Integrity, Responsibility."
+        }
+      ]
+    }
+  ],
+  "assessmentRubricSummary": {
+    "listeningAndSpeaking": "Suggested Assessment Rubric (4 levels: Exceeding/Meeting/Approaching/Below Expectations) covers: Language in Use (parts of speech — nouns, pronouns, adjectives, prepositions, adverbs, verbs — in sentence construction), Listening for information (identifying target words, paraphrasing main idea/specific information), Listening for comprehension (inferring vocabulary meaning), Fluency (correct pronunciation, correct intonation, appropriate use of tongue twisters/riddles), Conversational skills (proper turn-taking and polite interruption during negotiations), Presentation skills (appropriate use of non-verbal cues — gestures, facial expressions, appearance, tonal variations, body movements — in public speaking, debates and storytelling).",
+    "reading": "Covers: Reading for comprehension (responding to direct/inferential questions, relating events/themes to real life), Library skills (effective library practices — silent reading, comprehension strategies, reading log), Reading for information (making connections between visuals and written texts), Intensive reading (applying pre-reading, note-making, inference, summarising strategies), Extensive reading (outlining main ideas from grade-appropriate texts).",
+    "writing": "Covers: Handwriting (neat, legible rewriting), Social and functional writing (emails, letters of application — correct format/language/organisation), Creative writing (poems, plays, short stories, descriptive essays — correct format/language/organisation), Assessment of writing (assessing handwritten texts for legibility, neatness, relevance, coherence)."
+  }
+}

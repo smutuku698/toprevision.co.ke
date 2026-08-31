@@ -1,0 +1,248 @@
+{
+  "subject": "Science & Technology",
+  "subjectId": "science",
+  "grade": 6,
+  "source": {
+    "title": "Primary School Education Curriculum Design — Science & Technology, Grade 6",
+    "path": "grade-6-curriculum-desings/GRADE-6-SCIENCE-Curriculum-Designs.pdf",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-16",
+    "confidence": "high",
+    "notes": "Read in full via the Read tool (no pages param). ISBN 978-9914-724-90-5, First Published 2017, Revised 2024. Grade 6 is Upper Primary, NOT Junior School — the subject is called 'Science & Technology' (not 'Integrated Science', which starts Grade 7). Only 3 strands / 8 sub-strands / 120 total suggested lessons — the smallest Science curriculum design mined so far, which is why per-sub-strand depth (pool size, kind variety, Bloom's tier) matters even more than usual to avoid feeling thin."
+  },
+  "strands": [
+    {
+      "name": "1.0 Living Things and their Environment",
+      "subStrands": [
+        {
+          "name": "1.1 Fungi",
+          "lessonCount": 12,
+          "specificLearningOutcomes": [
+            "Identify common fungi in the environment",
+            "Describe the importance of fungi in nature",
+            "Appreciate the importance of fungi in the economy"
+          ],
+          "keyInquiryQuestions": ["How is fungi important in nature?"],
+          "learningExperiences": [
+            "Use print and non-print materials to search for images of common fungi (mushrooms, toadstool, puff balls, yeast and moulds) and share findings with peers",
+            "Take a walk in the school compound and the adjacent environment to observe and identify different types of fungi",
+            "Grow moulds on available food materials, observe and share with peers",
+            "Use print and non-print materials to search for information on the economic importance of moulds, yeast and mushrooms (food, fermentation, health and medicine), record and discuss with peers"
+          ],
+          "linkedLearningAreas": ["Agriculture and Nutrition — economic importance of fungi links to food production"],
+          "scopeNotes": [
+            "exclude: scientific names of fungi not required",
+            "exclude: details on application of fungi in food processing not required",
+            "include: precautions and safe disposal of wastes when handling fungi (from the Note under Suggested Learning Experiences)"
+          ],
+          "coreCompetencies": ["Learning to learn", "Self-efficacy"],
+          "assessmentSignal": "Rubric rewards describing importance of fungi 'correctly and comprehensively' at Exceeds tier — the economic importance list (food, fermentation, health, medicine) should all be individually recallable, not just 'fungi are useful'.",
+          "pertinentContemporaryIssues": ["Financial literacy (economic importance of moulds/yeast/mushrooms)", "Environmental conservation (safe waste disposal when handling fungi)"],
+          "values": ["Responsibility"]
+        },
+        {
+          "name": "1.2 Invertebrates",
+          "lessonCount": 14,
+          "specificLearningOutcomes": [
+            "Identify common invertebrates in the environment",
+            "Practise precautions in handling invertebrates",
+            "Describe the general characteristics of invertebrates",
+            "Outline the economic importance of invertebrates",
+            "Appreciate the importance of invertebrates in nature"
+          ],
+          "keyInquiryQuestions": ["What are the common features of invertebrates?"],
+          "learningExperiences": [
+            "Walk around the school compound, observe and identify common invertebrates (insects; spiders, ticks and mites; millipedes and centipedes; snails and slugs; worms; sea invertebrates — octopus, starfish and crabs), record and share with peers",
+            "Discuss with peers the safety precautions applied when handling invertebrates",
+            "Use print and non-print materials to search for information on general characteristics of invertebrates",
+            "Explore the school compound and the adjacent environment to identify different invertebrates and their characteristics; practise safety precautions in handling invertebrates",
+            "Make an inventory of common invertebrates in their locality",
+            "Discuss the economic importance of invertebrates (food, pollination, soil aeration, pests, transmission of diseases)"
+          ],
+          "linkedLearningAreas": ["Agriculture and Nutrition — transmission of diseases links to communicable diseases"],
+          "scopeNotes": ["exclude: scientific names not required"],
+          "coreCompetencies": ["Critical thinking and problem solving", "Creativity and Imagination"],
+          "assessmentSignal": "Rubric's Exceeds tier for economic importance asks for 'example(s) from the locality' — real-world, localized examples are explicitly rewarded, not generic textbook statements.",
+          "pertinentContemporaryIssues": ["Animal welfare", "Safety and security", "Health promotion issues (disease transmission)"],
+          "values": ["Love"]
+        },
+        {
+          "name": "1.3 Human circulatory system",
+          "lessonCount": 16,
+          "specificLearningOutcomes": [
+            "Identify main parts of the human circulatory system",
+            "Describe functions of main parts of the human circulatory system",
+            "Outline the symptoms and prevention of common health conditions of the human circulatory system",
+            "Develop a routine plan for maintaining a healthy circulatory system",
+            "Appreciate the importance of a healthy circulatory system"
+          ],
+          "keyInquiryQuestions": [
+            "What is the human circulatory system made up of?",
+            "What measures enhance a healthy human circulatory system?"
+          ],
+          "learningExperiences": [
+            "Search for information on the main parts of the human circulatory system (heart, blood vessels and blood) and share findings with peers",
+            "Use locally available materials to model the human circulatory system",
+            "Use online interactive platforms or digital images or writing materials to illustrate main parts of the human circulatory system",
+            "Search for information on parts of the heart (auricles, ventricles and vessels) and their functions, record and share findings",
+            "Discuss the functions of the main blood vessels in the human body (arteries, veins and capillaries)",
+            "Discuss the components of blood and their functions (red blood cells, white blood cells and platelets)",
+            "Search for information on the symptoms and prevention of common health conditions of the human circulatory system (hardening of arteries, high blood pressure and heart attack) and share findings",
+            "Discuss ways of maintaining a healthy human circulatory system",
+            "Develop a routine plan for maintaining a healthy circulatory system (to include drinking plenty of water, physical activities and healthy eating)"
+          ],
+          "linkedLearningAreas": ["Creative Arts — modelling the human circulatory system links to modelling in Creative Arts and Sports"],
+          "scopeNotes": ["exclude: details of different blood vessels and parts of the body not needed"],
+          "coreCompetencies": ["Communication and Collaboration", "Digital literacy"],
+          "assessmentSignal": "Separate rubric rows exist for (a) describing functions of main parts and (b) developing a routine plan — a skill must cover BOTH structure/function facts AND an applied routine-plan behaviour, not just anatomy recall.",
+          "pertinentContemporaryIssues": ["Health promotion issues"],
+          "values": ["Responsibility", "Unity"]
+        }
+      ]
+    },
+    {
+      "name": "2.0 Matter",
+      "subStrands": [
+        {
+          "name": "2.1 Change of State",
+          "lessonCount": 18,
+          "specificLearningOutcomes": [
+            "Identify the changes of state when substances are heated or cooled",
+            "Describe the applications of the change of state of matter in everyday life",
+            "Appreciate the applications of change of state of matter in day-to-day life"
+          ],
+          "keyInquiryQuestions": ["How is change of state of matter important in day-to-day life?"],
+          "learningExperiences": [
+            "Brainstorm the meaning of change of state of matter",
+            "Carry out activities to demonstrate change of state of matter: melting, evaporation, sublimation, deposition, condensation and freezing (all 6 named transitions)",
+            "Discuss the applications of change of state of matter in everyday life",
+            "Use digital or print media to search for information on what happens when matter is heated or cooled"
+          ],
+          "linkedLearningAreas": ["Agriculture and Nutrition — evaporation as a process of drying clothes and cereals"],
+          "scopeNotes": ["include: observe safety while heating substances to avoid fires and burns"],
+          "coreCompetencies": ["Communication and collaboration", "Learning to learn"],
+          "assessmentSignal": "Exceeds tier explicitly rewards identifying changes 'giving examples from locality' and Meets tier requires 'at least four' of the six named transitions — sublimation and deposition (the two least everyday-obvious ones) must not be dropped in favour of only melting/freezing/evaporation/condensation.",
+          "pertinentContemporaryIssues": ["Socio-economic issues (Environmental Education) — reusing wax/plastic to save cost"],
+          "values": ["Respect"],
+          "projects": ["Make candles using waste candle wax or beeswax", "Repair broken plastic containers"]
+        },
+        {
+          "name": "2.2 Composition of Air",
+          "lessonCount": 16,
+          "specificLearningOutcomes": [
+            "Identify the components of air",
+            "Outline uses of the different components of air",
+            "Explain the effects of air pollution in the environment",
+            "Describe methods of reducing air pollution in the environment",
+            "Appreciate the need for clean air in day-to-day life"
+          ],
+          "keyInquiryQuestions": ["How does air pollution affect the environment?"],
+          "learningExperiences": [
+            "Brainstorm on the meaning of air and its constituents",
+            "Draw a pie chart showing percentage composition of components of air",
+            "Carry out an activity to investigate the presence of oxygen in air collaboratively (use a burning candle)",
+            "Discuss the uses of the different components of air",
+            "Brainstorm on the meaning of air pollution",
+            "Explore the school and neighbourhood to identify air pollutants",
+            "Discuss the effects of air pollution on the environment",
+            "Identify and discuss methods of reducing air pollution",
+            "Use digital or print media to search for more information on the effects of air pollution"
+          ],
+          "linkedLearningAreas": ["Mathematics — drawing a pie chart showing percentage composition of components of air"],
+          "scopeNotes": ["include: observe safety precautions in air-polluted environments (dust masks, goggles, overcoats)"],
+          "coreCompetencies": ["Citizenship", "Learning to learn"],
+          "assessmentSignal": "The Mathematics cross-link plus the explicit 'draw a pie chart' learning experience means a pie-chart VisualSpec for the ~78% nitrogen / 21% oxygen / 1% other-gases split is curriculum-endorsed, not an invented visual.",
+          "pertinentContemporaryIssues": ["Socio-economic and environmental issues (environmental education and climate change)"],
+          "values": ["Responsibility", "Patriotism"],
+          "projects": ["Make posters on common air pollutants, dangers of air pollution and ways of controlling air pollution"]
+        }
+      ]
+    },
+    {
+      "name": "3.0 Force and Energy",
+      "subStrands": [
+        {
+          "name": "3.1 Light",
+          "lessonCount": 16,
+          "specificLearningOutcomes": [
+            "Demonstrate the movement of light through materials",
+            "Draw ray diagrams of images formed in plane mirrors",
+            "Illustrate the formation of shadows and eclipses in nature",
+            "Describe the formation of rainbow in nature",
+            "Appreciate the importance of movement of light in everyday life"
+          ],
+          "keyInquiryQuestions": ["How does light travel?"],
+          "learningExperiences": [
+            "Carry out activities to show the movement of light through different materials (transparent, translucent and opaque)",
+            "Perform an experiment to show reflection of light in plane mirrors (laws of reflection)",
+            "Locate and illustrate images formed in plane mirrors and discuss their characteristics",
+            "Carry out activities to demonstrate and illustrate the formation of shadows and eclipses (solar & lunar eclipses)",
+            "Use digital or print media to search for more information on movement of light through materials, image formation in plane mirrors, formation of shadows, eclipses and rainbow in nature",
+            "Discuss the applications of movement of light through different media (mirrors, periscope, kaleidoscope, lenses, magnifying glass, hand lens, mirage, rainbow)"
+          ],
+          "linkedLearningAreas": ["Home Science — the concept of ray of light in lighting up the home"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy", "Communication and Collaboration"],
+          "assessmentSignal": "Separate rubric row exists specifically for 'ability to illustrate the formation of shadows and eclipses in nature' with 'correctly and labels' at Exceeds — a shadow/eclipse diagram needs actual labelled parts (light source, opaque object, umbra), not just a verbal description.",
+          "pertinentContemporaryIssues": ["Socio-economic issues (safety and security when handling mirrors during experiments)"],
+          "values": ["Unity"],
+          "projects": ["Make a functional periscope using locally available resources"]
+        },
+        {
+          "name": "3.2 Levers as simple machines",
+          "lessonCount": 14,
+          "specificLearningOutcomes": [
+            "Identify common levers used in day-to-day life",
+            "Describe parts of a lever as used in making work easier",
+            "Classify levers into the three classes",
+            "Demonstrate the use of levers in making work easier",
+            "Appreciate the use of levers in making work easier"
+          ],
+          "keyInquiryQuestions": ["How are levers used in day to day life?"],
+          "learningExperiences": [
+            "Brainstorm on the meaning of levers as simple machines",
+            "Work collaboratively to identify parts of a lever (fulcrum/pivot, effort, load)",
+            "Carry out activities to group levers into the three classes (first, second and third class levers)",
+            "Carry out activities to demonstrate the use of common levers as simple machines: a hole punch, pliers, scissors, a see-saw, wheelbarrow, bottle openers, nail clippers, a nutcracker, shovel, fishing rod, kitchen tongs and tweezers (12 named examples)",
+            "Use digital or print media to search for information on how levers make work easier in day-to-day life"
+          ],
+          "linkedLearningAreas": [
+            "Agriculture and Nutrition — application of the principle of levers in farm tools, use of cutlery, spoons and bottle openers",
+            "Creative Arts — applying the concept of simple levers while playing on a see-saw"
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and imagination", "Learning to learn"],
+          "assessmentSignal": "Ability-to-demonstrate rubric rewards 'correctly and innovatively' at Exceeds — beyond classifying the 12 named tools, a skill should require reasoning about WHY a given class arrangement makes work easier for that specific tool, not just rote class-1/2/3 labels.",
+          "pertinentContemporaryIssues": ["Citizenship education (care and protection of one another during experiments)"],
+          "values": ["Respect"],
+          "projects": ["Make and use a beam balance from locally available materials"]
+        },
+        {
+          "name": "3.3 Slopes as simple machines",
+          "lessonCount": 14,
+          "specificLearningOutcomes": [
+            "Identify types of slopes used as simple machines",
+            "Demonstrate how a slope makes work easier in day-to-day life",
+            "Appreciate the use of slopes in everyday life"
+          ],
+          "keyInquiryQuestions": ["How are slopes used in everyday life?"],
+          "learningExperiences": [
+            "Discuss the meaning of slope as a simple machine (inclined plane)",
+            "Give practical examples on where slopes are used to make work easier around the school environment (ladders, ramps, staircase, road winding uphill, wedge, roofs, loading a lorry)",
+            "Discuss how slopes are used to make work easier in day-to-day life",
+            "Carry out activities to show how slopes make work easier",
+            "Use digital media to search for information on how slopes make work easier (elevators/lifts, escalators/moving stairs, staircase, ladders, cableways, ramps, road winding uphill, wedge, roofs, loading a lorry)",
+            "Discuss the importance of use of slopes in day-to-day life"
+          ],
+          "linkedLearningAreas": ["Agriculture and Nutrition — the concept of slope in the use of farm tools, equipment and machinery"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Citizenship", "Critical thinking and problem solving"],
+          "assessmentSignal": "The Core Competencies box explicitly names 'Critical thinking and problem solving' — per RIGOR-STANDARDS.md this sub-strand requires at least one Analyze-or-Evaluate-tier branch (e.g. comparing a steep vs gentle slope's effort/distance trade-off), not only Remember-tier slope-type identification.",
+          "pertinentContemporaryIssues": ["Socio-economic issues (safety and security)"],
+          "values": ["Integrity"],
+          "projects": ["Make a simple slope for use in school or at home using locally available materials"]
+        }
+      ]
+    }
+  ]
+}

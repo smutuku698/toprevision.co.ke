@@ -1,0 +1,675 @@
+{
+  "subject": "French",
+  "subjectId": "french",
+  "grade": 7,
+  "source": {
+    "title": "Junior School Curriculum Design — French Grade 7 (First published 2022, Revised 2024)",
+    "path": "designs-grade-7/French-Grade-7-Design-Formatted-April-2024.pdf",
+    "publisher": "KICD",
+    "isbn": "978-9914-43-934-2",
+    "retrievedDate": "2026-08-17",
+    "confidence": "high",
+    "notes": "Read in full via the Read tool (no pages param). Backfilled retroactively — skills already shipped in web/src/skills/frenchG7/ before this record was written. Structure verified verbatim against the PDF's own SUMMARY OF STRANDS AND SUB STRANDS table (page x) and the per-theme strand tables (pages 1-43): 3 strands (Listening and Speaking, Reading, Writing) x 9 themes = 27 sub-strands, matching the frenchG7 skill folder's 9 themes x 3 skills (Speaking/Reading/Writing) each. Essence statement identical in spirit to Grade 8: Kenya's foreign languages at Junior School are Arabic, French, German and Mandarin, non-formal basic (A1/YCT2-equivalent) 4-skills curriculum guided by social-constructivism and environmental theories. Total suggested lessons: 27 (Listening & Speaking) + 18 (Reading) + 9 (Writing) = 54, plus 6 lessons for showcasing."
+  },
+  "essenceNote": "Kenya is part of the international community and the learner is given an opportunity to learn foreign languages (Arabic, French, German, Mandarin) in addition to national/official/indigenous languages, acquiring the four language skills (listening, speaking, reading, writing) at a basic level in a non-formal curriculum, guided by social-constructivism and environmental theories, transiting to senior school with basic proficiency equivalent to A1/YCT2 (verbatim essence statement).",
+  "strands": [
+    {
+      "name": "1.0 Listening and Speaking",
+      "subStrands": [
+        {
+          "code": "1.1",
+          "name": "Interactive Speaking — Informal and Other Forms of Greetings",
+          "theme": "Greetings and Introductions",
+          "specificLearningOutcomes": [
+            "Respond to questions and prompts to show comprehension and engagement",
+            "Use vocabulary and expressions appropriately to probe and engage in oral interactions",
+            "Use non-verbal communication cues to enhance communication",
+            "Exhibit confidence to contribute actively in conversations"
+          ],
+          "keyInquiryQuestions": ["How can you communicate without talking?"],
+          "learningExperiences": [
+            "Listen to audio material on informal greetings and respond to prompts",
+            "Listen to and sing songs with vocabulary on informal greetings and introductions",
+            "Participate in simple skits on greetings and introductions while speaking clearly and effectively using appropriate language expressions and gestures",
+            "Source and watch video clips with dialogues on introductions with a view to appreciate diversity (Comment tu t'appelles ? Quel âge as-tu ? Tu habites où ? Et ton ami/amie ?)",
+            "Participate in \"Repeat-after-me\" exercise to acquire vocabulary (salut, coucou, ça marche, ça roule, ça gaze ! quoi de neuf ?)",
+            "Play mimicry games such as charades and mirroring jointly to acquire non-verbal communication skills"
+          ],
+          "linkedLearningAreas": ["The concept of informal greetings and introduction is linked to the greetings concept in social linguistics in Kiswahili"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Communication and Collaboration: developed as the learner speaks clearly and effectively using appropriate language expression and gestures while presenting skits",
+            "Creativity and Imagination: as the learners undertake communication using non-verbal cues"
+          ],
+          "values": ["Respect: as the learners appreciate the diversity in names, age and where they live"],
+          "pertinentContemporaryIssues": ["Citizenship: Social cohesion is enhanced as learners engage in mimicry activities in groups"]
+        },
+        {
+          "code": "1.2",
+          "name": "Oral Expression — Nuclear Family",
+          "theme": "Family",
+          "specificLearningOutcomes": [
+            "Use varied vocabulary when speaking",
+            "Employ fluency in verbal communication",
+            "Express enthusiasm in oral communication"
+          ],
+          "keyInquiryQuestions": ["Why is family important?"],
+          "learningExperiences": [
+            "Outline vocabulary on members of a nuclear family",
+            "Listen to audiovisual texts of people presenting their families (name, age and professions)",
+            "Present role plays on members of family asking and presenting on name, age and professions with emphasis on speaking clearly and effectively using appropriate language, expressions and gestures",
+            "Carry out short exposés of different family models with emphasis on appreciating diversity and uniqueness"
+          ],
+          "linkedLearningAreas": ["As the learners engage in role plays they are able to relate the skill of acting with drama in Creative Arts"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Communication and Collaboration: learners speak clearly and effectively using appropriate language, expressions and gestures in role plays",
+            "Digital Literacy: as learners manipulate digital devices as they listen to audiovisual texts on members' families names, age and professions"
+          ],
+          "values": ["Respect: as learners recognize the uniqueness of each family and accommodate the differences while presenting the exposés on different family models"],
+          "pertinentContemporaryIssues": ["Self-esteem: Learners acquire self-esteem as they talk about themselves and their families as they present exposés on different family models"]
+        },
+        {
+          "code": "1.3",
+          "name": "Interactive Listening — The Market",
+          "theme": "My Surrounding",
+          "specificLearningOutcomes": [
+            "Identify key points from audio stimuli",
+            "Ask and give information in oral interactions",
+            "Value the importance of paying attention to details while listening"
+          ],
+          "keyInquiryQuestions": ["Why do people make a shopping list?"],
+          "learningExperiences": [
+            "Identify different types of shops in the market from images (boucherie, épicerie, boutique...)",
+            "Ask for the locations of different shops in the market (où est ? où se trouve ?...)",
+            "Listen to audio-visual materials and pick vocabulary and expressions on selling and buying at the market (expressions de quantité: nombres, litre, kilo...)",
+            "Ask for prices of items in different shops in the market using polite language in order to make informed choices (polite form: Je voudrais...) (ça coûte combien / ça fait combien, s'il vous plaît...)",
+            "Use the vocabulary, expressions and grammatical structures to describe items in a shop at the market",
+            "Simulate simple dialogues on buying and selling at the market as they compare prices",
+            "Create a shopping list to guide them when buying items at the market"
+          ],
+          "linkedLearningAreas": ["The concept of creating a shopping list is linked to financial literacy in Business Studies under Pre-technical Studies"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical Thinking and Problem Solving: as the learners compare prices to make informed choices on what to buy"],
+          "values": ["Respect: as learners learn to ask for prices of items politely when shopping"],
+          "pertinentContemporaryIssues": ["Financial Literacy: as the learners use a shopping list to buy at the market"]
+        },
+        {
+          "code": "1.4",
+          "name": "Active Listening — Important Dates",
+          "theme": "Time",
+          "specificLearningOutcomes": [
+            "Recall details and information accurately from oral interactions",
+            "Interpret verbal cues from audio stimuli",
+            "Demonstrate willingness to be receptive to new ideas in oral interactions"
+          ],
+          "keyInquiryQuestions": ["Are some dates more important than others?"],
+          "learningExperiences": [
+            "Play number games to work on dates",
+            "Practice asking and saying the date: (Quelle est la date aujourd'hui? C'est lundi le 4 janvier, 2024)",
+            "Participate in rhyming games to acquire vocabulary on important dates (date d'anniversaire, nouvel an, noël, fêtes nationales)",
+            "Watch audio-visual clips with important dates"
+          ],
+          "linkedLearningAreas": ["Learning important dates can be linked to the concept of national holidays in Social Studies"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration: as learners listen keenly and actively as they participate in asking and saying the date"],
+          "values": ["Patriotism: as learners value the important dates of national holidays through participating in rhyming games"],
+          "pertinentContemporaryIssues": ["Self-awareness: as learners share about their individual birthdays and important dates in their lives"]
+        },
+        {
+          "code": "1.5",
+          "name": "Listening for Information — Leisure Time",
+          "theme": "Fun and Enjoyment",
+          "specificLearningOutcomes": [
+            "Identify key points from audio stimuli",
+            "Use information from audio stimuli to respond to questions or prompts",
+            "Cultivate awareness on the importance of paying attention to details when listening for information"
+          ],
+          "keyInquiryQuestions": ["Why should we create time for fun and enjoyment?"],
+          "learningExperiences": [
+            "Pick out aspects of time when leisure time activities take place from audiovisual texts (après les cours, récréation, week-ends, vacances)",
+            "Listen keenly and respond appropriately to questions on when they engage in leisure time activities",
+            "Play word puzzle games with vocabulary on leisure activities",
+            "Watch short video clips on leisure activities in Kenya and elsewhere",
+            "Come up with a list of leisure activities that promote healthy living",
+            "Discuss on leisure time activities that they engage in over the holidays"
+          ],
+          "linkedLearningAreas": ["The learner is able to relate the leisure activities with the skills of drawing, painting, dancing and singing in Creative Arts"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration: developed as learners listen keenly and actively so as to respond appropriately to questions on leisure time activities"],
+          "values": ["Unity: as learners discuss together the leisure time activities that they engage in over the holidays"],
+          "pertinentContemporaryIssues": ["Health Promotion: learners engage in appropriate leisure activities for good physical and mental health as they come up with a list of leisure activities that promote healthy living"]
+        },
+        {
+          "code": "1.6",
+          "name": "Interactive Speaking — Shopping for Food",
+          "theme": "Foods and Drinks",
+          "specificLearningOutcomes": [
+            "Respond to questions and prompts to show comprehension and engagement",
+            "Use vocabulary and expressions appropriately to probe and engage in oral interactions",
+            "Exhibit confidence to contribute actively in conversations"
+          ],
+          "keyInquiryQuestions": ["Where do you buy your food?"],
+          "learningExperiences": [
+            "Listen to and repeat names of different shops of food (la boucherie, la boulangerie, l'épicerie, la crèmerie, le café, le restaurant) as they identify different professions related to food (serveur, butcher, chef...)",
+            "Pick out vocabulary on quantities of foodstuff (un kilo de, un litre de, un verre de)",
+            "Search for different shops of foodstuff using digital devices",
+            "Request for food items using appropriate expressions (Je voudrais un paquet du lait, Je voudrais un kilo de la viande, Je voudrais deux pains)",
+            "Play games to practice vocabulary related to quantities of food and drinks"
+          ],
+          "linkedLearningAreas": [
+            "The concept of quantity of food is linked to the concept measurement (weight) in Mathematics",
+            "The concept of shopping for food is linked to the concept of budgeting in Business Studies under Pre-Technical Studies"
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and Collaboration: developed as learners speak clearly and effectively on food and drinks using appropriate expressions and gestures"],
+          "values": ["Responsibility: Learners search for different shops of foodstuffs using digital devices without going to other unnecessary sites"],
+          "pertinentContemporaryIssues": ["Career Guidance: Learners explore different career opportunities as they identify different professions related to food"]
+        },
+        {
+          "code": "1.7",
+          "name": "Oral Expression — Physical Appearance",
+          "theme": "My Body",
+          "specificLearningOutcomes": [
+            "Structure oral communication in a clear and coherent manner",
+            "Use gestures and facial expressions to enhance oral communication",
+            "Express enthusiasm to engage in oral communication"
+          ],
+          "keyInquiryQuestions": ["Why should we love our bodies as they are?"],
+          "learningExperiences": [
+            "Select different attributes of physical appearances from audio texts (grand, petit, gros, mince)",
+            "Listen to and repeat sentences on physical appearance",
+            "Play the hot seat game where learners describe each other orally using their physical attributes",
+            "Constitute groups of diverse physical appearance and engage in miming activities",
+            "Engage in group work activities among diverse learners to bring diversity"
+          ],
+          "linkedLearningAreas": ["The learner is able to link the concept of physical appearance attributes to qualitative adjectives in English"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and Collaboration: The learners speak clearly and effectively using appropriate language as they describe each other orally using their physical attributes"],
+          "values": ["Respect: as learners appreciate diversity in each other's uniqueness in physical appearances while engaging in miming activities"],
+          "pertinentContemporaryIssues": ["Social Cohesion: The learners of diverse physical attributes learn to work together through engaging in group work activities"]
+        },
+        {
+          "code": "1.8",
+          "name": "Active Listening — Seasons",
+          "theme": "Weather and Environment",
+          "specificLearningOutcomes": [
+            "Recall key points in spoken communication",
+            "Interpret verbal cues from audio stimuli",
+            "Demonstrate willingness to be receptive to new ideas in oral interactions"
+          ],
+          "keyInquiryQuestions": ["How is the weather different in some months of the year?"],
+          "learningExperiences": [
+            "Listen to audio clips about seasons in Kenya and the months they occur to pick out new vocabulary (La saison sèche, la saison des pluies, il fait chaud, il pleut, il y a du vent)",
+            "Compare seasons and weather patterns of Kenya and France from audio stimuli",
+            "Watch audio-visual clips with vocabulary on different types of clothing and categorize them into warm or light clothing (pull, blouson, pantalon, robe, chemise)",
+            "Play rhyming games in groups to enhance vocabulary mastery on weather patterns",
+            "Play games on vocabulary search on weather and clothing in groups using digital devices (search engine set with \"Safe Search ON\")"
+          ],
+          "linkedLearningAreas": ["The concept of vocabulary on weather patterns is related with the concept of weather and climate in Geography under Social Studies"],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Communication and Collaboration: The learners listen critically to compare perspectives as they distinguish seasons and weather patterns of Kenya and France",
+            "Digital literacy: as learners use the internet effectively to search for the seasons and related weather patterns in France"
+          ],
+          "values": ["Unity: Learners work in groups as they play rhyming games to enhance vocabulary mastery on weather patterns"],
+          "pertinentContemporaryIssues": ["Safety and Security: learners search from safe sites online as they play video games on weather and clothing"]
+        },
+        {
+          "code": "1.9",
+          "name": "Interactive Speaking — In the Neighbourhood",
+          "theme": "Getting Around",
+          "specificLearningOutcomes": [
+            "Respond to questions and prompts to show comprehension and engagement",
+            "Use vocabulary and expressions appropriately to probe and engage in oral interactions",
+            "Use non-verbal communication cues to enhance communication",
+            "Exhibit confidence to contribute actively in conversations"
+          ],
+          "keyInquiryQuestions": ["Which landmark best describes your neighbourhood?"],
+          "learningExperiences": [
+            "Participate in \"Repeat-after-me\" exercise to acquire vocabulary on places and facilities in the neighbourhood (la boutique, le marché, l'église, la boulangerie, la mosquée, le supermarché)",
+            "Sing songs on items and areas in the neighborhood",
+            "Source and watch video clips on locating items (Où est ...? Où sont)",
+            "Do simple skits collaboratively on location or position of buildings and facilities in the neighbourhood while respecting each other's opinions (à travers, en face de, à côté de, derrière, près de)"
+          ],
+          "linkedLearningAreas": ["The concept of locating places and facilities is related to the concept of prepositions and adverbs of place in English"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and Collaboration: as learners speak clearly and effectively using appropriate language, expressions and gestures while engaging in skits of locating places in the neighbourhood"],
+          "values": ["Unity: Learners work together in group activities as they sing songs on areas around their neighbourhood"],
+          "pertinentContemporaryIssues": ["Interpersonal Relationships: enhanced as learners mutually respect each other's opinions as they do simple skits on locating different places"],
+          "assessmentSignal": "Strand 1.0's rubric (shared across all 9 sub-strands) grades ability to use targeted vocabulary/expressions, maintain correct pronunciation/intonation/rhythm/pacing, respond to prompts, employ gestures and facial expressions, and display willingness to participate — confirming non-verbal cues and willingness-to-participate are graded competencies, not just vocabulary recall."
+        }
+      ]
+    },
+    {
+      "name": "2.0 Reading",
+      "subStrands": [
+        {
+          "code": "2.1",
+          "name": "Reading Aloud — Informal and Other Forms of Greetings",
+          "theme": "Greetings and Introductions",
+          "specificLearningOutcomes": [
+            "Infer meaning of words from simple texts",
+            "Read simple texts fluently using the right intonation and pace",
+            "Show enthusiasm in reading simple varied texts"
+          ],
+          "keyInquiryQuestions": ["Why do we read?"],
+          "learningExperiences": [
+            "Pick out vocabulary in group on greetings and introductions from digital devices (salut, coucou, ça marche, ça roule, ça gaze ! quoi de neuf ?)",
+            "Echo read texts on greetings and introductions in class with the teacher for pronunciation practice",
+            "Read texts in pairs to acquire vocabulary (Bonjour, Bonsoir, Tu t'appelles comment? Tu as quel âge ?)",
+            "Respond to simple questions from reading texts on informal greetings",
+            "Read and rearrange jumbled words to make meaningful sentences",
+            "Use dramatic reading of simple texts in small groups for developing fluency (intonation and pace)",
+            "Play a skit on self and others' introduction on name, age and where they live"
+          ],
+          "linkedLearningAreas": ["The learners are able to relate skills on informal greetings and introduction to the same skills in English and Kiswahili"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and Collaboration: developed as the learner reads clearly and effectively using the appropriate articulation, pronunciation, intonation, rhythm and pacing texts on informal greetings"],
+          "values": ["Unity: The learner appreciates collaboration in learning while collaboratively reading texts on informal greetings"],
+          "pertinentContemporaryIssues": ["Self-esteem: nurtured as the learner confidently introduces him/herself to others"]
+        },
+        {
+          "code": "2.2",
+          "name": "Reading Aloud — Nuclear Family",
+          "theme": "Family",
+          "specificLearningOutcomes": [
+            "Identify vocabulary and expressions in texts",
+            "Read simple texts for comprehension",
+            "Read texts with confidence with support"
+          ],
+          "keyInquiryQuestions": ["Which was your first storybook to read?"],
+          "learningExperiences": [
+            "Read selected passages on families in order to comprehend the use of a wide vocabulary and phrases (age, situation de famille, professions, lieu de travail)",
+            "Read passages to extract grammatical structures and key information",
+            "Read aloud lyrics of songs about different family setups in French",
+            "Answer comprehension questions on family",
+            "Compare from visual stimuli different family models and relate to their own"
+          ],
+          "linkedLearningAreas": ["As the learners engage in role plays they are able to relate the skill of acting with drama in Creative Arts"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical Thinking and Problem Solving: The learner comes up with solutions as they infer the meaning of vocabulary from texts"],
+          "values": ["Respect: The learners show appreciation for diversity as they sing songs about different family setups in French"],
+          "pertinentContemporaryIssues": ["Citizenship: enhanced as the learners take pride in belonging in a family as they relate their families to the different family models"]
+        },
+        {
+          "code": "2.3",
+          "name": "Reading for Understanding — The Market",
+          "theme": "My Surrounding",
+          "specificLearningOutcomes": [
+            "Summarize key details and facts from the text",
+            "Read fluently using the right intonation and pace",
+            "Read texts for understanding"
+          ],
+          "keyInquiryQuestions": ["What do you carry when going shopping?"],
+          "learningExperiences": [
+            "Read out a dialogue between a buyer and seller observing the right intonation and pace",
+            "Pick out expressions of politeness from texts (s'il vous plaît, excusez-moi, je voudrais... merci)",
+            "Read a variety of texts on shopping and point out names of items and their quantities",
+            "Read different passages on shopping to compare prices of items",
+            "Read simple texts on shopping and point out prices of items and the shops where they can be purchased"
+          ],
+          "linkedLearningAreas": ["The concept of creating a shopping list is linked to financial literacy in Business Studies under Pre-technical Studies"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical Thinking and Problem Solving: The learners learn to prioritize what to buy as they compare the prices of items from texts"],
+          "values": ["Respect: nurtured as learners learn to request for items politely when shopping"],
+          "pertinentContemporaryIssues": ["Financial Literacy: As learners are sensitized to compare prices of items to make informed choices"]
+        },
+        {
+          "code": "2.4",
+          "name": "Reading Aloud — Important Dates",
+          "theme": "Time",
+          "specificLearningOutcomes": [
+            "Decode familiar sounds in words to read simple short texts",
+            "Read texts with correct intonation, pace and fluency",
+            "Read varied texts with enthusiasm"
+          ],
+          "keyInquiryQuestions": ["Why should we remember dates of events?"],
+          "learningExperiences": [
+            "Read short texts in turns on important dates with fluency",
+            "Articulate important dates on calendar (date d'anniversaire, nouvel an, noël, fêtes nationales)",
+            "Recite simple poems on numbers",
+            "Use the internet appropriately to source for and read vocabulary on important dates"
+          ],
+          "linkedLearningAreas": ["Learning important dates can be linked to the concept of national holidays in Social Studies"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and Collaboration: developed as learners contribute actively by reading short texts in turns on important dates"],
+          "values": ["Responsibility: As learners search vocabulary on important dates from the internet without going to other sites"],
+          "pertinentContemporaryIssues": ["Self-esteem: enhanced as learners gain fluency through reading texts on important dates repeatedly"]
+        },
+        {
+          "code": "2.5",
+          "name": "Reading for Understanding — Leisure Time",
+          "theme": "Fun and Enjoyment",
+          "specificLearningOutcomes": [
+            "Identify key details and facts from written texts",
+            "Apply information from the text and answer questions",
+            "Show an increasing ability to understand words and phrases in context"
+          ],
+          "keyInquiryQuestions": ["Why do we play different games in school?"],
+          "learningExperiences": [
+            "Pick out leisure activities from texts",
+            "Match pictures of leisure activities with texts (scrabble, monopoly, vidéo)",
+            "Point out expressions of time from texts (le soir, le weekend, les vacances)",
+            "Respond to questions from texts on when they undertake leisure activities",
+            "Read a variety of written texts about leisure activities (musique, dance, cinéma...)"
+          ],
+          "linkedLearningAreas": ["The learner is able to relate the leisure activities with the skills of drawing, painting, dancing and singing in Creative Arts"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical Thinking and Problem Solving: as learners answer comprehension questions"],
+          "values": ["Love: As learners realize and appreciate that individuals have different gifts, talents and interests"],
+          "pertinentContemporaryIssues": ["Health Promotion: Learners are encouraged to engage in appropriate leisure activities to avoid drugs and substance abuse"]
+        },
+        {
+          "code": "2.6",
+          "name": "Reading Aloud — Shopping for Food",
+          "theme": "Foods and Drinks",
+          "specificLearningOutcomes": [
+            "Identify vocabulary and expressions from texts",
+            "Read texts with correct intonation, pace and fluency",
+            "Read varied texts with enthusiasm"
+          ],
+          "keyInquiryQuestions": ["Why do we quantify food and drinks?"],
+          "learningExperiences": [
+            "Read short texts on quantities of foods and drinks",
+            "Take turns in reading short texts relating to different shops of food to pick out vocabulary",
+            "Match names of shops to different food items",
+            "Play word search games on vocabulary related to food quantities and shops",
+            "Source for information on quantities of food and different shops from the internet"
+          ],
+          "linkedLearningAreas": [
+            "The concept of quantity of food is linked to the concept measurement (weight) in Mathematics",
+            "The concept of shopping for food is linked to the concept of budgeting in Business Studies under Pre-Technical Studies"
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn: developed as learners learn how to read vocabulary on quantities of food and drinks"],
+          "values": ["Responsibility: learner develops a sense of responsibility by being able to shop for food"],
+          "pertinentContemporaryIssues": ["Life skills: as the learner acquires knowledge on how foods and drinks are quantified"]
+        },
+        {
+          "code": "2.7",
+          "name": "Reading Aloud — Physical Appearance",
+          "theme": "My Body",
+          "specificLearningOutcomes": [
+            "Decode familiar sounds in words to read simple short texts",
+            "Read texts with correct intonation, pace and fluency",
+            "Read varied texts with enthusiasm"
+          ],
+          "keyInquiryQuestions": ["How are we different in physical appearances?"],
+          "learningExperiences": [
+            "Echo read short texts on physical appearance in small groups or with the teacher",
+            "Source for and read short texts about the physical appearance from the internet",
+            "Play word search games on vocabulary related to physical appearance",
+            "Use picture stimuli to read about physical appearances"
+          ],
+          "linkedLearningAreas": ["Pre-Technical studies as learners apply technology in sourcing for information"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy: developed as the learner sources for texts on parts of their body from the internet"],
+          "values": ["Responsibility: learner uses the internet responsibly in sourcing for information"],
+          "pertinentContemporaryIssues": ["Online safety: as learners use the internet to source for information on physical appearances from safe sites"]
+        },
+        {
+          "code": "2.8",
+          "name": "Reading Aloud — Seasons",
+          "theme": "Weather and Environment",
+          "specificLearningOutcomes": [
+            "Decode familiar sounds in words to read simple short texts",
+            "Read texts with correct intonation, pace and fluency",
+            "Read varied texts with enthusiasm"
+          ],
+          "keyInquiryQuestions": ["What precautions should you take in cold weather?"],
+          "learningExperiences": [
+            "Echo read texts about seasons, related weather and clothing in small groups for vocabulary",
+            "Use the internet to search for texts on clothing items for reading; search engine is set on \"safe search\"",
+            "Engage in interactive read-aloud activities where reading is paused for \"question and answer breaks\"",
+            "Respond to simple questions from read texts about seasons and related weather patterns in groups",
+            "Read texts and categorize clothing items according to the weather appropriateness",
+            "Use picture stimuli to read and identify seasons according to types of clothing provided"
+          ],
+          "linkedLearningAreas": ["The concept of vocabulary on weather patterns is related with the concept of weather and climate in Geography under Social Studies"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical Thinking and Problem Solving: developed as learners interpret picture stimuli to relate clothing to seasons"],
+          "values": ["Unity: As learners work in groups to source for reading materials from digital devices"],
+          "pertinentContemporaryIssues": ["Online safety: as learners search the internet for materials from safe sites"]
+        },
+        {
+          "code": "2.9",
+          "name": "Guided Reading — In the Neighbourhood",
+          "theme": "Getting Around",
+          "specificLearningOutcomes": [
+            "Decode familiar sounds in words to read simple short texts",
+            "Read texts with correct intonation, pace and fluency",
+            "Read varied texts with enthusiasm"
+          ],
+          "keyInquiryQuestions": ["How do you locate different places in school?"],
+          "learningExperiences": [
+            "Echo read texts in small groups to practice intonation and pace in reading",
+            "Engage in interactive read-aloud activity where reading is paused for question and answer breaks",
+            "Source for texts on different areas and facilities in the neighbourhood from digital devices in small groups and read for vocabulary (la boutique, le marché, l'église, la boulangerie, la mosquée, supermarché)",
+            "Read texts and answer questions on location of buildings and facilities in the neighbourhood",
+            "Match picture stimuli to given vocabulary about locating areas (à travers, en face de, à côté de, derrière, près de)"
+          ],
+          "linkedLearningAreas": ["The concept of locating places and facilities is related to the concept of prepositions and adverbs of place in English"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical Thinking and Problem Solving: learners develop research skills as they source for texts on different areas in neighbourhood"],
+          "values": ["Unity: As learners work in groups to echo read texts"],
+          "pertinentContemporaryIssues": ["Online Safety: as learners search the internet for materials from safe sites"],
+          "assessmentSignal": "Strand 2.0's shared rubric grades ability to pronounce words in context for accuracy, read with fluency (smoothness, pace, rhythm, intonation) even in texts on unfamiliar topics at the top tier, and analyse simple texts by interpreting and responding to questions using extensive vocabulary — confirming decoding-plus-comprehension, not decoding alone, is the tested competency across all 9 Reading sub-strands."
+        }
+      ]
+    },
+    {
+      "name": "3.0 Writing",
+      "subStrands": [
+        {
+          "code": "3.1",
+          "name": "Guided Writing — Informal and Other Forms of Greetings",
+          "theme": "Greetings and Introductions",
+          "specificLearningOutcomes": [
+            "Write common words with the correct orthography",
+            "Create simple sentences using correct structures",
+            "Appreciate the role of writing in interactive communication"
+          ],
+          "keyInquiryQuestions": ["Why do you greet visitors who come to class?"],
+          "learningExperiences": [
+            "Fill crosswords and word puzzles using cues from other texts on greetings and introductions",
+            "Fill gaps in simple dialogues using simple vocabulary on greetings and introductions (salut, coucou, ça marche, ça roule, ça gaze ! quoi de neuf ?)",
+            "Make sentences from jumbled words to write about greetings and introductions in group activities",
+            "Write down dictated simple vocabulary on greetings and introductions",
+            "Use visual prompts like pictures and illustrations to write simple texts"
+          ],
+          "linkedLearningAreas": ["The concept of informal greetings and introduction is linked to the greetings concept in social linguistics in Kiswahili"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and Collaboration: developed as learners work together in group activities"],
+          "values": ["Love: enhanced as learners write short greetings to one another"],
+          "pertinentContemporaryIssues": ["Life skills: As learners label items for safety and ease of retrieval"]
+        },
+        {
+          "code": "3.2",
+          "name": "Guided Writing — Nuclear Family",
+          "theme": "Family",
+          "specificLearningOutcomes": [
+            "Use language to convey short written interactive messages",
+            "Construct relatively long simple texts",
+            "Appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["What documents require information about your family?"],
+          "learningExperiences": [
+            "Fill out forms seeking information on names, nationality, date and place of birth, marital status, residence etc.",
+            "Write short emails to friends and classmates about family members and what they do (work) and what they like",
+            "Write chats or information on social media platforms using their parents' or teachers' phones"
+          ],
+          "linkedLearningAreas": ["As the learners engage in role plays they are able to relate the skill of acting with drama in Creative Arts"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital Literacy: as the learners construct coherent texts through use of digital devices"],
+          "values": ["Love: as learners write short emails to each other"],
+          "pertinentContemporaryIssues": ["Life skills: as learners learn how to fill forms"]
+        },
+        {
+          "code": "3.3",
+          "name": "Guided Writing — The Market",
+          "theme": "My Surrounding",
+          "specificLearningOutcomes": [
+            "Decode the meaning of words from texts",
+            "Construct simple, coherent sentences and short paragraphs",
+            "Appreciate the role of writing in varied contexts"
+          ],
+          "keyInquiryQuestions": ["Why should we write shopping lists?"],
+          "learningExperiences": [
+            "Write correct texts on amounts and pricing from texts given in different contexts",
+            "Write shopping lists",
+            "Correctly match specific items in terms of names, quantities and where in the market they are sold",
+            "Fill in appropriate words/expressions when shopping at the market to make complete texts and grammatically correct texts"
+          ],
+          "linkedLearningAreas": ["The concept of creating a shopping list is linked to financial literacy in Business Studies under Pre-technical Studies"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical Thinking and Problem Solving: As the learners learn to prioritize what to buy and where"],
+          "values": ["Respect: as learners accommodate differences in priorities in preparation of shopping lists"],
+          "pertinentContemporaryIssues": ["Financial Literacy: As the learners prepare shopping lists"]
+        },
+        {
+          "code": "3.4",
+          "name": "Guided Writing — Important Dates",
+          "theme": "Time",
+          "specificLearningOutcomes": [
+            "Write common words with correct orthography",
+            "Create simple sentences using correct structures",
+            "Appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["Which dates are important to you?"],
+          "learningExperiences": [
+            "Write texts on important dates",
+            "Fill in gaps in short texts relating to important dates",
+            "Make a calendar of events in groups",
+            "Match picture stimuli of important days and dates",
+            "Fill word puzzles with vocabulary on important dates"
+          ],
+          "linkedLearningAreas": ["Learning important dates can be linked to the concept of national holidays in Social Studies"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical Thinking and Problem Solving: developed as learners fill puzzles and use picture stimuli to carry out tasks"],
+          "values": ["Unity: as learners fill puzzles and work in small groups"],
+          "pertinentContemporaryIssues": ["Self-awareness: as the learner writes about important dates unique to him/her"]
+        },
+        {
+          "code": "3.5",
+          "name": "Guided Writing — Leisure Time",
+          "theme": "Fun and Enjoyment",
+          "specificLearningOutcomes": [
+            "Apply basic spelling and punctuation rules in simple written communication",
+            "Write texts on leisure, games and sporting activities",
+            "Display increased interest to express ideas and information in a coherent and organized manner through writing"
+          ],
+          "keyInquiryQuestions": ["Why do have Breaks in school?"],
+          "learningExperiences": [
+            "Accurately write dictated passages based on familiar topics (sports and leisure) with correct punctuation and orthography",
+            "Write short compositions on leisure activities that they engage in with peers",
+            "Correctly use vocabulary and grammatical structures learned in written texts that express interests, likes and dislikes / preferences... verbes en ER; use the negation ne + verbe + pas and adjectives (possessif, démonstratif, qualificatif)"
+          ],
+          "linkedLearningAreas": ["The learner is able to relate the leisure activities with the skills of drawing, painting, dancing and singing in Creative Arts"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and Imagination: As learners write short compositions on their leisure activities"],
+          "values": ["Social Justice: The learners realize that they have different gifts, talents and interests with equal opportunities"],
+          "pertinentContemporaryIssues": ["Health Promotion: Learners are encouraged to engage in appropriate leisure activities to avoid drugs and substance abuse"]
+        },
+        {
+          "code": "3.6",
+          "name": "Guided Writing — Shopping for Food",
+          "theme": "Foods and Drinks",
+          "specificLearningOutcomes": [
+            "Write common words with correct orthography",
+            "Create simple sentences using correct structures",
+            "Appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["Why do we need a shopping list while going to shop?"],
+          "learningExperiences": [
+            "Draw and label images of food quantities and different shops of food",
+            "Fill in gaps in short texts relating to food quantities to pick out vocabulary",
+            "Make a shopping list for food items",
+            "Write down simple dictated vocabulary on food quantities and different shops of food"
+          ],
+          "linkedLearningAreas": [
+            "The concept of quantity of food is linked to the concept measurement (weight) in Mathematics",
+            "The concept of shopping for food is linked to the concept of budgeting in Business Studies under Pre-Technical Studies"
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to Learn: as learners learn how to write vocabulary on food quantities"],
+          "values": ["Responsibility: enhanced as learners prioritize basic needs while shopping"],
+          "pertinentContemporaryIssues": ["Self-esteem: The learner develops confidence by being able to write shopping lists in French"]
+        },
+        {
+          "code": "3.7",
+          "name": "Guided Writing — Physical Appearance",
+          "theme": "My Body",
+          "specificLearningOutcomes": [
+            "Write common words with correct orthography",
+            "Create simple sentences using correct structures",
+            "Appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["Does one's physical appearance affect behavior?"],
+          "learningExperiences": [
+            "Write short texts on physical appearance",
+            "Draw and label parts of the body",
+            "Fill in gaps in short texts relating to physical appearance",
+            "Source for and write down information on physical appearance from the internet",
+            "Use picture stimuli to match images on physical appearance to their descriptions"
+          ],
+          "linkedLearningAreas": ["Social Studies as learners appreciate their individual physical appearance"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital Literacy: as the learner searches for information online"],
+          "values": ["Responsibility: as the learner uses the internet responsibly in sourcing for information"],
+          "pertinentContemporaryIssues": ["Online safety: as learners use the internet to source for information from safe sites"]
+        },
+        {
+          "code": "3.8",
+          "name": "Guided Writing — Seasons",
+          "theme": "Weather and Environment",
+          "specificLearningOutcomes": [
+            "Write common words with correct orthography",
+            "Create simple sentences using correct structures",
+            "Appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["How do you distinguish between seasons?"],
+          "learningExperiences": [
+            "Write down dictated simple vocabulary of seasons (le printemps, l'été, l'automne, l'hiver)",
+            "Rearrange letters to make words",
+            "Fill crosswords and word puzzles with vocabulary of clothing (un pull, blouson, pantalon, short, T-shirt, cardigan, une robe, chemise; des gants, chaussures, chaussettes, manteau)",
+            "Fill gaps in simple dialogues using simple vocabulary of weather patterns (il fait beau .../mauvais, il pleut, il y a du vent, il fait nuageux...)",
+            "Make sentences from jumbled words to practice word order",
+            "Use picture writing prompts to write about seasons and related weather patterns and clothing"
+          ],
+          "linkedLearningAreas": ["The concept of vocabulary on weather patterns is related with the concept of weather and climate in Geography under Social Studies"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical Thinking and Problem Solving: as learners think critically when filling crosswords and word puzzles"],
+          "values": ["Unity: as learners work in groups to fill crosswords and puzzles"],
+          "pertinentContemporaryIssues": ["Disaster Risk Reduction: as learners share on the adverse effects of some weather patterns"]
+        },
+        {
+          "code": "3.9",
+          "name": "Guided Writing — In the Neighborhood",
+          "theme": "Getting Around",
+          "specificLearningOutcomes": [
+            "Write common words with correct orthography",
+            "Create simple sentences using correct structures",
+            "Appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["How do you find your way to unknown places?"],
+          "learningExperiences": [
+            "Rearrange letters to make words on vocabulary of places in the neighbourhood in small groups",
+            "Fill crosswords and word puzzles with vocabulary on the neighbourhood",
+            "Fill gaps in simple dialogues using simple vocabulary of locating (à travers, en face de, à côté de, derrière, près de) and areas in the neighbourhood (la boutique, le marché, l'église, la boulangerie, la mosquée, supermarché)",
+            "Make sentences from jumbled words to indicate location of a place",
+            "Write down dictated simple vocabulary in locating areas and facilities in the neighbourhood",
+            "Use picture writing prompts to write simple texts"
+          ],
+          "linkedLearningAreas": ["The concept of locating places and facilities is related to the concept of prepositions and adverbs of place in English"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical Thinking and Problem Solving: as learners fill crosswords and word puzzles"],
+          "values": ["Unity: As learners work in groups to fill crosswords and puzzles"],
+          "pertinentContemporaryIssues": ["Safety: As learners are instructed on where to place different items in class"],
+          "assessmentSignal": "Strand 3.0's shared rubric grades ability to write clear/readable texts (spacing, neatness, individual handwriting style at the top tier) AND ability to use correct language structures/vocabulary (spelling, grammar, sentence structure, context-appropriate vocabulary) as two separate indicators — confirming legibility and grammatical accuracy are both independently assessed, not just vocabulary recall."
+        }
+      ]
+    }
+  ],
+  "notes": "Grade 7 French has the same 3-strand / 9-theme structure as Grade 8 (Greetings and Introductions, Family, My Surrounding, Time, Fun and Enjoyment, Foods and Drinks, My Body, Weather and Environment, Getting Around) = 27 distinct sub-strands. Unlike Grade 8, Grade 7's per-theme sub-strand names vary by skill type per theme (e.g. 1.1 Interactive Speaking, 1.2 Oral Expression, 1.3 Interactive Listening, 1.4 Active Listening, 1.5 Listening for Information, 1.6 Interactive Speaking again, 1.7 Oral Expression again, 1.8 Active Listening again, 1.9 Interactive Speaking again) rather than one uniform label per strand — read directly from each theme's own strand table per CURRICULUM-MINING-GUIDE.md. Two CSL (Community Service Learning) and cross-subject appendices (Appendix 1: CSL guidelines, Appendix 2: assessment methods/resources/non-formal activities) were reviewed but contain no sub-strand-specific enumerated content beyond what is already captured per sub-strand above."
+}

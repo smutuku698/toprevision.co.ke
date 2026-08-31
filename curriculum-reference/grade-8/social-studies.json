@@ -1,0 +1,260 @@
+{
+  "subject": "Social Studies",
+  "subjectId": "social-studies",
+  "grade": 8,
+  "source": {
+    "title": "Social Studies Grade 8 (KICD Junior School Curriculum Design, first published 2023, Revised 2024)",
+    "url": "https://www.teacherspalace.co.ke/uploads/documents/social-studies-grade-8-revised-1-unlocked-2025-01-05-Up5cUrwpuP.pdf",
+    "publisher": "Kenya Institute of Curriculum Development (KICD) — mirrored via teacherspalace.co.ke",
+    "retrievedDate": "2026-08-14",
+    "confidence": "high",
+    "notes": "WebFetch reported it could not parse the raw PDF stream but saved the file locally; the Read tool then parsed the full 69-page PDF text natively and verbatim (not summarized by an intermediate model). Cover page reads 'KENYA INSTITUTE OF CURRICULUM DEVELOPMENT / JUNIOR SCHOOL CURRICULUM DESIGN / SOCIAL STUDIES / GRADE 8', ISBN 978-9914-43-789-8, First published 2023, Revised 2024 — this matches the confirmed official filename 'Social Studies Grade 8 - Revised.pdf' independently verified from KICD's own Google Drive index (file ID 1yx30v28nVLKYSByRB9G2Omalh76-ZL6h) on the Grade 8 designs page, and the mirror's own filename ('social-studies-grade-8-revised-1...'). All 5 strands and 15 sub-strands below were read verbatim from the 'SUMMARY OF STRANDS AND SUB-STRANDS' table (p.xii) and cross-checked against each strand's detailed section (pp.13-58). Four sub-strands carry a bulleted list of named topics directly under the sub-strand heading in the detailed section (Early Civilisation: Asia/Europe; Weather and Climate: Desert/Semi-desert/Tropical/Mediterranean/Mountain; Peaceful Conflict Resolution: Negotiation/Mediation/Arbitration; Historical Sites and Monuments in Africa: Fort Jesus/Kilwa/Great Zimbabwe/Giza pyramids/Meroe/Timbuktu/Robben Island) — these are recorded as subSubStrands, following the same convention used for Grade 9 Mathematics in this repo. Two sub-strand names differ minutely between the summary table and the detailed section: the summary table says 'Early Civilisations' and 'Peaceful Conflict Resolutions' (plural), while the detailed section headings read 'Early Civilisation' and 'Peaceful Conflict Resolution' (singular) — the singular detailed-section wording is used here as canonical, per the precedent set in this repo's Grade 8 Pre-Technical Studies file. This design differs structurally from Grade 9 Social Studies in that it explicitly bundles 'Community Service Learning' as its own numbered strand (2.0) with a single sub-strand, rather than treating CSL purely as an appendix; Grade 8 also includes a distinct Appendix I with a 6-milestone CSL implementation guide not present in this JSON (out of scope — this file captures only the graded strands/sub-strands, not the appendices)."
+  },
+  "strands": [
+    {
+      "name": "Social Studies and Personal Management",
+      "subStrands": [
+        {
+          "name": "Self-Improvement",
+          "specificLearningOutcomes": [
+            "describe personality traits for self-understanding",
+            "share goals for self-improvement in social life",
+            "appreciate the role of values in the development of personality traits"
+          ],
+          "keyInquiryQuestions": [
+            "Which animal best reflects your personal characteristics?",
+            "What career choices in Social Studies relate to you?"
+          ]
+        },
+        {
+          "name": "Self-Esteem Assessment",
+          "specificLearningOutcomes": [
+            "explain the contribution of self-esteem on their holistic development",
+            "determine effects of unhealthy self-esteem in day-to-day social lives",
+            "assess their self-esteem in social interactions",
+            "desire to improve their self-esteem for personal productivity"
+          ],
+          "keyInquiryQuestions": [
+            "How does self-esteem affect my holistic development?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Community Service Learning",
+      "subStrands": [
+        {
+          "name": "Community Service Learning Project",
+          "specificLearningOutcomes": [
+            "identify a problem/gap in the community",
+            "design solution(s) to the identified problem",
+            "plan to implement the solution to the identified problem",
+            "implement plan for solving the identified problem",
+            "report/account on the concluded project",
+            "appreciate the need to offer solutions to the gaps/challenges in the community"
+          ],
+          "keyInquiryQuestions": [
+            "How does one determine some gaps/ needs in the community?",
+            "Why is it necessary to make adequate preparations before embarking on a project?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "People and Relationships",
+      "subStrands": [
+        {
+          "name": "Scientific Theory about Human Origin",
+          "specificLearningOutcomes": [
+            "explore scientific theory about human origin",
+            "illustrate changes that took place in humans as a result of evolution",
+            "draw conclusions on origin of humanity based on the scientific theory",
+            "illustrate strategies of preservation of remains of early humans",
+            "develop reasons why Africa is considered as the cradle for humanity",
+            "recognise reasons why Africa as the cradle of humanity"
+          ],
+          "keyInquiryQuestions": [
+            "Why is Africa considered as the cradle of humanity?"
+          ]
+        },
+        {
+          "name": "Early Civilisation",
+          "subSubStrands": ["Asia", "Europe"],
+          "specificLearningOutcomes": [
+            "describe Swahili civilisation along the East African coast",
+            "show how best practices from early civilisations have contributed to the modern world",
+            "appreciate best practices of early civilisation to the development of the modern world"
+          ],
+          "keyInquiryQuestions": [
+            "Why is cultural heritage important to society?"
+          ],
+          "notes": "Summary of Strands table (p.xii) names this sub-strand 'Early Civilisations' (plural); the detailed section heading (p.24) reads 'Early Civilisation' (singular) — the singular detailed-section wording is used here as canonical."
+        },
+        {
+          "name": "Trans Saharan Slave Trade",
+          "specificLearningOutcomes": [
+            "identify factors that led to development of Trans-Saharan slave Trade in Africa",
+            "describe organisation of Trans-Saharan slave trade in Africa",
+            "outline effects of Trans-Saharan slave trade in Africa",
+            "demonstrate assertiveness in promotion of social justice",
+            "desire to promote social justice in a society"
+          ],
+          "keyInquiryQuestions": [
+            "Why do people subject others to slave trade?"
+          ]
+        },
+        {
+          "name": "Population Growth in Africa",
+          "specificLearningOutcomes": [
+            "explore causes and effects of population growth in Africa",
+            "examine types and effects of migration in Africa",
+            "illustrate demographic trends in Kenya",
+            "create awareness on the effects of population growth in the community",
+            "appreciate the impact of migration on population growth in Africa"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to study demographic changes?"
+          ]
+        },
+        {
+          "name": "Diversity and interpersonal skills",
+          "specificLearningOutcomes": [
+            "explore social cultural diversities in Kenya",
+            "explain ways of building a healthy self-esteem in diverse social cultural society",
+            "describe the impact of emotions on self and others",
+            "manage peer pressure in a culturally diverse environment",
+            "appreciate social cultural diversities in Kenya"
+          ],
+          "keyInquiryQuestions": [
+            "How can we demonstrate respect and appreciation of social cultural diversity and inclusion?"
+          ]
+        },
+        {
+          "name": "Peaceful Conflict Resolution",
+          "subSubStrands": ["Negotiation", "Mediation", "Arbitration"],
+          "specificLearningOutcomes": [
+            "identify situations that lead to conflicts in the family",
+            "apply peaceful ways of resolving conflicts in the family",
+            "design strategies for effective communication in resolving conflicts",
+            "build healthy relationships to promote peace in the family",
+            "show empathy with survivors of conflicts in the family",
+            "appreciate the culture of peace in a society"
+          ],
+          "keyInquiryQuestions": [
+            "How can resolving conflicts help us live peacefully in the community?"
+          ],
+          "notes": "Summary of Strands table (p.xii) names this sub-strand 'Peaceful Conflict Resolutions' (plural); the detailed section heading (p.32) reads 'Peaceful Conflict Resolution' (singular) — the singular detailed-section wording is used here as canonical."
+        }
+      ]
+    },
+    {
+      "name": "Natural and Historic Built Environments",
+      "subStrands": [
+        {
+          "name": "Map Reading and Interpretation",
+          "specificLearningOutcomes": [
+            "interpret maps using marginal information",
+            "calculate areas of places on a topographical map",
+            "describe the different methods of representing physical features on topographical maps",
+            "apply critical thinking skills in map interpretation",
+            "value map reading and interpretation in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "How can critical thinking be used in map interpretation?"
+          ]
+        },
+        {
+          "name": "Weather and Climate",
+          "subSubStrands": ["Desert", "Semi-desert", "Tropical", "Mediterranean", "Mountain"],
+          "specificLearningOutcomes": [
+            "examine factors influencing climate in Africa",
+            "illustrate distribution and characteristics of major climatic regions of Africa",
+            "explore positive ways of managing disaster-related stress",
+            "apply problem-solving skills in addressing effects of climate change on the environment",
+            "recognise the effects of climate on human activities"
+          ],
+          "keyInquiryQuestions": [
+            "How does climate change affect human activities?",
+            "How can one manage stress during disasters?"
+          ]
+        },
+        {
+          "name": "Vegetation in Africa",
+          "specificLearningOutcomes": [
+            "explain factors influencing vegetation distribution in Africa",
+            "describe the characteristics of major vegetation regions of Africa on the map",
+            "locate the major vegetation regions of Africa",
+            "apply methods of conserving vegetation in the community",
+            "explore personal interests in conservation of vegetation for career exploration",
+            "appreciate vegetation conservation for environmental sustainability"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we care for vegetation in our environment?"
+          ]
+        },
+        {
+          "name": "Historical Sites and Monuments in Africa",
+          "subSubStrands": ["Fort Jesus", "Kilwa", "Great Zimbabwe", "Giza pyramids", "Meroe", "Timbuktu", "Robben Island"],
+          "specificLearningOutcomes": [
+            "locate selected historical sites and monuments in Africa",
+            "examine the importance of historical sites and monuments for the preservation of cultural heritage",
+            "explore ways of conserving historical sites and monuments in Africa",
+            "apply ways of conserving cultural heritage in community",
+            "desire to conserve historical sites and monuments in the locality in promoting cultural heritage"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we conserve historical sites and monuments?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Political Developments and Governance",
+      "subStrands": [
+        {
+          "name": "The Constitution of Kenya",
+          "specificLearningOutcomes": [
+            "explore components of the Constitution of Kenya",
+            "illustrate roles of the three arms of government of Kenya in reference to the relevant chapters in the Constitution",
+            "examine guiding principles of leadership and integrity in the Constitution of Kenya",
+            "apply assertiveness in upholding principles of leadership and integrity in daily interactions",
+            "exhibit good leadership intended in chapter six of the Constitution of Kenya"
+          ],
+          "keyInquiryQuestions": [
+            "Why do we need a constitution?",
+            "Why is assertiveness important in adhering to the Constitution of Kenya?"
+          ]
+        },
+        {
+          "name": "Human Rights",
+          "specificLearningOutcomes": [
+            "explore how human rights can be respected and protected in the community",
+            "describe the process of effective communication on human rights issues",
+            "outline Children's Rights in Kenya",
+            "demonstrate ways in which children are protected against violation of their Rights in Kenya",
+            "recognise responsibility of the society in protecting human rights"
+          ],
+          "keyInquiryQuestions": [
+            "How can we promote respect for Children' Rights in the community?",
+            "How can effective communication foster respect for Human Rights?"
+          ]
+        },
+        {
+          "name": "Citizenship",
+          "specificLearningOutcomes": [
+            "describe qualities of a global citizen in an interconnected society",
+            "explore ways in which Nobel Prize nominees responded to injustice situations in the society",
+            "explain factors for harmonious coexistence among citizens in East Africa and Africa",
+            "exhibit social entrepreneurship and active participation in the community for personal and social well-being",
+            "show empathy to personalities who volunteer to address injustices in society"
+          ],
+          "keyInquiryQuestions": [
+            "How can we promote global citizenship?",
+            "How can we show empathy as global citizens?"
+          ],
+          "notes": "Numbered '5.3' in the design but appears under a strand heading mislabelled '4.0 Political Developments and Governance' on p.53 of the source PDF (the correct strand number, per the Table of Contents and Summary of Strands table, is 5.0) — a typographical error in the source document itself, recorded here for transparency; this JSON uses the correct 5.0 strand grouping."
+        }
+      ]
+    }
+  ]
+}

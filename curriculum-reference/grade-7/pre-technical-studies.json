@@ -1,0 +1,357 @@
+{
+  "subject": "Pre-Technical Studies",
+  "subjectId": "pre-technical",
+  "grade": 7,
+  "source": {
+    "title": "Junior School Curriculum Design — Pre-Technical Studies Grade 7 (First published 2022, Revised 2024)",
+    "url": "designs/GRADE-7-PRE-TECHNICAL-STUDIES.pdf",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-15",
+    "confidence": "high",
+    "notes": "Read directly and in full via the Read tool (no pages param) per CURRICULUM-MINING-GUIDE.md. All 5 strands / 13 sub-strands read from the 'SUMMARY OF STRANDS AND SUB STRANDS' table (p.vii) and cross-checked against each strand's detailed section (pp.1-31) plus Appendix 2 (learning resources / non-formal activities, pp.34-42)."
+  },
+  "strands": [
+    {
+      "name": "1.0 Foundations of Pre-Technical Studies",
+      "subStrands": [
+        {
+          "name": "1.1 Introduction to Pre-Technical Studies",
+          "lessonCount": 4,
+          "specificLearningOutcomes": [
+            "Identify the components of Pre-Technical Studies as a learning area",
+            "Explain the role of Pre-Technical Studies in day-to-day life",
+            "Embrace Pre-Technical Studies in career development"
+          ],
+          "keyInquiryQuestions": ["Why is Pre-Technical Studies important in day-to-day life?"],
+          "learningExperiences": [
+            "Brainstorm on the components of Pre-Technical Studies as a learning area",
+            "Discuss and present the role of Pre-Technical Studies in day-to-day life",
+            "Debate on the role of Pre-Technical Studies in day-to-day life"
+          ],
+          "linkedLearningAreas": ["Social Studies — relate career to trade and economic activities"],
+          "scopeNotes": []
+        },
+        {
+          "name": "1.2 Safety in the Work Environment",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Identify potential safety threats in a work environment",
+            "Outline safety rules and regulations in the work environment",
+            "Observe safety in a work environment",
+            "Appreciate the importance of observing safety in a work environment"
+          ],
+          "keyInquiryQuestions": ["Why is safety in the work environment important?", "How can online threats be safeguarded against?"],
+          "learningExperiences": [
+            "Brainstorm with peers on potential safety threats in a work environment (physical and online)",
+            "Search for information on potential hazards to personal safety in a work environment",
+            "Search for information on physical threats to digital devices (theft, natural disasters, hardware failure) and online threats (cyberbullying, impersonation, phishing, hacking, friend requests from unknown people) and list them",
+            "Share ideas and practice on how to keep personal and sensitive data from public when online",
+            "Discuss safety rules and regulations in a work environment",
+            "Role play on safety for self and others in a work environment"
+          ],
+          "linkedLearningAreas": ["Integrated Science — observing safety when working in a science laboratory"],
+          "scopeNotes": []
+        },
+        {
+          "name": "1.3 Computer Concepts",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Explain the characteristics of a computer in a user environment",
+            "Classify computers in a user environment",
+            "Use a computer to perform tasks in a user environment",
+            "Acknowledge the importance of different types of computers in a user environment"
+          ],
+          "keyInquiryQuestions": ["Why are there different classes of computers?"],
+          "learningExperiences": [
+            "Brainstorm on the meaning of the terms; computer, data and information",
+            "Discuss characteristics of a computer (speed, accuracy, versatility, reliability, diligence, storage, consistency)",
+            "Watch a video clip on classification of computers",
+            "Discuss classification of computers (functionality, purpose and size) in a user environment",
+            "Interact with different types of computers in the user environment to perform tasks"
+          ],
+          "linkedLearningAreas": ["Mathematics — interacting with different types of computers relates to using a calculator"],
+          "scopeNotes": [],
+          "assessmentSignal": "Strand 1 rubric's 'Meets expectations' rows: 'Often observes safety in a work environment' and 'Uses a computer to perform tasks in a user environment' — safety observance and independent computer use (not just identification) are both explicitly tested."
+        }
+      ]
+    },
+    {
+      "name": "2.0 Communication",
+      "subStrands": [
+        {
+          "name": "2.1 Fundamentals of Communication",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Explain the importance of communication in work environment",
+            "Describe the ICT tools used in communication",
+            "Use ICT to enhance communication",
+            "Acknowledge the role of effective communication in the work environment"
+          ],
+          "keyInquiryQuestions": ["Why is communication in the work environment important?", "How is ICT used in communication?"],
+          "learningExperiences": [
+            "Brainstorm and present on the meaning and importance of communication in the work environment",
+            "Role play the importance of effective communication in work environment",
+            "Search for information on ICT tools used in communication (email, mobile phone, computers, video and web conferencing tools, social networking and online collaboration)",
+            "Discuss ICT tools used in communication",
+            "Use ICT tools and internet to communicate",
+            "Discuss the benefits and challenges of the internet"
+          ],
+          "linkedLearningAreas": ["English — communication concepts relate to communication skills"],
+          "scopeNotes": [],
+          "assessmentSignal": "Rubric 'Meets expectations' for ICT tools requires using exactly five distinct ICT tools to enhance communication — a specific enumerated count, not just 'uses some tools'."
+        },
+        {
+          "name": "2.2 Introduction to Drawing",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "Explain the importance of drawing as a means of communication",
+            "Distinguish between artistic and technical drawings used in technical fields",
+            "Print numbers and letters of the alphabet as used in drawing",
+            "Draw types of lines used in drawing",
+            "Illustrate symbols and abbreviations used in drawing",
+            "Appreciate the role of drawing in communication"
+          ],
+          "keyInquiryQuestions": ["Why is drawing referred to as a universal way of communication?"],
+          "learningExperiences": [
+            "Discuss the importance of drawing as a means of communication",
+            "Brainstorm on the meaning of the terms 'technical drawing' and 'artistic drawing'",
+            "Search for information on artistic and technical drawing",
+            "Practice printing numbers and letters of the alphabet",
+            "Study types of lines and their application in drawing (thick and thin continuous, dashed and chain)",
+            "Draw various types of lines (thick and thin continuous, dashed and chain)",
+            "Sketch basic symbols (⌀, ℄, R, ⊥, ▢) and abbreviations (DRG, A/F, A/C, I/D, O/D) used in drawing",
+            "Study the application of symbols and abbreviations in drawing"
+          ],
+          "linkedLearningAreas": ["Creative Arts — illustrating artistic drawings"],
+          "scopeNotes": []
+        },
+        {
+          "name": "2.3 Plane Geometry",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "Describe methods of dimensioning drawings in plane geometry",
+            "Construct combined shapes used in a work environment",
+            "Dimension combined shapes in plane geometry",
+            "Embrace the use of plane geometry in a work environment"
+          ],
+          "keyInquiryQuestions": ["How are combined shapes applied in day-to-day life?"],
+          "learningExperiences": [
+            "Brainstorm on methods of dimensioning (linear, radial, angular, arc)",
+            "Illustrate types of lines used in dimensioning",
+            "Identify combined shapes using visual aids",
+            "Discuss how to draw combined shapes",
+            "Search for information on methods of dimensioning combined shapes",
+            "Discuss forms of dimensioning combined shapes (parallel, chain, combined)",
+            "Draw and dimension combined shapes in plane geometry"
+          ],
+          "linkedLearningAreas": ["Mathematics — geometrical construction"],
+          "scopeNotes": [],
+          "assessmentSignal": "Rubric requires constructing AND dimensioning regular combined shapes 'creatively'/'with high accuracy' at the top band — accuracy and creativity are explicit differentiators, not just completion."
+        }
+      ]
+    },
+    {
+      "name": "3.0 Materials for Production",
+      "subStrands": [
+        {
+          "name": "3.1 Economic Resources",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Explain the characteristics of economic resources used for production of goods and services",
+            "Classify economic resources in Kenya",
+            "Distinguish between metallic and non-metallic materials as economic resources",
+            "Analyse sustainable ways of using economic resources in Kenya",
+            "Practice sustainable use of economic resources in the community"
+          ],
+          "keyInquiryQuestions": ["What are economic resources?", "How can economic resources be used sustainably?"],
+          "learningExperiences": [
+            "Discuss and present on the meaning of economic resources",
+            "Search for information on the characteristics of economic resources and share with peers",
+            "Read and analyse a case study on classification and types of economic resources in Kenya",
+            "Discuss metallic and non-metallic materials as economic resources",
+            "Carry out resource mapping on types of economic resources in the local community",
+            "Establish distribution of economic resources in Kenya",
+            "Brainstorm and present sustainable ways of using economic resources in Kenya"
+          ],
+          "linkedLearningAreas": ["Social Studies — economic activities such as mining, fishing and trade"],
+          "scopeNotes": [],
+          "assessmentSignal": "Rubric: top band classifies economic resources into exactly three classes 'citing types in each case', and analyses exactly three sustainable ways 'citing examples' — both a specific enumerated count and a citing-examples bar, not open-ended breadth."
+        },
+        {
+          "name": "3.2 Metallic Materials",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "Identify types of metallic materials used in a work environment",
+            "Describe the physical properties of metallic materials found in a work environment",
+            "Relate metallic materials to their use in a work environment",
+            "Appreciate the use of metallic materials in production"
+          ],
+          "keyInquiryQuestions": ["Why are metallic materials important in day-to-day life?"],
+          "learningExperiences": [
+            "Search for information on metallic materials",
+            "Prepare a checklist for identifying types of metallic materials (steel, aluminum, copper)",
+            "Perform practical activities to examine the physical properties of metallic materials (magnetism, conductivity of heat and electricity, appearance)",
+            "Discuss the physical properties of metallic materials",
+            "Match metallic materials to their use in the work environment"
+          ],
+          "linkedLearningAreas": ["Integrated Science — exploring types of metals"],
+          "scopeNotes": [
+            "include: the metal pool is exactly steel, aluminium, copper — the design does not name any other metallic material for this sub-strand, so the pool is a genuine hard floor AND ceiling, unlike SI.3's SI units where the source names more than got shipped.",
+            "include: exactly four physical properties are named — magnetism, conductivity of heat, conductivity of electricity, appearance. Rust/corrosion behaviour is not explicitly named here but is standard, well-known descriptive content for these three metals and was already present in the pre-existing skill (aluminium 'resistant to rusting') — kept as a defensible enrichment, not a curriculum stretch."
+          ],
+          "assessmentSignal": "3.0 strand rubric (shared across 3.1-3.3): top band identifies types 'giving examples for each type', describes properties 'citing examples', and relates materials to use 'for all materials' — recall alone (no examples/application) caps at the second-from-top band.",
+          "notes": "Audited 2026-08-15 after user feedback that web/src/skills/preTechnicalG7/metallicMaterials.ts felt repetitive — same 3-metal recall facts recurring 4+ times per 20-question session. Root cause was NOT missing curriculum content (the pool of 3 metals / 4 properties is exactly what KICD specifies) but too few distinct facts, scenarios and question branches drawing on that pool, plus one fully static (non-randomized) fill-blank branch. Fixed by: expanding PROPERTY_FACTS from 9 to 15 entries, adding 9 Kenyan-localized rng-varied Apply-tier reasoning scenarios and 3 Evaluate-tier trade-off scenarios (copper-vs-aluminium power lines, coastal gate material, structural-load steel-vs-aluminium) per RIGOR-STANDARDS.md, adding a real-world-item categorize branch, randomizing the previously-static fill-blank branch across 6 templates, and fixing a real density-ordering bug (METALS.density values didn't match the metal each was assigned to real-world density, so 'ordering' branch grading silently contradicted its own explanation text)."
+        },
+        {
+          "name": "3.3 Non-Metallic Materials",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "Identify non-metallic materials found in the locality",
+            "Categorise non-metallic materials as either synthetic or natural",
+            "Describe the physical properties of non-metallic materials found in the locality",
+            "Relate non-metallic materials to their uses in the locality",
+            "Appreciate the use of non-metallic materials in production"
+          ],
+          "keyInquiryQuestions": ["Why are non-metallic materials important?"],
+          "learningExperiences": [
+            "Search for information on non-metallic materials",
+            "Discuss the non-metallic materials (wood, stone, plastics, paper, rubber, cement, glass, ceramics)",
+            "Sort non-metallic materials as either synthetic or natural",
+            "Perform practical activities to examine the physical properties of non-metallic materials (color, texture, hardness, fire resistance)",
+            "Discuss the physical properties of non-metallic materials",
+            "Match non-metallic materials to their use in the locality"
+          ],
+          "linkedLearningAreas": ["Integrated Science — exploring non-metallic elements"],
+          "scopeNotes": ["include: 8 named non-metallic materials (wood, stone, plastics, paper, rubber, cement, glass, ceramics); 4 named physical properties (color, texture, hardness, fire resistance)."],
+          "notes": "Not yet audited against web/src/skills/preTechnicalG7/nonMetallicMaterials.ts as part of this touch — flagged for the same mining/rigor pass if that skill is reopened."
+        }
+      ]
+    },
+    {
+      "name": "4.0 Tools and Production",
+      "subStrands": [
+        {
+          "name": "4.1 Measuring and Marking Out Tools",
+          "lessonCount": 18,
+          "specificLearningOutcomes": [
+            "Identify measuring and marking out tools in the work environment",
+            "Select measuring and marking out tools for a given task",
+            "Use measuring and marking out tools to perform a given task",
+            "Care for measuring and marking out tools in the work environment",
+            "Recognise the importance of measuring and marking out tools in the work environment"
+          ],
+          "keyInquiryQuestions": ["Why are measuring and marking out tools important in a work environment?", "How are measuring and marking out tools used in a work environment?"],
+          "learningExperiences": [
+            "Identify measuring tools (tape measure, steel rule, callipers, weighing balance, stop watch, ammeter, voltmeter) and marking out tools (divider, try-square, marking gauge, dot punch, scriber, pencil, marking knife) using visual aids and realia",
+            "Discuss the use of measuring and marking out tools in the work environment",
+            "Choose the appropriate measuring and marking out tools to perform a given task",
+            "Search for information on the use of measuring and marking out tools to perform specific tasks",
+            "Demonstrate the use of measuring and marking out tools to perform specific tasks",
+            "Perform specific tasks using measuring and marking out tools",
+            "Care for and maintain measuring and marking out tools in the work environment"
+          ],
+          "linkedLearningAreas": ["Mathematics — geometric construction", "Integrated Science — laboratory tools and equipment"],
+          "scopeNotes": ["include: 7 named measuring tools, 7 named marking-out tools — a 14-item pool."],
+          "assessmentSignal": "Rubric 'Ability to use measuring and marking out tools to perform a given task' top band is 'with ease' — fluency/independence is the differentiator, not just correct tool selection."
+        },
+        {
+          "name": "4.2 Production of Goods and Services",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "Explain the benefits of production to the community",
+            "Distinguish between goods and services found in the local market",
+            "Describe the factors of production in the community",
+            "Analyse the ethical and unethical practices in production of goods and services",
+            "Participate in production activities in the community"
+          ],
+          "keyInquiryQuestions": ["Why are factors of production important?"],
+          "learningExperiences": [
+            "Brainstorm and present the meaning and benefits of production",
+            "Discuss and present the meaning, types and characteristics of goods and services",
+            "Read and analyse a case study on factors of production, characteristics and rewards",
+            "Search for information on ethical and unethical practices in production of goods and services",
+            "Share experiences on ethical and unethical practices in production of goods and services"
+          ],
+          "linkedLearningAreas": ["Social Studies — physical environment"],
+          "scopeNotes": [],
+          "assessmentSignal": "Rubric requires explaining exactly four benefits and describing exactly four factors of production (with examples for top band), and analysing exactly three ethical/unethical practices — specific enumerated counts."
+        }
+      ]
+    },
+    {
+      "name": "5.0 Entrepreneurship",
+      "subStrands": [
+        {
+          "name": "5.1 Introduction to Entrepreneurship",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "Explain the importance of entrepreneurship to an individual and community",
+            "Describe the qualities of an entrepreneur in business",
+            "Explore sources of business ideas for a business venture",
+            "Analyse the factors considered when evaluating the viability of a business opportunity",
+            "Evaluate the factors that enhance success in a business",
+            "Practice entrepreneurship for self and community development"
+          ],
+          "keyInquiryQuestions": ["Why is entrepreneurship important in the community?", "What are the qualities of an entrepreneur?"],
+          "learningExperiences": [
+            "Brainstorm and present the meaning of the terms 'entrepreneur' and 'entrepreneurship'",
+            "Discuss and present on the importance of entrepreneurship to an individual and community",
+            "Search for information on qualities of an entrepreneur",
+            "Conduct self-assessment on entrepreneurial qualities",
+            "Search for and present the meaning and sources of business ideas",
+            "Compile a list of business ideas and determine their viability as business opportunities",
+            "Read, analyse and present on a case study about the factors that enhance business success"
+          ],
+          "linkedLearningAreas": ["Social Studies — trading activities in the community"],
+          "scopeNotes": [],
+          "assessmentSignal": "Rubric requires describing more than five entrepreneur qualities for the top band (four to five for 'meets expectation') and exploring/analysing exactly three sources/factors elsewhere — inconsistent counts across rows, both binding."
+        },
+        {
+          "name": "5.2 Money",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "Identify the characteristics of money as a medium of exchange",
+            "Explain the uses of money in day-to-day life",
+            "Describe the key security features of the Kenyan currency",
+            "Analyse the themes and symbols on the Kenyan currency",
+            "Appreciate the use of money in day-to-day life"
+          ],
+          "keyInquiryQuestions": ["Why does the Kenyan currency have security features?", "What are the themes and symbols on the Kenyan currency?"],
+          "learningExperiences": [
+            "Brainstorm and present the meaning and characteristics of money",
+            "Share experiences on use of money for buying goods and services",
+            "Discuss and present on the uses of money",
+            "Search for information on the uses of money",
+            "Use Kenyan currency to observe the key security features",
+            "Brainstorm and present the themes and symbols used on the Kenyan currency",
+            "Use different denominations of Kenyan currency to examine themes and symbols"
+          ],
+          "linkedLearningAreas": ["Mathematics — different denominations of Kenyan currency", "Social Studies — themes of the Kenyan currency"],
+          "scopeNotes": [],
+          "assessmentSignal": "Rubric requires explaining exactly four uses of money for top bands — a specific enumerated count, not open-ended."
+        },
+        {
+          "name": "5.3 Financial Goals",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "Explain the importance of setting goals in financial management",
+            "Analyse the factors to consider when setting financial goals",
+            "Formulate financial goals for individual development",
+            "Observe financial discipline in financial management"
+          ],
+          "keyInquiryQuestions": ["Why is it important for an individual to set financial goals?", "What are the factors to consider when setting financial goals?"],
+          "learningExperiences": [
+            "Discuss and present the meaning and importance of setting goals in financial management",
+            "Discuss and present the importance of financial discipline",
+            "Brainstorm and present on the factors to consider when setting financial goals",
+            "Search for information on setting financial goals",
+            "Set Specific Measurable Achievable Realistic and Time bound (SMART) financial goals"
+          ],
+          "linkedLearningAreas": ["Social Studies — personal goals"],
+          "scopeNotes": ["include: goals must be formulated as SMART (Specific, Measurable, Achievable, Realistic, Time-bound) — an explicit named framework, not generic goal-setting."],
+          "assessmentSignal": "Rubric top band formulates exactly three SMART financial goals categorised into short/medium/long-term — both a count and an explicit time-horizon categorisation."
+        }
+      ]
+    }
+  ]
+}

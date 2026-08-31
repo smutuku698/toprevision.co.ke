@@ -1,0 +1,487 @@
+{
+  "subject": "Creative Arts and Sports",
+  "subjectId": "creative-arts-sports",
+  "grade": 7,
+  "source": {
+    "title": "Junior School Curriculum Design: Creative Arts and Sports, Grade 7 (KICD, First published 2022, Revised 2024)",
+    "url": "designs/GRADE 7 CREATIVE ARTS & SPORTS.pdf",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-16",
+    "confidence": "high",
+    "notes": "Read verbatim, full document, from the local designs/GRADE 7 CREATIVE ARTS & SPORTS.pdf via the Read tool (no pages parameter, per standing environment note — pdftoppm/poppler is not installed here). Cover page reads 'KENYA INSTITUTE OF CURRICULUM DEVELOPMENT ... JUNIOR SCHOOL CURRICULUM DESIGN CREATIVE ARTS AND SPORTS GRADE 7', First published 2022, Revised 2024. All strand/sub-strand headings, SLOs, KIQs, learning experiences, core competencies and links below are transcribed verbatim from the Read output, not summarized or paraphrased. Content is NOT a re-run of Grade 8 or Grade 9: different sports (Javelin/Handball/Football vs G8's Middle Distance/Netball/Volleyball and G9's Triple Jump/Rugby/Basketball), different music key (C major throughout G7, vs G major at G8/G9), different crafts (macrame net-weaving, stencil printing, block printing vs G8's fabric decoration/basketry and G9's pottery/weaving/photography), and a different narrative sub-strand (Storytelling + flip-book animation, not Verse or Play). Structural note: the SUMMARY OF STRAND AND SUB STRAND table (page vii) numbers the strand-2 sub-strands 2.1-2.8 as core (rhythm, athletics, melody, handball, western solo instrument, football, storytelling, Kenyan folk song) with '2.9 Swimming (Optional)' as the sole optional add-on — but the detailed body tables (pages 28-33) present Swimming BEFORE Kenyan Folk song, i.e. body order is rhythm(2.1)/athletics(2.2)/melody(2.3)/handball(2.4)/western-solo(2.5)/football(2.6)/storytelling(2.7)/Swimming(2.8 in body)/Kenyan-Folk-song(2.9 in body). Per the same resolution approach used for the Grade 8 and Grade 9 CAS numbering quirks, the more detailed/specific source (here, body table reading order) is treated as canonical for this file's sub-strand ordering; codes assigned to skills follow body order (C.8 = Swimming, C.9 = Kenyan Folk Song). Unlike Grade 8/9 (which pair TWO optional sub-strands and instruct 'cover only one'), Grade 7 has only ONE explicitly optional sub-strand (Swimming) with no named alternative — it is additive/optional, not a choose-one-of-two pair. Per the standing 'nothing silently skipped, app not tied to one school's choice' precedent, Swimming is built as a full skill anyway alongside all 8 core strand-2 sub-strands."
+  },
+  "strands": [
+    {
+      "name": "1.0 Foundations of Creative Arts and Sports",
+      "subStrands": [
+        {
+          "name": "1.1 Introduction to Creative Arts and Sports",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "describe categories of Creative Arts and Sports",
+            "outline the relationships among the categories of Creative Arts and Sports",
+            "create a chart on the categories of the Creative Arts and Sports",
+            "appreciate the categories of Creative Arts and Sports"
+          ],
+          "keyInquiryQuestions": [
+            "How are the categories of the Creative Arts and Sports related?"
+          ],
+          "learningExperiences": [
+            "watch, in groups, actual or virtual activities of Creative Arts and Sports to describe the categories Visual Arts, Music and dance, drama and film and Sports",
+            "collaboratively collect images of creative Arts and sports activities, share materials and paste them on a manila paper under each category to make a collage",
+            "decorate the chart neatly using found materials",
+            "display the chart in the classroom",
+            "discuss the relationships among the categories of Creative Arts and Sports (functions, execution, visual, presentation, competition, audience, attire, themes, team effort)",
+            "give feedback on own and others' displayed charts on the categories of Creative Arts and Sports"
+          ],
+          "linkedLearningAreas": [
+            "English: the learner utilises language and communication skills as they discuss, and present, enhancing their linguistic capabilities.",
+            "Social Science: the learner interacts with diverse societal and cultural contexts as they research the components and elements Creative Arts and Sports."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Learning to learn: the learner uses digital devices to explore, collect and present information on the categories and relationships of creative Arts and Sports.",
+            "Communication and Collaboration: the learner exhibits communication skills as they give feedback on their own and others as works in groups to research and come up with ideas on categories of Creative Arts and Sports.",
+            "Creativity and imagination: the learner innovatively combines materials to make, decorate and display the artistic chart on categories of Creative Arts and Sports."
+          ],
+          "assessmentSignal": "Rubric's 'Meets expectations' row reads 'Describes the 4 categories of Creative Arts and Sports' — confirms all 4 categories (Visual Arts, Music and dance, Drama and film, Sports) must be named, not just a subset.",
+          "notes": "The 4 categories (Visual Arts; Music and dance; Drama and film; Sports) and the 9 named relationship dimensions (functions, execution, visual, presentation, competition, audience, attire, themes, team effort) are both directly knowledge-testable (describe/outline). The chart-making (collage, decorating, displaying) is a hands-on craft task this app cannot grade."
+        },
+        {
+          "name": "1.2 Components of Creative Arts and Sports",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "describe the components of Visual Arts",
+            "describe elements of a story",
+            "perform activities demonstrating the components of fitness",
+            "execute basic elements of Music",
+            "appreciate the components of Creative Arts and Sports"
+          ],
+          "keyInquiryQuestions": [
+            "How are the components of Creative Arts and Sports inter-related?",
+            "How are components of Creative Arts and Sports applied?"
+          ],
+          "learningExperiences": [
+            "collect samples of artworks to identify elements (colour, tone/value) and principles (balance, rhythm and movement) of Visual Arts",
+            "discuss the elements of a story: character, setting, plot and theme",
+            "observe actual or virtual activities of fitness that show coordination and strength in physical fitness",
+            "demonstrate fitness exercises that enhance coordination and strength",
+            "practise activities that enhance coordination and strength using music",
+            "sing familiar tunes to recognize and execute basic elements of music: rhythm (semibreve, minim, crotchet and quaver and their corresponding rests) and pitch (treble staff with ledger line - C, the notes A to G, the keyboard, the scale of C major, and melodic intervals of the major 2nd and major 3rd on the treble staff)",
+            "watch videos/films to appreciate how the components of creative Arts and Sports relate to each other"
+          ],
+          "linkedLearningAreas": [
+            "English and Kiswahili: the learner enhances language comprehension and interpretation skills during group discussions and presentations.",
+            "Mathematics: the learner employs learnt mathematical principles of rhythm, values, timing, during music notation."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Communication: the learner develops effective verbal expression and written communication skills while discussing the elements of storytelling.",
+            "Collaboration: the learner embraces teamwork and mutual support while singing familiar tunes.",
+            "Digital Literacy: the learner interacts with digital devices while watching virtual activities of fitness and watching videos to appreciate how the components of Creative Arts and Sports relate to each other.",
+            "Critical Thinking and Problem Solving: the learner applies critical thinking to demonstrate fitness exercises from the observations made related to personal fitness."
+          ],
+          "assessmentSignal": "Rubric's 'Meets expectations' row reads 'Executes the 4 components of Creative Arts and Sports' (Elements and principles of Visual Arts, Elements of a story, Components of fitness, Elements of Music) — all four component groups are in scope, not a subset.",
+          "notes": "Names 'Critical Thinking and Problem Solving' as a core competency — per RIGOR-STANDARDS.md this sub-strand requires at least one Analyze-or-Evaluate-tier branch, not just recall. Knowledge-testable: visual-art elements/principles, story elements, music rhythm note values + rests, pitch/staff/scale/interval terminology. Performing fitness exercises to music is a physical-performance outcome this app cannot grade directly, but the underlying fitness-component concepts (coordination, strength) are describable/classifiable."
+        }
+      ]
+    },
+    {
+      "name": "2.0 Creating and Performing in Creative Arts and Sports",
+      "subStrands": [
+        {
+          "name": "2.1 Composing Rhythm",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "outline factors to consider in creating a rhythmic pattern",
+            "compose a four-bar rhythmic pattern in 2/4 time",
+            "write rhythmic patterns in 2/4 time",
+            "sight read rhythmic patterns on monotone",
+            "appreciate rhythmic patterns created by self and others"
+          ],
+          "keyInquiryQuestions": [
+            "What constitutes rhythm in music?",
+            "How are rhythmic patterns used in sports?"
+          ],
+          "learningExperiences": [
+            "watch virtual or live spaces to listen to simple tunes and outline factors to consider in creating a rhythmic pattern (time signature, repetition of note values and rests, variation of note values and rests)",
+            "write notes equivalent to two crotchet beats using different colours to make 2/4 time",
+            "write rhythmic patterns on monotone from dictation",
+            "improvise rhythmic patterns for a warm-up routine",
+            "select body movements (clapping, tapping, marching to rhythm, swaying and swinging) to accompany the rhythmic patterns for warm-up",
+            "perform the warm-up while reciting the rhythmic patterns using French rhythm names (Taa-aa-aa-aa, Taa-aa, Taa, Ta-te, Tafa-te and Ta-tefe)",
+            "appreciate rhythmic patterns created by self and others"
+          ],
+          "linkedLearningAreas": [
+            "English: Writing about the factors involved in creating rhythmic patterns contributes to English language skills. This task involves the use of descriptive language, explanation, and the organisation of ideas.",
+            "Mathematics: Identifying mathematical elements in rhythm, such as beats and timing, connects to mathematical concepts. The learner may analyse and quantify aspects of rhythmic creation.",
+            "Integrated Science: Experimenting with the properties of sound during improvisation connects to integrated science. The learner may explore the scientific aspects of creating different rhythmic sounds."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Communication and Collaboration: as the learner articulates ideas and collaborates with peers to refine their understanding of the concept of rhythm.",
+            "Learning to Learn: the learner acquires knowledge in rhythm as a fundamental component of musical creation, performance and analysis.",
+            "Critical thinking and Problem-solving: as the learner composes and improvises rhythmic patterns to accompany warm-up routines."
+          ],
+          "assessmentSignal": null,
+          "notes": "Names 'Critical thinking and Problem-solving' as a core competency — requires an Analyze-or-Evaluate branch. Knowledge-testable: the 3 factors in creating a rhythmic pattern (time signature, repetition of note values/rests, variation of note values/rests), the 5 body-movement types, and the 6 French rhythm names mapped to their beat values (Taa-aa-aa-aa = 4 beats/semibreve, Taa-aa = 2 beats/minim, Taa = 1 beat/crotchet, Ta-te = a pair of quavers = 1 beat split in two, Tafa-te and Ta-tefe = syncopated/dotted variations combining a beat unevenly). Composing/performing/sight-reading rhythms in real time is a practical/performance skill this app cannot grade directly."
+        },
+        {
+          "name": "2.2 Athletics",
+          "lessonCount": 14,
+          "specificLearningOutcomes": [
+            "carve a javelin according to the right specification",
+            "execute a javelin throw following the throwing phases for skill acquisition",
+            "appreciate each other's carved javelin and throwing effort"
+          ],
+          "keyInquiryQuestions": [
+            "Which safety considerations are important in carving and throwing a javelin?",
+            "What found materials can be used to make a javelin while conserving the environment?"
+          ],
+          "learningExperiences": [
+            "observe actual or virtual images of a javelin with focus on: (general shape, length, thickness and weight)",
+            "select and explore suitable materials and tools for carving a javelin implement",
+            "carve a javelin while observing the following: sketching image, carve out the negative parts of the javelin focusing on the shape and pointedness, craftsmanship, finish the javelin using appropriate techniques (sanding, texturing or varnishing), safety while handling tools and materials, display and critique own and others' javelin",
+            "use the available digital devices or text to observe javelin throw and note the following phases: (carry, approach run, cross over, release and follow through)",
+            "demonstrate the javelin throw while observing safety",
+            "practise javelin throw while observing the five phases and the basic rules",
+            "acknowledge others' effort by giving feedback on the carved javelin and throwing effort"
+          ],
+          "linkedLearningAreas": [
+            "Mathematics: learner uses mathematical concepts such as weight and length in javelin carving and execution.",
+            "English and Kiswahili: Learner expresses their observations, understanding, and findings on a javelin in well-structured and articulate ways employing learnt language skills."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Learning to Learn: the learner demonstrates craftsmanship in carving a javelin implement according to the right specifications.",
+            "Creativity and Imagination: the learner selects found materials from environment to use in carving the javelin implement.",
+            "Self-efficacy: the learner develops self-efficacy, when carving a javelin implement according to the right specifications and executing a javelin throw following the phases correctly."
+          ],
+          "assessmentSignal": null,
+          "notes": "No 'Critical thinking' competency named, so an Apply-tier branch (not necessarily Analyze/Evaluate) satisfies the rigor floor — content still supports it via the safety/found-materials KIQs. Knowledge-testable: the 4 javelin-appearance features (shape, length, thickness, weight), the 5 javelin-throw phases in order (carry, approach run, cross over, release, follow through — a natural ordering-kind fit), the 3 finishing techniques (sanding, texturing, varnishing), and safety/found-materials considerations. Actual carving craftsmanship and the physical throw are practical/performance tasks this app cannot grade directly."
+        },
+        {
+          "name": "2.3 Composing Melody",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "outline the qualities of a good melody",
+            "compose four-bar melodies in C major",
+            "create a card design inspired by the composed melody",
+            "perform simple pieces of music in C major",
+            "appreciate the use of melody in Creative Arts and Sports for expression"
+          ],
+          "keyInquiryQuestions": [
+            "How do Musical, Visual Arts and Physical Fitness skills contribute to composing melody?"
+          ],
+          "learningExperiences": [
+            "sing familiar tunes to outline the qualities of a good melody (singable - with leaps of a 3rd, has identifiable shape/contour, symmetry, starts on d, m or s, and ends on d)",
+            "compose and notate 2-bar question and 2-bar answer phrases of a melody",
+            "create and notate four-bar melodies in C major and in 2/4 time using the treble staff",
+            "sight read 4-bar melodies in C major using voice/descant recorder/any other western instrument",
+            "design a decorated one-fold window seasonal card inspired by the melody composed: cut out a window on the front page of card, create illustrations inspired by the melody inside the window, embellish the window with found objects (paper, buttons, beads, straws) and music notation signs, sign the card using calligraphy",
+            "perform simple pieces of music in C major using voice/descant recorder/any other western instrument",
+            "perform melodies with Curwen hand signs and other gestures or body movements (clapping, tapping, marching to rhythm, swaying and swinging) to create a warm-up routine",
+            "give feedback on melodies composed and cards designed by self and others"
+          ],
+          "linkedLearningAreas": [
+            "Mathematics: Musical notation involves mathematical concepts such as rhythm, timing and understanding musical patterns, providing a cross-disciplinary application of mathematical principles."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Self-Efficacy: the learner gains confidence through creating melodies that bear acceptable qualities.",
+            "Learning to Learn: the learner learns music notation and designs the seasonal melody card, and thus develops a novel approach to expressing musical concepts.",
+            "Digital Literacy: is enhanced by using digital notation software, gaining proficiency in contemporary music creation tools, and navigating digital platforms.",
+            "Communication and Collaboration: as the learner composes melody, effective communication is fostered through discussions with peers, sharing perspectives, and engaging in group analyses, contributing to a collaborative understanding of musical elements."
+          ],
+          "assessmentSignal": null,
+          "notes": "No 'Critical thinking' competency named. Grade 7 composes in C MAJOR (not G major, unlike Grade 8/9) — content must not be reskinned from those grades' G-major material. Knowledge-testable: the 4 qualities of a good melody (singable with leaps of a 3rd, identifiable shape/contour, symmetry, starts on doh/me/soh and ends on doh), the tonic solfa framing (d/m/s = doh/me/soh), and the seasonal-card design elements (window cut, illustrations, found-object embellishments, calligraphy signature). Composing/notating/performing melodies and constructing the physical card are practical/performance/craft tasks this app cannot grade directly."
+        },
+        {
+          "name": "2.4 Handball",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "describe the steps of making a larks' head knot",
+            "weave a hand ball goal net using lark's head macrame knots",
+            "demonstrate the passing skills in handball",
+            "execute dribbling in handball for skill acquisition",
+            "execute jump shot in handball",
+            "appreciate each other's effort in weaving, passing, shooting and dribbling in handball"
+          ],
+          "keyInquiryQuestions": [
+            "How does playing handball enhance health?"
+          ],
+          "learningExperiences": [
+            "observe and discuss virtual or actual demonstrations of steps of making lark's head macrame knots",
+            "observe virtual or actual samples of 4 basic macrame knots used for weaving (the larks head, half hitch, square, spiral/half knots)",
+            "collaboratively practise tying the knots",
+            "collaboratively, weave a handball goal net while observing the knots, size of the net and finishing",
+            "fix the net onto goal posts and use in practising shooting in a handball game",
+            "watch a virtual or observe a demonstration of passes (side pass, jump pass and flick pass), shooting (jump shot) and dribbling in handball",
+            "perform passing skill in a handball game",
+            "practise dribbling skills (high and low) in handball game",
+            "practise jump shot using drills",
+            "apply passing, dribbling and shooting skills in a mini game while observing safety and without gender bias",
+            "value each other's effort in weaving, passing, shooting and dribbling in handball"
+          ],
+          "linkedLearningAreas": [
+            "Integrated Science: Understanding the biomechanics behind the force applied in shooting skills, involving concepts related to motion and energy.",
+            "Mathematics: The execution of dribbling skills in handball involves spatial awareness, angles, and force application, connecting to mathematical concepts."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Self-efficacy: the learner develops confidence and belief in their skills and ability while engaging in a game of handball.",
+            "Digital literacy: as the learners observe virtual samples of macrame and watch virtual demonstration of passes."
+          ],
+          "assessmentSignal": null,
+          "notes": "No 'Critical thinking' competency named. Knowledge-testable: the 4 basic macrame knots (larks head, half hitch, square, spiral/half knots) and the steps of tying a larks' head knot; the 3 named passes (side pass, jump pass, flick pass); dribbling types (high and low); jump shot. Weaving the physical net and executing passes/dribbling/shooting in a live game are hands-on/physical-performance tasks this app cannot grade directly, but naming and describing the knot types and pass/dribble techniques is."
+        },
+        {
+          "name": "2.5 Western Solo Instrument",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "explain the techniques of playing a descant recorder or any other Western instrument",
+            "create a stencil of a descant recorder or any other Western instrument for printing",
+            "tune a Western instrument for a performance",
+            "perform a solo instrumental piece in C Major",
+            "appreciate playing music on the descant recorder or any other Western solo instrument"
+          ],
+          "keyInquiryQuestions": [
+            "How are the various instrumental techniques applied in playing Western solo instruments?",
+            "What is the value of sight reading music?"
+          ],
+          "learningExperiences": [
+            "observe an actual or virtual demonstrations of techniques (appropriate playing posture, blowing, fingering, tonguing, strumming, picking, clarity of tone quality and embouchure) to playing the descant recorder or any other Western instrument",
+            "observe an actual or virtual tutorials on tuning of a recorder or any other Western instrument and tune it appropriately",
+            "create a stencil motif of a descant recorder or a solo Western instrument by: sketching on strong paper, marking non image and image, cut out non image parts",
+            "print the motif using the repeat pattern by on paper/fabric",
+            "interpret fingering charts play the notes C, D, E, F, G, A, B and C",
+            "practise playing the technical exercises (ascending and descending scale of C major, tonic arpeggio, sight reading exercises in C Major and simple time) enhance recorder or any other Western instrument playing technique",
+            "observe performance directions for repeat (repeat marks, 1st and 2nd repeat) articulation (legato and staccato), dynamics (loud and soft) and tempo (fast and slow)",
+            "perform a solo piece in C major in 2-4 time",
+            "appreciate solo Western Instrumental Music performances for enjoyment"
+          ],
+          "linkedLearningAreas": [
+            "Mathematics: mathematical concepts of timing, beats, and sequences are applied in rhythmic patterns and melodic intervals in performance of solo instrumental pieces.",
+            "Integrated Science: principles of sound and soundwaves transmission are used in playing music instruments."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Self-Efficacy: the learner, while executing solo pieces, exhibits self-efficacy, fostering personal growth.",
+            "Digital Literacy: the learner demonstrates digital literacy in preparing and sharing musical ideas, accessing sheet music, online tutorials, and other collaborative spaces.",
+            "Learning to Learn: the learner consistently practises, adjusts, and seeks feedback, reflecting a self-directed and adaptive learning approach."
+          ],
+          "assessmentSignal": null,
+          "notes": "No 'Critical thinking' competency named. Knowledge-testable: the 8 named playing techniques (posture, blowing, fingering, tonguing, strumming, picking, tone quality, embouchure), the C major fingering-chart notes (C-D-E-F-G-A-B-C), the technical exercise types (scale, tonic arpeggio, sight reading), and — richest content for a quiz — the 4 categories of performance directions with their named values: repeat (repeat marks, 1st/2nd repeat/ending), articulation (legato vs staccato), dynamics (loud vs soft), tempo (fast vs slow). Actual playing/tuning/performing is a practical/performance skill this app cannot grade directly."
+        },
+        {
+          "name": "2.6 Football",
+          "lessonCount": 12,
+          "specificLearningOutcomes": [
+            "paint an imaginary composition of a football field with players in action",
+            "execute trapping skill in football",
+            "perform dribbling skill in football",
+            "value team effort in a football game"
+          ],
+          "keyInquiryQuestions": [
+            "How can colours be used to show distance?",
+            "Why is ball control important in a football match?"
+          ],
+          "learningExperiences": [
+            "paint an imaginative pictorial composition of a football match to show: the field (atmospheric perspective) with emphasis on warm colours (progression) and cool colours (recession), players in action",
+            "display and give feedback on each other's painted football fields",
+            "watch a virtual or live football demonstration to discuss trapping skill (foot, thigh and chest) and dribbling skill (inside and outside of the foot)",
+            "demonstrate the skills of trapping",
+            "demonstrate dribbling skills",
+            "practise, in groups, trapping and dribbling for ball control",
+            "use the skills of trapping and dribbling in a conditioned game while observing safety",
+            "give each other feedback on the execution of the skills in football"
+          ],
+          "linkedLearningAreas": [
+            "Integrated Science: Understanding the biomechanics behind the force applied in shooting skills, involving concepts related to motion and energy.",
+            "Mathematics: The execution of dribbling skills in handball involves spatial awareness, angles, and force application, connecting to mathematical concepts."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Communication and Collaboration: As the learner demonstrates dribbling and trapping in football, they enhance communication skills by articulating the intricacies of these techniques.",
+            "Learning to Learn: the learner acquires and refines new skills related to artistic skills in painting and ball control in football.",
+            "Self-Efficacy: Performing trapping skills contributes to self-confidence as the learner showcase their ability to execute fundamental football skills."
+          ],
+          "assessmentSignal": null,
+          "notes": "No 'Critical thinking' competency named, but the KIQ 'How can colours be used to show distance?' is a strong Apply-tier hook (atmospheric perspective: warm colours advance/progress, cool colours recede) even without it. Note: the linkedLearningAreas box for this sub-strand in the source PDF is a verbatim repeat of the Handball (2.4) box text (biomechanics/force, spatial awareness — a likely source-document copy artefact, transcribed as-is rather than silently corrected). Knowledge-testable: atmospheric-perspective colour theory (warm colours = progression/appear closer, cool colours = recession/appear farther), the 3 trapping surfaces (foot, thigh, chest), and the 2 dribbling variants (inside foot, outside foot). Painting the composition and performing trapping/dribbling live are practical/performance/artistic-execution tasks this app cannot grade directly."
+        },
+        {
+          "name": "2.7 Storytelling",
+          "lessonCount": 18,
+          "specificLearningOutcomes": [
+            "describe techniques used in storytelling",
+            "compose a 3 to 5-minute story addressing an issue in society",
+            "create a flipbook animation for storytelling",
+            "perform a 3 to 5-minute story before an audience",
+            "realise storytelling as a means of communication"
+          ],
+          "keyInquiryQuestions": [
+            "How can storytelling be made interesting?",
+            "How can flip book animation be used in storytelling?"
+          ],
+          "learningExperiences": [
+            "watch live/recorded narration clips to discuss storytelling techniques (use of voice, use of body, use of songs, audience involvement, props and costumes)",
+            "explore to identify a pertinent and contemporary issue in society for storytelling",
+            "develop, in groups, a character/characters for a story",
+            "arrange milestones in a sequential order (beginning, middle and end) to create a short story",
+            "draw a sequence of a moving character to create a Flip Book Animation focussing on: sequencing of objects/image(s), positioning of objects on subsequent pages, creativity (storyline)",
+            "finish and present the flip book with focus on: craftsmanship in use of materials and tools, collating the papers, binding of papers (using string/stapling)",
+            "manipulate the flip book by emphasising on: frequency of image(s), speed of flick per second to animate the story",
+            "explore vocal and physical warm up exercises in readiness for storytelling",
+            "rehearse the short story for performance",
+            "present a short story to an audience",
+            "record the narration and avail it on a digital platform"
+          ],
+          "linkedLearningAreas": [
+            "English and Kiswahili: the learner takes part in class discussions using these languages as a medium of communication.",
+            "Indigenous Languages: the learner uses these languages as a medium of communication as they interact with some resource persons from the community.",
+            "Social Science: the learner explores social science concepts by narrating stories that reflect different historical periods, cultural practices, or societal issues."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Communication: the learner speaks clearly and engagingly during class discussions and when performing stories.",
+            "Collaboration: the learner contributes to group activities when creating and performing stories.",
+            "Self-efficacy: the learner develops resource mobilisation skills when collecting materials for flipbook animation and for storytelling. In performing a story, the learner builds confidence and self-esteem.",
+            "Learning to Learn: the learner is equipped with concepts, knowledge, and skills relevant for continued learning and life.",
+            "Digital literacy: the learner interacts with ICT gadgets to research and watch digital content relating to narratives and film book animation."
+          ],
+          "assessmentSignal": null,
+          "notes": "No 'Critical thinking' competency named. Knowledge-testable: the 6 named storytelling techniques (use of voice, use of body, use of songs, audience involvement, props, costumes), the 3-part story structure (beginning, middle, end — a natural ordering-kind fit), and the flip-book animation mechanics (sequencing of images, positioning on subsequent pages, craftsmanship, binding, frequency/speed of flicking to animate). Composing an original story, drawing the flip-book frames, and performing before an audience are creative/practical/performance tasks this app cannot grade directly."
+        },
+        {
+          "name": "2.8 Swimming (Optional)",
+          "lessonCount": 15,
+          "specificLearningOutcomes": [
+            "paint a human form in a backstroke position",
+            "execute a water entry skill in swimming using a pencil dive",
+            "perform backstroke skill in swimming for skill development",
+            "appreciate your own and others' effort in executing backstroke skill"
+          ],
+          "keyInquiryQuestions": [
+            "How can drawing be used to enhance water safety awareness?",
+            "Why are water safety skills important?"
+          ],
+          "learningExperiences": [
+            "paint a composition of a swimmer in water with emphasis on (body position and balance) using wash and brush stroke techniques",
+            "display and give feedback on own and others' paintings",
+            "watch a virtual or live demonstration of backstroke and water entry skill (pencil dive)",
+            "demonstrate a pencil dive (feet first)",
+            "demonstrate flutter kicks, arm action and breathing while in supine position",
+            "practise drills for backstroke focusing on coordination",
+            "engage in water games for enjoyment and to enhance skill development",
+            "observe others and give feedback on the execution of the backstroke skill"
+          ],
+          "linkedLearningAreas": [
+            "Social Studies: Performing water treading may connect to social science concepts related to water safety practices, cultural aspects of swimming, or historical perspectives on aquatic activities.",
+            "Mathematics: using the correct trajectory involved in a pencil dive connects to mathematical concepts.",
+            "English and Kiswahili: giving each other feedback in displays and execution of skills involves effective verbal communication."
+          ],
+          "scopeNotes": [
+            "include: this sub-strand is marked OPTIONAL in the SUMMARY OF STRAND AND SUB STRAND table (page vii) — the sole optional add-on in the Grade 7 design, with no named second alternative (unlike Grade 8/9's paired Swimming-vs-Indigenous-Games choice). Built anyway per the standing 'nothing silently skipped, app not tied to one school's facility access' precedent."
+          ],
+          "coreCompetencies": [
+            "Collaboration: the learner works with others when reviewing the displays and while executing the skills of backstroke to give feedback.",
+            "Critical Thinking and Problem solving: as the learner paints human form in water and executes the specific movements and techniques involved in pencil dive skill.",
+            "Learning to Learn: Performing pencil dive and backstroke as the learner acquires and applies practical skills in a water safety context."
+          ],
+          "assessmentSignal": null,
+          "notes": "Names 'Critical Thinking and Problem solving' as a core competency — requires an Analyze-or-Evaluate branch. This is the most performance-heavy sub-strand in the whole design (backstroke, pencil dive are pure physical-execution outcomes this app cannot grade). Knowledge-testable content is thinner but real: pencil dive is entered feet-first; backstroke technique components (flutter kicks, arm action, breathing in supine/face-up position, coordination); the painting technique (wash and brush stroke techniques, body position and balance); and the water-safety framing from both KIQs, which supports Apply/Evaluate-tier reasoning questions about why water-safety skills and water-safety-awareness art matter."
+        },
+        {
+          "name": "2.9 Kenyan Folk Song",
+          "lessonCount": 15,
+          "specificLearningOutcomes": [
+            "classify folk songs in Kenyan communities",
+            "improvise materials for a folk song performance",
+            "decorate a costume using the block printing technique",
+            "perform a folksong from a Kenyan community",
+            "appreciate folk songs performance as means of cultural preservation"
+          ],
+          "keyInquiryQuestions": [
+            "What is the role of folk songs in Kenyan society?",
+            "How can performances of Kenyan folk songs be made interesting?"
+          ],
+          "learningExperiences": [
+            "watch actual or virtual performances of folk songs, to describe components of folk songs from Kenyan communities",
+            "brainstorm to classify the folk songs according to community of origin, occasion, purpose, participants and messages/themes",
+            "visit an actual or virtual cultural centre to watch and select a solo or group folk song from any Kenyan community for performance",
+            "collect found materials (costumes, props, make-up, and ornaments) for a folksong performance",
+            "take a role in rehearsing a solo or group folk song: adhering to performance techniques (voice projection and balance, phrasing, tempo, tone, dynamics, expression and interpretation, gestures and movement, intensity, mood, idiom/authenticity), incorporating appropriate movements and instrumental accompaniment, using appropriate costumes, props, and make-up",
+            "study actual or virtual samples of alternate patterns in block printing",
+            "design a motif from geometric (inorganic) shapes to be used in creating an alternate repeat pattern for block printing",
+            "prepare the block using the inorganic motif by: transferring the design onto the block, cutting out the non-image parts leaving the image (motif) parts raised",
+            "make registration marks on the fabric",
+            "prepare printing ink and surface",
+            "print the alternate repeat pattern on costume using the dabbing method",
+            "fix the ink by ironing the fabric",
+            "use the printed costume for performance",
+            "rehearse the folk song with appropriate singing and movements",
+            "create a written/aural synopsis with information on the background of the song, purpose, and participants",
+            "take up a role in performing the folk song before an audience",
+            "appreciate folk song performances as a form of cultural expression"
+          ],
+          "linkedLearningAreas": [
+            "Social Science: Classification of Folk songs involves understanding the cultural and social context of different Kenyan communities, linking to social science.",
+            "Languages (English, Kiswahili): Describing and communicating the ideas for costume improvisation requires effective communication skills, linking to language arts components in both English and Kiswahili."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Citizenship: by performing folk songs from different Kenyan cultures, the learner recognizes and appreciates cultural diversity in Kenya, thus fostering a sense of shared responsibility in preserving and promoting cultural heritage.",
+            "Critical thinking: is demonstrated as the learner interprets the significance of each component in a folk song, fostering a deeper understanding of cultural and musical expressions.",
+            "Learning to Learn: is enhanced as the learner researches and adapts folk song performance and costume decoration techniques, demonstrating an openness to new ideas and methods.",
+            "Creativity and Imagination: the learner explores and combines unique techniques in decorating the costumes by block printing, and selecting songs and materials for performance.",
+            "Digital literacy is developed when the learner explores digital platforms to research, document and share folk song performances.",
+            "Communication and Collaboration: are honed as the learner speaks articulately and interacts with others to create various components of folk songs."
+          ],
+          "assessmentSignal": null,
+          "notes": "Names 'Critical thinking' as a core competency — requires an Analyze-or-Evaluate branch. Knowledge-testable: the 5 folk-song classification criteria (community of origin, occasion, purpose, participants, messages/themes), the 10 named performance techniques (voice projection and balance, phrasing, tempo, tone, dynamics, expression and interpretation, gestures and movement, intensity, mood, idiom/authenticity), and the block-printing process steps (design a geometric motif, transfer to block, cut non-image parts leaving motif raised, registration marks, prepare ink/surface, print via dabbing, fix by ironing — a natural ordering-kind fit). Rehearsing/performing the folk song and physically block-printing the costume are practical/performance/craft tasks this app cannot grade directly."
+        }
+      ]
+    },
+    {
+      "name": "3.0 Appreciation in Creative Arts and Sports",
+      "subStrands": [
+        {
+          "name": "3.1 Analysis of Creative Arts and Sports",
+          "lessonCount": 18,
+          "specificLearningOutcomes": [
+            "examine the criteria for evaluating Creative Arts and Sports",
+            "analyse a football game for skill development",
+            "analyse a folk song from a Kenyan community",
+            "evaluate a storytelling performance",
+            "evaluate a 2D art work",
+            "appreciate the role of analysis in Creative Arts and Sports"
+          ],
+          "keyInquiryQuestions": [
+            "Why is analysis an important skill in Creative Arts and Sports?"
+          ],
+          "learningExperiences": [
+            "brainstorm to interpret criteria for evaluating different categories of Creative Arts and Sports (football, folksong, narrative and 2-D Arts)",
+            "watch, listen to, read or observe selected Creative Arts or football performances",
+            "analyse a given folk song paying attention to: media of performance, structure, community of origin, participants, singing, messages, role of props, body movements, purpose, costumes, accompaniment and mood",
+            "play football game and analyse it paying attention to trapping and dribbling while observing safety",
+            "analyse a given storytelling performance to evaluate elements such as theme, plot, confidence of the performer(s), use of voice, use of body, use of costume and props, audience involvement, time management",
+            "analyse a landscape painting paying attention to: organisation of the work (balance, proportion, dominance), subject matter (what is happening - topic), theme (what is the artist saying)",
+            "judgement: Evaluating the Artwork"
+          ],
+          "linkedLearningAreas": [
+            "English and Kiswahili: language skills are essential in articulating and expressing thoughts when examining, discussing and giving feedback on the criteria for Creative Arts and Sports evaluation.",
+            "Social Studies: perspectives can be applied to understand the historical, cultural, and societal context of the folk song and its significance within the community."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Self-Efficacy: the learner gains confidence in their ability to evaluate and appreciate diverse forms of artistic expression as they apply their knowledge and skills to assess the artistic merits of visual representations.",
+            "Citizenship: the learner exhibits cultural citizenship by exploring and understanding the cultural context and significance of the folk song.",
+            "Learning to Learn: demonstrated as the learner adapts to new information, seeks further knowledge, and refines their evaluation skills throughout the process of evaluating Creative Arts and Sports."
+          ],
+          "assessmentSignal": "Rubric's 'Meets expectation' row for the analysis-ability indicator reads 'Analyses all performances or pieces in Creative Arts and Sports' across all four named categories (folk song, football game, storytelling, 2D artwork) — confirms full coverage across all four, not a subset, is the expected competency level.",
+          "notes": "This is the whole subject's most explicitly Analyze/Evaluate-tier sub-strand by design (its own SLOs use 'examine,' 'analyse,' and 'evaluate' as the verbs, not just 'describe'), even though 'Critical thinking' is not separately named as a core competency — the sub-strand's entire purpose is analysis. Knowledge-testable and directly quiz-friendly: the football-analysis criteria (trapping, dribbling, safety), the 11 folk-song-analysis criteria (media of performance, structure, community of origin, participants, singing, messages, role of props, body movements, purpose, costumes, accompaniment, mood), the 8 storytelling-analysis criteria (theme, plot, performer confidence, use of voice, use of body, use of costume/props, audience involvement, time management), and the 2D-artwork-analysis criteria (organisation: balance/proportion/dominance; subject matter; theme; judgement)."
+        }
+      ]
+    }
+  ]
+}

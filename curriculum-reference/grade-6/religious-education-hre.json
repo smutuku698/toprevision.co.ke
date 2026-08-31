@@ -1,0 +1,380 @@
+{
+  "subject": "Hindu Religious Education",
+  "subjectId": "hre",
+  "grade": 6,
+  "source": {
+    "title": "Primary School Education Curriculum Design — Hindu Religious Education, Grade 6 (Revised 2024)",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-18",
+    "confidence": "high",
+    "notes": "Read directly from grade-6-curriculum-desings/GRADE-6-HRE-Curriculum-Designs.pdf via the Read tool (no pages param), full text, all 8 strands / 11 sub-strands / 90 lessons. Learning Area allocation: 3 lessons/week at Upper Primary (Religious Education line item). Essence statement frames Grade 6 HRE as a four-faith rotation (Sanatan/Vedic, Jainism, Buddhism, Sikhism) with this grade leaning heavily on Buddhist and Sikh content specifically, unlike the broader four-faith spread seen in some sub-strands of the Grade 7/8/9 designs."
+  },
+  "strands": [
+    {
+      "name": "1.0 Creation",
+      "subStrands": [
+        {
+          "name": "1.1 Creation in Buddh and Sikh Faiths",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "identify the concepts of creation from Buddh and Sikhi faiths for familiarisation",
+            "display concepts of creation for deeper understanding",
+            "appreciate different concepts of creation for social awareness"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to know creation concepts in Buddh and Sikh faiths?",
+            "How does the concept of creation help one appreciate Paramatma?"
+          ],
+          "learningExperiences": [
+            "mention the concept of creation from Buddhism and Sikhism",
+            "discuss with peers the different creation concepts",
+            "watch a video on discourse by a spiritual teacher",
+            "ask their elders/parents questions on the different concepts of creation",
+            "prepare a skit from a Scriptural story and perform as a group activity",
+            "visit places of worship accompanied by parents/guardian/teacher",
+            "inquire more about the concepts of creation in Buddh and Sikh faiths",
+            "search and report on different creation concepts using search engines/Scriptures/library/resource person"
+          ],
+          "linkedLearningAreas": ["Creative Arts — skills of using digital devices while watching a video on discourse by a spiritual teacher"],
+          "scopeNotes": ["Content pool is conceptual (Buddhist and Sikh creation concepts), not a fixed enumerated list of named items — the design gives no closed set of terms here, unlike 1.2's seven named animals/birds."],
+          "assessmentSignal": "Rubric distinguishes correctly-identifying-with-meanings vs. correctly-identifying vs. only-when-prompted vs. cannot-identify-even-when-prompted for the Buddhism/Sikhism creation concepts — depth of explanation, not just recall, is explicitly rewarded."
+        },
+        {
+          "name": "1.2 Gifts of Nature",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "identify the selected seven birds and animals used in the four faiths",
+            "match birds and animals in the four faiths with their importance",
+            "appreciate the importance of specific birds and animals according to the four faiths"
+          ],
+          "keyInquiryQuestions": [
+            "How do specific birds and animals give symbolic significance in different faiths?",
+            "How do Scriptural stories show interdependence of nature and humans?"
+          ],
+          "learningExperiences": [
+            "give names of selected birds and animals from the four faiths",
+            "discuss with peers the religious importance of selected animals and birds",
+            "prepare a skit from a Scriptural story and perform it as a group activity",
+            "draw animals and birds of religious importance using digital devices",
+            "take videos and photos of birds and animals and identify the ones of religious importance",
+            "listen to radio lessons and stories related to birds and animals of religious importance/watch videos",
+            "participate in a charity walk to raise funds to preserve the environment",
+            "visit the temple/museum to observe pictures/murals/sculptures of birds and animals",
+            "assist learners with special needs as per their abilities through peer teaching importance of birds and animals that are considered sacred",
+            "engage in discussions with peers to highlight symbolic significance of birds and animals of religious importance as related to Enlightened Beings"
+          ],
+          "linkedLearningAreas": [
+            "Agriculture & Nutrition — skills of classifying and giving names to birds and animals",
+            "Creative Arts — skills of using digital devices and drawing animals and birds of religious importance"
+          ],
+          "scopeNotes": [
+            "The design names exactly 7 selected animals/birds: cow, peacock, horse, elephant, hawk, Garur, lion — this is a closed, hard-floor list per the mining guide, not a sampling menu.",
+            "Assessment rubric's top band explicitly requires identifying all 7 and explaining their significance, and separately requires matching all 7 to their importance — both identify and match are independently assessed abilities."
+          ],
+          "assessmentSignal": "Four-tier rubric on both 'identify the 7' and 'match the 7 to importance': all 7 with explanation > all 7 correctly > 4-6 correctly > fewer than 4 — so a skill's content pool must genuinely support all 7 distinctly, not treat them interchangeably."
+        }
+      ]
+    },
+    {
+      "name": "2.0 Manifestations of Paramatma",
+      "subStrands": [
+        {
+          "name": "2.1 Enlightened Beings and Social Welfare",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "identify key events from the lives of the selected Enlightened beings for social welfare",
+            "classify the contributions of the Enlightened Beings for inspiration",
+            "appreciate the teachings of the Enlightened Beings to enhance social harmony"
+          ],
+          "keyInquiryQuestions": ["How does the teaching of the Enlightened Beings contribute to social welfare?"],
+          "learningExperiences": [
+            "read the life histories of the selected Enlightened Beings using digital devices, resource persons and other relevant sources",
+            "discuss with parents/guardian/teacher to gain knowledge on Enlightened Beings",
+            "listen to stories of Enlightened Beings using Scriptures/a resource person/audio-visual device",
+            "research and write essays on the lives of Enlightened Beings",
+            "role-play/perform skits based on the key events from the lives of Enlightened Beings",
+            "assist learners with special needs as per their abilities",
+            "draw sketches of Enlightened Beings using digital devices/drawing books",
+            "watch animated films on Enlightened Beings using digital devices"
+          ],
+          "linkedLearningAreas": [
+            "Creative Arts — skills of using digital devices/drawing books to draw sketches of Enlightened Beings",
+            "Science and Technology — skills of using digital devices to watch animated films"
+          ],
+          "scopeNotes": [
+            "The design's bullet list renders as 3 lines — Raja Ram Mohan Rai, Atma Ram Ji Sarriputa, Sri Guru Hargobind Sahib ji — but the rubric's 'four selected Enlightened Beings' language, combined with this strand's grade-wide four-faith rotation pattern (Sanatan/Vedic, Jain, Buddhist, Sikh — one per faith elsewhere in this design), strongly indicates the middle line is two run-together names, not one: 'Atma Ram Ji' (the Jain monk and reformer Acharya Vijayanand Suri, popularly known as Atmaramji Maharaj, 1837-1896) and 'Sariputta' (the Buddhist chief disciple of Gautama Buddha, renowned for wisdom). A PDF line-break/bullet-separator likely did not survive extraction between these two names.",
+            "Resolved on that basis as 4 Enlightened Beings, one per faith: Raja Ram Mohan Rai (Sanatan/Vedic — Brahmo Samaj founder, campaigned against Sati), Atma Ram Ji / Acharya Vijayanand Suri (Jain — sent a Jain philosophy essay to the 1893 World's Parliament of Religions in Chicago, since Jain monastic vows forbid sea travel), Sariputta (Buddhist — the Buddha's chief disciple, called 'General of the Dharma' for his wisdom), and Sri Guru Hargobind Sahib ji (Sikh — introduced Miri-Piri, built the Akal Takht). This reading matches the rubric's headline count and the strand's own four-faith structure better than treating the pool as 3, though it remains a curatorial inference rather than a verbatim-confirmed 4th bullet line."
+          ],
+          "assessmentSignal": "Rubric (as written, referencing 'four') rewards identifying key events + classifying contributions for each Enlightened Being, elaborately/with modelling at the top band — down to fewer than two at the bottom band."
+        }
+      ]
+    },
+    {
+      "name": "3.0 Scriptures",
+      "subStrands": [
+        {
+          "name": "3.1 Scriptures and Moral Values",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "identify the teachings of Scriptures that enhance moral values for familiarisation",
+            "interpret the teachings of Scriptures to foster social harmony",
+            "appreciate teaching of scriptures for enhancing moral values"
+          ],
+          "keyInquiryQuestions": [
+            "How do Scriptural stories contribute to instilling moral values?",
+            "How can we apply teachings of scriptures to instilling moral values?"
+          ],
+          "learningExperiences": [
+            "read scriptures that enhance moral values, in groups",
+            "listen to stories/resource persons/audio-visual devices to know about the role of the Scriptures",
+            "share stories from Scriptures that explain their roles as carriers of moral values",
+            "recite mantras from Scriptures based on their roles to instil moral values",
+            "use search engines to identify the Scriptural stories that enhance moral values in the community",
+            "hold discussions on the role of Scriptures",
+            "assist learners with special needs as per their abilities through peer teaching lessons drawn from the Scriptural stories"
+          ],
+          "linkedLearningAreas": [
+            "Social Studies — skills of socialising and sharing stories from Scriptures",
+            "Creative Arts — skills of using audio-visual devices to listen to stories/resource persons"
+          ],
+          "scopeNotes": ["The design names exactly 4 selected Scriptures: Bhagwad Gita, Uttradhayaan (Ch. 13-18), Sutta Pitaka, Sri Guru Granth Sahib ji — this is a closed, hard-floor list of 4, matching the rubric's own 'four selected Scriptures' language (unlike 2.1, this sub-strand's list and rubric count agree)."],
+          "assessmentSignal": "Rubric explicitly requires identifying the teachings of all 4 selected Scriptures at the top two bands, dropping to 3 then fewer than 2 at lower bands — separately assesses interpreting the teachings (with/without assistance)."
+        }
+      ]
+    },
+    {
+      "name": "4.0 Worship",
+      "subStrands": [
+        {
+          "name": "4.1 Basic Chants/Mantras as per Buddhism",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "identify basic chants/the mantras of paying homage to the Buddha for spiritual nourishment",
+            "describe the importance of tisarana (taking refuge in triple gem) for spiritual growth",
+            "appreciate pancha sila (five precepts) for moral development"
+          ],
+          "keyInquiryQuestions": ["How is recitation of chants/mantras important in Buddhist occasions?"],
+          "learningExperiences": [
+            "mention basic chants/mantras according to the Buddha faith",
+            "discuss with peers how chanting these mantras helps one develop moral values and spiritual growth",
+            "recite the 3 basic chants of Buddhist practice with aid of digital devices",
+            "watch animated short story on importance of tisarana using digital devices",
+            "listen to a resource person to guide in moral education through pancha sila mantra",
+            "visit a Buddhist vihaar to understand the application of these mantras in real life",
+            "assist learners with special needs as per their abilities through peer teaching the religious practices carried out in a place of worship",
+            "write a composition on how to apply pancha sila in real life"
+          ],
+          "linkedLearningAreas": [
+            "English — skills of writing a composition on how to apply pancha sila in real life",
+            "Creative Arts — skills of using digital devices to recite the 3 basic chants"
+          ],
+          "scopeNotes": ["The design names exactly 3 basic chants/practices: paying homage (to the Buddha), tisarana (taking refuge in the triple gem), and pancha sila (the five precepts) — explicitly called 'the 3 basic chants of Buddhist practice' in the learning experiences, so this is a closed 3-item pool."],
+          "assessmentSignal": "Three separate rubric rows — one per named chant/practice (paying-homage chants, tisarana, Buddhist Vihaar practices/ceremonies is actually 4.2's row; here rows are paying-homage chants and tisarana specifically) — each independently graded from 'correctly + recites them'/'with examples' down to 'struggles even when prompted'."
+        },
+        {
+          "name": "4.2 Buddhist Vihaars in Africa",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "identify the practices and ceremonies held in Buddhist Vihaar for social awareness",
+            "distinguish the significance of the features in a Buddhist Vihaar from other symbols for familiarisation",
+            "appreciate the value of Buddhist Vihaar in Africa for moral and spiritual wellness"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to visit a place of worship?",
+            "What is the importance of the features found in a Buddhist temple?"
+          ],
+          "learningExperiences": [
+            "name practices and ceremonies held in a Buddhist Vihaar",
+            "collect pictures of Buddhist Vihaar in Africa from magazines/newspapers/digital devices",
+            "discuss with peers the different features of Buddhist Vihaar",
+            "create a montage using photos from the places of worship",
+            "visit places of worship to witness activities carried out at different times",
+            "use digital devices to locate the Buddhist Vihaar in Kenya",
+            "assist learners with special needs as per their abilities through peer teaching draw and colour the Buddhist Vihaar",
+            "visit a Buddhist Vihaar to witness ceremonies, architecture and other important features"
+          ],
+          "linkedLearningAreas": ["Creative Arts — skills of creating a montage using photos, and drawing/colouring the Buddhist Vihaar"],
+          "scopeNotes": ["Content is architectural/ceremonial-practice based (features, ceremonies, locating Vihaars in Kenya specifically) rather than a fixed named list — no closed enumeration of individual features is given in the source text beyond 'practices and ceremonies' and 'features' generically."],
+          "assessmentSignal": "Rubric rewards identifying practices/ceremonies held in a Buddhist Vihaar 'correctly with examples' at the top band down to 'struggles even when prompted' at the bottom."
+        }
+      ]
+    },
+    {
+      "name": "5.0 Sadachaar (Social Ethics)",
+      "subStrands": [
+        {
+          "name": "5.1 Managing Resources",
+          "lessonCount": 9,
+          "specificLearningOutcomes": [
+            "classify the types of resources relevant in their life for harmonious living",
+            "explain correct uses of various resources for better living",
+            "demonstrate appropriate use of resources for sustainable development",
+            "develop a desire to use and manage resources prudently for sustainable development"
+          ],
+          "keyInquiryQuestions": [
+            "How can we take care of resources in school and community?",
+            "Why is it important for an individual to take care of resources?",
+            "How is technology useful in managing resources prudently?"
+          ],
+          "learningExperiences": [
+            "name different types of resources",
+            "research and classify different types of commonly used resources",
+            "compare and adopt various strategies from other countries to manage resources",
+            "discuss with peers appropriate use of resources",
+            "plan for and share resources with the less fortunate in society",
+            "download and use time management applications from digital devices",
+            "initiate campaign with peers to motivate peers to be punctual in all school activities",
+            "create a hypothetical budget with priority items to be purchased within the available funds",
+            "design posters indicating switching off the electric appliances/turning off the taps after use at school/home/community centres",
+            "watch videos on managing resources in an appropriate manner",
+            "model the managing of resources prudently for sustainable development",
+            "visit a home for the less fortunate to appreciate the value of responsible use of food"
+          ],
+          "linkedLearningAreas": ["Creative Arts — skills of designing posters indicating switching off electric appliances/turning off taps"],
+          "scopeNotes": ["The design names exactly 4 resource types: natural, financial, man-made, time — a closed 4-item pool matching the rubric's own 'four types of resources' language."],
+          "assessmentSignal": "Rubric separately grades (a) demonstrating appropriate use of resources for sustainable development and (b) classifying all 4 resource types — top band for (b) requires all 4 with details, dropping to 3 then not-more-than-2 at lower bands."
+        }
+      ]
+    },
+    {
+      "name": "6.0 Yoga (Holistic Wellness)",
+      "subStrands": [
+        {
+          "name": "6.1 Asanas",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "describe the types of Pranayam and Asanas for familiarisation",
+            "practise Pranayam and Asanas for physical wellbeing",
+            "acknowledge the importance of Pranayam and Asanas for healthy living"
+          ],
+          "keyInquiryQuestions": [
+            "Why are Asanas important in Yoga?",
+            "What is the importance of Pranayam in life?"
+          ],
+          "learningExperiences": [
+            "brainstorm about the different types of Pranayams and Asanas",
+            "collect pictures from magazines, newspapers/digital platforms on Pranayams and Asanas",
+            "visit and participate in the celebration of International Yoga Day",
+            "practise the Asanas with peers under the supervision of a resource person",
+            "practice the breathing exercises of Pranaayam using digital device",
+            "perform Pranayams correctly under the supervision of a resource person",
+            "make a journal to record their Yoga practice and changes observed in themselves",
+            "create a Yoga guidance video using digital devices",
+            "demonstrate correct postures of Asanas"
+          ],
+          "linkedLearningAreas": ["Creative Arts — skills of using digital devices to make a journal/video and demonstrate postures"],
+          "scopeNotes": [
+            "The design names exactly 3 Pranayam (breathing exercise) types: Bhramari (humming bee breath), Sheetali Pranayaam (cooling breath), Sheet kari Pranayaam (hissing breath).",
+            "The design names exactly 3 Asanas (physical postures): Dhanur Asan, Vajra asan, Chakra chalan asan.",
+            "Together this is a closed 6-item pool (3 Pranayams + 3 Asanas), each with a distinct named technique/breath style."
+          ],
+          "assessmentSignal": "Rubric grades describing the types of Pranayam and Asanas from 'correctly and recites/demonstrates them' down to 'struggles even when prompted' — description depth (not just naming) is rewarded at the top band."
+        },
+        {
+          "name": "6.2 Communal Aspect of Yoga",
+          "lessonCount": 9,
+          "specificLearningOutcomes": [
+            "explain the benefits of environmental protection for communal wellness",
+            "assess improvements they observed in themselves over a specific period for self-evaluation",
+            "illustrate ways of protecting the environment for sustainable development",
+            "embrace Yoga for harmonious living"
+          ],
+          "keyInquiryQuestions": [
+            "How are the different aspects of Yoga beneficial to society?",
+            "How do Yoga and meditation influence one's life?"
+          ],
+          "learningExperiences": [
+            "research with the aid of a digital device/resource person, case studies of communities that have benefited from environmental conservation",
+            "participate in cleaning the school compound campaign",
+            "organise a tree planting drive in school",
+            "make posters on how to conserve the environment and display in the school compound and in the community centres",
+            "sensitise the school community on negative effects of noise and air pollution",
+            "participate in communal Yoga to practise meditation and exercises",
+            "compose/sing/recite songs/poems on peace, in groups",
+            "work with the guidance and counselling teacher in school to address some critical issues encountered by learners",
+            "assist learners with special needs as per their abilities through peer teaching basic meditation in Yoga"
+          ],
+          "linkedLearningAreas": ["Agriculture & Nutrition — skills of tree planting when organising a tree planting drive"],
+          "scopeNotes": ["The design names 3 communal-aspect themes: enhanced wellness, harmonious living, environmental protection — a closed 3-item pool, each explicitly listed as a sub-strand focus term."],
+          "assessmentSignal": "Rubric separately grades (a) explaining the benefits of environmental protection (with details/examples down to major mix-ups) and (b) illustrating ways of protecting the environment (with examples down to challenges even when prompted)."
+        }
+      ]
+    },
+    {
+      "name": "7.0 Principles of Dharma",
+      "subStrands": [
+        {
+          "name": "7.1 Virtues and Principles of Dharma in Buddhism",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "describe the primary virtues from Buddhist stories for righteousness",
+            "interpret the relevance of key virtues for righteousness from Buddhist stories in their life",
+            "uphold the Principles of Dharma in building one's character for citizenship"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to observe virtues for righteousness?",
+            "How can one implement Principles of Dharma in daily life?",
+            "How can Principles of Dharma be applied in classroom situations?"
+          ],
+          "learningExperiences": [
+            "watch discourses and narrate relevant stories on Principles of Dharma in Buddhism",
+            "perform skits based on the narrated stories",
+            "download information on virtues for righteousness using digital devices and discuss in groups",
+            "visit a Buddhist Vihaar accompanied by parents/guardians to learn Principles of Dharma",
+            "implement Principles of Dharma in class during activities appropriately",
+            "dramatise Scriptural stories based on the Principles of Dharma"
+          ],
+          "linkedLearningAreas": ["Creative Arts — skills of dramatising Scriptural stories"],
+          "scopeNotes": [
+            "Content is Buddhist-story-based virtues in general (based on Scriptural stories per the sub-strand's own subtitle) — the source text does not enumerate a fixed closed list of named virtues here, unlike sub-strands with explicit bulleted item lists (e.g. 1.2, 3.1).",
+            "The shipped skill fills this open sub-strand with the ten Paramitas (perfections) — Dana, Sila, Nekkhamma, Panna, Viriya, Khanti, Sacca, Adhitthana, Metta, Upekkha — the standard, well-documented Theravada Buddhist virtue framework that Jataka tales are traditionally organised around (e.g. Prince Vessantara's story illustrating Dana). This is a curatorial choice to give the open sub-strand concrete, accurate content, not a verbatim KICD-text enumeration."
+          ],
+          "assessmentSignal": "Rubric separately grades (a) describing primary virtues from Buddhist stories and (b) interpreting the relevance of key virtues in the learner's own life, each on the standard 4-tier scale from 'with illustrations/examples' down to 'challenges even when prompted'."
+        }
+      ]
+    },
+    {
+      "name": "8.0 Utsav (Festivals)",
+      "subStrands": [
+        {
+          "name": "8.1 Utsavs from Other Faiths",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "state the significance of celebrating the festivals for posterity",
+            "participate in festivals for social cohesion and harmony",
+            "nurture the value of celebrating festivals towards spiritual growth and social harmony",
+            "recognise special days of the month as per Indian traditional calendar for spirituality and social harmony"
+          ],
+          "keyInquiryQuestions": [
+            "Why do we celebrate festivals?",
+            "How do festivals enhance social harmony?",
+            "Why are festivals that fall on Purnima and Amavasya considered more auspicious?"
+          ],
+          "learningExperiences": [
+            "listen to stories/narrate stories about the significance of celebrating festivals",
+            "watch videos on religious festivals observed in Christian and Islamic faiths",
+            "take active part in the celebration of festivals and write reports on how the festivals are celebrated",
+            "sing Christmas carols and Surahs in relation to the festivals",
+            "do charity work at homes of children and the elderly, visit schools of children with special needs for inclusive celebrations",
+            "assist learners with special needs to safely participate during group activities",
+            "perform skits based on the festivals",
+            "listen to a resource person on the significance of special days of month as per the four faiths",
+            "download the Indian traditional calendar to show dates of these special days",
+            "use search engines to understand different phases of the moon"
+          ],
+          "linkedLearningAreas": ["Creative Arts — skill of singing Christmas carols and Surahs"],
+          "scopeNotes": [
+            "The design names 2 non-Hindu festivals for cross-faith awareness: Christmas, Eid-ul-Fitr.",
+            "The design names 3 Indian traditional calendar special days: Sankranti, Amavasya (No Moon Day), Purnima (Full Moon Day) — explicitly tied to 'in four faiths', i.e. these calendar days are observed across all four faiths this design covers.",
+            "Together this is a closed 5-item pool (2 cross-faith festivals + 3 calendar special days)."
+          ],
+          "assessmentSignal": "Rubric grades (a) stating the significance of celebrating the festivals (with examples down to challenges even when motivated) and (b) participating in festivals (encourages peers down to only-when-motivated)."
+        }
+      ]
+    }
+  ],
+  "appendixNotes": [
+    "The Appendix (List of Assessment Methods, Learning Resources and Non-Formal Activities) names 'Panchmahabhoot' as a Strand-1 (Creation) resource/topic keyword not otherwise spelled out in the strand's own body text (which stays at the conceptual level for 1.1). This is a suggested-resource-table term, not a further enumerated content item with its own learning outcomes — noted here for completeness per the mining guide, not treated as an additional hard-floor content pool.",
+    "CSL (Community Service Learning) at Upper Primary is hosted in Social Studies, not HRE itself, and is a once-annual cross-curricular activity — not a source of HRE-specific skill content."
+  ]
+}

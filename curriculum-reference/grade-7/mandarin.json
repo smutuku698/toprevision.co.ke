@@ -1,0 +1,731 @@
+{
+  "subject": "Mandarin",
+  "subjectId": "mandarin",
+  "grade": 7,
+  "source": {
+    "title": "Junior School Curriculum Design — Mandarin Grade 7 (First published 2022, Revised 2024)",
+    "publisher": "KICD",
+    "isbn": "978-9914-43-811-6",
+    "retrievedDate": "2026-08-15",
+    "confidence": "high",
+    "notes": "designs/Mandarin-Grade-7-Design-Formatted-April-2024.pdf already exists locally in the repo's designs/ folder (provided by the user, per repo-wide standing rule — no web search or Drive mirror needed). Title, ISBN and publisher confirmed directly from the PDF's own title page (page 1: 'KENYA INSTITUTE OF CURRICULUM DEVELOPMENT ... JUNIOR SCHOOL CURRICULUM DESIGN MANDARIN GRADE 7') and imprint page (page 2: 'First published 2022 / Revised 2024 ... ISBN:978-9914-43-811-6 ... Published and printed by Kenya Institute of Curriculum Development'). Read with the Read tool with no pages parameter per environment constraints; full text extracted natively across all 77 pages in one call. Structure verified verbatim against the PDF's own 'SUMMARY OF STRANDS AND SUB STRANDS' table (page x) and the 27 per-theme strand tables (pages 1-58)."
+  },
+  "essenceNote": "Kenya is part of the international community and therefore the learner shall be given an opportunity to learn foreign languages in addition to the national, official and indigenous languages. These foreign languages include Arabic, French, German and Mandarin. The learner is expected to acquire the four language skills: listening, speaking, reading and writing at a basic level in the non-formal curriculum ... guided by social-constructivism and environmental theories ... The learner will transit to Senior School having acquired basic proficiency equivalent to A1/YCT 2 (verbatim essence statement, page viii).",
+  "strands": [
+    {
+      "name": "1.0 Listening and Speaking",
+      "subStrands": [
+        {
+          "code": "1.1",
+          "name": "Oral Expression — Pronunciation, Intonation",
+          "theme": "Greetings and Introduction",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Recall key information from audio sources and texts",
+            "Apply correct tones, pronunciation and intonation in various contexts",
+            "Acknowledge the importance of clear articulation of words in conveying meaning"
+          ],
+          "keyInquiryQuestions": ["Why is correct pronunciation and intonation important in oral communication?"],
+          "learningExperiences": [
+            "Watch an audio-visual clip on informal Chinese greetings and numbers (1-100) and repeat saying them with the correct tones (吃了吗? 你今天怎么样? 你最近怎么样? 最近好吗? 大家好)",
+            "Work jointly to arrange the words and phrases in the right sequence from the audio clip",
+            "Answer questions from the oral text",
+            "Introduce oneself (informal greetings, name, age and place of residence) with appropriate pronunciation and intonation (e.g. 大家好，我叫......，我今年......岁, 我住在......)",
+            "Take turns to introduce their friends (name, age and place of residence)",
+            "Listen to an authentic text with various accents/speech patterns and repeat what they hear",
+            "Discuss the importance of understanding and respecting cultural differences in informal greetings with peers"
+          ],
+          "coreCompetencies": [
+            "Learning to Learn: The learner works collaboratively with others to arrange words in the right sequence.",
+            "Communication and Collaboration: The learner speaks clearly and effectively using appropriate language, expression and gestures as they introduce themselves and their friends to their peers."
+          ],
+          "linkedLearningAreas": ["English and Kiswahili — relating the skills of using correct tone and pronunciation to convey appropriate meaning while communicating"],
+          "scopeNotes": [],
+          "notes": "Register is informal (吃了吗/你今天怎么样/大家好), distinct from Grade 8's formal greetings register (您好/您贵姓). Self-introduction pattern 大家好，我叫......，我今年......岁，我住在...... is the theme's core productive sentence frame."
+        },
+        {
+          "code": "1.2",
+          "name": "Oral Expression — Active Listening, Vocabulary and Language Use",
+          "theme": "Family — Nuclear Family",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify familiar words and phrases in simple conversations",
+            "Use varied and appropriate vocabulary in oral communication",
+            "Exhibit interest in using vocabulary effectively during interactions"
+          ],
+          "keyInquiryQuestions": ["How does varied vocabulary help in effective communication?"],
+          "learningExperiences": [
+            "Mime or gesture different professions as their peers guess the correct title and say them aloud (老师、医生、司机、警察、护士、农民)",
+            "Listen to simple descriptions of the various professions and assign the appropriate title for each description",
+            "Team up with peers to sing the song on titles and professions of nuclear family members (爸爸、妈妈、哥哥、弟弟、姐姐、妹妹、外公、外婆、奶奶、爷爷)",
+            "Work jointly to introduce members of their nuclear family (name, age and profession)",
+            "Take turns to answer questions related to the name, age and profession of their nuclear family (e.g. 你们家有几口人? 爷爷做什么工作?)",
+            "Make short presentations of their preferred professions to their peers",
+            "Explore how parents can provide guidance regarding their future career paths and aspirations"
+          ],
+          "coreCompetencies": [
+            "Citizenship: The learner demonstrates tolerance and understanding of different viewpoints as they acknowledge and respect the diverse professional aspirations of their peers.",
+            "Communication and collaboration: The learner speaks effectively and logically when they make short presentations of their nuclear family members."
+          ],
+          "linkedLearningAreas": ["Social Studies — the concept of making choices and professional aspirations"],
+          "scopeNotes": [],
+          "notes": "Nuclear family (10 titles: 爸爸/妈妈/哥哥/弟弟/姐姐/妹妹/外公/外婆/奶奶/爷爷 — distinguishing maternal 外公/外婆 from paternal 爷爷/奶奶) plus 6 professions (老师/医生/司机/警察/护士/农民)."
+        },
+        {
+          "code": "1.3",
+          "name": "Oral Expression — Vocabulary Development, Articulation",
+          "theme": "My Surroundings",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify familiar and unfamiliar words in a variety of contexts",
+            "Express views and opinions using acquired vocabulary",
+            "Appreciate the importance of using appropriate words for effective communication"
+          ],
+          "keyInquiryQuestions": ["What strategies can you use to make effective oral presentations?"],
+          "learningExperiences": [
+            "Watch an audio visual clip on common places where they buy things and say them out loud (e.g. 书店、衣服店、食品店、药店、鞋店、市场)",
+            "Categorise items according to the places they can be bought with peers",
+            "Listen to a recording and make simple sentences using key expressions and vocabulary on the market place (老板、要多少?、多少钱?、零、买、卖)",
+            "Role-play asking the prices of items in the marketplace collaboratively",
+            "Use picture or words prompts related to the marketplace (e.g. 水果、蔬菜、钱、药) to make short oral presentations in turns",
+            "Work jointly with peers to research and talk about common places where they buy things in their neighbourhood",
+            "Discuss the importance of budgeting while buying items from the marketplace"
+          ],
+          "coreCompetencies": [
+            "Critical thinking and Problem solving: The learner carries out a research on the common market places found in their neighbourhood and talks about them.",
+            "Communication and Collaboration: Teamwork skills are displayed as the learner participates actively on the role play related to prices of items with peers."
+          ],
+          "linkedLearningAreas": ["Pre-technical Studies — prudent management of financial resources"],
+          "scopeNotes": [],
+          "notes": "6 shop types (书店/衣服店/食品店/药店/鞋店/市场), marketplace transaction vocabulary (老板/要多少/多少钱/零/买/卖), 4 item categories (水果/蔬菜/钱/药)."
+        },
+        {
+          "code": "1.4",
+          "name": "Phonological Awareness — Articulation",
+          "theme": "Time",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Articulate words accurately in texts",
+            "Express their ideas clearly in spoken language",
+            "Appreciate the role of speaking clearly in enhancing communication"
+          ],
+          "keyInquiryQuestions": ["How do you enhance clarity when responding to questions?"],
+          "learningExperiences": [
+            "Work jointly to pick random dates on a calendar and say them using the right sequence (年、月、日)",
+            "Listen to an audio clip and repeat the names of the holidays and festivities (圣诞节、情人节、新年、劳动节、独立日、自治日 (zìzhìrì))",
+            "Work with peers to discuss why the given dates are celebrated",
+            "Take turns to practise counting numbers with peers",
+            "Take turns asking each other their dates of birth (e.g. 你的生日是几月几号?)",
+            "Play spin a wheel game and answer the questions with peers",
+            "Work collaboratively to research online or offline on customs observed during the highlighted dates and share their findings",
+            "Reflect on their oral communication skills and identify strengths, weaknesses and areas of improvement"
+          ],
+          "coreCompetencies": [
+            "Learning to Learn: The learner reflects on their oral communication skills and highlights areas to make adjustments.",
+            "Digital Literacy: The competency is promoted as the learner connects and uses the internet to get information on customs observed in various holidays and festivities."
+          ],
+          "linkedLearningAreas": ["Social Studies — celebrating national holidays to express patriotism"],
+          "scopeNotes": [],
+          "notes": "Date sequence order 年/月/日 (year-month-day), 6 named holidays/festivities (圣诞节 Christmas/情人节 Valentine's/新年 New Year/劳动节 Labour Day/独立日 Independence Day/自治日 Madaraka-equivalent self-rule day), birthday question pattern 你的生日是几月几号?"
+        },
+        {
+          "code": "1.5",
+          "name": "Phonological Awareness — Vocabulary Development, Articulation and Intonation",
+          "theme": "Fun and Enjoyment",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify key words and phrases in varied listening texts",
+            "Discuss various topics using appropriate phrases and expressions",
+            "Display enthusiasm in using appropriate language for effective communication"
+          ],
+          "keyInquiryQuestions": ["How can you speak clearly and effectively on various topics?"],
+          "learningExperiences": [
+            "Listen and repeat saying words and phrases related to when they undertake leisure activities (周末、每天、每个星期、每个月、放假的时候)",
+            "Team up with peers to recall vocabulary related to leisure time activities and draw a mind map",
+            "Use pictures/drawings to make oral presentations on activities they undertake during their leisure time",
+            "Take turns responding to questions on when they undertake their leisure activities (e.g. 你什么时候听音乐? 我周末听音乐 etc.)",
+            "Brainstorm and list positive and negative leisure time activities with peers",
+            "Collaborate with peers to present a skit on the importance of engaging in positive leisure activities for recreation"
+          ],
+          "coreCompetencies": ["Critical Thinking and Problem solving: The learner applies evaluation and decision making skills as they highlight positive and negative leisure time activities."],
+          "linkedLearningAreas": ["Creative Arts and Sports — the concept of different leisure time activities"],
+          "scopeNotes": [],
+          "notes": "5 time/frequency expressions (周末/每天/每个星期/每个月/放假的时候), question-answer pattern 你什么时候听音乐? 我周末听音乐."
+        },
+        {
+          "code": "1.6",
+          "name": "Listening for Information — Active Listening, Comprehension",
+          "theme": "Foods and Drinks",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Outline vocabulary related to the theme from a text",
+            "Extract key information from a text",
+            "Acknowledge the role of grasping key information in communication"
+          ],
+          "keyInquiryQuestions": ["How can you obtain the key points in oral communication?"],
+          "learningExperiences": [
+            "Listen to a recording and match pictures of food shopping places to their appropriate names (肉店、面包店、蔬菜店、超市、饭店)",
+            "Take turns saying the items listed in a shopping list (鸡肉、牛肉、羊肉、猪肉、面包、蛋糕、饼干、米饭、面条、大饼)",
+            "Watch a video clip on shopping for food and answer corresponding questions",
+            "Simulate different shopping situations incorporating acquired vocabulary and quantities (斤、公斤) with peers",
+            "Arrange the words given in the right sequence after listening to a recording on shopping experiences",
+            "Collaborate with peers to research and make presentations on the importance of using a shopping list in the marketplace"
+          ],
+          "coreCompetencies": [
+            "Communication and Collaboration: Team work skills are developed as the learner makes presentations of their research findings on the importance of shopping lists.",
+            "Learning to Learn: The learner works collaboratively with peers to simulate different shopping situations."
+          ],
+          "linkedLearningAreas": [
+            "Mathematics — measurements and counting",
+            "Pre-technical Studies — budgeting through use of shopping lists"
+          ],
+          "scopeNotes": [],
+          "notes": "5 food shopping places (肉店/面包店/蔬菜店/超市/饭店), 10 food items (鸡肉/牛肉/羊肉/猪肉/面包/蛋糕/饼干/米饭/面条/大饼), 2 quantity units (斤/公斤)."
+        },
+        {
+          "code": "1.7",
+          "name": "Oral Expression — Vocabulary and Language Use, Articulation (Clarity)",
+          "theme": "My Body",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Choose suitable vocabulary for different speaking situations",
+            "Make accurate descriptions in interactions",
+            "Enhance self-esteem through communication"
+          ],
+          "keyInquiryQuestions": ["How can fluency be enhanced in communication?"],
+          "learningExperiences": [
+            "Sing 'the body parts song' while simultaneously pointing to the corresponding part of the body with peers",
+            "Repeat saying descriptive words and phrases related to physical attributes after a listening prompt (e.g. 高、矮、黑、胖、瘦、长、短、大、小、帅、好看 etc.)",
+            "Take turns to describe their peers according to their physical attributes using \"很\" (e.g. 这是大卫。大卫很好看。他不矮，眼镜很大，头发很黑。)",
+            "Describe their friend's physical attributes using the negating verb \"不\" (e.g. 他不高 etc.)",
+            "Discuss how the choice of words when making descriptions can be used to foster positive self-image"
+          ],
+          "coreCompetencies": ["Communication and Collaboration: This is developed as the learner describes their peers and friend's physical attributes using appropriate language, expression and gestures."],
+          "linkedLearningAreas": ["English and Kiswahili — use of appropriate words, phrases and expressions for effective oral communication"],
+          "scopeNotes": [],
+          "notes": "10 physical-attribute descriptive adjectives (高/矮/黑/胖/瘦/长/短/大/小/帅/好看). Grammar pattern: 很 (very, for positive statement) vs 不 (not, for negation) with adjectives — e.g. 他很高 vs 他不高."
+        },
+        {
+          "code": "1.8",
+          "name": "Interactive Speaking — Intonation, Vocabulary and Language Use",
+          "theme": "Weather and Environment",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Use appropriate intonation and pace in oral communication",
+            "Apply appropriate vocabulary for specific communicative functions",
+            "Appreciate the role of interactive speaking for effective communication"
+          ],
+          "keyInquiryQuestions": ["Why is vocabulary important?", "How do you articulate your thoughts clearly when communicating?"],
+          "learningExperiences": [
+            "Listen to a poem on weather patterns and express the words and phrases with the correct intonation and pace (晴天、雨天、风天、阴天)",
+            "Present pictures of the different seasons and name them orally in turns (秋天、冬天、夏天、春天、旱季、雨季)",
+            "Collaborate with peers to sing a song on the various seasons",
+            "Watch a video clip of the clothes worn in various seasons and answer the related questions (T恤、短裤、毛衣、外套、大衣、雨衣、帽子、手套、围巾、靴子、凉鞋、太阳镜、游泳衣)",
+            "Research on seasons and weather patterns in Kenya and China and share the findings",
+            "Take turns to play seasons vocabulary charades for their peers to guess the correct season based on the actions"
+          ],
+          "coreCompetencies": ["Critical thinking and Problem solving: The learner enhances their researching skills as they look for information on seasons and weather patterns in Kenya and China."],
+          "linkedLearningAreas": ["Social Studies — weather patterns and seasons"],
+          "scopeNotes": [],
+          "notes": "4 weather-pattern words (晴天/雨天/风天/阴天), 6 season/climate-period words (秋天/冬天/夏天/春天/旱季/雨季), 13 clothing items (T恤/短裤/毛衣/外套/大衣/雨衣/帽子/手套/围巾/靴子/凉鞋/太阳镜/游泳衣). Kenya-vs-China weather comparison is an explicit sanctioned cross-cultural research prompt."
+        },
+        {
+          "code": "1.9",
+          "name": "Listening for Information — Active Listening and Participation",
+          "theme": "Getting Around",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "Identify key vocabulary from a listening context",
+            "Organize their ideas logically and coherently in conversations",
+            "Acknowledge the significance of effective listening in communication"
+          ],
+          "keyInquiryQuestions": ["How can we avoid distractions in a listening context?"],
+          "learningExperiences": [
+            "List the names of common areas or facilities in their locality after the recording (e.g. 医院、教堂、清真寺、面包店、超市、邮局、饭店、肉店)",
+            "Listen to descriptions and give the correct name of area/facility (e.g. 买饭的地方叫......，看病的地方叫.....)",
+            "Listen to a recording and fill in the gaps with the correct location words (对面、后面、附近、前面、旁边)",
+            "Listen to the given short text and answer the subsequent questions",
+            "Take turns to use the given map to describe the locations of different areas and facilities in the neighbourhood",
+            "Work jointly to give the locations of hidden treasures in their classroom"
+          ],
+          "coreCompetencies": ["Citizenship: The learner communicates and collaborates within diverse teams when they take turns to describe locations in their neighbourhood using maps."],
+          "linkedLearningAreas": ["Social Studies — map reading to give directions"],
+          "scopeNotes": [],
+          "notes": "8 neighbourhood facilities (医院/教堂/清真寺/面包店/超市/邮局/饭店/肉店), 5 location/relative-position words (对面/后面/附近/前面/旁边)."
+        }
+      ]
+    },
+    {
+      "name": "2.0 Reading",
+      "subStrands": [
+        {
+          "code": "2.1",
+          "name": "Reading Aloud — Pronunciation (Tones)",
+          "theme": "Greetings and Introduction",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "Pronounce words, phrases and sentences with correct tones",
+            "Read varied texts with accurate pronunciation",
+            "Show interest in reading a variety of texts for proficiency"
+          ],
+          "keyInquiryQuestions": ["Why is mastery of pronunciation key in effective communication?"],
+          "learningExperiences": [
+            "Read vocabulary on informal greetings correctly and proficiently (吃了吗? 你今天怎么样? 你最近怎么样? 最近好吗? 大家好)",
+            "Chant a poem on numbers 1-100 with an appropriate tune collaboratively",
+            "Organise a scavenger hunt on vocabulary related to greetings and introductions and read them out",
+            "Take turns picking a card with clues about their peers and read them out as others guess who it describes (i.e. 叫什么名字?，多大了?，家人?，住在哪儿?)",
+            "Read aloud short texts on introduction of self and friend's (name, age and place of residence) for peer feedback",
+            "Work together to propose solutions to the reading challenges identified"
+          ],
+          "coreCompetencies": ["Critical thinking and Problem solving: Interpretation and inferencing skills are exhibited as the learner explores possible solutions to the identified reading problems with peers."],
+          "linkedLearningAreas": ["Mathematics — counting and numbers"],
+          "scopeNotes": [],
+          "notes": "Same informal greeting register as 1.1 plus clue-card question forms (叫什么名字?/多大了?/家人?/住在哪儿?) — reading modality of the same theme content."
+        },
+        {
+          "code": "2.2",
+          "name": "Reading for Understanding — Inferencing, Comprehension",
+          "theme": "Family",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "Infer the meaning of key words and phrases from text",
+            "Express the main idea from texts",
+            "Exhibit a positive attitude towards reading"
+          ],
+          "keyInquiryQuestions": ["How does expressing main ideas in a text enhance communication?"],
+          "learningExperiences": [
+            "Complete the blanks with the appropriate words/phrases related to titles of nuclear family members and professions",
+            "Read a text on introductions of nuclear family members and their professions and find unfamiliar words",
+            "Use a dictionary/other resources to find the meaning of the unfamiliar words and create a word wall collaboratively",
+            "Read a dialogue and answer the corresponding questions",
+            "Take turns to read short texts related to nuclear family members and assign an appropriate title for each of them",
+            "Establish a reading corner to foster a reading culture in the classroom with peers"
+          ],
+          "coreCompetencies": [
+            "Learning to learn: The learner is motivated to learn continuously when they establish a reading corner to promote a positive reading culture.",
+            "Creativity and Imagination: The learner undertakes group activities that inspire creative thinking as they create a word wall from the unfamiliar words identified."
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports — creatively expressing one's ideas"],
+          "scopeNotes": [],
+          "notes": "Reuses the nuclear family (10 titles) + 6 professions vocabulary from 1.2 in a reading-comprehension/dialogue format."
+        },
+        {
+          "code": "2.3",
+          "name": "Reading for Understanding — Active Listening, Comprehension",
+          "theme": "My Surroundings",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "Point out main information from texts",
+            "Respond accurately to questions in different contexts",
+            "Acknowledge the importance of price comparison before buying goods"
+          ],
+          "keyInquiryQuestions": ["What does reading for understanding entail?"],
+          "learningExperiences": [
+            "Highlight vocabulary related to common places where they buy things from reading texts",
+            "Team up with peers to read the prices of items (元/块、先令) as labelled in the pictures/drawings/paintings",
+            "Read a role-play on asking for the prices of different items and fill the blanks using the appropriate key expressions and vocabulary (e.g. 老板、多少钱、买、卖)",
+            "Read a short passage and answer questions related to the context",
+            "Sequence words and phrases to form correct sentences",
+            "Discuss with peers why it is important to compare prices before purchasing items at the market"
+          ],
+          "coreCompetencies": [
+            "Critical Thinking and Problem Solving: The learner demonstrates that they can follow simple instructions to complete tasks by sequencing words and phrases to form correct sentences.",
+            "Communication and Collaboration: The learner exhibits teamwork skills as they participate actively in the discussion on why price comparison is essential when buying items at the market."
+          ],
+          "linkedLearningAreas": ["Pre-technical Studies — comparing prices to prudently utilise one's financial resources"],
+          "scopeNotes": [],
+          "notes": "Adds two currency terms (元/块 yuan, 先令 shilling) to the marketplace vocabulary from 1.3, plus a price-comparison financial-literacy application angle."
+        },
+        {
+          "code": "2.4",
+          "name": "Reading Aloud — Vocabulary Development, Fluency and Pace",
+          "theme": "Time",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "Derive the meaning of words when reading aloud",
+            "Apply appropriate fluency and pace in reading tasks",
+            "Appreciate the importance of pronouncing words clearly when reading aloud"
+          ],
+          "keyInquiryQuestions": ["Why is correct pronunciation important in effective communication?"],
+          "learningExperiences": [
+            "Read aloud a short text highlighting holidays and festivities (圣诞节、情人节、新年、劳动节、独立日、自治日 (zìzhì rì)) as their peers mark any unfamiliar words",
+            "Work jointly to research the meanings of the words and share their findings",
+            "Read short poems related to important dates with the appropriate pace",
+            "Work with peers to read and count numbers aloud",
+            "Rearrange sentences related to birth dates and take turns reading them aloud in the correct sequence",
+            "Use flashcards to respond to the prompts on their dates of birth for critique by peers",
+            "Record themselves reading texts related to important dates and identify where they need help",
+            "Discuss how to safely use dictionaries or online resources to look up unfamiliar words or undertake tasks"
+          ],
+          "coreCompetencies": [
+            "Digital Literacy: Digital citizenship is promoted when the learner discusses how to be safe and responsible users of technology when undertaking various reading tasks.",
+            "Learning to Learn: The learner reflects on their own work as they record their reading to identify where they need help."
+          ],
+          "linkedLearningAreas": ["Social Studies — important national days"],
+          "scopeNotes": [],
+          "notes": "Same 6 holidays/festivities as 1.4, reading-fluency modality."
+        },
+        {
+          "code": "2.5",
+          "name": "Guided Reading — Comprehension, Word Recognition",
+          "theme": "Fun and Enjoyment",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "Recall factual information related to the text",
+            "Respond to questions from a text for comprehension",
+            "Appreciate the value of reading for lifelong learning"
+          ],
+          "keyInquiryQuestions": ["How does reading foster a positive attitude toward language learning?"],
+          "learningExperiences": [
+            "Identify activities undertaken during leisure time from reading texts (唱歌、听音乐、看电影、看电视、看书、画画、旅游、打球、玩电脑游戏)",
+            "Fill the missing gaps with the appropriate words and phrases depicting time and frequency (周末、每天、每周、每个星期、每个月、放假的时候)",
+            "Read the passage related to when leisure time activities are undertaken and answer the questions",
+            "Organize a reader's theatre to read texts based on leisure time activities",
+            "Team up with peers to discuss the importance of undertaking positive fun and enjoyment activities"
+          ],
+          "coreCompetencies": [
+            "Citizenship: The learner engages in critical and constructive dialogue with peers to explore the value of engaging in positive leisure time activities.",
+            "Learning to Learn: The learner is motivated to learn continuously when they organise a reader's theatre to improve their reading proficiency."
+          ],
+          "linkedLearningAreas": ["Social Studies — management of one's leisure time"],
+          "scopeNotes": [],
+          "notes": "9 leisure activities (唱歌/听音乐/看电影/看电视/看书/画画/旅游/打球/玩电脑游戏) — a larger, reading-specific pool than 1.5's oral set (休息/运动/逛街/和朋友聊天), plus the same 6 time/frequency expressions (note: 每周 and 每个星期 both appear as near-synonyms 'every week')."
+        },
+        {
+          "code": "2.6",
+          "name": "Reading Aloud — Word Recognition, Intonation and Tone",
+          "theme": "Foods and Drinks",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "Identify key words related to the theme from texts",
+            "Read simple texts with proper intonation and tone",
+            "Appreciate reading texts for vocabulary enrichment"
+          ],
+          "keyInquiryQuestions": ["How do presentations help in improving communication skills?"],
+          "learningExperiences": [
+            "Read short texts and match pictures of food items to their names (鸡肉、牛肉、羊肉、猪肉、面包、蛋糕、饼干、米饭、面条、大饼)",
+            "Read sentences and fill the blanks with the appropriate shopping places for different items (肉店、面包店、蔬菜店、超市、饭店)",
+            "Read short descriptions and categorise the food items with the corresponding places they can be bought with peers",
+            "Take turns reading simple dialogues on quantities of items (斤、公斤) for critique on intonation and tone by peers",
+            "Pick a card and read the text related to it with the appropriate tone and intonation",
+            "Work jointly to explore and discuss the different career prospects in the food and drinks industry"
+          ],
+          "coreCompetencies": ["Communication and Collaboration: The learner exhibits team work skills as they categorise the food items correctly with their peers."],
+          "linkedLearningAreas": ["Pre-technical Studies — shopping for different items"],
+          "scopeNotes": [],
+          "notes": "Same 10 food items + 5 shops + 2 quantity units as 1.6, reading modality; adds an explicit categorise-by-place activity (item -> which of the 5 shops sells it) and a career-prospects discussion prompt."
+        },
+        {
+          "code": "2.7",
+          "name": "Reading Aloud — Articulation and Expression",
+          "theme": "My Body",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "Express words with accurate pronunciation while reading aloud",
+            "Read simple texts with the appropriate articulation and expression",
+            "Display an interest in reading aloud effectively for communication"
+          ],
+          "keyInquiryQuestions": ["How do you effectively convey expression when reading aloud?"],
+          "learningExperiences": [
+            "Identify and say aloud words and phrases depicting physical attributes from sentences (e.g. 高、矮、黑、胖、瘦、长、短、大、小) while paying attention to the tones",
+            "Read a passage on descriptions of physical attributes and answer the questions (e.g. 男生长得怎么样？男生很/不高，老师矮不矮？老师很矮)",
+            "Read simple sentences describing one's physical attributes using 很 and 不 (e.g. Nuru 很高，Nuru 的头发很长，Nuru 不高，Nuru 的头发不长)",
+            "Take turns reading aloud interrogative sentences on physical attributes",
+            "Read aloud the physical attributes of one of their peers as others make a drawing based on the description collaboratively",
+            "Reflect on personal reading aloud skills and identifying areas for improvement"
+          ],
+          "coreCompetencies": ["Self-efficacy: The learner defines their personal skills as they reflect and identify areas of improvement in their reading skills."],
+          "linkedLearningAreas": ["English and Kiswahili — proper articulation and expression in enhancing reading proficiency"],
+          "scopeNotes": [],
+          "notes": "Same 9-10 physical descriptor adjectives and 很/不 grammar pattern as 1.7; adds possessive-attribute sentences (的头发 'X's hair') and interrogative forms (矮不矮? A-not-A question pattern)."
+        },
+        {
+          "code": "2.8",
+          "name": "Reading for Fluency — Reading Strategies, Fluency",
+          "theme": "Weather and Environment",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "Cite key words and phrases using appropriate reading strategies",
+            "Read simple texts on given topics fluently",
+            "Appreciate reading silently to enhance fluency"
+          ],
+          "keyInquiryQuestions": ["How can you enhance understanding of texts when reading?"],
+          "learningExperiences": [
+            "Describe seasons and weather patterns depicted in the pictures using key words and phrases (e.g. 冷 lěng、凉 liáng、暖 nuǎn、热 rè、炎热 yánrè、雨季 yǔjì、旱季 hànjì、冬天 dōngtiān、春天 chūntiān、秋天 qiūtiān、夏天 xiàtiān)",
+            "Work with peers to circle words and phrases related to different types of clothing items used in various seasons from a word search",
+            "Scan through a weather report on a newspaper or digital device and highlight words and phrases related to weather and season",
+            "Take turns reading simple texts on weather and seasons for fluency",
+            "Describe the scenes depicted in the pictures given for review by peers on their fluency",
+            "Create reading groups in class and read texts on various themes of interest to develop their reading fluency"
+          ],
+          "coreCompetencies": [
+            "Creativity and Imagination: The learner establishes strong networking skills as they undertake group activities and exchange ideas on how to identify words from a word search.",
+            "Learning to Learn: This is promoted as the learner builds on their own learning experiences through the peer review on fluency."
+          ],
+          "linkedLearningAreas": ["Social Studies — varied weather patterns and seasons in the environment"],
+          "scopeNotes": [],
+          "notes": "Adds 5 weather-intensity adjectives with pinyin supplied by the curriculum itself (冷/凉/暖/热/炎热 = cold/cool/warm/hot/scorching-hot) to the 4 weather-pattern + 6 season words from 1.8, plus the 13-item clothing list reused via word-search."
+        },
+        {
+          "code": "2.9",
+          "name": "Reading for Understanding — Vocabulary Development, Reading Comprehension",
+          "theme": "Getting Around",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "Identify key words and phrases from reading texts",
+            "Read simple texts on given topics for comprehension",
+            "Acknowledge the role of reading in building vocabulary"
+          ],
+          "keyInquiryQuestions": ["Why is reading important?"],
+          "learningExperiences": [
+            "Highlight words on common areas or facilities found in their locality from a crossword puzzle (医院、教堂、清真寺、面包店、超市、邮局、饭店、肉店)",
+            "Use pictures or drawings to read the location of different areas and facilities in their neighbourhood",
+            "Take turns reading the location of different areas and facilities in their locality using the location words 对面、后面、附近、前面 and 旁边",
+            "Reading aloud a simple text and respond to related questions",
+            "Read short texts on areas or facilities in their neighbourhood and assign the correct picture to the appropriate text",
+            "Read the location of various areas and facilities while their peers draw what they hear",
+            "Form a reading buddy club to mentor and model reading among peers"
+          ],
+          "coreCompetencies": ["Critical Thinking and Problem solving: The learner develops active listening and communication skills when they listen to the instructions given by their peers and draw maps to various areas and facilities in their neighbourhood."],
+          "linkedLearningAreas": ["Social Studies — map reading in giving directions"],
+          "scopeNotes": [],
+          "notes": "Same 8 facilities + 5 location words as 1.9, reading modality with a picture-to-text matching and dictation-drawing activity."
+        }
+      ]
+    },
+    {
+      "name": "3.0 Writing",
+      "subStrands": [
+        {
+          "code": "3.1",
+          "name": "Guided Writing — Handwriting (Legibility and Neatness), Grammar",
+          "theme": "Greetings and Introduction",
+          "lessonCount": 1,
+          "specificLearningOutcomes": [
+            "Compose grammatically correct sentences in writing tasks",
+            "Write legibly and neatly in Chinese",
+            "Show enthusiasm in writing clearly for effective communication"
+          ],
+          "keyInquiryQuestions": ["What role does handwriting play in communication?"],
+          "learningExperiences": [
+            "Listen to an audio recording and list words and phrases related to informal greetings",
+            "Fill in the blanks with the appropriate words from a given text",
+            "Work with peers to decide whether the sentences given in a text are true or false",
+            "Compose simple texts on introduction of oneself and friends (name, age, place of residence)",
+            "Collect printed words and phrases from various sources and arrange the letters/words to make unique pieces of art/poetry on introduction of self and others",
+            "Share the creations with others for peer role modelling"
+          ],
+          "coreCompetencies": ["Communication and Collaboration: The learner writes clearly and correctly simple texts on introduction of oneself and their friends."],
+          "linkedLearningAreas": ["Creative Arts and Sports — expressing oneself through various artistic forms"],
+          "scopeNotes": [],
+          "notes": "Writing modality of the same informal-greetings/self-introduction content as 1.1/2.1. Typed answers in the app use pinyin (never hanzi) per the standing Mandarin-specific rule."
+        },
+        {
+          "code": "3.2",
+          "name": "Guided Writing — Simple Descriptions",
+          "theme": "Family",
+          "lessonCount": 1,
+          "specificLearningOutcomes": [
+            "Use acquired vocabulary to communicate effectively in writing",
+            "Write simple descriptions in a logical and coherent manner",
+            "Develop a love for writing Chinese Characters"
+          ],
+          "keyInquiryQuestions": ["How can you improve your writing of characters?"],
+          "learningExperiences": [
+            "Team up with peers to write the correct titles of nuclear family members in the given family tree (爸爸、妈妈、哥哥、弟弟、姐姐、妹妹、外公、外婆、奶奶、爷爷)",
+            "Write simple sentences about the professions depicted in the pictures (老师、医生、司机、警察、护士、农民)",
+            "Complete the sentence starters with the appropriate words",
+            "Compose short texts about their nuclear family members and their professions",
+            "Create a scrapbook of their nuclear family members and share with peers",
+            "Work jointly to join different strokes to form the correct characters related to professions and family members",
+            "Identify the similarities and differences in characters related to family members (e.g. 妈妈 vs 姐姐 vs 妈妈 vs 外婆 etc.)"
+          ],
+          "coreCompetencies": ["Learning to Learn: The learner works collaboratively to join strokes to form correct Chinese characters."],
+          "linkedLearningAreas": ["Social Studies — concepts related to the family and types of family"],
+          "scopeNotes": [],
+          "notes": "Same nuclear family + professions vocabulary as 1.2/2.2, writing modality; adds a character-comparison discrimination activity (visually similar family-title characters)."
+        },
+        {
+          "code": "3.3",
+          "name": "Guided Writing — Mechanics of Writing: Spelling",
+          "theme": "My Surroundings",
+          "lessonCount": 1,
+          "specificLearningOutcomes": [
+            "Distinguish vocabulary in written texts",
+            "Write words and sentences with the correct spelling",
+            "Value writing clearly for effective communication"
+          ],
+          "keyInquiryQuestions": ["How can you spell words correctly?"],
+          "learningExperiences": [
+            "Watch an audio-visual clip on shops/stores (e.g. 书店、衣服店、食品店、药店、鞋店、市场) then write down the mentioned names with the correct spelling",
+            "Work with peers to match pictures of shops/stores to their corresponding appropriate names",
+            "Read a list of different currencies then rewrite them (e.g. 先令、元/块)",
+            "Use the vocabulary on shops/store to write simple sentences",
+            "Fill in the blanks with the appropriate words",
+            "Read the given short dialogue in a store then answer the questions (e.g. 这个店卖什么? 男生想买什么? 书多少钱? 笔是多少先令?)",
+            "Role-play asking the price of different items in different shops/stores in turns then write the role-plays down",
+            "Discuss in pairs how to clearly make price inquiries in different shops/stores"
+          ],
+          "coreCompetencies": ["Communication and Collaboration: The learner contributes to group decision making by participating actively in completing the sentences with the appropriate words."],
+          "linkedLearningAreas": ["Pre-technical Studies — financial management and budgeting"],
+          "scopeNotes": [],
+          "notes": "Same 6 shops + 2 currencies as 1.3/2.3, writing modality; adds a worked price-inquiry dialogue (这个店卖什么?/男生想买什么?/书多少钱?/笔是多少先令?)."
+        },
+        {
+          "code": "3.4",
+          "name": "Guided Writing — Mechanisms of Language: Punctuation; Simple Greeting Card",
+          "theme": "Time",
+          "lessonCount": 1,
+          "specificLearningOutcomes": [
+            "List important details legibly in Mandarin",
+            "Apply punctuation marks appropriately in writing",
+            "Appreciate using punctuation effectively to enhance the clarity of written communication"
+          ],
+          "keyInquiryQuestions": ["Why is punctuation important?"],
+          "learningExperiences": [
+            "Write down the dates in the correct format in Mandarin (年、月、日)",
+            "Work with peers to list down names of important dates (birth, festivities & holidays) from a dictation (e.g. 圣诞节 shèngdàn jié、情人节 qíngrén jié、新年 xīnnián、劳动节 láodòng jié、独立日 dúlì rì、自治日 zìzhì rì, etc.)",
+            "Work jointly to count numbers correctly",
+            "Watch a digital calendar and mark the dates of important days with peers",
+            "Work jointly to write down holiday greetings for corresponding important days (生日快乐！Shēngrì kuàilè! 劳动节愉快! Láodòng Jié yúkuài! 新年快乐! Xīnnián kuàilè! etc.)",
+            "Research online or offline on important days in Kenya in China and share their findings",
+            "Design a simple greeting card for an important day and exchange share it with peers for their review"
+          ],
+          "coreCompetencies": [
+            "Citizenship: The learners exhibit pride in their national and cultural identity through awareness of important national days in the country.",
+            "Digital Literacy: The learner connects to and uses the internet to search for the different important days in Kenya and China."
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports — creative presentation of ideas"],
+          "scopeNotes": [],
+          "notes": "Same 6 holidays as 1.4/2.4, writing modality; adds 3 named holiday-greeting formulas (生日快乐/劳动节愉快/新年快乐) with pinyin and a greeting-card design deliverable."
+        },
+        {
+          "code": "3.5",
+          "name": "Guided Writing — Vocabulary and Language Use",
+          "theme": "Fun and Enjoyment",
+          "lessonCount": 1,
+          "specificLearningOutcomes": [
+            "Write words and phrases related to the theme accurately",
+            "Use acquired vocabulary appropriately in written texts",
+            "Develop an interest in writing texts for communication"
+          ],
+          "keyInquiryQuestions": ["What is the importance of vocabulary in writing?"],
+          "learningExperiences": [
+            "Work collaboratively to brainstorm and write down activities undertaken during their leisure time (e.g. 休息 xiūxi、运动 yùndòng、玩游戏 wán yóuxì、逛街 guàngjiē、和朋友聊天 hé péngyǒu liáotiān etc.)",
+            "Copy time and frequency words from a written text (e.g. 周末 zhōumò、每天 měitiān、每周 měi zhōu、每个星期 měi gè xīngqī、每个月 měi gè yuè、放假的时候 fàngjià de shíhòu etc.)",
+            "Re arrange jumbled-up sentences in their correct order",
+            "Fill in the blanks with the correct words",
+            "Use picture prompts to write short texts depicted in the pictures",
+            "List down leisure activities they intend to undertake during their leisure time and share them in the class noticeboard"
+          ],
+          "coreCompetencies": [
+            "Communication and Collaboration: The learner writes texts from picture prompts fluently and in an organised manner.",
+            "Critical thinking and Problem solving: The learner develops evaluation and decision making skills as they rearrange sentences in the correct order."
+          ],
+          "linkedLearningAreas": ["Social Studies — positive leisure activities for self-actualisation"],
+          "scopeNotes": [],
+          "notes": "Introduces 5 leisure-activity terms with pinyin distinct from 2.5's reading set (休息/运动/玩游戏/逛街/和朋友聊天 vs 唱歌/听音乐/看电影/看电视/看书/画画/旅游/打球/玩电脑游戏) plus the same 6 time/frequency words with pinyin now supplied."
+        },
+        {
+          "code": "3.6",
+          "name": "Guided Writing — Mechanisms of Writing: Punctuation; Paragraph Writing",
+          "theme": "Foods and Drinks",
+          "lessonCount": 1,
+          "specificLearningOutcomes": [
+            "Use the appropriate punctuation in sentences",
+            "Write simple paragraphs related to the given themes",
+            "Justify the importance of writing legibly for effective communication"
+          ],
+          "keyInquiryQuestions": ["Why is writing legibly and neatly important?"],
+          "learningExperiences": [
+            "Look at the given texts and collaboratively highlight the punctuation marks used",
+            "Collaborate writing a short text about the places where they shop for various items (肉店、面包店、蔬菜店、超市、饭店) and punctuate the text appropriately",
+            "Match names of different shopping places with the appropriate descriptions",
+            "Write short paragraphs using 斤 and 公斤 collaboratively",
+            "Write simple sentences mentioning the quantities of food items that they will be buying for an imaginary class party",
+            "Create a scrapbook of their favourite shopping places and describe the items they buy from them"
+          ],
+          "coreCompetencies": ["Communication and Collaboration: Team work skills are developed when the learner collaboratively highlights the punctuation marks used in the texts."],
+          "linkedLearningAreas": ["Mathematics — using numbers in giving accurate quantities of items"],
+          "scopeNotes": [],
+          "notes": "Same 5 shops + 2 quantity units as 1.6/2.6, writing modality; adds a class-party quantity-planning scenario (real-world application angle)."
+        },
+        {
+          "code": "3.7",
+          "name": "Guided Writing — Orthographic Rules",
+          "theme": "My Body",
+          "lessonCount": 1,
+          "specificLearningOutcomes": [
+            "Identify descriptive words in written texts",
+            "Apply the correct rules when writing Chinese texts",
+            "Appreciate the importance of using correct stroke order when writing Chinese texts"
+          ],
+          "keyInquiryQuestions": ["What are the key considerations when composing short paragraphs in Chinese?"],
+          "learningExperiences": [
+            "Listen to descriptions of different people and note down the descriptive words used (高、矮、黑、胖、瘦、长、短、大、小) collaboratively",
+            "Match images depicting people with different physical appearances to their correct adjectives that describe their appearance",
+            "Observe the correct rules to write a short description of their best friend (name, age, physical appearance) using 很 and 不",
+            "Work jointly to fill in a cloze test with the correct adjective for physical appearance (高、矮、黑、胖、瘦、长、短、大、小、漂亮，帅)",
+            "Using a grid paper trace simple adjectives that describe the physical appearance (大、小、高、长) using the correct stroke order"
+          ],
+          "coreCompetencies": ["Learning to Learn: The learner works collaboratively with others to fill in the cloze test appropriately."],
+          "linkedLearningAreas": ["Creative Arts and Sports — the use of calligraphy in writing"],
+          "scopeNotes": [],
+          "notes": "Same 10 physical-attribute adjectives (adds 漂亮 pretty to the 1.7/2.7 set) and 很/不 grammar; adds explicit stroke-order tracing for 4 of the adjectives (大/小/高/长)."
+        },
+        {
+          "code": "3.8",
+          "name": "Guided Writing — Mechanisms of Writing (Word Order)",
+          "theme": "Weather and Environment",
+          "lessonCount": 1,
+          "specificLearningOutcomes": [
+            "Identify key information in texts",
+            "Construct sentences with appropriate word order in varied contexts",
+            "Show enthusiasm in writing for effective communication"
+          ],
+          "keyInquiryQuestions": ["How can you write effectively?"],
+          "learningExperiences": [
+            "Listen to an audio clip on the different seasons and outline the keywords related to weather patterns and seasons",
+            "Indicate whether the statements given on clothing for the different seasons are true or false",
+            "Fill in a crossword puzzle with names of different months of the year and seasons accurately",
+            "Form sentences to describe the weather from a substitution table collaboratively",
+            "Write about their preferred weather patterns and seasons while observing the correct word order",
+            "Team up with peers to create a weather collage representing different weather patterns and the clothing associated with each using cut out images",
+            "Share with peers for role modelling"
+          ],
+          "coreCompetencies": ["Creativity and Imagination: The learner exhibits networking skills and gains new perspectives of carrying out a task when they create the weather collage with peers."],
+          "linkedLearningAreas": ["Creative Arts and Sports — the use of artistic forms to express thoughts and knowledge"],
+          "scopeNotes": [],
+          "notes": "Same weather/season/clothing vocabulary as 1.8/2.8, writing modality; adds true/false clothing-by-season statements and a personal-preference composition prompt."
+        },
+        {
+          "code": "3.9",
+          "name": "Guided Writing — Vocabulary Development, Paragraph Writing",
+          "theme": "Getting Around",
+          "lessonCount": 1,
+          "specificLearningOutcomes": [
+            "Enumerate key words and phrases in varied contexts",
+            "Compose simple texts in a logical and coherent manner",
+            "Enjoy writing clearly and neatly for pleasure"
+          ],
+          "keyInquiryQuestions": ["What strategies can we use to ensure written texts communicate clearly?"],
+          "learningExperiences": [
+            "Write names of various facilities and areas in the locality (e.g. 医院、教堂、清真寺、面包店、超市、邮局、饭店、肉店)",
+            "Organise a walk around the school while labelling the different areas or facilities with the correct name",
+            "Write short texts describing positions and locations using 前面、后面、旁边、附近、对面",
+            "Work with peers to complete the dialogue with the appropriate words",
+            "Reorganise jumbled words and phrases to make meaningful sentences",
+            "Create comic strips that depict different facilities in their neighbourhood and use them to write a coherent short story",
+            "Keep a neighbourhood journal to document the facilities or areas they come across every day collaboratively",
+            "Collaboratively write a guide to describe the position and location of items in their classroom"
+          ],
+          "coreCompetencies": ["Citizenship: The learner communicates and collaborates within diverse teams when they organise a walk to label areas or facilities around the school with their peers."],
+          "linkedLearningAreas": ["Creative Arts and Sports — the use of artistic forms to convey information"],
+          "scopeNotes": [],
+          "notes": "Same 8 facilities + 5 location words as 1.9/2.9, writing modality; adds a classroom-object positioning guide-writing deliverable (concrete real-world location description)."
+        }
+      ]
+    }
+  ],
+  "notes": "STRUCTURAL FINDING (confirmed against the PDF's own SUMMARY OF STRANDS AND SUB STRANDS table on page x and all 27 per-theme strand tables on pages 1-58, per CURRICULUM-MINING-GUIDE.md step 3 verification): Grade 7 Mandarin DOES follow the same 9-theme x 3-strand = 27-sub-strand count as Grade 8/Grade 9 Mandarin and French/German Grade 8 (9 themes: Greetings and Introduction, Family, My Surroundings, Time, Fun and Enjoyment, Foods and Drinks, My Body, Weather and Environment, Getting Around; repeated identically across Listening & Speaking (1.1-1.9), Reading (2.1-2.9), and Writing (3.1-3.9)). HOWEVER it DIVERGES from Grade 8/9's pattern in one respect worth flagging: Grade 8/9 use a UNIFORM sub-strand-type label per strand (e.g. every Grade 8 Listening & Speaking sub-strand happened to vary in specific title, but Reading sub-strands were consistently framed as fluency/understanding pairs). Grade 7 explicitly names FOUR DIFFERENT sub-strand types within Strand 1.0 alone per its own front-matter summary table (Oral expression / Phonological awareness / Listening for information / Interactive speaking) and rotates through them non-uniformly across the 9 themes (Oral Expression: themes 1,2,3,7; Phonological Awareness: themes 4,5; Listening for Information: themes 6,9; Interactive Speaking: theme 8) rather than one label per strand — confirmed by reading each of the 9 per-theme tables individually rather than assuming uniformity from the front-matter summary table alone (the summary table itself only gives aggregate lesson counts per sub-strand type: Oral expression 12, Phonological awareness 6, Listening for information 6, Interactive speaking 2 for Strand 1; Reading aloud 6, Reading for understanding 4, Guided reading 4, Reading for fluency 2 for Strand 2; Guided writing 9, Exhibitions and Showcase 6 for Strand 3 — the per-theme numeric codes 1.1-1.9/2.1-2.9/3.1-3.9 and their individual type labels are read from the 27 per-theme tables, the more specific and authoritative source, exactly as was done for Grade 8/9 Mandarin and French/German). This does not change the skill count (still 27, one per theme x strand) but does mean each skill's title/description should reflect its own theme-specific sub-strand type label rather than a strand-uniform one. No explicit 'Note: avoid...' exclusions were found anywhere in the design; no scopeNotes entries were populated for that reason. Register note: Grade 7's Greetings theme uses INFORMAL greetings (吃了吗/你今天怎么样/大家好) throughout, distinct from Grade 8's formal register (您好/您贵姓) — content is freshly mined from this PDF's own suggested-learning-experience examples, never copied from Grade 8."
+}

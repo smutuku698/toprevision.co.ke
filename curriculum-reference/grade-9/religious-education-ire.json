@@ -1,0 +1,320 @@
+{
+  "subject": "Islamic Religious Education",
+  "subjectId": "religious-education-ire",
+  "grade": 9,
+  "source": {
+    "title": "Junior School Curriculum Design: Islamic Religious Education, Grade 9",
+    "url": "https://easylearn.co.ke/images/document/11752383/Islamic-Religious-Education-Grade-9-July-2024.pdf",
+    "publisher": "KICD (mirrored via easylearn.co.ke)",
+    "retrievedDate": "2026-08-13",
+    "confidence": "high",
+    "notes": "Filename confirmed against KICD's own Google Drive listing (kicd.ac.ke/cbc-materials/curriculum-designs/grade-nine-designs/, file id 1QAtDW4Pq0enTVPOb32TlfQzge2au4RRC, whose /preview page title reads 'Islamic Religious Education Grade 9 - July 2024.pdf'). WebFetch reported it could not extract text from the PDF but saved it locally; Read then parsed the full PDF text natively (ISBN 978-9914-43-435-4, First Published 2024). Strand/sub-strand headings, SLOs, and key inquiry questions below are transcribed verbatim. CAVEAT: strand 6.0 (Muamalat) includes sensitive real-world sub-strands (domestic violence, polygamy, Zina/prohibitions, terrorism and extremism) exactly as the official curriculum frames them — these are legitimate, officially mandated Grade 9 IRE content, not editorial additions, and should be built as the design presents them (Islamic teaching/rules on the topic) rather than reframed or softened."
+  },
+  "strands": [
+    {
+      "name": "Qur'an",
+      "subStrands": [
+        {
+          "name": "Ulum al-Qur'an",
+          "notes": "The miraculous nature of the Qur'an, language of the Qur'an, styles of the Qur'an.",
+          "specificLearningOutcomes": [
+            "Describe the miraculous nature of the Qur'an to strengthen iman",
+            "Explain the language of the Qur'an for better understanding",
+            "Identify different styles of the Qur'an for better understanding",
+            "Appreciate the miraculous nature of the Qur'an as a divine scripture"
+          ],
+          "keyInquiryQuestions": [
+            "Why is the Qur'an considered a miracle?",
+            "How does the language and style of the Qur'an help in its interpretation?"
+          ]
+        },
+        {
+          "name": "Selected Chapter Surah Al-Hujurat (Q 49)",
+          "specificLearningOutcomes": [
+            "Read Surah al-Hujurat (Q 49) correctly for spiritual nourishment",
+            "Explain the meaning of the verses of Surah al-Hujurat for better understanding",
+            "Deduce lessons from Surah al-Hujurat for application in daily life",
+            "Apply the teachings of Surah al-Hujurat in their daily life",
+            "Treasure the teachings from Surah al-Hujurat as a guide in relationships"
+          ],
+          "keyInquiryQuestions": [
+            "What do Muslims learn from Surah al-Hujurat?",
+            "How can Muslims use Surah al-Hujurat to enhance peace in the community?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hadith",
+      "subStrands": [
+        {
+          "name": "Ulum al-Hadith",
+          "notes": "Books of Hadith, classification of Hadith (sahih, hasan, dhaif), collection and compilation of Hadith (Tabi'in and Tabi'i-Tabi'in).",
+          "specificLearningOutcomes": [
+            "Identify the six authentic Books of Hadith as a source of guidance",
+            "Describe the characteristics of different classes of Hadith (sahih, hasan, and dhaif) to differentiate between authentic and unauthentic Hadith",
+            "Explain reasons for the classification of Hadith for authenticity",
+            "Examine factors that necessitated the collection and compilation of Hadith during the period of Tabi'in and Tabi'i-Tabi'in as a measure of preservation",
+            "Describe the process of collection and compilation of Hadith during the period of the Tabi'in and Tabi'i-Tabi'in to authenticate Hadith",
+            "Appreciate the collection and compilation of Hadith as a source of Islamic sharia"
+          ],
+          "keyInquiryQuestions": [
+            "Why was it important to collect and compile Hadith?",
+            "Why is Hadith classified?"
+          ]
+        },
+        {
+          "name": "Selected Hadith",
+          "notes": "Hadith on Unity (Muslim: the similitude of believers as one body) and Hadith on Avoidance of ill motives (Bukhari: beware of suspicion).",
+          "specificLearningOutcomes": [
+            "Deduce lessons from the Hadith on unity and avoidance of ill motives among Muslims",
+            "Explain the relevance of the Hadith on unity and avoidance of ill motives in the life of a Muslim",
+            "Practise the teachings from the Hadith on unity and avoidance of ill motives in daily life",
+            "Honour Hadith as the second source of law and spiritual guidance"
+          ],
+          "keyInquiryQuestions": [
+            "Why is the unity of Muslims important?",
+            "Why should Muslims avoid ill motives?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pillars of Iman",
+      "subStrands": [
+        {
+          "name": "Belief in the Last Day (Day of Judgement)",
+          "notes": "Resurrection, gathering, record of deeds, scale of deeds, accounting, intercession, siraat, paradise, and hellfire.",
+          "specificLearningOutcomes": [
+            "Describe the events of the Last Day for accountability",
+            "Assess the significance of believing in the Last Day for spiritual nourishment",
+            "Exercise righteousness in preparation for the Last Day",
+            "Desire to lead a righteous life to earn Allah (S.W.T.)'s blessings"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important for Muslims to believe in the Last Day?"
+          ]
+        },
+        {
+          "name": "Belief in Qadar",
+          "specificLearningOutcomes": [
+            "Describe the effects of believing in Qadar and Qadha as a pillar of Iman",
+            "Assess the significance of believing in Qadar and Qadha for spiritual nourishment",
+            "Appreciate belief in Qadar and Qadha to accept the Will of Allah"
+          ],
+          "keyInquiryQuestions": [
+            "Why should Muslims believe in Qadar and Qadha?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Devotional Acts",
+      "subStrands": [
+        {
+          "name": "Shariah (Islamic law)",
+          "notes": "Maqasid al-Shariah: protection of religion, intellect, life, property, and dignity.",
+          "specificLearningOutcomes": [
+            "Explain the purpose of Islamic Shariah (Maqasid al-Shariah) as a guide for Muslims",
+            "Assess the relevance of Islamic Shariah in the contemporary world",
+            "Describe the categories of legal acts in Islamic Shariah as a means of upholding divine guidance",
+            "Apply Islamic Shariah in day-to-day life",
+            "Acknowledge Shariah as a source of divine guidance"
+          ],
+          "keyInquiryQuestions": [
+            "What is the objective of Maqasid Shariah?",
+            "How do legal acts guide Muslims?"
+          ]
+        },
+        {
+          "name": "Tawbah (Repentance)",
+          "specificLearningOutcomes": [
+            "State the conditions of tawbah as a basis for forgiveness from Allah (S.W.T.)",
+            "Assess the significance of tawbah in the life of a Muslim",
+            "Practise actions that lead to tawbah as a way of purifying one from sins",
+            "Appreciate the virtue of tawbah as a condition for success in this life and the Hereafter"
+          ],
+          "keyInquiryQuestions": [
+            "Why should a Muslim seek repentance from Allah (S.W.T.)?",
+            "How should Muslims seek repentance from Allah (S.W.T.)?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Akhlaq (Moral Teachings)",
+      "subStrands": [
+        {
+          "name": "Virtues in Islam",
+          "notes": "Modesty, contentment, trustworthiness.",
+          "specificLearningOutcomes": [
+            "Explain Islamic teachings on observing modesty, contentment, and trustworthiness in fulfilment of Allah (S.W.T.)'s commandments",
+            "Describe ways in which Muslims can practise modesty, contentment, and trustworthiness as part of faith",
+            "Assess the significance of observing modesty, contentment and trustworthiness in upholding Islamic morality in society",
+            "Practise modesty, contentment, and trustworthiness in day-to-day life to earn rewards from Allah (S.W.T.)",
+            "Value modesty, contentment, and trustworthiness for a morally upright society"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important for Muslims to practise virtues?",
+            "How can a Muslim student exercise contentment in his life?"
+          ]
+        },
+        {
+          "name": "Significance of Islamic Morality",
+          "specificLearningOutcomes": [
+            "Assess the significance of Islamic morality in promoting righteousness",
+            "Practise Islamic morality to earn Allah's rewards",
+            "Uphold Islamic morality as a way of promoting an upright society"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to uphold Islamic morality?"
+          ]
+        },
+        {
+          "name": "Prohibitions in Islam",
+          "notes": "Zina (fornication and adultery) — its effects, the rationale for prohibition, and Islamic measures for curbing it.",
+          "specificLearningOutcomes": [
+            "Describe the effects of Zina on the community",
+            "Justify the reasons behind the prohibition of Zina for a morally upright society",
+            "Explain the Islamic measures of curbing Zina for a morally upright society",
+            "Appreciate the prohibition of Zina for a healthy society"
+          ],
+          "keyInquiryQuestions": [
+            "Why is Zina prohibited in Islam?",
+            "How can a Muslim discourage Zina in the society?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muamalat (Social Relations)",
+      "subStrands": [
+        {
+          "name": "Domestic violence",
+          "specificLearningOutcomes": [
+            "Explain the causes of domestic violence to settle family conflicts",
+            "Explain the effects of domestic violence on the family",
+            "Describe measures to curb domestic violence in the family",
+            "Embrace measures proposed by Islam to curb domestic violence"
+          ],
+          "keyInquiryQuestions": [
+            "What are the causes of domestic violence?",
+            "How does domestic violence hinder social harmony?"
+          ]
+        },
+        {
+          "name": "Iddah",
+          "notes": "The waiting period observed by a divorcee or widow in Islam.",
+          "specificLearningOutcomes": [
+            "Describe the iddah for a divorcee and a widow in Islam to foster obedience to divine guidance",
+            "Explain the rationale for observing iddah as an act of ibadah",
+            "State the rules of iddah as a means of safeguarding its validity",
+            "Assess the importance of iddah to the divorced and widowed Muslim woman",
+            "Appreciate iddah as an act of ibadah"
+          ],
+          "keyInquiryQuestions": [
+            "What is the wisdom behind Iddah?"
+          ]
+        },
+        {
+          "name": "Child custody",
+          "specificLearningOutcomes": [
+            "Identify the Islamic rules on child custody to safeguard the child's rights",
+            "Assess the significance of Islamic rules on child custody",
+            "Appreciate Islamic teachings on child custody as a means of fostering family bonds"
+          ],
+          "keyInquiryQuestions": [
+            "What are the rules that guide child custody in Islam?"
+          ]
+        },
+        {
+          "name": "Polygamy in Islam",
+          "specificLearningOutcomes": [
+            "Explain the reasons for polygamy in Islam for social stability",
+            "Justify the reasons for the Prophet's multiple marriages",
+            "State the conditions for polygamy in Islam",
+            "Assess the significance of polygamy in Islam",
+            "Appreciate the Islamic concept of polygamy as a social remedy to safeguard human dignity"
+          ],
+          "keyInquiryQuestions": [
+            "What is the rationale for polygamy in Islam?"
+          ]
+        },
+        {
+          "name": "Trade and Finance in Islam",
+          "notes": "Rules on borrowing/lending money and the role of consumer protection agencies.",
+          "specificLearningOutcomes": [
+            "Explain the Islamic rules on borrowing and lending money",
+            "Practise Islamic teachings on borrowing and lending money to earn rewards from Allah (S.W.T.)",
+            "Describe the role of consumer protection agencies in enhancing integrity",
+            "Appreciate the Islamic concept of borrowing and lending money as a means of safeguarding equity in society"
+          ],
+          "keyInquiryQuestions": [
+            "Why should Muslims observe the rules of borrowing and lending money?"
+          ]
+        },
+        {
+          "name": "Contemporary Issues",
+          "notes": "Jihad (correct interpretation), terrorism, extremism.",
+          "specificLearningOutcomes": [
+            "Identify the rules of Jihad in Islam for a correct interpretation",
+            "Explain the causes of terrorism and extremism in the society",
+            "Explain the effects of terrorism and extremism on the society",
+            "Describe the measures to curb terrorism and extremism for peaceful co-existence",
+            "Acknowledge Islamic teachings on Jihad as a guide to harmonious co-existence"
+          ],
+          "keyInquiryQuestions": [
+            "What are the effects of terrorism and extremism?",
+            "How can terrorism and extremism be curbed?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Islamic Heritage and Civilisation",
+      "subStrands": [
+        {
+          "name": "Islam in Kenya",
+          "notes": "Spread of Islam across Coast, Western, Central, and North Eastern Kenya.",
+          "specificLearningOutcomes": [
+            "Describe the factors that facilitated the spread of Islam in Kenya",
+            "Explain the effects of the contact between the early Muslims and the natives as a factor of civilisation",
+            "Examine the challenges faced by the early Muslims in the propagation of Islam",
+            "Appreciate the contribution of Islam to the development of culture in Kenya"
+          ],
+          "keyInquiryQuestions": [
+            "What factors facilitated the spread of Islam in Kenya?",
+            "What was the impact of the contact between the early Muslims and the natives?"
+          ]
+        },
+        {
+          "name": "Unity of Muslims",
+          "specificLearningOutcomes": [
+            "Explain the factors that would enhance the unity of Muslims in Kenya",
+            "Describe the challenges that undermine the unity of Muslims in Kenya",
+            "Assess the significance of the unity of Muslims for harmonious co-existence",
+            "Practise acts that foster unity among Muslims",
+            "Appreciate the unity of Muslims to enhance brotherhood"
+          ],
+          "keyInquiryQuestions": [
+            "Why is the unity of Muslims important?",
+            "What hinders the unity of Muslims?"
+          ]
+        },
+        {
+          "name": "Muslim Institutions",
+          "notes": "Mosques, madrasa, Muslim NGOs.",
+          "specificLearningOutcomes": [
+            "Describe the role of mosques, madrasa, and Muslim NGOs in the preservation of Islamic heritage",
+            "Examine the challenges facing the Muslim institutions",
+            "Propose possible solutions to the challenges facing Muslim institutions",
+            "Recognise the role played by mosques, madrasa, and Muslim NGOs in preserving Islamic values"
+          ],
+          "keyInquiryQuestions": [
+            "Why are mosques and madrasa important to the Muslim community?"
+          ]
+        }
+      ]
+    }
+  ]
+}

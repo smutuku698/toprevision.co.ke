@@ -1,0 +1,244 @@
+{
+  "subject": "Mandarin",
+  "grade": 6,
+  "source": "grade-6-curriculum-desings/GRADE-6-MANDARIN-Curriculum-Designs.pdf (KICD, First Published 2017, Revised 2024)",
+  "scopeNotes": [
+    "Same 9-theme, 3-strand shape as this project's existing Grade 7/8/9 Mandarin builds and the French/Arabic/German G6 builds: Greetings and Introduction, Family, My Surroundings, Time, Fun and Enjoyment, Foods and Drinks, My Body, Weather and Environment, Getting Around — each with one Listening and Speaking (3 lessons), one Reading (2 lessons), one Writing (1 lesson) sub-strand. 27 sub-strands total, matching 27 skill files.",
+    "Target proficiency stated in the design's own Essence Statement: 'basic proficiency equivalent to A1/YCT 2' by the end of primary — content should stay at that basic level (simple vocabulary, short set phrases), not attempt advanced grammar.",
+    "All hanzi/pinyin/meaning triples below are taken directly from the KICD design's own worked examples in its Suggested Learning Experiences columns — not invented. Numbers, months, and a few structural phrases (e.g. 比 for comparison, 方位词 location words) recur across themes exactly as the source presents them."
+  ],
+  "themes": [
+    {
+      "theme": "Greetings and Introduction",
+      "subStrands": {
+        "listeningSpeaking": { "code": "1.1", "title": "Active Listening", "focus": ["Attentive listening", "Pronunciation"], "kiq": "How can you minimise distractions while listening?" },
+        "reading": { "code": "2.1", "title": "Reading Aloud", "focus": ["Chinese tones", "Pronunciation (pitch, tone, volume)"], "kiq": "How can reading aloud improve comprehension of texts?" },
+        "writing": { "code": "3.1", "title": "Guided Writing", "focus": ["Writing mechanics (spelling)", "Paragraph writing"], "kiq": "How can one ensure clarity when writing texts?" }
+      },
+      "vocab": [
+        { "hanzi": "我", "pinyin": "wǒ", "meaning": "I / me" },
+        { "hanzi": "你", "pinyin": "nǐ", "meaning": "you (informal)" },
+        { "hanzi": "您", "pinyin": "nín", "meaning": "you (formal)" },
+        { "hanzi": "他", "pinyin": "tā", "meaning": "he / him" },
+        { "hanzi": "她", "pinyin": "tā", "meaning": "she / her" },
+        { "hanzi": "早上好", "pinyin": "zǎoshang hǎo", "meaning": "good morning" },
+        { "hanzi": "上午好", "pinyin": "shàngwǔ hǎo", "meaning": "good morning (late morning)" },
+        { "hanzi": "中午好", "pinyin": "zhōngwǔ hǎo", "meaning": "good midday" },
+        { "hanzi": "下午好", "pinyin": "xiàwǔ hǎo", "meaning": "good afternoon" },
+        { "hanzi": "晚上好", "pinyin": "wǎnshang hǎo", "meaning": "good evening" },
+        { "hanzi": "晚安", "pinyin": "wǎn ān", "meaning": "good night" },
+        { "hanzi": "我叫……", "pinyin": "wǒ jiào……", "meaning": "my name is…" },
+        { "hanzi": "我今年……岁", "pinyin": "wǒ jīnnián……suì", "meaning": "I am … years old this year" },
+        { "hanzi": "他是我的朋友", "pinyin": "tā shì wǒ de péngyou", "meaning": "he is my friend" },
+        { "hanzi": "你/您呢？", "pinyin": "nǐ/nín ne?", "meaning": "and you?" }
+      ],
+      "numbers1to50": true,
+      "tongueTwister": { "hanzi": "四是四，十是十，十四是十四，四不是十，十不是四。", "pinyin": "Sì shì sì, shí shì shí, shísì shì shísì, sì bùshì shí, shí bùshì sì.", "meaning": "Four is four, ten is ten, fourteen is fourteen; four is not ten, ten is not four." }
+    },
+    {
+      "theme": "Family",
+      "subStrands": {
+        "listeningSpeaking": { "code": "1.2", "title": "Active Listening", "focus": ["Attentive listening", "Comprehension"], "kiq": "What makes a good oral presentation?" },
+        "reading": { "code": "2.2", "title": "Reading Aloud", "focus": ["Word recognition", "Fluency (pace, speed)"], "kiq": "How can you enhance comprehension when reading aloud?" },
+        "writing": { "code": "3.2", "title": "Guided Writing", "focus": ["Character recognition", "Simple descriptive texts"], "kiq": "How can we effectively articulate our ideas in writing?" }
+      },
+      "vocab": [
+        { "hanzi": "爸爸", "pinyin": "bàba", "meaning": "dad" },
+        { "hanzi": "妈妈", "pinyin": "māma", "meaning": "mom" },
+        { "hanzi": "哥哥", "pinyin": "gēge", "meaning": "older brother" },
+        { "hanzi": "姐姐", "pinyin": "jiějie", "meaning": "older sister" },
+        { "hanzi": "弟弟", "pinyin": "dìdi", "meaning": "younger brother" },
+        { "hanzi": "妹妹", "pinyin": "mèimei", "meaning": "younger sister" },
+        { "hanzi": "多大了？", "pinyin": "duō dà le?", "meaning": "how old (are you)?" }
+      ],
+      "numbers30to100": true,
+      "confusableCharacters": [
+        { "target": "奶", "pinyin": "nǎi", "meaning": "milk/grandma (informal)", "lookAlikes": ["乃"] },
+        { "target": "妹", "pinyin": "mèi", "meaning": "younger sister", "lookAlikes": ["末", "未"] },
+        { "target": "哥", "pinyin": "gē", "meaning": "older brother", "lookAlikes": ["可", "何"] },
+        { "target": "爸", "pinyin": "bà", "meaning": "dad", "lookAlikes": ["把", "吧", "芭"] }
+      ]
+    },
+    {
+      "theme": "My Surroundings",
+      "subStrands": {
+        "listeningSpeaking": { "code": "1.3", "title": "Active Listening", "focus": ["Vocabulary development", "Comprehension"], "kiq": "How do you seek for clarification when listening actively?" },
+        "reading": { "code": "2.3", "title": "Guided Reading", "focus": ["Vocabulary development", "Fluency (intonation, phrasing)"], "kiq": "What strategies can you use to read texts clearly?" },
+        "writing": { "code": "3.3", "title": "Guided Writing", "focus": ["Vocabulary development", "Paragraph writing"], "kiq": "Why is clarity important in written communication?" }
+      },
+      "vocab": [
+        { "hanzi": "图书馆", "pinyin": "túshūguǎn", "meaning": "library" },
+        { "hanzi": "教室", "pinyin": "jiàoshì", "meaning": "classroom" },
+        { "hanzi": "体育馆", "pinyin": "tǐyùguǎn", "meaning": "gymnasium" },
+        { "hanzi": "操场", "pinyin": "cāochǎng", "meaning": "playground / field" },
+        { "hanzi": "办公室", "pinyin": "bàngōngshì", "meaning": "office" },
+        { "hanzi": "教师休息室", "pinyin": "jiàoshī xiūxíshì", "meaning": "teachers' lounge" },
+        { "hanzi": "餐厅", "pinyin": "cāntīng", "meaning": "dining hall / cafeteria" },
+        { "hanzi": "你去哪儿？", "pinyin": "nǐ qù nǎr?", "meaning": "where are you going?" },
+        { "hanzi": "老师去哪儿了？", "pinyin": "lǎoshī qù nǎr le?", "meaning": "where did the teacher go?" },
+        { "hanzi": "老师在……吗？", "pinyin": "lǎoshī zài……ma?", "meaning": "is the teacher at…?" },
+        { "hanzi": "同学去操场了", "pinyin": "tóngxué qù cāochǎng le", "meaning": "the classmate went to the field" }
+      ]
+    },
+    {
+      "theme": "Time",
+      "subStrands": {
+        "listeningSpeaking": { "code": "1.4", "title": "Oral Expression", "focus": ["Vocabulary and language use"], "kiq": "How can you speak clearly and effectively on various topics?" },
+        "reading": { "code": "2.4", "title": "Reading Aloud", "focus": ["Pronunciation", "Fluency (pauses)"], "kiq": "How can you enhance your understanding of texts when reading?" },
+        "writing": { "code": "3.4", "title": "Guided Writing", "focus": ["Chinese characters (strokes and stroke order)"], "kiq": "How does sequence enhance written communication?" }
+      },
+      "vocab": [
+        { "hanzi": "一月", "pinyin": "yī yuè", "meaning": "January" },
+        { "hanzi": "二月", "pinyin": "èr yuè", "meaning": "February" },
+        { "hanzi": "三月", "pinyin": "sān yuè", "meaning": "March" },
+        { "hanzi": "四月", "pinyin": "sì yuè", "meaning": "April" },
+        { "hanzi": "五月", "pinyin": "wǔ yuè", "meaning": "May" },
+        { "hanzi": "六月", "pinyin": "liù yuè", "meaning": "June" },
+        { "hanzi": "七月", "pinyin": "qī yuè", "meaning": "July" },
+        { "hanzi": "八月", "pinyin": "bā yuè", "meaning": "August" },
+        { "hanzi": "九月", "pinyin": "jiǔ yuè", "meaning": "September" },
+        { "hanzi": "十月", "pinyin": "shí yuè", "meaning": "October" },
+        { "hanzi": "十一月", "pinyin": "shíyī yuè", "meaning": "November" },
+        { "hanzi": "十二月", "pinyin": "shí'èr yuè", "meaning": "December" },
+        { "hanzi": "圣诞节", "pinyin": "Shèngdàn jié", "meaning": "Christmas" },
+        { "hanzi": "复活节", "pinyin": "Fùhuó jié", "meaning": "Easter" },
+        { "hanzi": "情人节", "pinyin": "Qíngrén jié", "meaning": "Valentine's Day" },
+        { "hanzi": "母亲节", "pinyin": "Mǔqīn jié", "meaning": "Mother's Day" },
+        { "hanzi": "元旦节", "pinyin": "Yuándàn jié", "meaning": "New Year's Day" },
+        { "hanzi": "放假", "pinyin": "fàngjià", "meaning": "school holiday / break" },
+        { "hanzi": "开学", "pinyin": "kāixué", "meaning": "school starts" }
+      ]
+    },
+    {
+      "theme": "Fun and Enjoyment",
+      "subStrands": {
+        "listeningSpeaking": { "code": "1.5", "title": "Oral Expression", "focus": ["Vocabulary and language use", "Organization of ideas"], "kiq": "What makes a good oral presentation?" },
+        "reading": { "code": "2.5", "title": "Guided Reading", "focus": ["Comprehension", "Reading strategies (context clues)"], "kiq": "How do context clues enhance comprehension of texts?" },
+        "writing": { "code": "3.5", "title": "Guided Writing", "focus": ["Writing mechanics (spelling, word order)"], "kiq": "What role does handwriting play in communication?" }
+      },
+      "vocab": [
+        { "hanzi": "足球", "pinyin": "zúqiú", "meaning": "football / soccer" },
+        { "hanzi": "篮球", "pinyin": "lánqiú", "meaning": "basketball" },
+        { "hanzi": "网球", "pinyin": "wǎngqiú", "meaning": "tennis" },
+        { "hanzi": "乒乓球", "pinyin": "pīngpāngqiú", "meaning": "table tennis" },
+        { "hanzi": "羽毛球", "pinyin": "yǔmáoqiú", "meaning": "badminton" },
+        { "hanzi": "排球", "pinyin": "páiqiú", "meaning": "volleyball" },
+        { "hanzi": "跑步", "pinyin": "pǎobù", "meaning": "running / jogging" },
+        { "hanzi": "运动", "pinyin": "yùndòng", "meaning": "to exercise / sport" },
+        { "hanzi": "比赛", "pinyin": "bǐsài", "meaning": "competition / match" },
+        { "hanzi": "踢足球", "pinyin": "tī zúqiú", "meaning": "to play football (kick)" },
+        { "hanzi": "打篮球", "pinyin": "dǎ lánqiú", "meaning": "to play basketball" },
+        { "hanzi": "打排球", "pinyin": "dǎ páiqiú", "meaning": "to play volleyball" },
+        { "hanzi": "我喜欢……", "pinyin": "wǒ xǐhuān……", "meaning": "I like…" },
+        { "hanzi": "我爱……", "pinyin": "wǒ ài……", "meaning": "I love…" },
+        { "hanzi": "我热爱……", "pinyin": "wǒ rè'ài……", "meaning": "I am passionate about…" },
+        { "hanzi": "我不喜欢……", "pinyin": "wǒ bù xǐhuān……", "meaning": "I don't like…" },
+        { "hanzi": "你最喜欢什么运动？", "pinyin": "nǐ zuì xǐhuān shénme yùndòng?", "meaning": "what sport do you like best?" }
+      ]
+    },
+    {
+      "theme": "Foods and Drinks",
+      "subStrands": {
+        "listeningSpeaking": { "code": "1.6", "title": "Oral Expressions", "focus": ["Active listening", "Pronunciation (intonation, tone)"], "kiq": "How can we practise proper articulation in communication?" },
+        "reading": { "code": "2.6", "title": "Reading Aloud", "focus": ["Word recognition", "Oral presentation skills"], "kiq": "What strategies can you use to read aloud effectively?" },
+        "writing": { "code": "3.6", "title": "Guided Writing", "focus": ["Writing mechanics (punctuation)"], "kiq": "How can we write an effective description?" }
+      },
+      "vocab": [
+        { "hanzi": "红薯", "pinyin": "hóngshǔ", "meaning": "sweet potato" },
+        { "hanzi": "面包", "pinyin": "miànbāo", "meaning": "bread" },
+        { "hanzi": "鸡蛋", "pinyin": "jīdàn", "meaning": "egg" },
+        { "hanzi": "奶茶", "pinyin": "nǎichá", "meaning": "milk tea" },
+        { "hanzi": "乌加利", "pinyin": "wūjiālì", "meaning": "ugali" },
+        { "hanzi": "米饭", "pinyin": "mǐfàn", "meaning": "rice" },
+        { "hanzi": "饼", "pinyin": "bǐng", "meaning": "pancake / flatbread" },
+        { "hanzi": "炖豆", "pinyin": "dùn dòu", "meaning": "stewed beans" },
+        { "hanzi": "炖牛肉", "pinyin": "dùn niúròu", "meaning": "stewed beef" },
+        { "hanzi": "蔬菜", "pinyin": "shūcài", "meaning": "vegetables" },
+        { "hanzi": "咸", "pinyin": "xián", "meaning": "salty" },
+        { "hanzi": "甜", "pinyin": "tián", "meaning": "sweet" },
+        { "hanzi": "辣", "pinyin": "là", "meaning": "spicy" },
+        { "hanzi": "苦", "pinyin": "kǔ", "meaning": "bitter" },
+        { "hanzi": "酸", "pinyin": "suān", "meaning": "sour" },
+        { "hanzi": "好吃", "pinyin": "hǎochī", "meaning": "delicious (food)" },
+        { "hanzi": "好喝", "pinyin": "hǎohē", "meaning": "delicious (drink)" }
+      ]
+    },
+    {
+      "theme": "My Body",
+      "subStrands": {
+        "listeningSpeaking": { "code": "1.7", "title": "Interactive Speaking", "focus": ["Vocabulary development", "Turn taking"], "kiq": "How do you actively participate in a conversation?" },
+        "reading": { "code": "2.7", "title": "Guided Reading", "focus": ["Vocabulary development", "Fluency"], "kiq": "What strategies can you use to read fluently?" },
+        "writing": { "code": "3.7", "title": "Guided Writing", "focus": ["Vocabulary development", "Sentence structures"], "kiq": "Why should we write sentences correctly? What is the importance of journaling in communication?" }
+      },
+      "vocab": [
+        { "hanzi": "脸", "pinyin": "liǎn", "meaning": "face" },
+        { "hanzi": "牙", "pinyin": "yá", "meaning": "tooth / teeth" },
+        { "hanzi": "手", "pinyin": "shǒu", "meaning": "hand" },
+        { "hanzi": "头发", "pinyin": "tóufa", "meaning": "hair" },
+        { "hanzi": "水", "pinyin": "shuǐ", "meaning": "water" },
+        { "hanzi": "梳子", "pinyin": "shūzi", "meaning": "comb" },
+        { "hanzi": "牙膏", "pinyin": "yágāo", "meaning": "toothpaste" },
+        { "hanzi": "牙刷", "pinyin": "yáshuā", "meaning": "toothbrush" },
+        { "hanzi": "剪刀", "pinyin": "jiǎndāo", "meaning": "scissors" },
+        { "hanzi": "刷牙", "pinyin": "shuā yá", "meaning": "brush teeth" },
+        { "hanzi": "洗脸", "pinyin": "xǐ liǎn", "meaning": "wash face" },
+        { "hanzi": "洗手", "pinyin": "xǐ shǒu", "meaning": "wash hands" },
+        { "hanzi": "洗澡", "pinyin": "xǐzǎo", "meaning": "bathe / shower" },
+        { "hanzi": "梳头发", "pinyin": "shū tóufa", "meaning": "comb hair" },
+        { "hanzi": "编头发", "pinyin": "biān tóufa", "meaning": "braid hair" },
+        { "hanzi": "剪头发", "pinyin": "jiǎn tóufa", "meaning": "cut hair" }
+      ]
+    },
+    {
+      "theme": "Weather and Environment",
+      "subStrands": {
+        "listeningSpeaking": { "code": "1.8", "title": "Interactive Speaking", "focus": ["Active listening", "Presentation skills"], "kiq": "How can one communicate clearly?" },
+        "reading": { "code": "2.8", "title": "Guided Reading", "focus": ["Word recognition", "Fluency (expression)"], "kiq": "How can one effectively read texts for comprehension?" },
+        "writing": { "code": "3.8", "title": "Guided Writing", "focus": ["Vocabulary development", "Simple descriptions"], "kiq": "How can we clearly communicate through written communication?" }
+      },
+      "vocab": [
+        { "hanzi": "热", "pinyin": "rè", "meaning": "hot" },
+        { "hanzi": "冷", "pinyin": "lěng", "meaning": "cold" },
+        { "hanzi": "暖", "pinyin": "nuǎn", "meaning": "warm" },
+        { "hanzi": "凉", "pinyin": "liáng", "meaning": "cool" },
+        { "hanzi": "晴", "pinyin": "qíng", "meaning": "sunny / clear" },
+        { "hanzi": "刮风", "pinyin": "guāfēng", "meaning": "windy" },
+        { "hanzi": "多云", "pinyin": "duōyún", "meaning": "cloudy" },
+        { "hanzi": "晴天", "pinyin": "qíngtiān", "meaning": "sunny day" },
+        { "hanzi": "雨天", "pinyin": "yǔtiān", "meaning": "rainy day" },
+        { "hanzi": "风天", "pinyin": "fēngtiān", "meaning": "windy day" },
+        { "hanzi": "阴天", "pinyin": "yīntiān", "meaning": "overcast day" },
+        { "hanzi": "天气怎么样？", "pinyin": "tiānqì zěnmeyàng?", "meaning": "how's the weather?" },
+        { "hanzi": "比", "pinyin": "bǐ", "meaning": "compared to / than (comparison marker)" }
+      ]
+    },
+    {
+      "theme": "Getting Around",
+      "subStrands": {
+        "listeningSpeaking": { "code": "1.9", "title": "Interactive Speaking", "focus": ["Active listening", "Comprehension"], "kiq": "How can you ensure clarity while communicating?" },
+        "reading": { "code": "2.9", "title": "Guided Reading", "focus": ["Vocabulary development", "Reading strategies"], "kiq": "What strategies can one apply to ensure comprehension of texts?" },
+        "writing": { "code": "3.9", "title": "Guided Writing", "focus": ["Handwriting (legibility, neatness)", "Paragraph writing"], "kiq": "What role does handwriting play in communication?" }
+      },
+      "vocab": [
+        { "hanzi": "图书馆", "pinyin": "túshūguǎn", "meaning": "library" },
+        { "hanzi": "教室", "pinyin": "jiàoshì", "meaning": "classroom" },
+        { "hanzi": "体育馆", "pinyin": "tǐyùguǎn", "meaning": "gymnasium" },
+        { "hanzi": "操场", "pinyin": "cāochǎng", "meaning": "playground / field" },
+        { "hanzi": "办公室", "pinyin": "bàngōngshì", "meaning": "office" },
+        { "hanzi": "餐厅", "pinyin": "cāntīng", "meaning": "dining hall / cafeteria" },
+        { "hanzi": "前面", "pinyin": "qiánmiàn", "meaning": "in front" },
+        { "hanzi": "后面", "pinyin": "hòumiàn", "meaning": "behind" },
+        { "hanzi": "旁边", "pinyin": "pángbiān", "meaning": "beside / next to" },
+        { "hanzi": "对面", "pinyin": "duìmiàn", "meaning": "opposite / across from" },
+        { "hanzi": "图书馆在前面", "pinyin": "túshūguǎn zài qiánmiàn", "meaning": "the library is in front" },
+        { "hanzi": "操场在教室后面", "pinyin": "cāochǎng zài jiàoshì hòumiàn", "meaning": "the field is behind the classroom" },
+        { "hanzi": "教室在哪儿？", "pinyin": "jiàoshì zài nǎr?", "meaning": "where is the classroom?" },
+        { "hanzi": "教室在洗手间旁边", "pinyin": "jiàoshì zài xǐshǒujiān pángbiān", "meaning": "the classroom is next to the restroom" }
+      ]
+    }
+  ],
+  "skillMapping": {
+    "note": "27 skills = 9 themes x 3 strands, matching the exact file-naming convention already used in mandarinG7/ and mandarinG8/: <themeSlug>Speaking.ts / <themeSlug>Reading.ts / <themeSlug>Writing.ts.",
+    "themeSlugs": ["greetings", "family", "surroundings", "time", "fun", "foods", "body", "weather", "gettingAround"]
+  }
+}

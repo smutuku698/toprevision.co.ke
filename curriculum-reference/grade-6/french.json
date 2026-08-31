@@ -1,0 +1,621 @@
+{
+  "subject": "French",
+  "subjectId": "french",
+  "grade": 6,
+  "source": {
+    "title": "Primary School Education Curriculum Design — French, Grade 6 (Revised 2024)",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-17",
+    "confidence": "high",
+    "notes": "Read directly from grade-6-curriculum-desings/GRADE-6-FRENCH-Curriculum-Designs.pdf via the Read tool (no pages param, per standing environment note). Essence statement: foreign language taught non-formally at Upper Primary, targeting basic proficiency equivalent to A1/YCT2. Same 9-theme structure as Grade 7/8/9 French (see curriculum-reference/grade-7/french.json if present, and web/src/skills/frenchG7 and frenchG8), but each theme's 3 strand-level sub-strands sit at ISBN 978-9914-43-996-0. Time allocation: Listening and Speaking 27 lessons, Reading 18 lessons, Writing 9 lessons, +6 lessons showcasing."
+  },
+  "strands": [
+    {
+      "name": "1.0 Listening and Speaking",
+      "lessonCount": 27,
+      "subStrands": [
+        {
+          "name": "1.1 Oral expression — Theme 1: Greetings and Introductions",
+          "specificLearningOutcomes": [
+            "exhibit acquisition of an expanded vocabulary when speaking",
+            "employ fluency in verbal expression for effective communication",
+            "use gestures and facial expressions to enhance oral communication",
+            "express enthusiasm to engage in oral communication"
+          ],
+          "keyInquiryQuestions": ["How do you speak clearly?"],
+          "learningExperiences": [
+            "participate in \"Repeat-after-me\" exercise to acquire vocabulary on greetings and introductions",
+            "listen to and sing songs on numbers (1 – 20)",
+            "play \"mirror-mirror\" games for facial expressions and gestures",
+            "source and watch video clips with authentic dialogues on greetings and introductions for vocabulary",
+            "do short skits on greetings and introductions jointly",
+            "play sound discrimination games in groups to mimic sounds"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Self-esteem"],
+          "linkedLearningAreas": ["English and Kiswahili — vocabulary on basic greetings links to greetings and introductions in English and Kiswahili"],
+          "scopeNotes": [],
+          "notes": "Numbers 1–20 taught via song within this theme."
+        },
+        {
+          "name": "1.2 Active listening — Theme 2: Family",
+          "specificLearningOutcomes": [
+            "recall the main ideas and key points in spoken communication",
+            "interpret verbal cues from audio stimuli",
+            "demonstrate willingness to be receptive to new ideas in oral interactions"
+          ],
+          "keyInquiryQuestions": ["What do you do to pay attention while listening?"],
+          "learningExperiences": [
+            "listen to audio stimuli texts on members of a nuclear family",
+            "play language games that will facilitate memorization of vocabulary",
+            "introduce their family members to peers/classmates in short dialogues",
+            "listen from audio stimuli the different compositions of nuclear families"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Respect (for diversity in family compositions)"],
+          "pertinentContemporaryIssues": ["Self-esteem"],
+          "linkedLearningAreas": ["Social Studies — vocabulary on members of family tied to the concept of family in Social Studies"],
+          "scopeNotes": []
+        },
+        {
+          "name": "1.1 Interactive Speaking — Theme 3: My Surroundings",
+          "specificLearningOutcomes": [
+            "respond to questions and prompts to show comprehension and engagement",
+            "use vocabulary and expressions appropriately to probe and engage in oral interactions",
+            "exhibit confidence to contribute actively in conversations"
+          ],
+          "keyInquiryQuestions": ["Why is it important to engage appropriately when speaking?"],
+          "learningExperiences": [
+            "identify places and facilities in their school through watching audio-visual materials",
+            "source from the internet, vocabulary on items and facilities around the school (search engine set with \"Safe Search ON\")",
+            "role-play on where one is going around the school",
+            "engage in simple skits of locating different facilities in a school",
+            "discuss how to take care of school facilities",
+            "participate in short dialogues about places around the school"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Responsibility (caring for school facilities)"],
+          "pertinentContemporaryIssues": ["Online safety"],
+          "linkedLearningAreas": ["English — locating items/facilities linked to adverbs of place and prepositions in English"],
+          "scopeNotes": []
+        },
+        {
+          "name": "1.4 Active Listening — Theme 4: Time",
+          "specificLearningOutcomes": [
+            "recall the main ideas and key points in spoken communication",
+            "interpret verbal cues from audio stimuli",
+            "demonstrate a willingness to be receptive to new ideas in oral interactions"
+          ],
+          "keyInquiryQuestions": ["How else do you communicate without speaking?"],
+          "learningExperiences": [
+            "listen to songs about months of the year",
+            "source from the internet the seasonal events that happen throughout the year (nouvel an, pâques, noël)",
+            "practice telling the dates when the seasonal events take place",
+            "watch audio-visual stimuli activities that take part during the different events throughout the year",
+            "recite poems on months of the year jointly"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Social cohesion"],
+          "linkedLearningAreas": ["Creative Arts — recitation of poems linked to performing arts"],
+          "scopeNotes": ["include: nouvel an (New Year), pâques (Easter), noël (Christmas) as named seasonal events"]
+        },
+        {
+          "name": "1.5 Active Listening — Theme 5: Fun and Enjoyment",
+          "specificLearningOutcomes": [
+            "recall the main ideas and key points in spoken communication",
+            "interpret verbal cues from audio stimuli",
+            "demonstrate willingness to be receptive to new ideas in oral interactions"
+          ],
+          "keyInquiryQuestions": ["Why is paying attention important when listening?"],
+          "learningExperiences": [
+            "listen to audio-visual materials and repeat the names of sports and games to acquire vocabulary",
+            "engage in dialogues on their preferred sports and games",
+            "complete sentences by filling in the blanks with the names of sports and games that they hear as they listen to audio materials",
+            "simulate how the different sports and games are played collaboratively",
+            "write down dictated sentences with specific grammatical structures related to sports and games (jouer à /au/ aux… + jeu)"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Self-esteem"],
+          "linkedLearningAreas": ["Creative Arts — sports/games vocabulary linked to physical health education"],
+          "scopeNotes": ["include: 'jouer à /au/ aux… + jeu' grammatical structure (jouer à + sport/game name, with contraction to au/aux for masculine/plural nouns) explicitly named for this theme"]
+        },
+        {
+          "name": "1.6 Interactive Speaking — Theme 6: Foods and Drinks",
+          "specificLearningOutcomes": [
+            "respond to questions and prompts to show comprehension and engagement",
+            "use vocabulary and expressions appropriately to probe and engage in oral interactions",
+            "exhibit confidence to contribute actively in conversations"
+          ],
+          "keyInquiryQuestions": ["Why should you not interrupt others when they are speaking?"],
+          "learningExperiences": [
+            "source from digital sources vocabulary on food",
+            "listen to audio-visual material relating to likes and dislikes concerning foods and drinks",
+            "listen to, and repeat sentences relating to likes and dislikes (J'aime le poulet parce que c'est délicieux, Je n'aime pas le porc parce que c'est dégoutant)",
+            "role-play on likes and dislikes about foods and drinks jointly",
+            "discuss healthy and unhealthy food",
+            "engage in simple skits on likes and dislikes of food"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Responsibility (healthy vs unhealthy food)"],
+          "linkedLearningAreas": ["Agriculture and Nutrition — healthy/unhealthy foods concept"],
+          "scopeNotes": ["include: 'J'aime X parce que c'est délicieux' / 'Je n'aime pas X parce que c'est dégoutant' as the model like/dislike-with-reason sentence pattern"]
+        },
+        {
+          "name": "1.7 Oral Expression — Theme 7: My Body",
+          "specificLearningOutcomes": [
+            "exhibit acquisition of a range of vocabulary when speaking",
+            "employ fluency in verbal expression for effective communication",
+            "use gestures and facial expressions to enhance oral communication",
+            "express enthusiasm to engage in oral communication"
+          ],
+          "keyInquiryQuestions": ["Why is it important to use proper vocabulary when speaking?"],
+          "learningExperiences": [
+            "listen to audio materials to pick out vocabulary on grooming",
+            "listen to and repeat sentences with vocabulary on grooming",
+            "watch video clips on grooming",
+            "talk on how to groom and take care of the body",
+            "practice rhymes with vocabulary on grooming",
+            "record himself/herself talking about grooming"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Self-awareness (personal hygiene)"],
+          "linkedLearningAreas": ["Agriculture and Nutrition — personal hygiene/grooming linked to hygiene"],
+          "scopeNotes": ["theme content is grooming/personal hygiene vocabulary, not body-parts anatomy — matches the theme title 'My Body' being used for grooming/self-care across the whole design, not body-part naming"]
+        },
+        {
+          "name": "1.8 Active Listening — Theme 8: Weather and Environment",
+          "specificLearningOutcomes": [
+            "recall the main ideas and key points in spoken communication",
+            "interpret verbal cues from audio stimuli",
+            "demonstrate willingness to be receptive to new ideas in oral interactions"
+          ],
+          "keyInquiryQuestions": ["What do you do to ensure you understand information while listening?"],
+          "learningExperiences": [
+            "listen from audio stimuli about the weather of a particular place and answer simple questions",
+            "participate in \"Headline creation\" activity, where they listen to audio clips or passages and capture the essence of the content",
+            "group weather conditions into friendly and unfriendly in relation to their immediate surroundings",
+            "play digital games to relate weather patterns to different places",
+            "source vocabulary on local weather patterns from digital devices",
+            "jointly play games on vocabulary search using digital devices"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Disaster risk reduction"],
+          "linkedLearningAreas": ["Social Studies — weather vocabulary linked to weather and climate"],
+          "scopeNotes": ["include: friendly vs unfriendly/harsh weather-condition classification as an explicit grouping activity"]
+        },
+        {
+          "name": "1.9 Interactive speaking — Theme 9: Getting Around",
+          "specificLearningOutcomes": [
+            "respond to questions and prompts to show comprehension and engagement",
+            "use vocabulary and expressions appropriately to probe and engage in oral interactions",
+            "exhibit confidence to contribute actively in conversations"
+          ],
+          "keyInquiryQuestions": ["What do you do to ensure proper intonation when speaking?"],
+          "learningExperiences": [
+            "listen to, and sing songs on items and areas in school",
+            "participate in \"Repeat-after-me\" exercise to acquire vocabulary",
+            "play mimicry games to acquire non-verbal communication skills",
+            "source and watch video clips with authentic dialogues on locating items",
+            "play games collaboratively to state the location or position of buildings and facilities in the school",
+            "participate in simple skits on asking for, and giving directions to different facilities in a school"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Social cohesion"],
+          "linkedLearningAreas": ["English — locating objects linked to adverbs of place and prepositions"],
+          "scopeNotes": []
+        }
+      ]
+    },
+    {
+      "name": "2.0 Reading",
+      "lessonCount": 18,
+      "subStrands": [
+        {
+          "name": "2.1 Guided reading — Theme 1: Greetings and Introductions",
+          "specificLearningOutcomes": [
+            "infer meaning of words from simple texts",
+            "read simple texts fluently using the right intonation and pace",
+            "show enthusiasm in reading, through exposure to simple varied texts"
+          ],
+          "keyInquiryQuestions": ["What can make the reading of greetings fun and enjoyable?"],
+          "learningExperiences": [
+            "source for texts on greetings and introductions features from digital devices for reading groups",
+            "echo read texts in class with the teacher for pronunciation practice",
+            "read texts jointly to acquire vocabulary (Bonjour, Bonsoir, Tu t'appelles comment? Tu as quel âge?)",
+            "respond to simple questions collaboratively from reading texts on greetings",
+            "rearrange jumbled words to make meaningful sentences",
+            "use dramatic reading for developing fluency",
+            "use picture stimuli to introduce another person"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Self-esteem"],
+          "linkedLearningAreas": ["English and Kiswahili — basic greetings vocabulary"],
+          "scopeNotes": []
+        },
+        {
+          "name": "2.2 Guided reading — Theme 2: Family",
+          "specificLearningOutcomes": [
+            "infer meaning of words from simple texts",
+            "read simple texts fluently using the right intonation and pace",
+            "show enthusiasm in reading through exposure to simple varied texts"
+          ],
+          "keyInquiryQuestions": ["How do you read to ensure fluency?"],
+          "learningExperiences": [
+            "read selected passages with phrases describing a person's name and age",
+            "echo read texts from visual stimuli with vocabulary on the nuclear family",
+            "read texts on various compositions of nuclear family members",
+            "write and read to peers texts about their nuclear family",
+            "read highlighted sections of the passages to extract grammatical structures and key information through simple interactive exercises done in groups"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Respect (diversity of family compositions)"],
+          "pertinentContemporaryIssues": ["Self-esteem"],
+          "linkedLearningAreas": ["Social Studies — types of families"],
+          "scopeNotes": []
+        },
+        {
+          "name": "2.3 Reading aloud — Theme 3: My Surroundings",
+          "specificLearningOutcomes": [
+            "recognize words in context when reading",
+            "read aloud simple words with accurate pronunciation",
+            "develop confidence in their reading abilities through guided support"
+          ],
+          "keyInquiryQuestions": ["Why is it important to read words with proper speed?"],
+          "learningExperiences": [
+            "recognize the formation of interrogative sentences with the subject-verb inversion (Où vas-tu? Où allez-vous?)",
+            "repeat recorded texts with vocabulary on the school facilities",
+            "source texts from digital devices on the school facilities and read them loudly",
+            "read in turns flashcards with vocabulary on the facilities in school",
+            "engage in a reading activity where reading is paused for question-and-answer breaks"
+          ],
+          "coreCompetencies": ["Citizenship"],
+          "values": ["Respect (patience/tolerance)"],
+          "pertinentContemporaryIssues": ["Social cohesion"],
+          "linkedLearningAreas": ["English and Kiswahili — reading-aloud skill transfer"],
+          "scopeNotes": ["include: interrogative subject-verb inversion pattern 'Où vas-tu? / Où allez-vous?' explicitly named"]
+        },
+        {
+          "name": "2.4 Reading aloud — Theme 4: Time",
+          "specificLearningOutcomes": [
+            "recognize words in context when reading",
+            "read aloud simple words with accurate pronunciation",
+            "develop confidence in their reading abilities through guided support"
+          ],
+          "keyInquiryQuestions": ["Why is it important to read French words with proper pronunciation?"],
+          "learningExperiences": [
+            "read aloud the months of the year",
+            "read short texts on months of the year and seasonal events",
+            "recite poems on months of the year collaboratively",
+            "in turns, read from flashcards activities that take place during the seasonal events throughout the year",
+            "source for the French calendar of events from the internet collaboratively"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Digital literacy"],
+          "linkedLearningAreas": ["Creative Arts — recitation of poems"],
+          "scopeNotes": []
+        },
+        {
+          "name": "2.5 Guided reading — Theme 5: Fun and Enjoyment",
+          "specificLearningOutcomes": [
+            "infer meaning of words from simple texts",
+            "read simple texts fluently using the right intonation and pace",
+            "show enthusiasm in reading, through exposure to simple varied texts"
+          ],
+          "keyInquiryQuestions": ["Why is the use of proper vocabulary important when reading French words?"],
+          "learningExperiences": [
+            "read silently texts with vocabulary on games and sporting activities",
+            "echo read texts with vocabulary on preferences of gaming and sporting activities",
+            "practice reading skills to understand textual information related to sports and games",
+            "read texts about sports and games from newspapers and magazines collaboratively"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Learner support programs (sports participation)"],
+          "linkedLearningAreas": ["Creative Arts — physical health education"],
+          "scopeNotes": []
+        },
+        {
+          "name": "2.6 Reading aloud — Theme 6: Foods and Drinks",
+          "specificLearningOutcomes": [
+            "recognize words in context when reading",
+            "read aloud simple words with accurate pronunciation",
+            "develop confidence in their reading abilities through guided support"
+          ],
+          "keyInquiryQuestions": ["Why is proper rhythm when reading important?"],
+          "learningExperiences": [
+            "read flashcards with vocabulary on food and drinks",
+            "read aloud texts with vocabulary on likes and dislikes of food",
+            "take turns reading short texts relating to likes and dislikes with vocabulary on food without interfering with others",
+            "play word games on vocabulary related to likes and dislikes of food",
+            "read on texts with vocabulary on healthy and unhealthy food",
+            "read without guidance texts with vocabulary on food and drinks",
+            "read other learner's text on likes and dislikes related to foods"
+          ],
+          "coreCompetencies": ["Learning to learn"],
+          "values": ["Respect (turn-taking)"],
+          "pertinentContemporaryIssues": ["Self-esteem"],
+          "linkedLearningAreas": ["Agriculture and Nutrition — healthy/unhealthy foods"],
+          "scopeNotes": []
+        },
+        {
+          "name": "2.7 Reading aloud — Theme 7: My Body",
+          "specificLearningOutcomes": [
+            "recognize words in context when reading",
+            "read aloud simple words with accurate pronunciation",
+            "develop confidence in their reading abilities through guided support"
+          ],
+          "keyInquiryQuestions": ["How do you read aloud effectively?"],
+          "learningExperiences": [
+            "read short texts on grooming for information",
+            "source for and read short texts about grooming from the internet",
+            "read texts with vocabulary on how to groom",
+            "recite poems about grooming",
+            "echo read texts with vocabulary on the importance of upholding personal hygiene"
+          ],
+          "coreCompetencies": ["Digital literacy"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Self-awareness"],
+          "linkedLearningAreas": ["Agriculture and Nutrition — hygiene"],
+          "scopeNotes": []
+        },
+        {
+          "name": "2.8 Guided reading — Theme 8: Weather and Environment",
+          "specificLearningOutcomes": [
+            "infer meaning of words from simple texts",
+            "read simple texts fluently using the right intonation and pace",
+            "show enthusiasm in reading through exposure to simple varied texts"
+          ],
+          "keyInquiryQuestions": ["What makes one a good reader?"],
+          "learningExperiences": [
+            "source for texts on weather patterns from digital devices in groups",
+            "read texts jointly to acquire vocabulary",
+            "engage in interactive read-aloud activity where reading is paused for question-and-answer breaks",
+            "respond to simple questions from reading texts",
+            "jointly read texts and categorize weather patterns into friendly and harsh",
+            "use picture stimuli to read weather patterns of a place"
+          ],
+          "coreCompetencies": ["Creativity and Imagination"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Disaster risk reduction"],
+          "linkedLearningAreas": ["Social Studies — weather and climate"],
+          "scopeNotes": ["include: friendly vs harsh weather-condition categorization, reading-based (not just listening-based, per 1.8)"]
+        },
+        {
+          "name": "2.9 Guided reading — Theme 9: Getting Around",
+          "specificLearningOutcomes": [
+            "infer meaning of words from simple texts",
+            "read simple texts fluently using the right intonation and pace",
+            "show enthusiasm in reading through exposure to simple varied texts"
+          ],
+          "keyInquiryQuestions": ["Does reading enhance the understanding of texts?"],
+          "learningExperiences": [
+            "source for texts on different items in school from digital devices in groups",
+            "echo read texts on locating different facilities in school collaboratively",
+            "read flashcards with vocabulary on different areas in a school (la bibliothèque, la cantine, les toilettes, salle de professeurs)",
+            "engage in interactive read-aloud activity where reading is paused for question-and-answer breaks",
+            "read texts and answer questions on location of buildings and facilities in school (à côté de, en face de, derrière, près de)",
+            "match picture stimuli to given vocabulary"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Digital citizenship"],
+          "linkedLearningAreas": ["English — adverbs of place and prepositions"],
+          "scopeNotes": ["include: named school facilities la bibliothèque/la cantine/les toilettes/salle de professeurs; named locating prepositions à côté de/en face de/derrière/près de"]
+        }
+      ]
+    },
+    {
+      "name": "3.0 Writing",
+      "lessonCount": 9,
+      "subStrands": [
+        {
+          "name": "3.1 Guided Writing — Theme 1: Greetings and Introductions",
+          "specificLearningOutcomes": [
+            "write common words with correct orthography",
+            "construct simple sentences using correct structures",
+            "appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["Why do you write?"],
+          "learningExperiences": [
+            "fill crosswords and word puzzles on basic greetings",
+            "fill gaps in simple dialogues on basic greetings jointly",
+            "make sentences from jumbled words on basic greetings",
+            "write down dictated simple vocabulary in locating different areas",
+            "source from the internet and write vocabulary on basic greetings",
+            "use visual prompts like pictures and illustrations to write simple texts"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Digital literacy"],
+          "linkedLearningAreas": ["English and Kiswahili — basic greetings vocabulary"],
+          "scopeNotes": []
+        },
+        {
+          "name": "3.2 Guided writing — Theme 2: Family",
+          "specificLearningOutcomes": [
+            "spell and write common words with correct orthography",
+            "construct simple sentences using correct structures",
+            "appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["Why should you write clearly?"],
+          "learningExperiences": [
+            "write coherent and grammatically correct sentences through dictation of simple sentences related to the theme of family",
+            "write short texts about the members of their nuclear family or guardians as well as those of their classmates",
+            "fill in missing letter on family lexicon",
+            "write about the members of their nuclear family",
+            "play word games by circling the members of the nuclear family"
+          ],
+          "coreCompetencies": ["Creativity and Imagination"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Self-esteem"],
+          "linkedLearningAreas": ["Social Studies — types of families"],
+          "scopeNotes": []
+        },
+        {
+          "name": "3.3 Guided writing — Theme 3: My Surroundings",
+          "specificLearningOutcomes": [
+            "spell and write common words with correct orthography",
+            "construct simple sentences using correct structures",
+            "appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["How does handwriting affect reading?"],
+          "learningExperiences": [
+            "match a set of questions related to the classroom with the correct responses",
+            "source from the internet and write vocabulary on items and facilities found in a school",
+            "fill crosswords with vocabulary on school collaboratively",
+            "write down short phrases on how to locate different facilities in the school",
+            "write texts with vocabulary on locating and placing items in their designated areas",
+            "write simple compositions using the vocabulary about the school"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Social cohesion"],
+          "linkedLearningAreas": ["English — adverbs of place and prepositions"],
+          "scopeNotes": []
+        },
+        {
+          "name": "3.4 Guided writing — Theme 4: Time",
+          "specificLearningOutcomes": [
+            "write common words with correct orthography",
+            "construct short simple texts",
+            "appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["Why is it important to write words with the correct spelling?"],
+          "learningExperiences": [
+            "rearrange jumbled letters to write down the months of the year",
+            "write texts on months of the year and seasonal events",
+            "source from the internet and write about the seasonal events both in Kenya and France",
+            "fill gaps in short texts on months of the year collaboratively",
+            "play matching games with vocabulary on months of the year and seasonal events in small groups"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Diversity (seasonal events in Kenya vs France)"],
+          "linkedLearningAreas": ["Social Studies — months of the year"],
+          "scopeNotes": []
+        },
+        {
+          "name": "3.5 Guided writing — Theme 5: Fun and Enjoyment",
+          "specificLearningOutcomes": [
+            "write common words with correct orthography",
+            "construct short simple texts",
+            "appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["What do you [do] to ensure you write clearly?"],
+          "learningExperiences": [
+            "participate in language games that build vocabulary on sports and games",
+            "write short compositions with peers about their tastes and preferences in sports and games using selected vocabulary put at their disposal",
+            "fill puzzles and crosswords with vocabulary on sports and games",
+            "display pictures and short description of sports personalities that they know about"
+          ],
+          "coreCompetencies": ["Creativity and Imagination"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Self-awareness (talent)"],
+          "linkedLearningAreas": ["Creative Arts — physical health education"],
+          "scopeNotes": []
+        },
+        {
+          "name": "3.6 Guided Writing — Theme 6: Food and Drinks",
+          "specificLearningOutcomes": [
+            "write common words with correct orthography",
+            "construct short simple sentences",
+            "appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["Why is proper sequencing of information important while writing?"],
+          "learningExperiences": [
+            "match vocabulary to images relating to likes and dislikes",
+            "source from the internet and write vocabulary on food items",
+            "fill in gaps in short texts relating to likes and dislikes to pick out vocabulary",
+            "write about own preferences on food items",
+            "write short simple texts about likes and dislikes in relation to food"
+          ],
+          "coreCompetencies": ["Learning to learn"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Self-esteem"],
+          "linkedLearningAreas": ["Agriculture and Nutrition — food preferences"],
+          "scopeNotes": []
+        },
+        {
+          "name": "3.7 Guided writing — Theme 7: My Body",
+          "specificLearningOutcomes": [
+            "write common words with correct orthography",
+            "construct short simple sentences",
+            "appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["How can you improve your handwriting?"],
+          "learningExperiences": [
+            "write short texts on grooming",
+            "fill gaps in short texts relating to grooming",
+            "create charts on grooming",
+            "play matching games on grooming jointly",
+            "source for information on grooming from the internet",
+            "write simple texts on why proper grooming is important",
+            "write down dictated short simple phrases on grooming"
+          ],
+          "coreCompetencies": ["Digital literacy"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Online safety"],
+          "linkedLearningAreas": ["English and Kiswahili — gap-fill skill transfer"],
+          "scopeNotes": []
+        },
+        {
+          "name": "3.8 Guided writing — Theme 8: Weather and Environment",
+          "specificLearningOutcomes": [
+            "spell in writing common words with correct orthography",
+            "construct simple sentences using correct structures",
+            "appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["Why is correct orthography important?"],
+          "learningExperiences": [
+            "write down dictated simple vocabulary of weather patterns",
+            "rearrange letters to make words on weather conditions",
+            "fill crosswords and word puzzles",
+            "observe and record the weather conditions in a week and make a presentation of the findings during the French club meeting",
+            "fill gaps in simple dialogues using simple vocabulary of weather patterns (il fait beau à … /mauvais, il pleut, il y a du vent, il fait nuageux…)",
+            "make sentences on weather conditions from jumbled words",
+            "use picture writing prompts to write weather conditions of a given place"
+          ],
+          "coreCompetencies": ["Creativity and Imagination"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Clubs and Societies (French club weather-recording project)"],
+          "linkedLearningAreas": ["Social Studies — weather and climate"],
+          "scopeNotes": ["include: named weather expressions 'il fait beau à…/mauvais, il pleut, il y a du vent, il fait nuageux' as the model weather-description sentence pool"]
+        },
+        {
+          "name": "3.9 Guided Writing — Theme 9: Getting Around",
+          "specificLearningOutcomes": [
+            "spell in writing common words with correct orthography",
+            "construct simple sentences using correct structures",
+            "appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["What makes your handwriting unique?"],
+          "learningExperiences": [
+            "rearrange letters to make words",
+            "fill crosswords and word puzzles jointly",
+            "fill gaps in simple dialogues using simple vocabulary of locating (à côté de, derrière, en face de, entre) and areas in school (bibliothèque, cantine, infirmerie, salle de classe)",
+            "make sentences from jumbled words",
+            "label buildings and facilities in French",
+            "write down dictated simple vocabulary in locating areas and facilities at school",
+            "use picture writing prompts to write simple texts"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Digital literacy"],
+          "linkedLearningAreas": ["English — adverbs of place and prepositions"],
+          "scopeNotes": ["include: named locating prepositions à côté de/derrière/en face de/entre; named school areas bibliothèque/cantine/infirmerie/salle de classe (note: infirmerie is new vs Reading 2.9's toilettes/salle de professeurs — combine both lists for the full school-vocabulary pool)"]
+        }
+      ]
+    }
+  ],
+  "assessmentSignal": "Listening/Speaking rubric rewards vocabulary breadth, correct pronunciation/intonation/rhythm/pacing, responsiveness to prompts, gestures/facial expressions, and willingness to participate. Reading rubric rewards pronunciation accuracy, fluency (pace/pauses/intonation), and comprehension (interpreting questions in context, using paraphrase). Writing rubric rewards correct spelling/orthography and correct simple-sentence structure, with top band explicitly rewarding successful attempts at MORE COMPLEX sentences beyond the simple-sentence floor.",
+  "notes": "Grade 6 French has the same 9-theme, 3-strand (Listening and Speaking / Reading / Writing) shape as Grade 7/8/9 French, and the exact same 9 theme names as Grade 7 (Greetings and Introductions, Family, My Surroundings, Time, Fun and Enjoyment, Foods and Drinks, My Body, Weather and Environment, Getting Around) — informal 'tu' register throughout (no formal 'vous' register drilling, unlike Grade 8). Skills built as 27 files in web/src/skills/frenchG6/ (9 themes x 3 strands: Speaking/Reading/Writing), following the exact frenchG7 file/strand/code pattern (strand ids g6-fr-listening-speaking / g6-fr-reading / g6-fr-writing, codes LS.1-9 / R.1-9 / W.1-9)."
+}

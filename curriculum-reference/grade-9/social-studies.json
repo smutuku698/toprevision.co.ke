@@ -1,0 +1,285 @@
+{
+  "subject": "Social Studies",
+  "subjectId": "social-studies",
+  "grade": 9,
+  "source": {
+    "title": "Junior School Curriculum Design: Social Studies, Grade 9",
+    "url": "https://cbcelimu.com/wp-content/uploads/2024/12/Social-Studies-Grade-9-Design-Formatted-April-2024.pdf",
+    "publisher": "cbcelimu.com (mirror of KICD design; KICD's own Google Drive copy, file ID 1gMXIzQnV-F1a7n_dJ82QU2-BTtw3B-NW, is owner-blocked for direct download)",
+    "retrievedDate": "2026-08-13",
+    "confidence": "high",
+    "notes": "Fetched the PDF directly from the cbcelimu.com mirror; WebFetch's own summarizer failed to extract text ('unable to extract text'), but it had saved the PDF locally, and the Read tool parsed the full 71-page document natively. All strand/sub-strand headings, specific learning outcomes, and key inquiry questions below were read verbatim from that extracted text, not summarized by an intermediate model. Title-match verification: the PDF's own title page reads 'KENYA INSTITUTE OF CURRICULUM DEVELOPMENT ... JUNIOR SCHOOL CURRICULUM DESIGN SOCIAL STUDIES GRADE 9', ISBN 978-9914-43-949-4, 'First published 2024', published/printed by KICD -- this is unambiguously the correct subject/grade/publisher, though note the exact confirmed KICD Drive filename was 'Social Studies Grade 9 - Revised.pdf' and this mirror's own filename/URL string is 'Social-Studies-Grade-9-Design-Formatted-April-2024.pdf' (no explicit 'Revised' in the filename or in the title page text). The document body itself carries a faint diagonal 'DRAFT' watermark on every page despite having an ISBN and 'First published' notice -- this is very likely just a leftover watermark from KICD's internal review/print-proof workflow (the ISBN and ACKNOWLEDGEMENT section describing full stakeholder sign-off indicate this is the finalized published design, not an unapproved draft), but it is flagged here in case a definitively non-watermarked 'Revised' edition later surfaces with content differences. IMPORTANT STRUCTURAL FINDING: the official design has 5 strands, not the 3 the app currently implements (Physical Environment & Population / History & Political Systems / Life Skills in web/src/lib/curriculum.ts). The real strand set is: (1) Social Studies and Career Development, (2) Community Service-Learning, (3) People and Relationships, (4) Natural and Historic Built Environments, (5) Political Developments and Governance -- these do not map cleanly onto the app's current 3 strands; the app's content is missing an entire 'Social Studies and Career Development' strand, an entire 'Community Service-Learning' strand, and the 'Political Developments and Governance' content (constitution, civic engagement, bill of rights, cultural globalisation) is not represented as its own strand either. This is a major coverage gap, not a minor omission. Minor internal inconsistencies noted in the source PDF itself (not this transcription): the 'SUMMARY OF STRANDS AND SUB STRANDS' table (p.x-xi) and the detailed per-sub-strand section headers disagree on suggested lesson counts for a few sub-strands (e.g. Population Structure: 8 in summary table vs '(9 Lessons)' in the detailed section header; Healthy Relationships: 4 in summary table vs '(3 Lessons)' in the detailed header; Management and Conservation of the Environment: 6 in summary table vs '(8 lessons)' in the detailed header). Lesson-count fields are not part of this reference's schema, so these were simply omitted rather than guessed at. The source spells the final sub-strand's name as 'Cultural Globalisation' in the summary table and 'Cultural Globalization' in the detailed section header -- both spellings verbatim from the source, British spelling used here for consistency with the rest of the document."
+  },
+  "strands": [
+    {
+      "name": "Social Studies and Career Development",
+      "subStrands": [
+        {
+          "name": "Pathway Choices",
+          "specificLearningOutcomes": [
+            "Identify factors to consider in the selection of a pathway",
+            "Examine requirements for Social sciences pathway at senior school",
+            "Choose a possible track within a pathway at senior school",
+            "Appreciate the need for choosing a pathway in senior school"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to learn about career paths?"
+          ]
+        },
+        {
+          "name": "Pre-career Support Systems",
+          "subSubStrands": ["Psychosocial", "Social", "Mentorship/coaching", "Spiritual", "Career support system"],
+          "specificLearningOutcomes": [
+            "Explore and use support systems for pre-career and other needs",
+            "Analyze challenges arising from existing support systems for pre-career and other needs",
+            "Design solutions to challenges arising from support systems",
+            "Explain the significance of pre-career mapping for individual growth",
+            "Appreciate the value of the pre-career support systems"
+          ],
+          "keyInquiryQuestions": [
+            "Why does a learner need pre-career support?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Community Service-Learning",
+      "subStrands": [
+        {
+          "name": "Community Service-Learning Project",
+          "specificLearningOutcomes": [
+            "Identify a problem in the community",
+            "Design a solution to the identified problem",
+            "Plan to solve the identified problem in the community",
+            "Implement the plan to solve the problem",
+            "Write a report on the concluded project",
+            "Appreciate teamwork in addressing community problems"
+          ],
+          "keyInquiryQuestions": [
+            "What does one consider while implementing a project?",
+            "Why is reflection important in a project?"
+          ],
+          "notes": "This sub-strand is an extended, milestone-based group project (problem identification, solution design, planning, implementation, showcasing/report, reflection -- see Appendix 1 of the source design) carried out over a term against a real community problem, rather than a discrete content topic. It is not naturally amenable to a generated multiple-choice/short-answer practice quiz in the same way other sub-strands are; flagging for an explicit build/decline decision rather than silent omission."
+        }
+      ]
+    },
+    {
+      "name": "People and Relationships",
+      "subStrands": [
+        {
+          "name": "Socio-Economic Practices of Early Humans",
+          "subSubStrands": ["Early Stone Age", "Middle Stone Age", "Late Stone Age"],
+          "specificLearningOutcomes": [
+            "Describe the socio-economic practices of early humans in Africa during the Stone Age period",
+            "Examine different types of tools used by early humans during the Stone Age period",
+            "Illustrate the tools used by early humans during the Stone Age period",
+            "Recognise socio-economic practices of the early humans"
+          ],
+          "keyInquiryQuestions": [
+            "How do socio-economic practices of early humans impact on the modern society?"
+          ]
+        },
+        {
+          "name": "Indigenous Knowledge Systems in African Societies",
+          "subSubStrands": ["Agriculture", "Medicine", "Climate", "Technology", "Education", "Environmental Conservation", "Astronomy", "Religion", "Arts"],
+          "specificLearningOutcomes": [
+            "Identify types of indigenous knowledge systems in African societies for self-identity",
+            "Explain how the indigenous knowledge systems were used for sustainability of life",
+            "Use indigenous and modern knowledge systems for effective decision making in life",
+            "Appreciate the indigenous knowledge systems in the society"
+          ],
+          "keyInquiryQuestions": [
+            "How does indigenous knowledge influence on the modern society?"
+          ]
+        },
+        {
+          "name": "Poverty Reduction",
+          "specificLearningOutcomes": [
+            "Explain causes of poverty in Africa",
+            "Examine the effects of overexploitation of natural resources on poverty in Africa",
+            "Apply creative thinking skills to reduce poverty in the society",
+            "Recognize the contribution of poverty reduction strategies in society"
+          ],
+          "keyInquiryQuestions": [
+            "What are the measures taken by African governments to reduce poverty?",
+            "How does prudent utilization of resources help to reduce poverty in the society?"
+          ]
+        },
+        {
+          "name": "Population Structure",
+          "subSubStrands": ["Kenya", "Germany"],
+          "specificLearningOutcomes": [
+            "Identify sources of population data in a country",
+            "Explain factors determining population structure in Kenya and Germany",
+            "Construct age-sex population pyramids of developed and developing countries",
+            "Determine the significance of population structure in distribution of national resources in a society",
+            "Appreciate the differences in population structure between developed and developing countries"
+          ],
+          "keyInquiryQuestions": [
+            "Why is population structure of a country important?"
+          ]
+        },
+        {
+          "name": "Peaceful Conflict Resolution",
+          "specificLearningOutcomes": [
+            "Explain types of peace for sustainable social interactions",
+            "Identify barriers to conflict resolution in day-to-day lives",
+            "Explore ways of managing emotions in promotion of peace in the community",
+            "Apply emotional intelligence for peaceful conflict resolutions in the community",
+            "Embrace peace initiatives and agreements at the community level for harmonious living"
+          ],
+          "keyInquiryQuestions": [
+            "How can we promote peace in the community?"
+          ]
+        },
+        {
+          "name": "Healthy Relationships",
+          "subSubStrands": ["Effective communication", "Negotiation skills", "Empathy", "Assertiveness"],
+          "specificLearningOutcomes": [
+            "Explain ways of sustaining healthy relationships in the community",
+            "Explore barriers to harmonious relationships",
+            "Design strategies to overcome barriers to healthy relationships",
+            "Appreciate the need for healthy relationships in the community"
+          ],
+          "keyInquiryQuestions": [
+            "How can we promote healthy relationships in the community?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Natural and Historic Built Environments",
+      "subStrands": [
+        {
+          "name": "Topographical Maps",
+          "specificLearningOutcomes": [
+            "Describe human activities on topographical maps",
+            "Use creative thinking skills to enlarge and reduce parts of topographical maps",
+            "Illustrate cross-sections from topographical maps",
+            "Appreciate representation of human activities on topographical maps"
+          ],
+          "keyInquiryQuestions": [
+            "Why are topographical maps important?"
+          ]
+        },
+        {
+          "name": "Internal Land Forming Processes",
+          "subSubStrands": ["Rift valley", "Block mountain", "Faults"],
+          "specificLearningOutcomes": [
+            "Explore the types and causes of earth movements in the environment",
+            "Explain the theories of continental drift and plate tectonics in the formation of continents",
+            "Illustrate the formation of selected features due to faulting in the environment",
+            "Explain the effects of faulting to human activities",
+            "Recognise internal land forming processes in shaping the landscape and their influence on human activities"
+          ],
+          "keyInquiryQuestions": [
+            "How do landforms influence human activities?"
+          ]
+        },
+        {
+          "name": "Multipurpose River Projects in Africa",
+          "subSubStrands": ["River Tana Projects in Kenya", "Aswan High Dam in Egypt"],
+          "specificLearningOutcomes": [
+            "Identify selected multi-purpose river projects on a map of Africa",
+            "Outline the conditions that led to the establishment of multi-purpose river projects along River Tana",
+            "Examine the economic importance of multi-purpose river projects in Africa",
+            "Assess challenges facing multi-purpose river projects in Africa",
+            "Design solutions to challenges facing multi-purpose river projects in Africa",
+            "Recognise the importance of multipurpose river projects in the society"
+          ],
+          "keyInquiryQuestions": [
+            "How useful are multi-purpose river projects in society?"
+          ]
+        },
+        {
+          "name": "Management and Conservation of the Environment",
+          "specificLearningOutcomes": [
+            "Explore factors that lead to degradation of the environment in the community",
+            "Describe the effects of environmental degradation in society",
+            "Design measures to manage and conserve the environment for sustainability",
+            "Apply creative thinking skills in managing and conserving the immediate environment",
+            "Acknowledge the importance of managing and conserving the environment"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to conserve degraded environment?"
+          ]
+        },
+        {
+          "name": "World Heritage Sites in Africa",
+          "subSubStrands": ["Rock-Hewn Churches", "Vallée de Mai Nature Reserve", "Serengeti National Park", "Robben Island", "Victoria Falls"],
+          "specificLearningOutcomes": [
+            "Identify the selected world heritage sites in Africa",
+            "Examine importance of the selected world sites in promoting cultural heritage",
+            "Design measures to conserve the selected world heritage sites",
+            "Apply critical thinking skills in conserving heritage sites within the locality",
+            "Value heritage sites in the community"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to conserve the world heritage sites?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Political Developments and Governance",
+      "subStrands": [
+        {
+          "name": "The Constitution of Kenya",
+          "specificLearningOutcomes": [
+            "Identify the stages in the constitution-making process in Kenya",
+            "Examine the role of parliament in constitution-making process",
+            "Explore the role of citizens in constitution-making process",
+            "Participate in the constitution-making process in community",
+            "Desire to defend and promote the Constitution of Kenya"
+          ],
+          "keyInquiryQuestions": [
+            "Why is constitution-making process in Kenya important?"
+          ]
+        },
+        {
+          "name": "Civic Engagement in Governance",
+          "subSubStrands": ["Social Justice", "Integrity", "Peace"],
+          "specificLearningOutcomes": [
+            "Identify individual and collective civic engagement activities in Kenya",
+            "Illustrate the role of political parties in democratic governance",
+            "Outline positions vied for in a general election in Kenya",
+            "Exhibit values that promote ethical civic engagement in the community"
+          ],
+          "keyInquiryQuestions": [
+            "How does civic engagement promote good governance in the country?",
+            "How can we participate in democratic processes in the society?"
+          ]
+        },
+        {
+          "name": "Kenya's Bill of Rights",
+          "specificLearningOutcomes": [
+            "Explore Kenya's Bill of Rights for mutual social well-being",
+            "Examine human rights of special groups for promotion of social justice and inclusivity",
+            "Apply the bill of rights for harmonious living",
+            "Develop assertiveness necessary in standing up for human rights",
+            "Cultivate empathy and solidarity with special groups in society for mutual social responsibility",
+            "Embrace respect for human rights in society"
+          ],
+          "keyInquiryQuestions": [
+            "How can we protect the special groups in the community?"
+          ],
+          "notes": "'Special groups' in the source design specifically means the elderly, refugees, and migrants (named explicitly in the suggested learning experiences and non-formal activities lists)."
+        },
+        {
+          "name": "Cultural Globalisation",
+          "specificLearningOutcomes": [
+            "Identify cultural elements and practices that have acquired a global recognition and status",
+            "Examine African cultural practices in promoting a common humanity",
+            "Explore ways of preserving cultural elements that promotes global citizenship",
+            "Enumerate factors that promote healthy cultural relationships and global interconnectedness",
+            "Appreciate values and cultural elements which promote responsible global citizenship"
+          ],
+          "keyInquiryQuestions": [
+            "How can we preserve aspects of cultural globalization in the community?",
+            "What are the merits of cultural globalisation?"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "subject": "Hindu Religious Education",
+  "subjectId": "hre",
+  "grade": 8,
+  "source": {
+    "title": "Junior School Curriculum Design: Hindu Religious Education, Grade 8",
+    "url": "https://easylearn.co.ke/images/document/11752319/HRE-Grade-8-July-2024-Fin.pdf",
+    "publisher": "KICD (mirrored via easylearn.co.ke)",
+    "retrievedDate": "2026-08-14",
+    "confidence": "high",
+    "notes": "Filename confirmed against KICD's own Google Drive listing (kicd.ac.ke/cbc-materials/curriculum-designs/grade-eight-designs/, file id 17tep-A_DwMx7ZHQ_JTtCm6wH6HLISdIW, whose /preview page title reads 'HRE Grade 8 - July 2024 - Fin.pdf'). WebFetch reported it could not extract meaningful text from the PDF itself but saved it locally; Read then parsed the full PDF text natively (ISBN 978-9914-43-800-0, First Published 2023, Revised 2024). Strand/sub-strand headings, SLOs, and key inquiry questions below are transcribed verbatim from the 'STRAND'-labelled tables and the 'SUMMARY OF STRANDS AND SUB-STRANDS' table. NOTABLE STRUCTURAL DIFFERENCE FROM GRADE 9: unlike Grade 9 HRE (where every detailed sub-strand was Sikh-specific despite the subject nominally covering four faith traditions), Grade 8's design explicitly rotates across multiple faiths within each strand - e.g. Strand 1 (Enlightened Beings) covers one figure each from Sanatan/Vedic (Chaitanya Mahaprabhu), Jain (Tirthankar Mallinath), Buddhist (Lord Buddha) and Sikh (Sri Guru Tegh Bahadur Ji) traditions in a single sub-strand; Strand 3 (Principles of Dharma) has one sub-strand mixing Sanatan/Jain/Sikh principles and a second sub-strand specifically on Buddhist Principles; Strand 4 (Religious Practices) splits into Sanatan Dharma protocols and Jain Dharma protocols; Strand 6 (Sanskaars) splits into Jain religious ceremonies and Buddhist Sanskaars. This confirms the four-faith rotation happens at a finer grain (within-strand) at Grade 8 rather than being one faith per whole grade as it was at Grade 9."
+  },
+  "strands": [
+    {
+      "name": "Manifestation of Paramatma",
+      "subStrands": [
+        {
+          "name": "Enlightened Beings",
+          "notes": "Covers Chaitanya Mahaprabhu (Sanatan/Vedic), Tirthankar Mallinath (Jain), Lord Buddha, and Sri Guru Tegh Bahadur Ji (Hind Kee Chaadhar) (Sikh) - one figure per faith tradition, unlike Grade 9 where this strand was Sikh-only.",
+          "specificLearningOutcomes": [
+            "Explain key attributes of the selected Enlightened Beings for familiarisation",
+            "Outline the contributions of the Enlightened Beings for inspiration in daily life",
+            "Participate in activities that reflect the teachings of the Enlightened Beings for individual transformation",
+            "Recognize the contributions of Enlightened Beings for guidance in life"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to learn the attributes of Enlightened Beings?",
+            "How can we implement the teachings of Enlightened Beings in our lives?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Scriptures",
+      "subStrands": [
+        {
+          "name": "Scriptural Texts",
+          "notes": "Covers Yajur Ved: Sangathan mantra, Uttradhyan Sutra Chapter 19-21 (Summary), Mangala Sutta SN2.4, and Sukhmani Sahib 9-16 Ashtpadi (Summary) - one text per faith tradition (Sanatan/Vedic, Jain, Buddhist, Sikh).",
+          "specificLearningOutcomes": [
+            "Analyse the role of scriptures for guidance in daily life",
+            "Prepare a code of conduct based on scriptures for personal development",
+            "Utilise common teachings from the scriptures for peace and harmony",
+            "Appreciate scriptural teachings for spiritual nourishment"
+          ],
+          "keyInquiryQuestions": [
+            "How does reading of scriptures influence our daily life?",
+            "How does code of conduct in scriptures instil moral values?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Principles of Dharma",
+      "subStrands": [
+        {
+          "name": "Fundamental Principles",
+          "notes": "Covers Sanatan/Vedic - Punarjanam (Reincarnation), Jain - Non-attachment (Aparigraha) and Celibacy (Bhramacharya), Sikh - Satisfaction (Santokh) and Truth (Sat). Five principles across three faith traditions in one sub-strand.",
+          "specificLearningOutcomes": [
+            "Identify the five selected fundamental Principles of Dharma for character formation",
+            "Dramatize the Principles of Dharma in a school environment",
+            "Nurture the Principles of Dharma for virtuous living"
+          ],
+          "keyInquiryQuestions": [
+            "How can Principles of Dharma be practised in day-to-day life?",
+            "Why is it important to live by the Principles of Dharma?"
+          ]
+        },
+        {
+          "name": "Buddhist Principles of Dharma",
+          "notes": "Covers the Noble Eightfold Path specifically.",
+          "specificLearningOutcomes": [
+            "Describe the Buddhist Principles of Dharma for spiritual nourishment",
+            "Interpret the Buddhist Principles of Dharma for character formation",
+            "Explain the causes of road crashes ignoring noble eightfold path in Buddhist Principles",
+            "Acknowledge the Buddhist Principles of Dharma for virtuous living"
+          ],
+          "keyInquiryQuestions": [
+            "What is the significance of noble eightfold path in our life?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Religious Practices",
+      "subStrands": [
+        {
+          "name": "Protocols in Sanatan Dharma",
+          "notes": "Covers Arti and Circumbulation (Parikrama/Parkarma).",
+          "specificLearningOutcomes": [
+            "Describe the protocols of religious practices observed in a Sanatan/Hindu Mandir",
+            "Model the mandatory religious etiquette for self-efficacy",
+            "Embrace the protocols and etiquette for personal welfare"
+          ],
+          "keyInquiryQuestions": [
+            "Why are protocols important in religious practices?"
+          ]
+        },
+        {
+          "name": "Protocols in Jain Dharma",
+          "notes": "Covers Aarti and Mangal Divo.",
+          "specificLearningOutcomes": [
+            "Describe the protocols observed in a Jain Derasar for recognition",
+            "Model the mandatory religious etiquette for self-esteem",
+            "Acknowledge the protocols and etiquette for social harmony"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to learn about the Aarti, Mangal Divo and its significance?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yoga",
+      "subStrands": [
+        {
+          "name": "Path of Action (Karma Yoga)",
+          "notes": "Covers practitioners Sister Nivedita, Rishabh dev, Buddhaghosha, Bibi Sundari Ji - one prominent practitioner per faith tradition.",
+          "specificLearningOutcomes": [
+            "Examine actions that enable him to understand Karma Yoga",
+            "Summarise key events of the selected prominent practitioners of Karma Yoga for social welfare",
+            "Implement Karma Yoga for self-improvement",
+            "Recognise the essence of Karma Yoga for better understanding"
+          ],
+          "keyInquiryQuestions": [
+            "How do the lives of practitioners of karma Yoga inspire us?",
+            "Why do we need to practise Karma Yoga?",
+            "How do different scriptures guide us on Karma Yoga?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sanskaars (Rite of Passage)",
+      "subStrands": [
+        {
+          "name": "Religious Ceremonies (Jains)",
+          "notes": "Covers Naam (naming), Vivah (marriage), Antim (death) - Jain rite-of-passage ceremonies.",
+          "specificLearningOutcomes": [
+            "Identify religious ceremonies observed by Jain faith for knowledge",
+            "Interpret the significance of religious ceremonies in Jain faith for self-efficacy",
+            "Model all necessary protocols while participating in the religious ceremonies",
+            "Embrace the religious ceremonies of one's faith for spiritual nourishment"
+          ],
+          "keyInquiryQuestions": [
+            "How do religious ceremonies influence one's life?",
+            "What role does religious ceremonies play in society?"
+          ]
+        },
+        {
+          "name": "Buddhist Sanskaars",
+          "notes": "Covers Naming, Marriage, Death (Maranam) - Buddhist rite-of-passage ceremonies.",
+          "specificLearningOutcomes": [
+            "Explain Buddhist Sanskaars for familiarity",
+            "Interpret the significance of Buddhists' Sanskaars for self-confidence",
+            "Desire to advocate the Buddhists' Sanskaars for sensitisation"
+          ],
+          "keyInquiryQuestions": [
+            "How do Sanskaars influence our lives?"
+          ]
+        }
+      ]
+    }
+  ]
+}

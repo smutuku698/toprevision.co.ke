@@ -1,0 +1,313 @@
+{
+  "subject": "Creative Arts and Sports",
+  "subjectId": "creative-arts-and-sports",
+  "grade": 9,
+  "source": {
+    "title": "Junior School Curriculum Design: Creative Arts and Sports, Grade 9 (KICD, First published 2024, ISBN 978-9914-43-982-3)",
+    "url": "https://doyenpublishers.com/wp-content/uploads/2025/04/Grade-9-Creative-Arts-and-Sports-Curriculum-Design.pdf",
+    "publisher": "KICD (mirrored via doyenpublishers.com)",
+    "retrievedDate": "2026-08-13",
+    "confidence": "high",
+    "notes": "WebFetch could not extract text from this PDF directly ('unable to extract text'), but it reported the file was saved locally; the Read tool was then used directly on that local path and successfully parsed the full 68-page document natively (including tables, all strand/sub-strand/SLO/KIQ text). The document's own title page reads 'KENYA INSTITUTE OF CURRICULUM DEVELOPMENT ... JUNIOR SCHOOL CURRICULUM DESIGN CREATIVE ARTS AND SPORTS GRADE 9', ISBN 978-9914-43-982-3 -- this matches the README's confirmed official filename 'Creative Arts & Sports Grade 9 - Revised.pdf' (same subject/grade/publisher; filename vs. cover-page title differ only cosmetically, a normal pattern for KICD PDFs mirrored under slightly different filenames). Pages are watermarked 'DRAFT' but this is KICD's own official published draft/rationalised design circulating publicly -- consistent with how other Grade 9 designs (e.g. Mathematics, Social Studies) are also labelled in their official PDFs. All strand/sub-strand headings, specific learning outcomes, and key inquiry questions below were read verbatim from the document text, not summarized by an intermediate model. Confirms the CBC Quizmaster placeholder guess ('Visual Arts & Crafts', 'Performing Arts & Music', 'Sports & Physical Education') in web/src/lib/curriculum.ts is WRONG: the real design has exactly 3 strands but they are 'Foundations of Creative Arts and Sports', 'Creating and Performing in Creative Arts and Sports', and 'Appreciation in Creative Arts and Sports' -- a completely different organizing structure that interleaves visual arts, music, drama, and sports disciplines within each strand rather than separating them by discipline. IMPORTANT for later build phases: this subject is unusually performance/practical-heavy (music performance, sports skills, painting, pottery, weaving, photography, drama). Only a minority of sub-strands are purely knowledge/theory-testable in a traditional quiz format (e.g. 1.1 Careers, parts of 1.2 Components, parts of 2.2 Rhythm/2.4 Melody theory, 3.1 Analysis). Every sub-strand is recorded faithfully below per instructions, with 'notes' flagging which ones are practical/performance-heavy -- gap-analysis/build decisions are left to a later phase, not made here. Also note: Strand 2 contains an OPTIONAL block (sub-strands 2.11.1 Swimming vs 2.11.2 Kenyan Indigenous Games) where the design instructs the learner to cover only ONE of the two -- both are recorded here since either could be the one a given school selects."
+  },
+  "strands": [
+    {
+      "name": "Foundations of Creative Arts and Sports",
+      "subStrands": [
+        {
+          "name": "1.1 Careers in Creative Arts and Sports",
+          "subSubStrands": [
+            "Careers in Creative Arts and Sports"
+          ],
+          "specificLearningOutcomes": [
+            "Identify careers in Creative Arts and Sports",
+            "Illustrate entrepreneurial opportunities in Creative Arts and Sports",
+            "Appreciate careers in Creative Arts and Sports"
+          ],
+          "keyInquiryQuestions": [
+            "What are the career opportunities related to Creative Arts and Sports?"
+          ],
+          "notes": "Knowledge-testable (careers, entrepreneurial opportunities) -- good fit for a traditional quiz."
+        },
+        {
+          "name": "1.2 Components of Creative Arts and Sports",
+          "subSubStrands": [
+            "Components of physical fitness - power and reaction time",
+            "Elements of a play: theme, characters, plot, conflict, resolution, setting, language",
+            "Rhythm: dotted minim, the dotted crotchet and quaver and their rests",
+            "Note extension: dots and ties",
+            "Construct F major on treble and bass staff ascending and descending (with and without key signatures)",
+            "Pitch: Grand stave"
+          ],
+          "specificLearningOutcomes": [
+            "Describe the elements of a play",
+            "Perform activities demonstrating the components of fitness",
+            "Name pitches on the grand stave",
+            "Group music notes in 4/4 time incorporating note extension",
+            "Construct the scale of F major on a staff",
+            "Appreciate the basic elements of Creative Arts and Sports"
+          ],
+          "keyInquiryQuestions": [
+            "How does one create harmony in pictorial composition?",
+            "Why should athletes avoid performance enhancers to develop physical fitness?",
+            "Why is note extension important in music notation?"
+          ],
+          "notes": "Mixed: describing play elements, naming pitches, and constructing scales are knowledge-testable; 'perform activities demonstrating components of fitness' (power and reaction time) is a physical-performance outcome this app cannot grade directly."
+        }
+      ]
+    },
+    {
+      "name": "Creating and Performing in Creative Arts and Sports",
+      "subStrands": [
+        {
+          "name": "2.1 Drawing and Painting",
+          "subSubStrands": [
+            "Drawing",
+            "Painting: colour harmony, colour mood (cool/warm), texture of forms (dabbing)"
+          ],
+          "specificLearningOutcomes": [
+            "Discuss harmony/unity in a picture",
+            "Classify analogous colours on a colour wheel for painting",
+            "Illustrate a colour gradation strip for colour harmony",
+            "Paint a scenery composition to express harmony/unity",
+            "Appreciate own and others' pictures"
+          ],
+          "keyInquiryQuestions": [
+            "Why is colour classification important in painting?",
+            "How does the colour affect the mood?"
+          ],
+          "notes": "Largely practical/artistic performance (painting technique, colour wheel, scenery composition) -- this app cannot grade the physical execution, only underlying knowledge (colour theory, classification, harmony concepts)."
+        },
+        {
+          "name": "2.2 Rhythm",
+          "subSubStrands": [
+            "Note values: dotted minim, dotted crotchet, quaver and their rests"
+          ],
+          "specificLearningOutcomes": [
+            "Describe the effect of note extension on rhythmic patterns",
+            "Compose a four-bar rhythmic pattern in 4/4 time",
+            "Notate four-bar rhythms in 4/4 time from dictation",
+            "Appreciate rhythmic patterns as a means of creating interest in Creative Arts and Sports"
+          ],
+          "keyInquiryQuestions": [
+            "How can various note combinations be used to form rhythms in simple time?",
+            "How can one improvise accompaniment patterns for Sports?"
+          ],
+          "notes": "Substantially knowledge-testable (music theory: note values, rhythm notation, effect of note extension) though composing/notating from dictation leans practical."
+        },
+        {
+          "name": "2.3 Athletics and Mosaic",
+          "subSubStrands": [
+            "Triple Jump",
+            "Long distance running",
+            "Mosaic"
+          ],
+          "specificLearningOutcomes": [
+            "Describe the phases in Triple jump",
+            "Perform Triple jump for skill acquisition",
+            "Identify long distance races in athletics",
+            "Perform techniques for long distance running",
+            "Explore characteristics of mosaic in sample pictures",
+            "Create a mosaic pictorial composition inspired by an athletic event",
+            "Acknowledge own and others' efforts in performing Triple jump, skills in long distance races and pictorial composition"
+          ],
+          "keyInquiryQuestions": [
+            "How has long distance running benefitted Kenya?",
+            "Why is it important to follow the phases of jumping in triple jump?",
+            "How can mosaic pictorial composition be used to improve the environment?"
+          ],
+          "notes": "Combines physical/athletic performance (triple jump, long distance running technique) with artistic craft performance (mosaic-making) -- both need a non-traditional quiz approach; only the descriptive/identification outcomes are directly knowledge-testable."
+        },
+        {
+          "name": "2.4 Melody",
+          "subSubStrands": [
+            "Variations: rhythmic, melodic, and dynamic variations",
+            "Note value involving the dotted minim, dotted crotchet and a quaver"
+          ],
+          "specificLearningOutcomes": [
+            "Describe the use of variation in composing a melody",
+            "Compose a four-bar melody in F Major and 4/4 time",
+            "Notate four-bar melodies in 4/4 time",
+            "Perform melodies in F major and 4/4 time",
+            "Value the use of melody in Creative Arts and Sports"
+          ],
+          "keyInquiryQuestions": [
+            "How can a melody be made interesting?"
+          ],
+          "notes": "Mixed: describing variation technique is knowledge-testable; composing, notating, and performing melodies are practical/performance skills this app cannot grade directly."
+        },
+        {
+          "name": "2.5 Rugby",
+          "subSubStrands": [
+            "Passes: spin, pop and basic",
+            "Kicks: place and drop"
+          ],
+          "specificLearningOutcomes": [
+            "Distinguish passes in Rugby",
+            "Perform passing skills in Rugby",
+            "Perform kick techniques in Rugby",
+            "Value own and others' efforts in applying passing and kicking skills for enjoyment"
+          ],
+          "keyInquiryQuestions": [
+            "What are the best ways to advance a ball in a game of Rugby?"
+          ],
+          "notes": "Almost entirely physical/practical (executing passes and kicks) -- needs a non-traditional quiz approach; only 'distinguish passes' (naming/identifying pass types) is directly knowledge-testable."
+        },
+        {
+          "name": "2.6 Photography",
+          "subSubStrands": [
+            "Photography",
+            "Scenic points (geographical features, building among others)",
+            "View point (normal, birds and worm)",
+            "Presentation; arrangement of photographs, caption"
+          ],
+          "specificLearningOutcomes": [
+            "Identify different viewpoints in photography",
+            "Take photographs of a scenery in viewpoint for showcase",
+            "Present the photographs for appreciation"
+          ],
+          "keyInquiryQuestions": [
+            "Which are the ethical issues to consider in photography?"
+          ],
+          "notes": "Mixed: identifying/naming viewpoint types and discussing photography ethics are knowledge-testable; taking and presenting actual photographs is a practical task this app cannot grade directly."
+        },
+        {
+          "name": "2.7 Descant Recorder",
+          "subSubStrands": [
+            "Technique of pinching",
+            "Dynamics: crescendo and diminuendo"
+          ],
+          "specificLearningOutcomes": [
+            "Identify the fingering of notes in the scale of F major",
+            "Play the scale of F major from staff notation on a descant recorder",
+            "Perform a solo piece in F major on a descant recorder, applying correct playing techniques",
+            "Value playing music on the descant recorder"
+          ],
+          "keyInquiryQuestions": [
+            "What is the importance of applying technique when playing instrumental music?"
+          ],
+          "notes": "Predominantly instrumental performance (playing the recorder, applying technique) -- needs a non-traditional quiz approach; fingering identification and dynamics terminology (crescendo/diminuendo) are knowledge-testable."
+        },
+        {
+          "name": "2.8 Play",
+          "subSubStrands": [
+            "Format of a script - title, playwright, characters, acts, scenes, setting, stage directions and dialogue",
+            "Play elements - theme, characters, plot, setting, conflict, language",
+            "Performing a play"
+          ],
+          "specificLearningOutcomes": [
+            "Describe the format of a play script",
+            "Create a one act play addressing a societal issue",
+            "Act a role in a play performance",
+            "Recognise play performance as a channel of addressing societal issues"
+          ],
+          "keyInquiryQuestions": [
+            "How can a play performance be made believable to an audience?",
+            "Why is it important to decorate props to be used for performance?"
+          ],
+          "notes": "Mixed: describing script format and play elements (theme, characters, plot, conflict, setting, language) is knowledge-testable; creating a script and acting a role are practical/performance tasks this app cannot grade directly."
+        },
+        {
+          "name": "2.9 Basketball and Logo Design",
+          "subSubStrands": [
+            "Passing - overhead, bounce and chest",
+            "Dribbling - high and low",
+            "Logo design"
+          ],
+          "specificLearningOutcomes": [
+            "Perform passes in Basketball for skill acquisition",
+            "Execute dribbling in Basketball for skill acquisition",
+            "Design logo for a Basketball team",
+            "Appreciate each other's skills in Basketball game"
+          ],
+          "keyInquiryQuestions": [
+            "How can a poster be made an effective means of communicating?",
+            "Why is it important to combine passing and dribbling in Basketball?"
+          ],
+          "notes": "Combines physical performance (basketball passes and dribbling) with a practical design task (logo design) -- both need a non-traditional quiz approach; identifying/naming pass and dribble types is knowledge-testable."
+        },
+        {
+          "name": "2.10 Indigenous Kenyan Crafts",
+          "subSubStrands": [
+            "Pottery",
+            "Weaving"
+          ],
+          "specificLearningOutcomes": [
+            "Describe coil techniques in pottery",
+            "Model a vessel using coil method",
+            "Make a frame loom for weaving",
+            "Make a fabric using 2/1 twill weaving technique",
+            "Display and critique own and others' woven articles"
+          ],
+          "keyInquiryQuestions": [
+            "Why is clay the preferred material for pottery?",
+            "How is a fabric woven?"
+          ],
+          "notes": "Predominantly hands-on craft production (modelling pottery with coil method, building a frame loom, weaving fabric) -- needs a non-traditional quiz approach; describing the coil technique and explaining why clay/weaving work is knowledge-testable."
+        },
+        {
+          "name": "2.11.1 Swimming (Optional)",
+          "subSubStrands": [
+            "Standing dive",
+            "Butterfly stroke"
+          ],
+          "specificLearningOutcomes": [
+            "Describe the body position in standing dive and butterfly stroke in swimming",
+            "Perform a standing dive in swimming",
+            "Perform the butterfly stroke in swimming",
+            "Appreciate swimming as a life skill"
+          ],
+          "keyInquiryQuestions": [
+            "How can swimming skills be performed safely?",
+            "Why is synchrony important in butterfly stroke?"
+          ],
+          "notes": "OPTIONAL sub-strand: the design instructs the learner to cover EITHER this (Swimming) OR 2.11.2 (Kenyan Indigenous Games), not both. Almost entirely physical/practical performance (standing dive, butterfly stroke) requiring pool access -- needs a non-traditional quiz approach; describing body position/technique is knowledge-testable."
+        },
+        {
+          "name": "2.11.2 Kenyan Indigenous Games (Optional)",
+          "subSubStrands": [
+            "Board games"
+          ],
+          "specificLearningOutcomes": [
+            "Identify types of indigenous board games played in Kenya",
+            "Perform different indigenous board games",
+            "Perform indigenous board games to background music for enjoyment",
+            "Appreciate the role played by indigenous board games for mental health"
+          ],
+          "keyInquiryQuestions": [
+            "How do indigenous board games enhance mental relaxation?",
+            "Why are board games considered an indigenous game?"
+          ],
+          "notes": "OPTIONAL sub-strand: the design instructs the learner to cover EITHER this (Kenyan Indigenous Games) OR 2.11.1 (Swimming), not both. Mixed: identifying board game types is knowledge-testable; performing/playing the games is a practical skill. Document's own summary table inconsistently numbers this sub-strand '2.12.2' in one place and '2.11.2' in the detailed content section -- treated here as 2.11.2 per the detailed content heading, with the numbering inconsistency flagged as a source document quirk, not a sourcing error on our part."
+        }
+      ]
+    },
+    {
+      "name": "Appreciation in Creative Arts and Sports",
+      "subStrands": [
+        {
+          "name": "3.1 Analysis of Creative Arts and Sports",
+          "subSubStrands": [
+            "Analyse Key: C major, G major, F major",
+            "Anti-doping in sports",
+            "Time signature: 2/4, 3/4, 4/4",
+            "Performance directions - repeat and dynamics",
+            "Art catalogue: (name of gallery, artist's name, type of artwork, medium, subject matter/theme, function)"
+          ],
+          "specificLearningOutcomes": [
+            "Analyse a play performance",
+            "Examine ethical practices in sports",
+            "Analyse a solo vocal piece of music",
+            "Critique exhibited artworks for inspiration",
+            "Appreciate the role of analysis in adding value to Creative Arts and Sports"
+          ],
+          "keyInquiryQuestions": [
+            "Why is analysis an important skill in Creative Arts and Sports?",
+            "How can analysis of creative arts and sports enhance creativity?"
+          ],
+          "notes": "The most quiz-friendly sub-strand in this subject: analysing/critiquing/examining are knowledge and reasoning skills (music key/time-signature analysis, anti-doping ethics, art-catalogue conventions, play-performance critique criteria) rather than physical or artistic execution, though it does presuppose the learner has been exposed to the performances/artworks being analysed."
+        }
+      ]
+    }
+  ]
+}

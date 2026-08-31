@@ -1,0 +1,628 @@
+{
+  "subject": "Arabic Language",
+  "subjectId": "arabic",
+  "grade": 6,
+  "source": {
+    "title": "Primary School Education Curriculum Design — Arabic Language Grade 6 (First Published 2017, Revised 2024)",
+    "url": "User-supplied local file (grade-6-curriculum-desings/GRADE-6-ARABIC-Curriculum-Designs.pdf); no confirmed public mirror recorded.",
+    "publisher": "Kenya Institute of Curriculum Development (KICD)",
+    "isbn": "978-9914-43-001-1",
+    "retrievedDate": "2026-08-17",
+    "confidence": "high",
+    "notes": "Read in full via the Read tool with no `pages` parameter (native text extraction, all 77 pages). CONFIRMS the 9-theme x 3-strand = 27 sub-strand architecture shared with French/German/Mandarin/Arabic Grade 7-9 (Greetings and Introduction, Family, My Surrounding, Time, Fun and Enjoyment, Food and Drinks, Body Parts/My Body, Weather and Environment, Getting Around) — verified directly from the document body (Strand 1.0 pp.13-32, Strand 2.0 pp.33-52, Strand 3.0 pp.53-72), not just the p.xii 'SUMMARY OF STRANDS AND SUBSTRANDS' aggregation table (which groups by sub-strand NAME, e.g. 'Phonological awareness: Pronunciation' appears twice at 1.1 and 1.6, summing to 4 lessons in the summary — this is the same aggregation-table trap flagged in Grade 8 Arabic's sourcing notes; the per-theme tables were used as the source of truth here, not the summary). Grade 6 is Upper Primary (not Junior School) and its essence statement differs from the sibling grades only in the final clause: 'The learner will transit to Junior School having acquired basic proficiency equivalent to A1/YCT2' (vs 'transit to Senior School' in Grade 8/9). KEY CONTENT-DEPTH FINDING: unlike Grade 7/8 Arabic, this Grade 6 design gives very few concrete named Arabic words/phrases in its Suggested Learning Experiences columns — it is markedly more meta/process-oriented (activities like 'listen to an audio recording', 'peer assess', 'role play') rather than supplying specific vocabulary items. The concrete content it DOES name verbatim is: the four short vowel signs/harakat (fatha, kasra, dhama, sukun) at 1.1; nunation/tanween at 1.3 and 2.3; shaddah-emphasis example words 'sabburah, Allah, baddah' at 1.4; long vowel/madda at 1.5 and 2.5; makhariju huruf (articulation points/phonetics) at 1.7; the English-language example greeting register 'good morning, good afternoon, good evening' at 1.1; the English-language example food-preference sentence 'I like rice than ugali, I don't like chips' at 1.6; the English-language example school-property sentences 'the office is closed today, the library is big' at 3.3; the English-language example sentence 'I brush my teeth every morning' at 3.7; and the position/location vocabulary set 'next to, opposite, in front, near, across' plus the worked examples 'behind the library, near the staffroom' at 1.9. All other thematic vocabulary (nuclear family member names, months of the year, games/sports names, food items, body parts, weather conditions, school facilities) is named only as a category heading (e.g. 'Vocabulary building- Nuclear family', 'Vocabulary- games and sports') without KICD supplying the actual word list — consistent with the established sibling-grade convention (see grade-8/arabic.json), the actual romanized-Arabic vocabulary items used in the shipped skills were authored to match each named category, at Grade 6's basic/foundational level, not invented beyond what the category names call for. A second structural difference from Grade 7/8: Theme 9 'Getting Around' does NOT carry transport vocabulary at Grade 6 (unlike the G7/G8 sibling pattern) — its actual content is 1.9 Language Use (locating objects/positions), 2.9 Extensive Reading (library skills/reading logs), and 3.9 Guided Writing: Paragraph Writing (describing school facilities); the shipped Grade 6 skills follow this actual mined content rather than assuming a transport theme by analogy to G7/G8. Suggested Learning Experiences, Core Competencies, Values, PCIs and Links to Other Learning Areas were all read in full per the mining guide's 8-part checklist and are captured below via `learningExperiences`, `coreCompetencies`, `linkedLearningAreas` and `scopeNotes`. Assessment rubrics (pp.31-32 Listening & Speaking, pp.51-52 Reading, pp.71-72 Writing) were reviewed — all describe the same 4-band Exceeds/Meets/Approaches/Below Expectation structure as the sibling grades, no sub-strand-specific content beyond what's already captured. Appendix 1 (p.73-75) describes the annual Community Service Learning (CSL) project (Whole School Approach, hosted in Social Studies) and Appendix 2 (p.76-77) lists generic per-strand learning resources/assessment methods/non-formal activities (Kenya Music Festival, Arabic language Clubs, Exchange Programs, Language Days, Inter-House/Class/School Competitions) — these are cross-strand and not sub-strand-specific, so not repeated per sub-strand below. Unlike Grade 8 Arabic, this Grade 6 design has NO separate 'Showcasing of skills and concepts (Exhibition)' strand entry in the body — the summary table lists it as a standalone 6-lesson allocation (bringing the 54 sub-strand lessons + 6 = 60 total), matching the same pattern as Grade 8's Exhibition allocation, tied to the same Appendix 1 CSL project."
+  },
+  "essenceNote": "Kenya is part of the international community and therefore the learners shall be given an opportunity to learn foreign languages in addition to the national, official and indigenous languages. These foreign languages include: Arabic, French, German and Mandarin. The Learner is expected to acquire the four language skills: listening, speaking, reading and writing at a basic level in the curriculum. This will give the learner an opportunity to acquire language competencies in an experiential, innovative and flexible ways. Foreign languages learning at this level is guided by social-constructivism and environmental theories. Learning of these languages will promote international consciousness and appreciation of one's own and others' cultures. The learner will transit to Junior School having acquired basic proficiency equivalent to A1/YCT2 (verbatim from the source, p.x — note 'Junior School' here, not 'Senior School' as in the Grade 8/9 essence statements, since Grade 6 is the final year of Upper Primary).",
+  "generalLearningOutcomes": {
+    "scope": "By the end of Upper Primary School",
+    "notes": "Verbatim from the source document's 'SUBJECT GENERAL LEARNING OUTCOMES FOR ARABIC LANGUAGE' section (p.xi).",
+    "outcomes": [
+      "listen and respond appropriately to relevant information in the Arabic language,",
+      "read a wide variety of texts fluently and accurately for lifelong learning,",
+      "write texts legibly, coherently and creatively in the Arabic language,",
+      "express themselves fluently and confidently in varied contexts,",
+      "appreciate the role of Arabic language as a means of embracing creativity and international relevance,",
+      "enjoy communicating in the Arabic language,",
+      "appreciate cultural awareness and exposure to the Arabic language."
+    ]
+  },
+  "strands": [
+    {
+      "name": "1.0 Listening and Speaking",
+      "subStrands": [
+        {
+          "code": "1.1",
+          "name": "Phonological Awareness: Pronunciation",
+          "theme": "Greetings and Introduction",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "articulate target sounds and words for comprehension",
+            "use appropriate words to introduce self and others",
+            "develop interest in learning the Arabic words"
+          ],
+          "learningExperiences": [
+            "work jointly to pronounce sounds and words from a given display",
+            "collaborate with peers to articulate sounds using Arabic signs (harakat), e.g. fatha, kasra, dhama, sukun",
+            "listen to Arabic greetings and basic introductions from a recording",
+            "work jointly to pick out phrases used in greetings and introduction e.g. good morning, good afternoon, good evening",
+            "collaborate with peers to role play a greeting and introduction session to introduce themselves and peers"
+          ],
+          "keyInquiryQuestions": ["Why do we greet one another?", "How does pronunciation affect fluency?"],
+          "coreCompetencies": ["Communication and collaboration", "Creativity and imagination"],
+          "linkedLearningAreas": ["English", "Kiswahili"]
+        },
+        {
+          "code": "1.2",
+          "name": "Listening for Gist: Attentive Listening",
+          "theme": "Family",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "pronounce words from minimal pairs with accuracy",
+            "identify vocabulary on nuclear family members from an oral text for information",
+            "appreciate attentive listening in communication for lifelong learning"
+          ],
+          "learningExperiences": [
+            "listen to an audio recording on minimal pairs and articulate the words accurately",
+            "team up to record each other articulating the words",
+            "organise the voice recordings recorded in a digital portfolio",
+            "work jointly to identify vocabulary related to names of nuclear family members from an audio recording",
+            "collaborate with peers to build a vocabulary bank on thematic words"
+          ],
+          "keyInquiryQuestions": ["How can you show love to your family members?", "How can we listen to texts attentively?"],
+          "coreCompetencies": ["Digital literacy", "Self-efficacy"],
+          "linkedLearningAreas": ["Social Studies"]
+        },
+        {
+          "code": "1.3",
+          "name": "Attentive Listening: Simple Instructions",
+          "theme": "My Surrounding",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "pronounce words from given context accurately",
+            "respond to instructions related to the theme for comprehension",
+            "develop interest in pronouncing Arabic words correctly"
+          ],
+          "learningExperiences": [
+            "participate in conversations related to the facilities in the school surrounding",
+            "listen attentively to an audio recording on words with nunation (Tanween)",
+            "work jointly to practice pronouncing the target words correctly",
+            "answer questions related to care of school property",
+            "team up to prepare class rules and instructions on how to care for school property",
+            "play a language game involving giving and responding to instructions e.g. the 'simon says' language game"
+          ],
+          "keyInquiryQuestions": ["How can you improve your listening skills?"],
+          "coreCompetencies": ["Communication and collaboration", "Critical thinking and problem solving"],
+          "linkedLearningAreas": ["Kiswahili"]
+        },
+        {
+          "code": "1.4",
+          "name": "Phonological Awareness: Fluency",
+          "theme": "Time",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "use appropriate emphasis and intonation in pronouncing words",
+            "answer direct questions on months of the year correctly",
+            "appreciate the value of time management in daily life"
+          ],
+          "learningExperiences": [
+            "listen attentively to a presentation on letters emphasizing shaddah",
+            "work jointly to practice pronouncing words using appropriate intonation e.g. sabburah, Allah, baddah",
+            "collaborate to answer direct questions on months of the year",
+            "work jointly to compose a song on months of the year and activities carried out in the various months",
+            "present the song during inter-class festivals"
+          ],
+          "keyInquiryQuestions": ["How can the months of the year help us in organizing school activities?"],
+          "coreCompetencies": ["Creativity and imagination", "Critical thinking and problem solving"],
+          "linkedLearningAreas": ["English"]
+        },
+        {
+          "code": "1.5",
+          "name": "Listening for Gist: Attentive Listening",
+          "theme": "Fun and Enjoyment",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "identify games and sports from an oral text",
+            "describe games and sports using simple sentences and phrases",
+            "appreciate the importance of listening skills"
+          ],
+          "learningExperiences": [
+            "listen attentively to an oral presentation about sports and games",
+            "work jointly to identify various sports and games from the presentation",
+            "take turns to repeat words related to the theme while focusing on long vowels (madda) orally",
+            "conduct a discussion forum to describe games and sports using simple sentences (begin; I like/love....., I don't like/love.....)",
+            "team up to compose a singing rhyme on common games and sports"
+          ],
+          "keyInquiryQuestions": ["How do games and sports help us?", "How do we express our likes and dislikes in sentences?"],
+          "coreCompetencies": ["Learning to learn"],
+          "linkedLearningAreas": ["Creative Arts"]
+        },
+        {
+          "code": "1.6",
+          "name": "Phonological Awareness: Pronunciation",
+          "theme": "Food and Drinks",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "pronounce words related to the theme accurately",
+            "use appropriate pronunciation and intonation in describing food preferences",
+            "develop interest in pronouncing words correctly"
+          ],
+          "learningExperiences": [
+            "listen to a presentation on food preferences from a digital device and answer the questions",
+            "work jointly to pronounce the words identified from the presentation accurately",
+            "conduct a conversation in pairs using vocabulary related to food preferences e.g. I like rice than ugali, I don't like chips",
+            "team up to peer assess each other's presentation for correct pronunciation and intonation"
+          ],
+          "keyInquiryQuestions": ["How can you enhance your speaking skill?"],
+          "coreCompetencies": ["Digital literacy", "Self-efficacy"],
+          "linkedLearningAreas": ["Agriculture"]
+        },
+        {
+          "code": "1.7",
+          "name": "Conversational Skills",
+          "theme": "Body Parts",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "identify polite words used to interrupt in conversations",
+            "apply appropriate etiquette and turn taking skills in conversations",
+            "acknowledge the role of etiquette in interpersonal communication"
+          ],
+          "learningExperiences": [
+            "work jointly to pick out polite words used to interrupt politely in the conversation",
+            "practice pronouncing words while focusing on makhariju huruf (phonetics)",
+            "work jointly to hold a discussion forum on general body grooming practices while using polite words to interrupt where necessary",
+            "work jointly to conduct a debate session while applying etiquette and turn taking"
+          ],
+          "keyInquiryQuestions": ["How do you take care of your body?", "Why should we observe etiquette in conversations?"],
+          "coreCompetencies": ["Critical thinking and problem solving", "Self-efficacy"],
+          "linkedLearningAreas": ["Science and Technology"]
+        },
+        {
+          "code": "1.8",
+          "name": "Imitative Speaking: Pronunciation",
+          "theme": "Weather and Environment",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "use appropriate pronunciation and intonation to describe weather conditions",
+            "respond to simple questions correctly",
+            "develop interest in speaking fluently in the Arabic language"
+          ],
+          "learningExperiences": [
+            "team up to describe weather conditions using appropriate pronunciation and intonation",
+            "listen keenly to a presentation on weather conditions",
+            "work with peers to answer questions based on the presentation",
+            "play a language game involving describing weather patterns using non-verbal cues and have peers guess the weather condition implied"
+          ],
+          "keyInquiryQuestions": ["How can we take care of our immediate environment?", "Why do we use imitative speaking to learn languages?"],
+          "coreCompetencies": ["Communication and collaboration", "Critical thinking and problem solving"],
+          "linkedLearningAreas": ["Science and Technology"]
+        },
+        {
+          "code": "1.9",
+          "name": "Language Use",
+          "theme": "Getting Around",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "recognise objects from an oral text",
+            "describe positions of objects in relation to others for comprehension",
+            "appreciate speaking skills to convey information accurately"
+          ],
+          "learningExperiences": [
+            "share tasks with peers to identify objects in their environment",
+            "describe the position of each of the objects in relation to another using words like next to, opposite, in front of, near, across",
+            "work jointly to demonstrate various positions or locations in relation to other school facilities e.g. behind the library, near the staffroom",
+            "watch a video about areas in the environment and use the correct vocabulary to locate them in groups",
+            "play the treasure hunt game with peers to locate objects in the surrounding"
+          ],
+          "keyInquiryQuestions": ["How can you improve your speaking skill?", "Why does the position of objects affect their description?"],
+          "coreCompetencies": ["Communication and collaboration", "Digital literacy"],
+          "linkedLearningAreas": ["English"],
+          "scopeNotes": ["include: next to, opposite, in front of, near, across as the core position-vocabulary set for this sub-strand"]
+        }
+      ]
+    },
+    {
+      "name": "2.0 Reading",
+      "subStrands": [
+        {
+          "code": "2.1",
+          "name": "Guided Reading: Fluency",
+          "theme": "Greetings and Introduction",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "recognise signs (harakat) in words and phrases on familiar topics",
+            "read simple sentences on basic introductions using appropriate intonation",
+            "develop interest in reading Arabic words"
+          ],
+          "learningExperiences": [
+            "work jointly to pick out the signs (harakat) in words and phrases",
+            "practice pronouncing words with the signs (harakat) accurately",
+            "read Arabic words using the correct signs (harakat) from a given display",
+            "work jointly to read simple sentences on greetings and self-introduction using appropriate intonation",
+            "practice reading a variety of short texts at home"
+          ],
+          "keyInquiryQuestions": ["Why is greeting important in the society?", "How can one ensure they read fluently?"],
+          "coreCompetencies": ["Self-efficacy", "Learning to learn"],
+          "linkedLearningAreas": ["English"]
+        },
+        {
+          "code": "2.2",
+          "name": "Reading for Comprehension",
+          "theme": "Family",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "pick out target vocabulary from a reading text",
+            "infer meaning of words from context",
+            "appreciate vocabulary building for language acquisition"
+          ],
+          "learningExperiences": [
+            "work jointly to conduct a reading session on texts related to the theme",
+            "team up to pick out thematic vocabulary from the text",
+            "build a vocabulary bank of words identified",
+            "collaborate to infer meaning of vocabulary from context",
+            "work with peers to match meaning of words to the respective words",
+            "take turns to make sentences using the vocabulary"
+          ],
+          "keyInquiryQuestions": ["How can you show love to your family members?", "How does vocabulary help in language acquisition?"],
+          "coreCompetencies": ["Citizenship", "Critical thinking and problem solving"],
+          "linkedLearningAreas": ["Religious Education"]
+        },
+        {
+          "code": "2.3",
+          "name": "Reading Aloud: Fluency",
+          "theme": "My Surrounding",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "read simple sentences fluently",
+            "use appropriate speed to read simple texts for fluency",
+            "develop interest in reading Arabic for pleasure and understanding"
+          ],
+          "learningExperiences": [
+            "work jointly to identify school property from a digital device",
+            "read sentences related to the theme aloud",
+            "team up to peer assess each other's reading for correct pronunciation and reading speed",
+            "compete in reading words with nunations (tanween) in pairs",
+            "collaborate to play a language game involving reading the same sentences aloud at various speeds",
+            "work jointly to identify the best reading speed from the speeds used"
+          ],
+          "keyInquiryQuestions": ["Why is it important to read correctly?", "How does reading speed enhance fluency?"],
+          "coreCompetencies": ["Digital Literacy", "Self-efficacy"],
+          "linkedLearningAreas": ["English", "Kiswahili"]
+        },
+        {
+          "code": "2.4",
+          "name": "Reading for Information",
+          "theme": "Time",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "identify vocabulary related to the theme from a written text",
+            "answer direct and inferential questions from a text for comprehension",
+            "develop interest in reading Arabic texts"
+          ],
+          "learningExperiences": [
+            "work jointly to identify words related to months of the year from a reading text",
+            "use a digital device to drag and drop words to match meaning to vocabulary of words related to the theme",
+            "respond to direct and inferential questions based on a text",
+            "peer review each other's answers for correctness",
+            "read level appropriate text independently during free time"
+          ],
+          "keyInquiryQuestions": ["How can you improve your reading skills?", "How can one pick out specific details from a text?"],
+          "coreCompetencies": ["Learning to learn", "Digital Literacy"],
+          "linkedLearningAreas": ["English"]
+        },
+        {
+          "code": "2.5",
+          "name": "Guided Reading: Fluency",
+          "theme": "Fun and Enjoyment",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "identify familiar words from a given text",
+            "read a short passage with proper intonation and stress confidently",
+            "develop interest in reading Arabic texts"
+          ],
+          "learningExperiences": [
+            "read short familiar texts on sports and games aloud while focusing on long vowels (madda) and shadda",
+            "work with peers to pick out familiar words from the texts",
+            "list the vocabulary identified on flashcards",
+            "read a short paragraph with proper intonation and stress",
+            "peer assess each other's reading for fluency",
+            "conduct a reading fluency competition with peers to participate for enjoyment and leisure"
+          ],
+          "keyInquiryQuestions": ["How do you spend your free time?", "How does intonation and stress enhance fluency?"],
+          "coreCompetencies": ["Critical thinking and problem solving", "Learning to learn"],
+          "linkedLearningAreas": ["Creative Arts"]
+        },
+        {
+          "code": "2.6",
+          "name": "Reading Aloud: Fluency",
+          "theme": "Food and Drink",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "apply appropriate intonation in reading for fluency",
+            "read texts with expression for fluency",
+            "develop interest in reading Arabic texts for enjoyment"
+          ],
+          "learningExperiences": [
+            "work with peers to identify familiar phrases from a written text on food preferences",
+            "recite short poems aloud with the appropriate intonation and with expression to express their preferences for food and drinks",
+            "work jointly to peer assess each other's presentation for correct expression and intonation",
+            "read level appropriate poems with correct expression",
+            "present the poems during the class exhibitions and contests"
+          ],
+          "keyInquiryQuestions": ["How does adding expression make reading better?"],
+          "coreCompetencies": ["Critical thinking and problem solving"],
+          "linkedLearningAreas": ["Agriculture"]
+        },
+        {
+          "code": "2.7",
+          "name": "Extensive Reading",
+          "theme": "Body Parts",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "read a simple story and poem with appropriate speed for comprehension",
+            "pick out the main idea from a story for comprehension",
+            "develop interest in reading variety of Arabic texts for enjoyment"
+          ],
+          "learningExperiences": [
+            "conduct a reader's theatre to read stories and poems about the parts of body",
+            "work jointly to build a vocabulary bank on words picked out from the texts",
+            "work jointly to identify the main idea in a text",
+            "engage in reading activities for pleasure and understanding at home"
+          ],
+          "keyInquiryQuestions": ["Why is reading important?", "How can we make reading interesting?"],
+          "coreCompetencies": ["Citizenship", "Communication and collaboration"],
+          "linkedLearningAreas": ["Science and Technology"]
+        },
+        {
+          "code": "2.8",
+          "name": "Reading for Comprehension",
+          "theme": "Weather and Environment",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "identify words used to describe positions of objects from a written text",
+            "respond to questions from a written text for comprehension",
+            "develop interest in reading short Arabic texts"
+          ],
+          "learningExperiences": [
+            "work with peers to identify words used to describe position of objects in relation to others",
+            "list the words identified on manila papers for display",
+            "use the words identified, to construct sentences related to the theme",
+            "conduct a readers' theatre to read texts related to the theme at appropriate speed",
+            "work jointly to answer questions from the text",
+            "team up to recite poems about weather conditions"
+          ],
+          "keyInquiryQuestions": ["How can we take care of our immediate environment?"],
+          "coreCompetencies": ["Learning to learn", "Self-efficacy"],
+          "linkedLearningAreas": ["Science and Technology"]
+        },
+        {
+          "code": "2.9",
+          "name": "Extensive Reading",
+          "theme": "Getting Around",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "identify Arabic texts to read for enjoyment",
+            "create a reading log to track reading progress for lifelong learning",
+            "advocate for self-paced reading for language appreciation"
+          ],
+          "learningExperiences": [
+            "work jointly with peers to collect Arabic texts for reading",
+            "team up to create a class mini-library of Arabic texts in the class",
+            "conduct a reader's theatre to read Arabic texts for enjoyment",
+            "prepare a reading log with details on the title, author, characters and the most interesting events, to track reading progress over time",
+            "conduct a discussion to share views on stories read with peers",
+            "display their Arabic collection of literature during the Arabic exhibition sessions"
+          ],
+          "keyInquiryQuestions": ["Why do we need to keep school facilities safe?", "How can we make reading an interesting activity?"],
+          "coreCompetencies": ["Communication and collaboration", "Self-efficacy"],
+          "linkedLearningAreas": ["English"]
+        }
+      ]
+    },
+    {
+      "name": "3.0 Writing",
+      "subStrands": [
+        {
+          "code": "3.1",
+          "name": "Guided Writing: Handwriting",
+          "theme": "Greetings and Introduction",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "re-write sentences using correct word spacing",
+            "write paragraphs related to the theme neatly and legibly",
+            "develop interest in writing neatly and legibly in Arabic"
+          ],
+          "learningExperiences": [
+            "write words with correct signs (harakat)",
+            "re-write sentences using correct word spacing for neatness",
+            "peer assess each other's work for neatness and legibility",
+            "team up to practice writing paragraphs with correct word spacing neatly and legibly and display in class for review",
+            "conduct a writing contest to advocate for neatness and legibility"
+          ],
+          "keyInquiryQuestions": ["Why is handwriting a key aspect in writing?"],
+          "coreCompetencies": ["Creativity and imagination", "Self-efficacy"],
+          "linkedLearningAreas": ["English"]
+        },
+        {
+          "code": "3.2",
+          "name": "Guided Writing: Writing Styles",
+          "theme": "Family",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "outline family member's names for comprehension",
+            "write short paragraphs using appropriate signs (harakat)",
+            "appreciate use of signs appropriately in Arabic writing"
+          ],
+          "learningExperiences": [
+            "identify the family members in a typical nuclear family",
+            "place the correct signs (harakat) in given words related to family members",
+            "copy sentences about family members from a given display neatly and legibly",
+            "work jointly with peers to play scrabble games forming simple Arabic words related to family members",
+            "model the Arabic signs from locally available materials and present in class",
+            "write a short paragraph about members of the family using appropriate signs (harakat) in neat and legible handwriting",
+            "display the neatly written paragraphs in class for review"
+          ],
+          "keyInquiryQuestions": ["How can you develop a good handwriting?"],
+          "coreCompetencies": ["Critical thinking and problem solving"],
+          "linkedLearningAreas": ["Social Studies"]
+        },
+        {
+          "code": "3.3",
+          "name": "Guided Writing: Spelling",
+          "theme": "My Surrounding",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "outline vocabulary based on the theme using correct spelling",
+            "construct simple paragraphs with correct spelling for comprehension",
+            "appreciate the role of spelling in effective communication"
+          ],
+          "learningExperiences": [
+            "work jointly to list dictated vocabulary related to the theme",
+            "collaborate with peers to form words from a collection of jumbled up letters/characters",
+            "team up to write simple sentences, describing school property e.g. the office is closed today, the library is big",
+            "compose simple paragraphs on the theme neatly and legibly",
+            "share their well written paragraphs with peers for review"
+          ],
+          "keyInquiryQuestions": ["How do you take care of school property?", "How does spelling affect meaning of words?"],
+          "coreCompetencies": ["Creativity and imagination"],
+          "linkedLearningAreas": ["Social Studies"]
+        },
+        {
+          "code": "3.4",
+          "name": "Guided Writing: Sentences",
+          "theme": "Time",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "list the months of the year in correct sequence",
+            "construct simple sentences using acquired vocabulary",
+            "appreciate writing for effective communication"
+          ],
+          "learningExperiences": [
+            "work in groups to list the months of the year on charts for display in class",
+            "compose a short poem on months of the year and activities carried out for each month",
+            "create sentences from a given substitution table about months of the year",
+            "team up to compete in rearranging jumbled up words to make meaningful sentences related to the theme",
+            "work jointly to fill in blanks in sentences using correct words",
+            "collaborate to develop a creative chart showing months of the year and fix it on the class wall"
+          ],
+          "keyInquiryQuestions": ["Why is it good to write legibly?"],
+          "coreCompetencies": ["Critical thinking and problem solving", "Creativity and imagination"],
+          "linkedLearningAreas": ["Mathematics"]
+        },
+        {
+          "code": "3.5",
+          "name": "Guided Writing: Sequencing Ideas",
+          "theme": "Fun and Enjoyment",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "identify features of a well-developed paragraph",
+            "organise a short imaginative paragraph for logical sequence",
+            "appreciate different Arabic writing styles"
+          ],
+          "learningExperiences": [
+            "collaborate with peers to research on the features of a well written paragraph e.g. neat and legible, well sequenced, well paragraphed, correct spelling",
+            "reorganise jumbled up words to form meaningful sentences",
+            "team up to compete in rearranging jumbled up sentences to form a coherent paragraph on sports and games",
+            "present their well sequenced paragraphs to the class for review"
+          ],
+          "keyInquiryQuestions": ["How can you form a paragraph?"],
+          "coreCompetencies": ["Critical thinking and problem solving", "Communication and collaboration"],
+          "linkedLearningAreas": ["Creative Arts"]
+        },
+        {
+          "code": "3.6",
+          "name": "Guided Writing: Sentences",
+          "theme": "Food and Drinks",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "construct simple sentences correctly",
+            "use basic descriptive words in writing simple sentences",
+            "appreciate the skill of writing for effective communication"
+          ],
+          "learningExperiences": [
+            "practice writing simple sentences on food preferences legibly and neatly",
+            "identify basic words that describe foods and drinks",
+            "work jointly to make simple sentences using the descriptive words identified",
+            "make sentences from a substitution table",
+            "work with peers to use jumbled up sentences to make a sensible paragraph"
+          ],
+          "keyInquiryQuestions": ["How do descriptive words enhance use of language?"],
+          "coreCompetencies": ["Critical thinking and problem solving", "Learning to learn"],
+          "linkedLearningAreas": ["Agriculture"]
+        },
+        {
+          "code": "3.7",
+          "name": "Guided Writing: Sentences",
+          "theme": "Body Parts",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "outline vocabulary related to the theme for comprehension",
+            "construct simple sentences to express feeling using acquired vocabulary",
+            "develop interest in vocabulary building for language acquisition"
+          ],
+          "learningExperiences": [
+            "write words related to the theme from a list of dictated words",
+            "create a mind map to build a vocabulary bank of words related to the theme",
+            "fill in a crossword puzzle using thematic vocabulary",
+            "use the vocabulary identified to make simple sentences e.g., I brush my teeth every morning",
+            "conduct a language game involving rearranging jumbled words to form meaningful sentences and rearranging jumbled up sentences to form coherent paragraphs"
+          ],
+          "keyInquiryQuestions": ["How should we take care of our body?", "Why is learning a new language key?"],
+          "coreCompetencies": ["Critical thinking and problem solving"],
+          "linkedLearningAreas": ["Science and Technology"]
+        },
+        {
+          "code": "3.8",
+          "name": "Guided Writing: Visuals",
+          "theme": "Weather and Environment",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "interpret visuals related to the theme for information",
+            "summarise information using visuals for comprehension",
+            "appreciate summary writing as a key skill in communication"
+          ],
+          "learningExperiences": [
+            "collaborate with peers to prepare a list of vocabulary related to the theme",
+            "study visuals (pictures, illustrations) related to weather and interpret the information expressed",
+            "work jointly to summarise information about the weather and environment into a picture",
+            "team up to put together pieces of a picture to form a complete and meaningful whole",
+            "conduct a Pictionary session to create visuals on various themes"
+          ],
+          "keyInquiryQuestions": ["How do weather patterns affect our daily life?", "Why are pictures considered to be worth a thousand words?"],
+          "coreCompetencies": ["Creativity and imagination", "Self-efficacy"],
+          "linkedLearningAreas": ["Social Studies"]
+        },
+        {
+          "code": "3.9",
+          "name": "Guided Writing: Paragraph Writing",
+          "theme": "Getting Around",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "identify features of well-developed paragraph",
+            "compose a paragraph using acquired vocabulary for effective communication",
+            "develop positive attitude towards writing in Arabic for enjoyment"
+          ],
+          "learningExperiences": [
+            "collaborate to conduct a research on the features of a well-developed paragraph",
+            "work jointly to form simple sentences from a substitution table",
+            "use think-pair-share to write simple sentences on describing school facilities from display of pictures",
+            "practice copying paragraphs legibly and neatly",
+            "compose a paragraph on the theme",
+            "share their paragraphs with peers for review",
+            "publish their best written paragraphs in a school or public magazine"
+          ],
+          "keyInquiryQuestions": ["How do we take care of our school facilities?", "How do we form paragraph?"],
+          "coreCompetencies": ["Critical thinking and problem solving", "Learning to learn"],
+          "linkedLearningAreas": ["English"]
+        }
+      ]
+    },
+    {
+      "name": "Showcasing of skills and concepts (Exhibition)",
+      "subStrands": [
+        {
+          "name": "Showcasing of skills and concepts (Exhibition)",
+          "notes": "Allocated 6 lessons (54 sub-strand lessons + 6 = 60 total per p.xii summary table). Not one of the 27 theme-based sub-strands above — a standalone allocation tied to the Community Service Learning (CSL) project described in Appendix 1 (p.73-75): an annual, Whole-School-Approach class project hosted in Social Studies, run in 3 steps (Preparation, Implementation, Reflection) across the school terms. No specific learning outcomes or key inquiry questions are attached to it in the source; it is assessed formatively (skills applied, core competencies, values demonstrated) rather than via a sub-strand rubric. No shipped skill file corresponds to this entry, consistent with how Grade 8 Arabic's equivalent Exhibition allocation was handled."
+        }
+      ]
+    }
+  ]
+}

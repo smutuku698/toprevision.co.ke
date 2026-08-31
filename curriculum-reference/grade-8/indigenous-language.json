@@ -1,0 +1,407 @@
+{
+  "subject": "Indigenous Language",
+  "subjectId": "indigenous-language",
+  "grade": 8,
+  "source": {
+    "title": "Junior School Curriculum Design: Indigenous Languages, Grade 8",
+    "url": "https://easylearn.co.ke/images/document/11752316/Indigenous-Languages-Grade-8-Design-Revised.pdf",
+    "publisher": "KICD (mirrored via easylearn.co.ke)",
+    "retrievedDate": "2026-08-14",
+    "confidence": "high",
+    "notes": "Filename confirmed against KICD's own Google Drive listing (kicd.ac.ke/cbc-materials/curriculum-designs/grade-eight-designs/, file id 1WEG5wJplprPae9blpB9oVyI1UaVrq-xj, whose /preview page title reads 'Indigenous Languages Grade 8 Design - Revised.pdf'). WebFetch reported it could not extract text from the PDF itself but saved it locally; Read then parsed the full PDF text natively (ISBN 978-9914-43-936-6, First Published 2023, Revised 2024). Strand/sub-strand headings, SLOs, and key inquiry questions below are transcribed verbatim. STRUCTURAL NOTE: this design uses two overlapping organisational views. A front-matter 'SUMMARY OF STRANDS AND SUB STRANDS' table presents three generic skill strands (Listening and Speaking / Reading / Writing, each with generic sub-strand categories like 'Reading comprehension', 'Extensive reading', etc., totalling 18 lessons apiece) plus a 6-lesson 'Showcasing Concepts and Skills in Indigenous Language (Exhibitions)' entry - but the actual body of the document is organised around 9 real-world THEMES (Gender Roles, ICT/Netiquette, Wildlife, Safety at School, Common Community Values, Indigenous Trade, Sports and Games, Indigenous Music, Inter-Ethnic Cohesion), each theme containing exactly one Listening & Speaking sub-strand, one Reading sub-strand, and one Writing sub-strand (2 lessons each) with genuinely different content per theme - matching the Grade 9 Indigenous Language pattern described in prior research. Following the body's organisation (themes as strands, since that is where the actual distinct content lives), each Theme is recorded here as a 'strand' with its three L&S/Reading/Writing components as subStrands. As with Grade 9, content is generic-English-medium (grammar concepts like tense, sentence construction, dialogue/poster/song writing, presentation skills) applied to indigenous-language-medium themes, not actual vocabulary in one specific mother tongue, since KICD's design does not prescribe a single indigenous language among Kenya's 40+ languages. All 9 themes carry genuinely distinct content (not the same theme retold three ways), confirming the Grade 9 finding holds at Grade 8 too."
+  },
+  "strands": [
+    {
+      "name": "Theme 1: Gender Roles",
+      "subStrands": [
+        {
+          "name": "Listening for information",
+          "notes": "Sub-topics: gender roles, responding to questions.",
+          "specificLearningOutcomes": [
+            "Identify gender roles from aural texts for information",
+            "Respond to questions on gender roles in the community from texts for comprehension",
+            "Recognise the importance of listening purposefully for comprehension"
+          ],
+          "keyInquiryQuestions": [
+            "How do we listen to get information from an aural text?",
+            "Why should some opportunities be equal among both girls and boys?"
+          ]
+        },
+        {
+          "name": "Reading for comprehension",
+          "notes": "Sub-topics: vocabulary, direct and inferential questions, tense (present and past tense).",
+          "specificLearningOutcomes": [
+            "Answer questions from texts related to the theme for comprehension",
+            "Use the vocabulary on the theme to construct sentences in appropriate tenses for communication",
+            "Embrace the use of interpersonal skills to enhance positive gender roles in society"
+          ],
+          "keyInquiryQuestions": [
+            "How can we differentiate between actions done in the past and in the present?",
+            "Why is it important to apply comprehension skills in reading?"
+          ]
+        },
+        {
+          "name": "Essay writing - Expository essay",
+          "specificLearningOutcomes": [
+            "Research on an issue related to the theme for information",
+            "Write an expository essay on gender roles for effective communication",
+            "Embrace the importance of organising ideas into a coherent sequence for communication"
+          ],
+          "keyInquiryQuestions": [
+            "How do we organise information logically in writing?",
+            "Why is it important to understand gender roles in the community?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Theme 2: Information Communication Technology (ICT) - Netiquette",
+      "subStrands": [
+        {
+          "name": "Listening for comprehension",
+          "notes": "Sub-topics: the internet, tense (future tense).",
+          "specificLearningOutcomes": [
+            "Outline the advantages and disadvantages of the internet for information",
+            "Identify future tense from aural texts for information",
+            "Value the importance of listening attentively as a way of acquiring information"
+          ],
+          "keyInquiryQuestions": [
+            "How do we listen to acquire information?",
+            "Why is it important to observe netiquette when using the internet?"
+          ]
+        },
+        {
+          "name": "Extensive reading - Library skills",
+          "notes": "Sub-topics: tracing resources, tracking reading progress, tense (future tense).",
+          "specificLearningOutcomes": [
+            "Trace specific reading materials from online or print sources",
+            "Track their reading progress by creating a reading log",
+            "Embrace safe use of the internet as a source of information for lifelong learning"
+          ],
+          "keyInquiryQuestions": [
+            "How do we get information on something we want to understand more?",
+            "Why is it important to use the internet safely and cautiously?"
+          ]
+        },
+        {
+          "name": "Social writing - Cards",
+          "notes": "Sub-topics: invitation card, appreciation card, congratulatory card.",
+          "specificLearningOutcomes": [
+            "Identify the key components of a card for information",
+            "Design a card (invitation card, appreciation card, congratulatory card) for effective communication",
+            "Advocate for the role of social writing in enhancing communication"
+          ],
+          "keyInquiryQuestions": [
+            "Why do we present cards to people?",
+            "How can we make cards more appealing when designing them?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Theme 3: Wildlife",
+      "subStrands": [
+        {
+          "name": "Attentive listening",
+          "notes": "Sub-topics: common conversational errors, responding to questions.",
+          "specificLearningOutcomes": [
+            "Identify common conversational errors for information",
+            "Respond to questions from an aural text for comprehension",
+            "Acknowledge the role of conversational skills in day-to-day communication"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to interrupt politely in a conversation?",
+            "How do we avoid conflict with wild animals?"
+          ]
+        },
+        {
+          "name": "Extensive Reading",
+          "notes": "Grade-appropriate texts. Sub-topics: vocabulary building, paraphrasing main idea.",
+          "specificLearningOutcomes": [
+            "Explain vocabulary related to the theme for effective communication",
+            "Paraphrase the main idea from a text for comprehension",
+            "Embrace reading as a source of acquiring information"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we read extensively?",
+            "Why is it important to take care of wildlife?",
+            "What can be done to avoid road accidents involving wild animals?"
+          ]
+        },
+        {
+          "name": "Writing for information - Paragraphs",
+          "specificLearningOutcomes": [
+            "Identify the features of a well-developed paragraph",
+            "Compose two well sequenced paragraphs on the theme for information",
+            "Acknowledge writing as a channel for addressing pertinent issues and ideas"
+          ],
+          "keyInquiryQuestions": [
+            "How do we write paragraphs?",
+            "Why is it important to preserve wildlife?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Theme 4: Safety at School",
+      "subStrands": [
+        {
+          "name": "Public speaking - Impromptu speech",
+          "notes": "Sub-topics: non-verbal cues, presentation.",
+          "specificLearningOutcomes": [
+            "Identify the non-verbal cues in communication",
+            "Present a short talk on the theme using appropriate non-verbal cues for effective communication",
+            "Recognise the value of non-verbal cues in enhancing communication"
+          ],
+          "keyInquiryQuestions": [
+            "How do non-verbal cues enhance understanding?",
+            "Why is it important to follow the appropriate steps of first aid in case of an accident?"
+          ]
+        },
+        {
+          "name": "Reading for information - Poetry",
+          "notes": "Sub-topics: responding to questions, vocabulary building, sentence construction.",
+          "specificLearningOutcomes": [
+            "Respond to questions from texts for information",
+            "Create a glossary with words related to the theme for information",
+            "Construct sentences using the new vocabulary for effective communication",
+            "Appreciate the role of reading as a way of acquiring information"
+          ],
+          "keyInquiryQuestions": [
+            "Why should there be security measures in school?"
+          ]
+        },
+        {
+          "name": "Writing to give information",
+          "notes": "Sub-topics: connectors of sequence, composition writing.",
+          "specificLearningOutcomes": [
+            "Outline the steps of responding to an emergency in school, using connectors of sequence",
+            "Write a composition on the process of responding to an emergency in school",
+            "Recognise process writing as a way of passing information"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to understand how to respond to an emergency?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Theme 5: Common Community Values (Unity, Respect and Hard Work)",
+      "subStrands": [
+        {
+          "name": "Storytelling",
+          "notes": "Sub-topics: proverbs and wise sayings, re-telling stories, lessons learnt.",
+          "specificLearningOutcomes": [
+            "Re-tell a short story on the theme for expression",
+            "Explain proverbs and wise sayings used in oral presentations for information",
+            "Embrace the common community values for lifelong learning"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to pass culture from one generation to another?"
+          ]
+        },
+        {
+          "name": "Reading for information",
+          "notes": "Sub-topics: vocabulary building, responding to questions.",
+          "specificLearningOutcomes": [
+            "Identify vocabulary related to the theme for information",
+            "Respond to questions from texts for comprehension",
+            "Acknowledge the role of reading for acquisition of information"
+          ],
+          "keyInquiryQuestions": [
+            "Why are community values important?"
+          ]
+        },
+        {
+          "name": "Creative writing - Poetry",
+          "notes": "Sub-topics: features of poems, aspects of style.",
+          "specificLearningOutcomes": [
+            "Identify features of a poem for information",
+            "Write a simple poem on the theme for creative expression",
+            "Advocate for the use of poetry in the promotion of community values"
+          ],
+          "keyInquiryQuestions": [
+            "Why are poems important in transmitting culture?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Theme 6: Indigenous Trade",
+      "subStrands": [
+        {
+          "name": "Self-expression - interviews",
+          "notes": "Sub-topics: characteristics of a good presentation, audience awareness, turn taking and interrupting politely.",
+          "specificLearningOutcomes": [
+            "Identify the characteristics of a good oral presentation for information",
+            "Apply audience awareness in a mock interview session for expression",
+            "Observe the skills of turn-taking and interrupting politely in a dialogue for expression",
+            "Value the need for confidence in oral presentation for self-expression"
+          ],
+          "keyInquiryQuestions": [
+            "How do we apply audience awareness in an oral presentation?",
+            "Why is it important to take turns and interrupt politely in dialogues?"
+          ]
+        },
+        {
+          "name": "Reading for comprehension - Play",
+          "notes": "Sub-topics: vocabulary building, summarising main ideas, responding to questions.",
+          "specificLearningOutcomes": [
+            "Identify vocabulary on indigenous trade from a play for information",
+            "Summarise the main ideas from a play for comprehension",
+            "Respond to questions from a play for comprehension",
+            "Acknowledge relating events and ideas to real life for life-long learning"
+          ],
+          "keyInquiryQuestions": [
+            "How can we enhance comprehension when reading a play?",
+            "How does indigenous trade differ from modern trade?"
+          ]
+        },
+        {
+          "name": "Writing to give information - Dialogue",
+          "specificLearningOutcomes": [
+            "Examine the features of a dialogue for effective writing",
+            "Create a dialogue on the theme for information",
+            "Acknowledge the importance of dialogue writing in communication"
+          ],
+          "keyInquiryQuestions": [
+            "What are the key features of a dialogue?",
+            "Why are values important when engaging in any business transaction?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Theme 7: Sports and Games",
+      "subStrands": [
+        {
+          "name": "Presentation skills - Debate",
+          "notes": "Sub-topics: vocabulary, organising ideas logically, audience awareness skills.",
+          "specificLearningOutcomes": [
+            "Identify vocabulary related to sports and games for information",
+            "Organise ideas logically for comprehension",
+            "Apply appropriate audience awareness skills during debate for expression",
+            "Acknowledge audience awareness skills in effective public presentations"
+          ],
+          "keyInquiryQuestions": [
+            "How do we ensure that the audience follows a presentation?",
+            "Why are sports and games important in modern living?"
+          ]
+        },
+        {
+          "name": "Reading for information",
+          "notes": "Sub-topics: responding to questions, vocabulary building, summarising ideas.",
+          "specificLearningOutcomes": [
+            "Answer questions from texts for information",
+            "Create a personal collection of vocabulary related to the theme for comprehension",
+            "Summarise the key ideas from texts for information",
+            "Embrace the acquisition of knowledge on sports and games through reading"
+          ],
+          "keyInquiryQuestions": [
+            "How do we read to find information from texts efficiently?",
+            "Why should we engage in sports and games?"
+          ]
+        },
+        {
+          "name": "Essay writing - Descriptive composition",
+          "notes": "Sub-topics: descriptive composition, adjectives.",
+          "specificLearningOutcomes": [
+            "Identify descriptive words from a text on sports and games",
+            "Write a descriptive composition on a topic related to the theme for information",
+            "Advocate for use of appropriate descriptive words in communication"
+          ],
+          "keyInquiryQuestions": [
+            "How do we present information in descriptive writing?",
+            "Why is it important to consider personal interests when choosing a sport or game?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Theme 8: Indigenous Music",
+      "subStrands": [
+        {
+          "name": "Story telling - Ogre narrative",
+          "notes": "Sub-topics: characteristics of a good storyteller, moral lessons.",
+          "specificLearningOutcomes": [
+            "Explain the characteristics of a good story teller for information",
+            "Retell an ogre narrative from the community for effective communication",
+            "Acknowledge the role of ogre narratives in the preservation of culture"
+          ],
+          "keyInquiryQuestions": [
+            "Why are ogre stories important?",
+            "How can we make a storytelling session more captivating?"
+          ]
+        },
+        {
+          "name": "Intensive reading - Ogre stories",
+          "notes": "Sub-topics: features, responding to questions, vocabulary building.",
+          "specificLearningOutcomes": [
+            "Identify the features of ogre stories for information",
+            "Respond to questions from texts for comprehension",
+            "Use vocabulary related to the theme in sentence construction for comprehension",
+            "Embrace the place of ogre tales in cultural conservation"
+          ],
+          "keyInquiryQuestions": [
+            "How can we read to get specific information from a text?",
+            "How do ogre stories differ from other stories?"
+          ]
+        },
+        {
+          "name": "Creative writing - Songs",
+          "notes": "Sub-topics: features, aspects of language.",
+          "specificLearningOutcomes": [
+            "Outline the features of a song for information",
+            "Compose a simple song related to the theme for effective communication",
+            "Advocate for song writing as a way of recording indigenous knowledge"
+          ],
+          "keyInquiryQuestions": [
+            "How do we write an interesting song?",
+            "Why is writing important for indigenous knowledge?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Theme 9: Inter-Ethnic Cohesion (One Kenya, One Nation)",
+      "subStrands": [
+        {
+          "name": "Presentation skills - Songs",
+          "notes": "Sub-topics: intonation, vocabulary building.",
+          "specificLearningOutcomes": [
+            "Identify intonation used in speech for information",
+            "Use acquired vocabulary to present a song",
+            "Acknowledge the importance of audience awareness in presentation"
+          ],
+          "keyInquiryQuestions": [
+            "How can we make a presentation more appealing?",
+            "Why is correct intonation a key aspect in oral presentations?"
+          ]
+        },
+        {
+          "name": "Reading for information",
+          "notes": "Sub-topics: vocabulary building, responding to questions.",
+          "specificLearningOutcomes": [
+            "Identify vocabulary used in texts for information",
+            "Respond to texts on inter-ethnic cohesion for comprehension",
+            "Embrace the need for inter-ethnic cohesion for better living"
+          ],
+          "keyInquiryQuestions": [
+            "Why do we need to co-exist as a country despite our differences in culture?"
+          ]
+        },
+        {
+          "name": "Functional Writing - Posters",
+          "specificLearningOutcomes": [
+            "Identify features of a poster for information",
+            "Design a poster on the theme for effective communication",
+            "Acknowledge the role of posters in creating awareness for inter-ethnic cohesion"
+          ],
+          "keyInquiryQuestions": [
+            "How can posters be used to foster cohesion among people?"
+          ]
+        }
+      ]
+    }
+  ]
+}

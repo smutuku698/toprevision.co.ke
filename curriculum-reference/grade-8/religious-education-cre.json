@@ -1,0 +1,308 @@
+{
+  "subject": "Christian Religious Education",
+  "subjectId": "cre",
+  "grade": 8,
+  "source": {
+    "title": "Junior School Curriculum Design: Christian Religious Education, Grade 8 (KICD, First published 2023, Revised 2024, ISBN 978-9914-43-807-9)",
+    "url": "https://easylearn.co.ke/images/document/11752335/CRE-Grade-8-Revised.pdf",
+    "publisher": "KICD (mirrored via easylearn.co.ke)",
+    "retrievedDate": "2026-08-14",
+    "confidence": "high",
+    "notes": "WebFetch could not extract text from the PDF ('unable to extract text') but reported the file saved locally; the Read tool then parsed the full PDF text natively and verbatim, including cover page, ISBN 978-9914-43-807-9, forewords, all six strands, all sub-strand tables, assessment rubrics, and appendices. Independently confirmed against KICD's own Google Drive index (file ID 1ZVqaVImBDLeGVUbLwA54C8zqWZMsr3V8 on the Grade 8 designs page), whose /preview page shows the exact official filename 'CRE Grade 8 - Revised.pdf', matching the easylearn.co.ke filename 'CRE-Grade-8-Revised.pdf' modulo dashes. All strand/sub-strand headings, SLOs, and KIQs below are transcribed verbatim from the Read output, not summarized. CAVEAT: the document's own strand-heading label is inconsistent between its Table of Contents/body strand headers ('STRAND 3.0 MIRACLES OF JESUS CHRIST') and its own 'SUMMARY OF STRANDS AND SUB-STRANDS' table (which labels the same strand '3.0 The Life and Ministry of Jesus' with an unnumbered sub-header 'Selected Miracles of Jesus Christ' above sub-strands 3.1-3.3). The body strand-table headers used throughout the detailed content consistently say 'Miracles of Jesus Christ' -- that heading is used here as canonical, per the same resolution approach applied to Grade 9 CRE and Grade 8 Creative Arts naming quirks. Content strand/sub-strand topics differ substantially from Grade 9 CRE (different strand set entirely: e.g. Grade 8 has 'The Life and Ministry of Jesus/Miracles of Jesus Christ' and 'Teachings of Jesus Christ' as separate strands, vs Grade 9's single combined 'The Life and Ministry of Jesus Christ' strand; different Bible narratives throughout), confirming Grade 8 is not a re-run of Grade 9 content."
+  },
+  "strands": [
+    {
+      "name": "Creation",
+      "subStrands": [
+        {
+          "name": "Origin and Consequences of Sin",
+          "specificLearningOutcomes": [
+            "Explain the origin of sin from the scriptures provided",
+            "Examine the consequences of sin after the fall of man",
+            "Analyse the causes of sin today",
+            "Identify moral values and life skills needed to overcome temptations",
+            "Pray to God to overcome temptations in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to consider the consequences of something before acting?"
+          ],
+          "notes": "Scriptures covered: Genesis 3:1-13 (origin), Genesis 3:14-19, 23, 4:6-12, 11:1-9 (consequences), 1 John 1:9 (repentance)."
+        },
+        {
+          "name": "God's Plan for Redemption",
+          "specificLearningOutcomes": [
+            "Describe how God demonstrated love to humankind after the fall of man",
+            "Examine how God's plan of salvation is fulfilled through Jesus Christ",
+            "Explain the importance of redemption after the fall of man",
+            "Take part in sharing the love of God with others",
+            "Appreciate God's saving grace in their day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "Why is God's redemptive plan important to human kind?"
+          ],
+          "notes": "Scriptures covered: Genesis 3:15, 12:1-3, Isaiah 53:5-12, 63:5, Galatians 1:3-5, Colossians 1:13-15, 2 Peter 3:9, John 3:16, Ephesians 1:7."
+        }
+      ]
+    },
+    {
+      "name": "The Bible",
+      "subStrands": [
+        {
+          "name": "Faith and God's Promises",
+          "specificLearningOutcomes": [
+            "Describe the background to the call of Abraham",
+            "Examine ways Abraham demonstrated faith in God",
+            "Apply faith in different situations as exemplified by Abraham",
+            "Elaborate the promises made by God to Abraham",
+            "Explain the importance of God's promises to Christians today",
+            "Apply God's promises in their daily lives"
+          ],
+          "keyInquiryQuestions": [
+            "How do you apply God's promises in your daily life?"
+          ],
+          "notes": "Scriptures covered: Genesis 11:24-32, 12:1-3, 15:1-6, 17:1-8, 17:15-26, 21:1-7, 22:1-19, Hebrews 11:1-6."
+        },
+        {
+          "name": "Abrahamic Covenant",
+          "specificLearningOutcomes": [
+            "Identify covenants in modern life and their importance",
+            "Elaborate the covenant made by God to Abraham",
+            "Explain the importance of God's covenant with Abraham",
+            "Outline the importance of circumcision to Abraham and his descendants",
+            "Evaluate characteristics of ungodly covenants today",
+            "Establish how to discern ungodly covenants as guided by the word of God",
+            "Desire to trust in God at all times"
+          ],
+          "keyInquiryQuestions": [
+            "Why is Abrahamic covenant important to Christians today?"
+          ],
+          "notes": "Scriptures covered: Genesis 15:1-18, 17:1-14, James 4:7, Matthew 4:8-10, 7:15-20, 1 Peter 5:8-9."
+        },
+        {
+          "name": "Leadership in Israel: Saul",
+          "specificLearningOutcomes": [
+            "Discuss reasons for kingship in Israel",
+            "Examine reasons against kingship in Israel",
+            "Evaluate King Saul's failures and the consequences",
+            "Deduce lessons learnt from the failures of King Saul",
+            "Desire to be a God-fearing leader at school and in church"
+          ],
+          "keyInquiryQuestions": [
+            "Why did King Saul fail in his leadership?"
+          ],
+          "notes": "Sub-strand name given in the document as 'Leadership in Israel (Saul)' in the summary table and 'Leadership in Israel: Saul' in the body heading; body heading used here. Scriptures covered: 1 Samuel 8:1-20, 13:8-14, 15:7-25."
+        }
+      ]
+    },
+    {
+      "name": "Miracles of Jesus Christ",
+      "subStrands": [
+        {
+          "name": "Healing of Blind Bartimaeus",
+          "specificLearningOutcomes": [
+            "Describe the healing of blind Bartimaeus",
+            "Discuss lessons learnt from the healing of blind Bartimaeus",
+            "Apply lessons learnt when faced with health challenges",
+            "Desire to depend on God when faced with challenges"
+          ],
+          "keyInquiryQuestions": [
+            "How does the healing of blind Bartimaeus build your faith in God?"
+          ],
+          "notes": "Scripture covered: Mark 10:46-52."
+        },
+        {
+          "name": "Calming the Storm",
+          "specificLearningOutcomes": [
+            "Describe the miracle of calming the storm",
+            "Outline lessons learnt from the miracle of calming the storm",
+            "Identify the challenges they face in daily life",
+            "Apply lessons learnt to overcome the challenges they face as youths",
+            "Desire to depend on God when faced with challenges"
+          ],
+          "keyInquiryQuestions": [
+            "How does the miracle of calming the storm relate to challenges facing people today?"
+          ],
+          "notes": "Scriptures covered: Mark 4:35-41, Psalms 91:1-6."
+        },
+        {
+          "name": "Healing of the Paralytic",
+          "specificLearningOutcomes": [
+            "Describe the healing of the paralytic",
+            "Outline lessons learnt from the healing of the paralytic",
+            "Examine the Pharisees' opposition to the healing of the paralytic",
+            "Apply lessons learnt from the miracle in daily life",
+            "Appreciate God's power over sickness and disease"
+          ],
+          "keyInquiryQuestions": [
+            "How does the healing of the paralytic build your faith in God?"
+          ],
+          "notes": "Scriptures covered: Luke 5:17-26, Isaiah 53:4-5."
+        }
+      ]
+    },
+    {
+      "name": "Teachings of Jesus Christ",
+      "subStrands": [
+        {
+          "name": "Teachings on Prayer",
+          "specificLearningOutcomes": [
+            "Outline the importance of prayer in the life of a Christian",
+            "Discuss the importance of having faith when they pray to God",
+            "Demonstrate love by praying for all people",
+            "Apply lessons learnt by praying persistently",
+            "Exercise faith whenever they pray to God"
+          ],
+          "keyInquiryQuestions": [
+            "How do you apply the teachings of Jesus Christ in your day-to-day life?"
+          ],
+          "notes": "Scriptures covered: Mark 11:22-24, Matthew 5:44-45, 6:5-8."
+        },
+        {
+          "name": "The Lost Sheep",
+          "specificLearningOutcomes": [
+            "Describe the parable of the lost sheep",
+            "Take part in reaching out to the lost through evangelism",
+            "Exemplify God's love by serving all people"
+          ],
+          "keyInquiryQuestions": [
+            "How does the parable of the lost sheep portray God's love for the sinner?"
+          ],
+          "notes": "Scripture covered: Luke 15:1-7."
+        }
+      ]
+    },
+    {
+      "name": "The Church",
+      "subStrands": [
+        {
+          "name": "The Holy Spirit",
+          "specificLearningOutcomes": [
+            "Describe the outpouring of the Holy Spirit on the day of Pentecost",
+            "Analyse ways Christians exemplify the fruit of the Holy Spirit",
+            "Take part in church activities to foster responsibility",
+            "Explain the importance of participating in Church activities",
+            "Desire to be guided by the Holy Spirit in daily life"
+          ],
+          "keyInquiryQuestions": [
+            "Why should you depend on the Holy Spirit?"
+          ],
+          "notes": "Scriptures covered: Acts 2:1-11, Galatians 5:22-23 (fruit of the Spirit)."
+        },
+        {
+          "name": "Acts of Compassion",
+          "specificLearningOutcomes": [
+            "Describe the role of the church in helping the needy",
+            "List the needy/those who should be helped, per Leviticus 19:32-33 and Psalms 82:3",
+            "Relate acts of compassion itemised in Matthew 25:31-40",
+            "Establish those who will inherit the kingdom of God, per Matthew 25:34-40",
+            "Distinguish unrighteous acts specified in Matthew 25:41-46",
+            "Take part in a community service activity in the school neighbourhood",
+            "Desire to participate in acts of charity"
+          ],
+          "keyInquiryQuestions": [
+            "Why should you participate in Acts of Compassion?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Christian Living Today",
+      "subStrands": [
+        {
+          "name": "Family Relationships",
+          "specificLearningOutcomes": [
+            "Outline roles played by different family members",
+            "Identify practices which depict healthy family relationships",
+            "Outline causes of conflicts in families today",
+            "Propose solutions to conflicts facing families today",
+            "Describe ways children should relate to their parents",
+            "List five values needed to live harmoniously with family members",
+            "Utilize the values listed in their interaction with family members"
+          ],
+          "keyInquiryQuestions": [
+            "How do you relate with your family members?"
+          ],
+          "notes": "Scriptures covered: Ephesians 6:1-4, Exodus 20:12, Colossians 3:20."
+        },
+        {
+          "name": "Human Sexuality: Responsible Sexual Behaviour",
+          "specificLearningOutcomes": [
+            "Identify forms of sexual abuse and how to avoid or overcome abuse",
+            "Evaluate causes of teenage pregnancies today",
+            "Examine the consequences of engaging in irresponsible sexual behaviour",
+            "Discuss values and life skills needed to avoid irresponsible sexual behaviour",
+            "Choose to live responsibly as guided by the word of God",
+            "Respect their bodies by living a morally upright life"
+          ],
+          "keyInquiryQuestions": [
+            "Why should you live responsibly as a youth?"
+          ],
+          "notes": "Sub-strand titled '6.2 Human Sexuality' with subtitle 'Responsible sexual behaviour' in the summary table. Scriptures covered: 1 Thessalonians 4:3-6, Romans 12:1-2, 1 Corinthians 6:18-20, 1 Peter 2:11. Includes a designated CPO (Child Protection Officer) guest-speaker learning experience on reporting defilement."
+        },
+        {
+          "name": "Sacredness of Life",
+          "specificLearningOutcomes": [
+            "Explain the meaning of sacredness of life",
+            "Elaborate sacredness of life from the scriptures provided",
+            "Discuss how the right to life is violated today",
+            "Evaluate causes of suicide in today's society",
+            "Examine causes of abortion among teenage girls",
+            "Analyse the consequences of violating the right to life",
+            "Compile values and life skills needed to uphold sacredness of life"
+          ],
+          "keyInquiryQuestions": [
+            "How do you uphold sacredness of life?"
+          ],
+          "notes": "Scriptures covered: Genesis 4:10-11, 9:6, Exodus 20:13, Deuteronomy 18:10, Proverbs 6:16-17, Matthew 6:25, Psalms 139:13-16, Jeremiah 1:5. Covers sensitive topics (suicide, abortion) -- flagged for careful handling in a future build phase."
+        },
+        {
+          "name": "Bullying",
+          "specificLearningOutcomes": [
+            "Identify causes of bullying at school and in the community",
+            "Analyse the effects of bullying on an individual and the family",
+            "Outline values needed to co-exist peacefully from the scriptures provided",
+            "Model the value of love in their interaction with others"
+          ],
+          "keyInquiryQuestions": [
+            "Why is bullying unacceptable?"
+          ],
+          "notes": "Scriptures covered: 1 John 3:15, 1 Peter 3:8, Romans 14:19, Proverbs 22:10."
+        },
+        {
+          "name": "Work: Talents, Gifts and Abilities",
+          "specificLearningOutcomes": [
+            "Identify their God-given talents, gifts and abilities",
+            "Take part in different activities to nurture their talents",
+            "Describe the parable of the talents in Matthew 25:14-30",
+            "Discuss lessons learnt from the parable of the talents",
+            "Apply lessons learnt from the parable of talents in daily life",
+            "Originate an income-generating enterprise to enhance financial literacy skills",
+            "Demonstrate accountability by saving money from the enterprise",
+            "Utilize their God given talents, gifts and abilities to serve others"
+          ],
+          "keyInquiryQuestions": [
+            "How do you discover your talents, gifts and abilities?",
+            "How do you use your God-given talents, gifts and abilities?"
+          ],
+          "notes": "Summary table calls this sub-strand '6.5 Work: Talents and Abilities'; the body section heading is 'Work: Talents, Gifts and Abilities' -- fuller body heading used here. Scriptures covered: James 1:17, Romans 11:29, Matthew 25:14-30. Includes an income-generating enterprise/financial-literacy project component -- similar in kind to the Pre-Technical Studies entrepreneurship strand, needs a build-phase decision on how to quiz a hands-on enterprise project."
+        },
+        {
+          "name": "Leisure",
+          "specificLearningOutcomes": [
+            "Explain how they spend their leisure time",
+            "Identify reasons for misuse of leisure among youths",
+            "Analyse the consequences of misusing leisure",
+            "Examine ways of using leisure time constructively",
+            "Utilize leisure time appropriately as guided by the scriptures",
+            "Compile values and life skills needed for proper use of leisure time",
+            "Value leisure time and use it constructively"
+          ],
+          "keyInquiryQuestions": [
+            "How do you spend your leisure?"
+          ],
+          "notes": "Scriptures covered: Exodus 20:11, 1 Corinthians 10:23, 10:31, Philippians 4:8."
+        }
+      ]
+    }
+  ]
+}

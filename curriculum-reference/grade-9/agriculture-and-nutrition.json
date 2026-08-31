@@ -1,0 +1,299 @@
+{
+  "subject": "Agriculture",
+  "subjectId": "agriculture-nutrition",
+  "grade": 9,
+  "source": {
+    "title": "Agriculture Grade9 1.8.2024 -Proofread.pdf (Junior School Curriculum Design: Agriculture, Grade 9)",
+    "url": "https://easylearn.co.ke/images/document/11752406/Agriculture-Grade9-1.8.2024-Proofread.pdf",
+    "publisher": "Kenya Institute of Curriculum Development (KICD) — mirrored via easylearn.co.ke",
+    "retrievedDate": "2026-08-20",
+    "confidence": "high",
+    "notes": "Filename matches this repo's README-confirmed official Grade 9 filename exactly ('Agriculture Grade9 1.8.2024 -Proofread.pdf'), found via easylearn.co.ke's curriculum-design page (https://easylearn.co.ke/curriculum-design/), which lists it as a 353.87KB Grade 9 document. WebFetch on the direct PDF URL reported 'unable to extract text' but noted the file was saved locally; the Read tool was then used directly on that local saved path, which parsed the full 36-page PDF text natively (NOT summarized by an intermediate model). All strand/sub-strand names, specific learning outcomes, suggested learning experiences (including every parenthetical list in full), key inquiry questions, core competencies, and links to other learning areas below were transcribed verbatim from that Read output. Title page reads 'KENYA INSTITUTE OF CURRICULUM DEVELOPMENT / JUNIOR SCHOOL CURRICULUM DESIGN / AGRICULTURE / GRADE 9', First published 2024, ISBN 978-9914-43-979-3 — confirms an authentic KICD document (note the official title is simply 'Agriculture', the same pattern as the Grade 8 reference file in this repo, though the essence statement confirms it is an integrated learning area covering both agriculture and home-science/nutrition concepts). Cross-checked the 'SUMMARY OF STRANDS AND SUB-STRANDS' table (p.xi) against the full per-strand breakdown (p.1-19) — they match exactly: 4 strands, 10 sub-strands, 120 total lessons. No explicit inclusion/exclusion 'Note:' asides (of the kind seen in some Integrated Science sub-strands) were found anywhere in this document's strand text — the only enumerated content pools are the parenthetical lists inside the Suggested Learning Experiences bullets, all captured verbatim in each sub-strand's learningExperiences below. Cross-referenced against the 8 already-shipped skill files in web/src/skills/agriculture/*.ts (conservingResources.ts, integratedFarming.ts, organicGardening.ts, flourMixtures.ts, wasteDisposal.ts, graftingPurposes.ts, disinfectingMethods.ts, sunDryerAndGraftCare.ts) — see per-sub-strand 'notes' fields below for the mapping. One sub-strand, 2.2 Storage of Crop Produce, has NO shipped skill file at all — flagged as an open content-breadth gap, not silently merged into a neighbour."
+  },
+  "strands": [
+    {
+      "name": "1.0 Conservation of Resources",
+      "subStrands": [
+        {
+          "name": "1.1 Conserving Animal Feed: Hay",
+          "lessonCount": 12,
+          "specificLearningOutcomes": [
+            "describe methods of conserving forage in coping with drought",
+            "conserve forage to cope with drought",
+            "adopt conservation of forage in coping with drought"
+          ],
+          "keyInquiryQuestions": [
+            "How can hay conservation contribute to coping with drought?"
+          ],
+          "learningExperiences": [
+            "use digital and print resources to search for information and share experiences on methods of conserving forage in coping with drought (baled haymaking, standing forage, stacking).",
+            "conserve forage through stacking and box-bailing methods using locally available materials such as grass and maize stover to make hay for drought season.",
+            "discuss and make a class presentation on how households can adopt conservation of forage in coping with drought."
+          ],
+          "linkedLearningAreas": [
+            "Social Studies — learners relate the conservation of hay to concepts of mitigating the effects of climate change."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Critical thinking and Problem-solving: evaluation and decision-making skills as learners analyse and apply methods of conserving hay to cope with drought.",
+            "Communication and collaboration: speaking and dialogue skills as learners discuss ways of conserving forage to cope with drought in the context of rearing animals."
+          ],
+          "assessmentSignal": "Strand 1.0's rubric (covering all three sub-strands 1.1-1.3 together, 'conserving hay, reusing leftover food, using integrated farming') scores 'ability to describe' and 'ability to apply' each of the three named ways of conserving resources on a 0-3 count scale, plus a separate collaboration-skills indicator (punctual, reliable, supports others, works positively with others, contributes to group decision-making) — confirms the tested competency includes collaborative process, not just content recall.",
+          "notes": "Built as part of ag-c-conserving-resources (web/src/skills/agriculture/conservingResources.ts) — its HAY pool (baling grass, stacking maize stover, leaving standing forage) covers baled haymaking/stacking/standing forage, the three methods named in the parenthetical list. Combined in one skill file with sub-strand 1.2 below (the source design keeps them as separate sub-strands; the skill merges their content pools into one categorize/identify branch alongside 1.3's integrated-farming pool as a third bucket)."
+        },
+        {
+          "name": "1.2 Conserving Leftover Food",
+          "lessonCount": 11,
+          "specificLearningOutcomes": [
+            "explain the importance of conserving leftover food at home",
+            "prepare leftover food to avoid wastage",
+            "embrace the use of leftover food to avoid food wastage"
+          ],
+          "keyInquiryQuestions": [
+            "How is leftover food prepared for use to prevent food wastage?"
+          ],
+          "learningExperiences": [
+            "search and share experiences importance of conserving leftover food at home.",
+            "prepare leftover food for consumption through methods such as reheating or preparing another recipe to avoid wastage.",
+            "make presentations on various recipes adopted from leftover food to avoid food wastage."
+          ],
+          "linkedLearningAreas": [
+            "Integrated Science — learners relate the conservation of leftover foods to the spread of food-related diseases and illnesses."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Creativity and Imagination: experimenting skills as learners explore different ways of preparing leftover food."
+          ],
+          "notes": "Built as part of ag-c-conserving-resources (web/src/skills/agriculture/conservingResources.ts) — its LEFTOVER pool (reheating, turning leftovers into a new recipe, storing covered in a cool place) covers the two named methods (reheating, preparing another recipe) plus a third safe-storage practice not explicitly named in the source's learning-experiences bullet but consistent with the sub-strand's outcome (b)."
+        },
+        {
+          "name": "1.3 Integrated Farming",
+          "lessonCount": 12,
+          "specificLearningOutcomes": [
+            "describe components of integrated farming in conserving resources",
+            "make a model of integrated farming for the conservation of resources",
+            "appreciate the importance of integrated farming in the conservation of resources"
+          ],
+          "keyInquiryQuestions": [
+            "How can integrated farming conserve resources?"
+          ],
+          "learningExperiences": [
+            "take an excursion or search for information on integrated farming practises to find out how components of integrated farming help in conserving resources.",
+            "design or sketch and make a model to illustrate integrated farming components such as fish rearing, rabbit keeping, poultry keeping and vegetable production on the same plot of land to show their relational benefits.",
+            "make class presentations on the models of integrated farming and the importance of integration in conserving resources."
+          ],
+          "linkedLearningAreas": [
+            "Pre-Technical Studies — learners apply skills of designing and choice of materials learnt in Pre-Technical Studies in the construction of an integrated farming model."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Creativity and Imagination: observation and making connection skills as learners seek information, design and make a model to depict an integrated farming enterprise.",
+            "Critical thinking and Problem-solving: evaluation and decision-making skills as learners analyse the environment for components of integrated farming and design models of an integrated farming enterprise."
+          ],
+          "notes": "Built as ag-c-integrated-farming (web/src/skills/agriculture/integratedFarming.ts) — its COMPONENTS pool covers exactly the 4 named components (fish rearing, rabbit keeping, poultry keeping, vegetable production) and their relational benefits (pond water for irrigation, droppings as fertiliser, etc.), matching the source's 'relational benefits' framing."
+        }
+      ]
+    },
+    {
+      "name": "2.0 Food Production Processes",
+      "subStrands": [
+        {
+          "name": "2.1 Organic Gardening",
+          "lessonCount": 14,
+          "specificLearningOutcomes": [
+            "explain organic gardening practises in crop production",
+            "grow a crop using organic gardening practises",
+            "appreciate the importance of organic gardening in the production of healthy foods"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we practise organic gardening?",
+            "How can we produce food crops through organic gardening?"
+          ],
+          "learningExperiences": [
+            "search and share information on organic gardening practises in crop production.",
+            "grow a selected short-season crop such as a vegetable, legume, or spice crop using organic gardening practises such as the use of organic manure, organic pesticides, mechanical weed control, use of organic foliar feed made from animal wastes and plants like Mexican sunflower.",
+            "share experiences through class presentations to appreciate the importance of organic gardening in the production of healthy foods."
+          ],
+          "linkedLearningAreas": [
+            "Social Studies — learners relate organic gardening practises to farming practises."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Learning to Learn: working collaboratively and organising own learning skills as learners grow crops using organic gardening practises.",
+            "Self-efficacy: planning skills as learners grow crops using organic farming practises."
+          ],
+          "notes": "Built as ag-f-organic-gardening (web/src/skills/agriculture/organicGardening.ts) — its PRACTICES pool covers all 4 named practices (organic manure, organic pesticides, mechanical weed control, organic foliar feed) and, for the foliar-feed entry, the specific 'made from animal wastes and plants such as Mexican sunflower' detail from the source."
+        },
+        {
+          "name": "2.2 Storage of Crop Produce",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "explain ways of preparing storage structures before storing crop produce",
+            "prepare an existing storage structure in readiness for storing crop produce",
+            "manage stored crop produce to reduce spoilage",
+            "show responsibility in managing stored crop produce to reduce spoilage"
+          ],
+          "keyInquiryQuestions": [
+            "How can we prepare the facility in readiness for the storage of crop produce?",
+            "How should crop produce be managed during storage?"
+          ],
+          "learningExperiences": [
+            "use digital devices or print media to search for information on ways of preparing storage structures in readiness for the storage of crop produce and share findings in plenary.",
+            "prepare an existing storage structure or facility (container, store room, granary, storage bags) in readiness for storage through practises such as cleaning, dusting, sealing cracks, repairing leakages, emptying previous crop produce, and controlling rodents.",
+            "manage stored crop produce (checking moisture content in cereals and pulses, ensuring ventilation, controlling rodents, turning the stored crop produce and disposing of spoilt produce)."
+          ],
+          "linkedLearningAreas": [
+            "Social Studies — learners relate the management of storage of crop produce to farming as an economic activity."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Critical thinking and Problem-solving: open-mindedness and creativity skills as learners prepare storage structure and manage crop produce to maintain quality and reduce post-harvest loss."
+          ],
+          "assessmentSignal": "Rubric indicator is 'Responsibility: engaging in assigned roles as learners manage stored crop produce in the school food store' — implies a hands-on, role-based assessment beyond simple recall of storage-prep steps.",
+          "notes": "OPEN GAP — no shipped skill file covers this sub-strand as of 2026-08-20. None of the 8 files in web/src/skills/agriculture/ (conservingResources, integratedFarming, organicGardening, flourMixtures, wasteDisposal, graftingPurposes, disinfectingMethods, sunDryerAndGraftCare) implement storage-structure preparation (container/store room/granary/storage bags; cleaning, dusting, sealing cracks, repairing leakages, emptying previous produce, controlling rodents) or stored-produce management (moisture checking, ventilation, rodent control, turning produce, disposing of spoilt produce). This is a genuine content-breadth gap per CURRICULUM-MINING-GUIDE.md, not something merged into a neighbouring sub-strand — flagged for a future skill file (e.g. storageOfCropProduce.ts under strandId ag-food-production)."
+        },
+        {
+          "name": "2.3 Cooking: Using Flour Mixtures",
+          "lessonCount": 14,
+          "specificLearningOutcomes": [
+            "identify types of flour mixtures used in food production",
+            "prepare flour mixtures for food production",
+            "make products from various flour mixtures",
+            "appreciate products made from various flour mixtures"
+          ],
+          "keyInquiryQuestions": [
+            "How can we make products from flour mixtures?"
+          ],
+          "learningExperiences": [
+            "use print or digital resources to identify types of flour mixtures used in food production such as batters and dough.",
+            "prepare flour mixtures such as batters and doughs for food production.",
+            "make products such as pancakes, mandazi, and chapati from various flour mixtures.",
+            "display and appreciate the products made from various flour mixtures."
+          ],
+          "linkedLearningAreas": [
+            "Mathematics — learners relate the measurement of ingredients in preparing flour mixtures to weights and measurements learnt in Mathematics."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Learning to Learn: reflection on own work as learners apply procedures of preparing flour mixtures."
+          ],
+          "notes": "Built as ag-f-flour-mixtures (web/src/skills/agriculture/flourMixtures.ts) — its PRODUCTS pool covers all 3 named products (pancake, mandazi, chapati), correctly categorised into the 2 named mixture types (batter for pancake, dough for mandazi/chapati)."
+        }
+      ]
+    },
+    {
+      "name": "3.0 Hygiene Practises",
+      "subStrands": [
+        {
+          "name": "3.1 Cleaning Waste Disposal Facilities",
+          "lessonCount": 9,
+          "specificLearningOutcomes": [
+            "explain the importance of cleaning waste disposal facilities",
+            "clean waste disposal facilities at the household level",
+            "adopt the use of clean waste disposal facilities at the household level"
+          ],
+          "keyInquiryQuestions": [
+            "How does cleaning waste disposal facilities promote hygiene?"
+          ],
+          "learningExperiences": [
+            "discuss and share experiences on the importance of cleaning waste disposal facilities such as waste bins, sinks, and open drains.",
+            "clean waste disposal facilities such as dust bins, sinks, and open drains.",
+            "maintaining clean waste disposal facilities at the household level using improvised resources."
+          ],
+          "linkedLearningAreas": [
+            "Integrated Science — learners relate cleaning of waste disposal facilities to aspects of good health."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Critical thinking and Problem-solving: reflection skills as learners assess their success in cleaning waste disposal facilities."
+          ],
+          "notes": "Built as ag-h-waste-disposal (web/src/skills/agriculture/wasteDisposal.ts) — covers the three named facilities (dust bins, sinks, open drains) and the 'improvised resources' framing (scrubbing brush, soap/disinfectant) from the source."
+        },
+        {
+          "name": "3.2 Disinfecting Clothing and Household Articles",
+          "lessonCount": 12,
+          "specificLearningOutcomes": [
+            "describe methods of disinfecting clothing and household articles",
+            "carry out disinfection of clothing and household articles",
+            "appreciate the importance of disinfecting clothing and household articles"
+          ],
+          "keyInquiryQuestions": [
+            "How can we disinfect household articles for hygiene purposes?"
+          ],
+          "learningExperiences": [
+            "search for information or observe demonstrations on methods of disinfecting clothing and household articles; use of sunlight, use of salt, boiling, use of disinfectants and ironing.",
+            "disinfect clothing and household articles like aprons, gloves, towels, dust coats, handkerchiefs, and socks among other personal items using methods such as sunlight, use of salt, boiling, use of disinfectants, and ironing.",
+            "make class presentations on the importance of disinfecting clothing and household articles for hygiene purposes."
+          ],
+          "linkedLearningAreas": [
+            "Integrated Science — learners relate the use of disinfectants to solvents learnt in Integrated Science."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Learning to Learn: organising own learning as they acquire new skills on methods of disinfecting clothing and household articles."
+          ],
+          "notes": "Built as ag-h-disinfecting-methods (web/src/skills/agriculture/disinfectingMethods.ts) — its METHODS pool covers all 5 named methods (sunlight, salt, boiling, disinfectants, ironing) verbatim. PARTIAL GAP: the source also names 6 specific articles the methods are applied to (aprons, gloves, towels, dust coats, handkerchiefs, socks) — the shipped skill's questions are method-focused only (what the method is / how it works) and never reference this specific article list, so that enumerated pool is not yet reflected as its own content branch. Worth a future retrofit to add an article-to-best-method application branch."
+        }
+      ]
+    },
+    {
+      "name": "4.0 Production Techniques",
+      "subStrands": [
+        {
+          "name": "4.1 Grafting in Plants",
+          "lessonCount": 13,
+          "specificLearningOutcomes": [
+            "describe grafting as a method of plant propagation",
+            "carry out grafting for various purposes",
+            "take care of the grafted plant to ensure successful union",
+            "appraise grafting for aesthetics, repair, improvement and rejuvenation purposes"
+          ],
+          "keyInquiryQuestions": [
+            "Why is grafting done on a plant?"
+          ],
+          "learningExperiences": [
+            "use print media or digital resources to search for information on grafting as a method of plant propagation.",
+            "carry out grafting in plants for repair, aesthetic, rejuvenation or improvement purposes.",
+            "carry out caring practises such as watering, protecting the union, removal of the grafting tape after successful union, and removal of other buds on the rootstock.",
+            "make discussions and presentations on reasons for grafting (repairing a damaged plant, aesthetic, rejuvenation and plant improvement) to appraise its applications in crop production."
+          ],
+          "linkedLearningAreas": [
+            "Integrated Science — learners relate carrying out grafting to parts of a plant and the relationship between plants."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Learning to Learn: skill on reflection on own work as learners evaluate success on the grafted plant for rejuvenation, aesthetics, repair or improvement of existing plant.",
+            "Self-efficacy: awareness of potential skills in the manipulation of a plant through grafting for plant propagation."
+          ],
+          "notes": "Built across two files: ag-p-grafting-purposes (web/src/skills/agriculture/graftingPurposes.ts) covers the 4 named purposes (repair, aesthetic, rejuvenation, improvement) verbatim; ag-p-sun-dryer-graft-care (web/src/skills/agriculture/sunDryerAndGraftCare.ts) covers the caring practises (protecting the union, watering, removing other buds on the rootstock, waiting for the union to heal before removing supports — this last item corresponds to the source's 'removal of the grafting tape after successful union')."
+        },
+        {
+          "name": "4.2 Homemade Sun Dryer",
+          "lessonCount": 13,
+          "specificLearningOutcomes": [
+            "describe how to make a homemade sun dryer for vegetables",
+            "construct a homemade sun dryer to preserve vegetables",
+            "adopt the use of a homemade sun dryer in the preservation of vegetables"
+          ],
+          "keyInquiryQuestions": [
+            "How can innovative technology be used to preserve vegetables?"
+          ],
+          "learningExperiences": [
+            "use digital and print media resources to search for information on how to make a homemade sun dryer for vegetables.",
+            "sketch and construct a homemade sun dryer for drying vegetables using locally available materials.",
+            "use the constructed homemade sun dryer to dry vegetables and promote usage of the equipment to the school community for adoption purposes."
+          ],
+          "linkedLearningAreas": [
+            "Pre-Technical Studies — learners relate the designing and construction of homemade sun dryers to skills learnt in Pre-technical studies on designing, sketching and choice of construction materials."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": [
+            "Self-efficacy: leadership and planning skills as learners design, construct and use homemade sun dryers for vegetables.",
+            "Critical thinking and Problem-solving: skills in assessing or evaluating challenging situations and designing solutions in the construction of homemade sun dryers."
+          ],
+          "notes": "Built as part of ag-p-sun-dryer-graft-care (web/src/skills/agriculture/sunDryerAndGraftCare.ts) — its PRACTICES/QUESTIONS pools cover the purpose (preserving vegetables by drying), the 'locally available materials' requirement, and ventilation/moisture-escape as a functional detail, matching the source's framing. The sketch/physical-construction outcome itself is not directly testable in a generative quiz format and is reasonably declined for that stated reason."
+        }
+      ]
+    }
+  ]
+}

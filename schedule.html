@@ -1,0 +1,1750 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Weekly Master Schedule</title>
+
+    <style>
+        :root {
+            --bg-color: #f4f6f9;
+            --card-bg: #ffffff;
+            --text-main: #2d3748;
+            --text-muted: #718096;
+            --border-color: #e2e8f0;
+
+            --blue: #3182ce;
+            --blue-dark: #2b6cb0;
+
+            /* Period Colors */
+            --p1-color: #ebf8ff;
+            --p1-text: #2b6cb0;
+            --p1-border: #bee3f8;
+
+            --p2-color: #fff5f5;
+            --p2-text: #c53030;
+            --p2-border: #fed7d7;
+
+            --p3-color: #ebf8ff;
+            --p3-text: #2c5282;
+            --p3-border: #bee3f8;
+
+            --p4-color: #f0fff4;
+            --p4-text: #2f855a;
+            --p4-border: #c6f6d5;
+
+            --p5-color: #fefcbf;
+            --p5-text: #744210;
+            --p5-border: #fef08a;
+
+            --p6-color: #fffaf0;
+            --p6-text: #dd6b20;
+            --p6-border: #feebc8;
+
+            --p7-color: #e6fffa;
+            --p7-text: #234e52;
+            --p7-border: #b2f5ea;
+
+            --p8-color: #faf5ff;
+            --p8-text: #6b46c1;
+            --p8-border: #e9d8fd;
+
+            --empty-bg: #edf2f7;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family:
+                -apple-system,
+                BlinkMacSystemFont,
+                "Segoe UI",
+                Roboto,
+                Helvetica,
+                Arial,
+                sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            padding: 15px;
+            font-size: 14px;
+            line-height: 1.4;
+        }
+
+        /* =====================================================
+           HEADER
+        ===================================================== */
+
+        header {
+            text-align: center;
+            margin-bottom: 15px;
+        }
+
+        h1 {
+            font-size: 1.5rem;
+            color: #1a202c;
+            margin-bottom: 5px;
+        }
+
+        .subtitle {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        /* =====================================================
+           LIVE STATUS PANEL
+        ===================================================== */
+
+        .live-status {
+            width: 100%;
+            max-width: 1000px;
+            margin: 0 auto 18px;
+            background: linear-gradient(
+                135deg,
+                #1e3a8a,
+                #2563eb
+            );
+            color: white;
+            border-radius: 14px;
+            padding: 15px 18px;
+            box-shadow:
+                0 6px 18px rgba(37, 99, 235, 0.20);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .live-status::before {
+            content: "";
+            position: absolute;
+            top: -50%;
+            right: -20%;
+            width: 200px;
+            height: 200px;
+            background: rgba(255, 255, 255, 0.08);
+            border-radius: 50%;
+        }
+
+        .status-top {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .status-current {
+            font-size: 1.2rem;
+            font-weight: 800;
+        }
+
+        .status-clock {
+            font-size: 0.85rem;
+            font-weight: 600;
+            opacity: 0.9;
+            white-space: nowrap;
+        }
+
+        .status-bottom {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-top: 7px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .status-countdown {
+            font-size: 1rem;
+            font-weight: 700;
+        }
+
+        .status-next {
+            font-size: 0.85rem;
+            opacity: 0.9;
+        }
+
+        .live-dot {
+            display: inline-block;
+            width: 9px;
+            height: 9px;
+            background: #68d391;
+            border-radius: 50%;
+            margin-right: 6px;
+            box-shadow: 0 0 8px #68d391;
+            animation: livePulse 1.5s infinite;
+        }
+
+        @keyframes livePulse {
+            0%, 100% {
+                opacity: 1;
+                transform: scale(1);
+            }
+
+            50% {
+                opacity: 0.5;
+                transform: scale(0.8);
+            }
+        }
+
+        /* =====================================================
+           MOBILE DAY BUTTONS
+        ===================================================== */
+
+        .view-toggles {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+            margin-bottom: 15px;
+            overflow-x: auto;
+            padding: 5px 0 10px;
+        }
+
+        .toggle-btn {
+            background-color: #edf2f7;
+            border: none;
+            padding: 9px 16px;
+            border-radius: 20px;
+            font-weight: 600;
+            color: var(--text-main);
+            cursor: pointer;
+            white-space: nowrap;
+            transition: all 0.2s ease;
+        }
+
+        .toggle-btn:hover {
+            background-color: #e2e8f0;
+        }
+
+        .toggle-btn.active {
+            background-color: #3182ce;
+            color: white;
+            box-shadow: 0 3px 8px rgba(49, 130, 206, 0.3);
+        }
+
+        /* =====================================================
+           SCHEDULE GRID
+        ===================================================== */
+
+        .schedule-grid {
+            display: grid;
+            grid-template-columns: repeat(5, minmax(0, 1fr));
+            gap: 12px;
+            width: 100%;
+            align-items: start;
+        }
+
+        .day-column {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            min-width: 0;
+        }
+
+        .day-header {
+            font-size: 1.1rem;
+            font-weight: 700;
+            text-align: center;
+            padding-bottom: 10px;
+            margin-bottom: 12px;
+            border-bottom: 2px solid var(--border-color);
+            color: #2d3748;
+        }
+
+        /* =====================================================
+           CLASS CARDS
+        ===================================================== */
+
+        .class-card {
+            border-left: 5px solid transparent;
+            border-radius: 6px;
+            padding: 10px;
+            margin-bottom: 10px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02);
+            position: relative;
+            transition:
+                transform 0.25s ease,
+                box-shadow 0.25s ease,
+                filter 0.25s ease;
+        }
+
+        .class-card:last-child {
+            margin-bottom: 0;
+        }
+
+        .period-label {
+            font-size: 0.75rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 3px;
+            opacity: 0.8;
+        }
+
+        .class-name {
+            font-weight: 700;
+            font-size: 0.95rem;
+            margin-bottom: 2px;
+        }
+
+        .room-tag {
+            display: inline-block;
+            font-size: 0.75rem;
+            font-weight: 600;
+            background: rgba(0, 0, 0, 0.05);
+            padding: 1px 5px;
+            border-radius: 4px;
+            margin-bottom: 4px;
+        }
+
+        .teacher {
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+
+        .students {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 4px;
+            font-style: italic;
+        }
+
+        /* =====================================================
+           CURRENT PERIOD GLOW
+        ===================================================== */
+
+        .class-card.current-period {
+            z-index: 5;
+            transform: scale(1.025);
+
+            box-shadow:
+                0 0 0 3px rgba(49, 130, 206, 0.22),
+                0 0 15px rgba(49, 130, 206, 0.45),
+                0 8px 20px rgba(0, 0, 0, 0.12);
+
+            animation: currentGlow 2s ease-in-out infinite;
+        }
+
+        .class-card.current-period::after {
+            content: "NOW";
+            position: absolute;
+            top: 7px;
+            right: 7px;
+
+            background: #3182ce;
+            color: white;
+
+            font-size: 0.65rem;
+            font-weight: 900;
+
+            padding: 3px 7px;
+            border-radius: 10px;
+
+            letter-spacing: 0.5px;
+
+            box-shadow:
+                0 2px 6px rgba(49, 130, 206, 0.35);
+        }
+
+        @keyframes currentGlow {
+            0%, 100% {
+                box-shadow:
+                    0 0 0 3px rgba(49, 130, 206, 0.18),
+                    0 0 12px rgba(49, 130, 206, 0.35),
+                    0 8px 20px rgba(0, 0, 0, 0.10);
+            }
+
+            50% {
+                box-shadow:
+                    0 0 0 4px rgba(49, 130, 206, 0.28),
+                    0 0 24px rgba(49, 130, 206, 0.60),
+                    0 10px 24px rgba(0, 0, 0, 0.14);
+            }
+        }
+
+        /* Special current lunch appearance */
+        .class-card.current-period.p5 {
+            box-shadow:
+                0 0 0 3px rgba(214, 158, 46, 0.25),
+                0 0 20px rgba(214, 158, 46, 0.55),
+                0 8px 20px rgba(0, 0, 0, 0.12);
+
+            animation: lunchGlow 2s ease-in-out infinite;
+        }
+
+        @keyframes lunchGlow {
+            0%, 100% {
+                box-shadow:
+                    0 0 0 3px rgba(214, 158, 46, 0.18),
+                    0 0 12px rgba(214, 158, 46, 0.35);
+            }
+
+            50% {
+                box-shadow:
+                    0 0 0 4px rgba(214, 158, 46, 0.32),
+                    0 0 24px rgba(214, 158, 46, 0.65);
+            }
+        }
+
+        /* =====================================================
+           PERIOD COLORS
+        ===================================================== */
+
+        .p1 {
+            background-color: var(--p1-color);
+            border-color: var(--p1-border);
+            color: var(--p1-text);
+        }
+
+        .p2 {
+            background-color: var(--p2-color);
+            border-color: var(--p2-border);
+            color: var(--p2-text);
+        }
+
+        .p3 {
+            background-color: var(--p3-color);
+            border-color: var(--p3-border);
+            color: var(--p3-text);
+        }
+
+        .p4 {
+            background-color: var(--p4-color);
+            border-color: var(--p4-border);
+            color: var(--p4-text);
+        }
+
+        .p5 {
+            background-color: var(--p5-color);
+            border-color: var(--p5-border);
+            color: var(--p5-text);
+            text-align: center;
+        }
+
+        .p6 {
+            background-color: var(--p6-color);
+            border-color: var(--p6-border);
+            color: var(--p6-text);
+        }
+
+        .p7 {
+            background-color: var(--p7-color);
+            border-color: var(--p7-border);
+            color: var(--p7-text);
+        }
+
+        .p8 {
+            background-color: var(--p8-color);
+            border-color: var(--p8-border);
+            color: var(--p8-text);
+        }
+
+        .empty-period {
+            background-color: var(--empty-bg);
+            border-left: 5px solid #cbd5e0;
+            color: #a0aec0;
+        }
+
+        .forced-alert {
+            background-color: #fff5f5;
+            border: 1px dashed #feb2b2;
+            border-radius: 4px;
+            padding: 4px;
+            margin-top: 5px;
+            font-size: 0.75rem;
+            color: #c53030;
+            font-weight: 600;
+        }
+
+        /* =====================================================
+           RESPONSIVE
+        ===================================================== */
+
+        @media (max-width: 1100px) {
+            .schedule-grid {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+            }
+        }
+
+        @media (max-width: 900px) {
+
+            body {
+                padding: 10px;
+            }
+
+            .live-status {
+                padding: 13px 14px;
+            }
+
+            .status-top {
+                align-items: flex-start;
+                flex-direction: column;
+                gap: 3px;
+            }
+
+            .status-current {
+                font-size: 1.1rem;
+            }
+
+            .view-toggles {
+                display: flex;
+            }
+
+            .schedule-grid {
+                display: block;
+            }
+
+            .day-column {
+                display: none;
+            }
+
+            .day-column.active-day {
+                display: block;
+            }
+
+            .day-header {
+                font-size: 1.2rem;
+            }
+        }
+
+        @media (min-width: 901px) {
+
+            .view-toggles {
+                display: none;
+            }
+
+            .day-column {
+                display: block !important;
+            }
+        }
+
+        @media (max-width: 480px) {
+
+            h1 {
+                font-size: 1.3rem;
+            }
+
+            .subtitle {
+                font-size: 0.82rem;
+            }
+
+            .toggle-btn {
+                padding: 8px 13px;
+                font-size: 0.85rem;
+            }
+
+            .day-column {
+                padding: 10px;
+            }
+
+            .class-card {
+                padding: 9px;
+            }
+
+            .class-card.current-period {
+                transform: scale(1.01);
+            }
+
+            .status-countdown {
+                font-size: 0.95rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- =====================================================
+         HEADER
+    ====================================================== -->
+
+    <header>
+        <h1>Weekly Master Schedule</h1>
+        <p class="subtitle">Color-coded breakdown by period</p>
+    </header>
+
+
+    <!-- =====================================================
+         LIVE CURRENT PERIOD STATUS
+    ====================================================== -->
+
+    <div class="live-status">
+
+        <div class="status-top">
+
+            <div class="status-current" id="statusCurrent">
+                <span class="live-dot"></span>
+                Loading schedule...
+            </div>
+
+            <div class="status-clock" id="statusClock">
+                --:--:--
+            </div>
+
+        </div>
+
+        <div class="status-bottom">
+
+            <div class="status-countdown" id="statusCountdown">
+                Checking bell schedule...
+            </div>
+
+            <div class="status-next" id="statusNext">
+                --
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- =====================================================
+         MOBILE DAY BUTTONS
+    ====================================================== -->
+
+    <div class="view-toggles">
+
+        <button
+            class="toggle-btn"
+            data-day="mon"
+            onclick="switchDay('mon', this)">
+            Mon
+        </button>
+
+        <button
+            class="toggle-btn"
+            data-day="tue"
+            onclick="switchDay('tue', this)">
+            Tue
+        </button>
+
+        <button
+            class="toggle-btn"
+            data-day="wed"
+            onclick="switchDay('wed', this)">
+            Wed
+        </button>
+
+        <button
+            class="toggle-btn"
+            data-day="thu"
+            onclick="switchDay('thu', this)">
+            Thu
+        </button>
+
+        <button
+            class="toggle-btn"
+            data-day="fri"
+            onclick="switchDay('fri', this)">
+            Fri
+        </button>
+
+    </div>
+
+
+    <!-- =====================================================
+         MASTER SCHEDULE
+    ====================================================== -->
+
+    <div class="schedule-grid">
+
+
+        <!-- =================================================
+             MONDAY
+        ================================================== -->
+
+        <div class="day-column" id="mon">
+
+            <div class="day-header">
+                Monday
+            </div>
+
+            <!-- PERIOD 1 -->
+            <div class="class-card p1" data-period="1">
+                <div class="period-label">Period 1</div>
+                <div class="class-name">Algebra I</div>
+                <div class="room-tag">⌂ 107</div>
+                <div class="teacher">
+                    Cuneyt Kilic / M. Ramirez-Silva
+                </div>
+            </div>
+
+            <!-- PERIOD 2 -->
+            <div class="class-card p2" data-period="2">
+                <div class="period-label">Period 2</div>
+                <div class="class-name">Geometry</div>
+                <div class="room-tag">⌂ 109</div>
+                <div class="teacher">Hatice Yazici</div>
+                <div class="students">
+                    3 Students (Gr 10)
+                </div>
+
+                <div class="forced-alert">
+                    🔴 Forced: K. Bourghol (Rm 108) - M. Landaverde Rivas
+                </div>
+            </div>
+
+            <!-- PERIOD 3 -->
+            <div class="class-card p3" data-period="3">
+                <div class="period-label">Period 3</div>
+                <div class="class-name">Geometry</div>
+                <div class="room-tag">⌂ 108</div>
+                <div class="teacher">Karama Bourghol</div>
+                <div class="students">
+                    Karen Velasquez (Gr 10)
+                </div>
+            </div>
+
+            <!-- PERIOD 4 -->
+            <div class="class-card p4" data-period="4">
+                <div class="period-label">Period 4</div>
+                <div class="class-name">Chemistry Honors</div>
+                <div class="room-tag">⌂ 227</div>
+                <div class="teacher">Sevda Jivishova</div>
+                <div class="students">
+                    2 Students
+                </div>
+            </div>
+
+            <!-- PERIOD 5 / LUNCH -->
+            <div class="class-card p5" data-period="5">
+                <div class="class-name">🍽 Lunch Break</div>
+            </div>
+
+            <!-- PERIOD 6 -->
+            <div class="class-card p6" data-period="6">
+                <div class="period-label">Period 6</div>
+                <div class="class-name">Algebra I</div>
+                <div class="room-tag">⌂ 133</div>
+                <div class="teacher">Mehmet Kortak</div>
+                <div class="students">
+                    3 Students (Gr 9)
+                </div>
+            </div>
+
+            <!-- PERIOD 7 -->
+            <div class="class-card p7" data-period="7">
+                <div class="period-label">Period 7</div>
+                <div class="class-name">College Prep: Math</div>
+                <div class="room-tag">⌂ 110</div>
+                <div class="teacher">Mucayit Avci</div>
+                <div class="students">
+                    Fabiola Morales-Salgado (Gr 12)
+                </div>
+            </div>
+
+            <!-- PERIOD 8 -->
+            <div class="class-card p8" data-period="8">
+                <div class="period-label">Period 8</div>
+                <div class="class-name">Chemistry OnR</div>
+                <div class="room-tag">⌂ 227</div>
+                <div class="teacher">Sevda Jivishova</div>
+                <div class="students">
+                    Anderson Parada Ramos (Gr 10)
+                </div>
+            </div>
+
+        </div>
+
+
+        <!-- =================================================
+             TUESDAY
+        ================================================== -->
+
+        <div class="day-column" id="tue">
+
+            <div class="day-header">
+                Tuesday
+            </div>
+
+            <!-- PERIOD 1 -->
+            <div class="class-card p1" data-period="1">
+                <div class="period-label">Period 1</div>
+                <div class="class-name">Algebra I</div>
+                <div class="room-tag">⌂ 107</div>
+                <div class="teacher">
+                    Cuneyt Kilic / M. Ramirez-Silva
+                </div>
+                <div class="students">
+                    Mariana Ramirez-Silva (Gr 9)
+                </div>
+            </div>
+
+            <!-- PERIOD 2 -->
+            <div class="class-card p2" data-period="2">
+                <div class="period-label">Period 2</div>
+                <div class="class-name">Geometry</div>
+                <div class="room-tag">⌂ 109</div>
+                <div class="teacher">Hatice Yazici</div>
+                <div class="students">
+                    2 Students: Burhan Bulut (Gr 10), Andrea Ramirez (Gr 10)
+                </div>
+            </div>
+
+            <!-- PERIOD 3 -->
+            <div class="class-card p3" data-period="3">
+                <div class="period-label">Period 3</div>
+                <div class="class-name">Geometry</div>
+                <div class="room-tag">⌂ 108</div>
+                <div class="teacher">Karama Bourghol</div>
+                <div class="students">
+                    Karen Velasquez (Gr 10)
+                </div>
+            </div>
+
+            <!-- PERIOD 4 -->
+            <div class="class-card p4" data-period="4">
+                <div class="period-label">Period 4</div>
+                <div class="class-name">Chemistry Honors</div>
+                <div class="room-tag">⌂ 227</div>
+                <div class="teacher">Sevda Jivishova</div>
+                <div class="students">
+                    Burhan Bulut (Gr 10)
+                </div>
+            </div>
+
+            <!-- PERIOD 5 / LUNCH -->
+            <div class="class-card p5" data-period="5">
+                <div class="class-name">🍽 Lunch Break</div>
+            </div>
+
+            <!-- PERIOD 6 -->
+            <div class="class-card p6" data-period="6">
+                <div class="period-label">Period 6</div>
+                <div class="class-name">Algebra I</div>
+                <div class="room-tag">⌂ 133</div>
+                <div class="teacher">Mehmet Kortak</div>
+                <div class="students">
+                    2 Students: Estrella Lopez montoya (Gr 9), Arely Hernandez-Merino (Gr 9)
+                </div>
+            </div>
+
+            <!-- PERIOD 7 -->
+            <div class="class-card p7" data-period="7">
+                <div class="period-label">Period 7</div>
+                <div class="class-name">Biology</div>
+                <div class="room-tag">⌂ 201</div>
+                <div class="teacher">Mustafa Bahtiyar</div>
+                <div class="students">
+                    Mariana Ramirez-Silva (Gr 9)
+                </div>
+            </div>
+
+            <!-- PERIOD 8 -->
+            <div class="class-card empty-period" data-period="8">
+                <div class="period-label">Period 8</div>
+                <div class="class-name">— No Class —</div>
+            </div>
+
+        </div>
+
+
+        <!-- =================================================
+             WEDNESDAY
+        ================================================== -->
+
+        <div class="day-column" id="wed">
+
+            <div class="day-header">
+                Wednesday
+            </div>
+
+            <!-- PERIOD 1 -->
+            <div class="class-card p1" data-period="1">
+                <div class="period-label">Period 1</div>
+                <div class="class-name">Algebra I</div>
+                <div class="room-tag">⌂ 107</div>
+                <div class="teacher">
+                    Cuneyt Kilic / M. Ramirez-Silva
+                </div>
+                <div class="students">
+                    Mariana Ramirez-Silva (Gr 9)
+                </div>
+            </div>
+
+            <!-- PERIOD 2 -->
+            <div class="class-card p2" data-period="2">
+                <div class="period-label">Period 2</div>
+                <div class="class-name">Geometry</div>
+                <div class="room-tag">⌂ 109</div>
+                <div class="teacher">Hatice Yazici</div>
+                <div class="students">
+                    2 Students: Burhan Bulut (Gr 10), Romy Estrada (Gr 10)
+                </div>
+            </div>
+
+            <!-- PERIOD 3 -->
+            <div class="class-card p3" data-period="3">
+                <div class="period-label">Period 3</div>
+                <div class="class-name">Algebra II</div>
+                <div class="room-tag">⌂ 106</div>
+                <div class="teacher">Venera Quraishi</div>
+                <div class="students">
+                    3 Students: Jair Lampkins (Gr 11), Armando Vilorio (Gr 11), Daniel Jimenez (Gr 11)
+                </div>
+            </div>
+
+            <!-- PERIOD 4 -->
+            <div class="class-card p4" data-period="4">
+                <div class="period-label">Period 4</div>
+                <div class="class-name">Chemistry Honors</div>
+                <div class="room-tag">⌂ 227</div>
+                <div class="teacher">Sevda Jivishova</div>
+                <div class="students">
+                    2 Students: Armando Vilorio (Gr 11), Burhan Bulut (Gr 10)
+                </div>
+            </div>
+
+            <!-- PERIOD 5 / LUNCH -->
+            <div class="class-card p5" data-period="5">
+                <div class="class-name">🍽 Lunch Break</div>
+            </div>
+
+            <!-- PERIOD 6 -->
+            <div class="class-card p6" data-period="6">
+                <div class="period-label">Period 6</div>
+                <div class="class-name">Algebra I</div>
+                <div class="room-tag">⌂ 133</div>
+                <div class="teacher">Mehmet Kortak</div>
+                <div class="students">
+                    3 Students: Estrella Lopez montoya (Gr 9), Kya Rodriguez (Gr 9), Arely Hernandez-Merino (Gr 9)
+                </div>
+            </div>
+
+            <!-- PERIOD 7 -->
+            <div class="class-card p7" data-period="7">
+                <div class="period-label">Period 7</div>
+                <div class="class-name">Biology</div>
+                <div class="room-tag">⌂ 201</div>
+                <div class="teacher">Mustafa Bahtiyar</div>
+                <div class="students">
+                    Mariana Ramirez-Silva (Gr 9)
+                </div>
+            </div>
+
+            <!-- PERIOD 8 -->
+            <div class="class-card empty-period" data-period="8">
+                <div class="period-label">Period 8</div>
+                <div class="class-name">— No Class —</div>
+            </div>
+
+        </div>
+
+
+        <!-- =================================================
+             THURSDAY
+        ================================================== -->
+
+        <div class="day-column" id="thu">
+
+            <div class="day-header">
+                Thursday
+            </div>
+
+            <!-- PERIOD 1 -->
+            <div class="class-card p1" data-period="1">
+                <div class="period-label">Period 1</div>
+                <div class="class-name">Algebra I</div>
+                <div class="room-tag">⌂ 107</div>
+                <div class="teacher">
+                    Cuneyt Kilic / M. Ramirez-Silva
+                </div>
+                <div class="students">
+                    Mariana Ramirez-Silva (Gr 9)
+                </div>
+            </div>
+
+            <!-- PERIOD 2 -->
+            <div class="class-card p2" data-period="2">
+                <div class="period-label">Period 2</div>
+                <div class="class-name">Geometry</div>
+                <div class="room-tag">⌂ 109</div>
+                <div class="teacher">Hatice Yazici</div>
+                <div class="students">
+                    2 Students: Burhan Bulut (Gr 10), Andrea Ramirez (Gr 10)
+                </div>
+
+                <div class="forced-alert">
+                    🔴 Forced: K. Bourghol (Rm 108) - Michael Landaverde Rivas
+                </div>
+            </div>
+
+            <!-- PERIOD 3 -->
+            <div class="class-card p3" data-period="3">
+                <div class="period-label">Period 3</div>
+                <div class="class-name">Geometry</div>
+                <div class="room-tag">⌂ 108</div>
+                <div class="teacher">Karama Bourghol</div>
+                <div class="students">
+                    Karen Velasquez (Gr 10)
+                </div>
+            </div>
+
+            <!-- PERIOD 4 -->
+            <div class="class-card p4" data-period="4">
+                <div class="period-label">Period 4</div>
+                <div class="class-name">Chemistry Honors</div>
+                <div class="room-tag">⌂ 227</div>
+                <div class="teacher">Sevda Jivishova</div>
+                <div class="students">
+                    Burhan Bulut (Gr 10)
+                </div>
+            </div>
+
+            <!-- PERIOD 5 / LUNCH -->
+            <div class="class-card p5" data-period="5">
+                <div class="class-name">🍽 Lunch Break</div>
+            </div>
+
+            <!-- PERIOD 6 -->
+            <div class="class-card p6" data-period="6">
+                <div class="period-label">Period 6</div>
+                <div class="class-name">Algebra I</div>
+                <div class="room-tag">⌂ 133</div>
+                <div class="teacher">Mehmet Kortak</div>
+                <div class="students">
+                    2 Students: Estrella Lopez montoya (Gr 9), Arely Hernandez-Merino (Gr 9)
+                </div>
+            </div>
+
+            <!-- PERIOD 7 -->
+            <div class="class-card p7" data-period="7">
+                <div class="period-label">Period 7</div>
+                <div class="class-name">Biology</div>
+                <div class="room-tag">⌂ 201</div>
+                <div class="teacher">Mustafa Bahtiyar</div>
+                <div class="students">
+                    Mariana Ramirez-Silva (Gr 9)
+                </div>
+            </div>
+
+            <!-- PERIOD 8 -->
+            <div class="class-card empty-period" data-period="8">
+                <div class="period-label">Period 8</div>
+                <div class="class-name">— No Class —</div>
+            </div>
+
+        </div>
+
+
+        <!-- =================================================
+             FRIDAY
+        ================================================== -->
+
+        <div class="day-column" id="fri">
+
+            <div class="day-header">
+                Friday
+            </div>
+
+            <!-- PERIOD 1 -->
+            <div class="class-card p1" data-period="1">
+                <div class="period-label">Period 1</div>
+                <div class="class-name">Algebra I</div>
+                <div class="room-tag">⌂ 107</div>
+                <div class="teacher">
+                    Cuneyt Kilic / M. Ramirez-Silva
+                </div>
+                <div class="students">
+                    Mariana Ramirez-Silva (Gr 9)
+                </div>
+            </div>
+
+            <!-- PERIOD 2 -->
+            <div class="class-card p2" data-period="2">
+                <div class="period-label">Period 2</div>
+                <div class="class-name">Geometry</div>
+                <div class="room-tag">⌂ 109</div>
+                <div class="teacher">Hatice Yazici</div>
+                <div class="students">
+                    3 Students: Burhan Bulut (Gr 10), Romy Estrada (Gr 10), Andrea Ramirez (Gr 10)
+                </div>
+
+                <div class="forced-alert">
+                    🔴 Forced: K. Bourghol (Rm 108) - Michael Landaverde Rivas
+                </div>
+            </div>
+
+            <!-- PERIOD 3 -->
+            <div class="class-card p3" data-period="3">
+                <div class="period-label">Period 3</div>
+                <div class="class-name">Geometry</div>
+                <div class="room-tag">⌂ 108</div>
+                <div class="teacher">Karama Bourghol</div>
+                <div class="students">
+                    Karen Velasquez (Gr 10)
+                </div>
+            </div>
+
+            <!-- PERIOD 4 -->
+            <div class="class-card p4" data-period="4">
+                <div class="period-label">Period 4</div>
+                <div class="class-name">Chemistry Honors</div>
+                <div class="room-tag">⌂ 227</div>
+                <div class="teacher">Sevda Jivishova</div>
+                <div class="students">
+                    2 Students: Armando Vilorio (Gr 11), Burhan Bulut (Gr 10)
+                </div>
+            </div>
+
+            <!-- PERIOD 5 / LUNCH -->
+            <div class="class-card p5" data-period="5">
+                <div class="class-name">🍽 Lunch Break</div>
+            </div>
+
+            <!-- PERIOD 6 -->
+            <div class="class-card p6" data-period="6">
+                <div class="period-label">Period 6</div>
+                <div class="class-name">Algebra I</div>
+                <div class="room-tag">⌂ 133</div>
+                <div class="teacher">Mehmet Kortak</div>
+                <div class="students">
+                    3 Students: Estrella Lopez montoya (Gr 9), Kya Rodriguez (Gr 9), Arely Hernandez-Merino (Gr 9)
+                </div>
+            </div>
+
+            <!-- PERIOD 7 -->
+            <div class="class-card p7" data-period="7">
+                <div class="period-label">Period 7</div>
+                <div class="class-name">Biology</div>
+                <div class="room-tag">⌂ 201</div>
+                <div class="teacher">Mustafa Bahtiyar</div>
+                <div class="students">
+                    Mariana Ramirez-Silva (Gr 9)
+                </div>
+            </div>
+
+            <!-- PERIOD 8 -->
+            <div class="class-card p8" data-period="8">
+                <div class="period-label">Period 8</div>
+                <div class="class-name">Chemistry OnR</div>
+                <div class="room-tag">⌂ 227</div>
+                <div class="teacher">Sevda Jivishova</div>
+                <div class="students">
+                    Anderson Parada Ramos (Gr 10)
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- =====================================================
+         JAVASCRIPT
+         FIRST BUILDING BELL SCHEDULE
+    ====================================================== -->
+
+    <script>
+
+        /*
+        ========================================================
+        FIRST BUILDING BELL SCHEDULE
+
+        MONDAY - THURSDAY
+        P1  7:45 - 8:46
+        P2  8:51 - 9:48
+        P3  9:53 - 10:50
+        P4  10:55 - 11:52
+        P5  11:57 - 12:22  LUNCH
+        P6  12:27 - 1:24
+        P7  1:29 - 2:26
+        P8  2:31 - 3:28
+
+        FRIDAY
+        P1  7:45 - 8:23
+        P2  8:28 - 9:06
+        P3  9:11 - 9:49
+        P4  9:54 - 10:32
+        P5  10:37 - 11:02 LUNCH
+        P6  11:07 - 11:45
+        P7  11:50 - 12:28
+        P8  12:33 - 1:11
+        ========================================================
+        */
+
+
+        const bellSchedules = {
+
+            regular: [
+                { period: 1, start: "07:45", end: "08:46", name: "Period 1" },
+                { period: 2, start: "08:51", end: "09:48", name: "Period 2" },
+                { period: 3, start: "09:53", end: "10:50", name: "Period 3" },
+                { period: 4, start: "10:55", end: "11:52", name: "Period 4" },
+                { period: 5, start: "11:57", end: "12:22", name: "Lunch" },
+                { period: 6, start: "12:27", end: "13:24", name: "Period 6" },
+                { period: 7, start: "13:29", end: "14:26", name: "Period 7" },
+                { period: 8, start: "14:31", end: "15:28", name: "Period 8" }
+            ],
+
+            friday: [
+                { period: 1, start: "07:45", end: "08:23", name: "Period 1" },
+                { period: 2, start: "08:28", end: "09:06", name: "Period 2" },
+                { period: 3, start: "09:11", end: "09:49", name: "Period 3" },
+                { period: 4, start: "09:54", end: "10:32", name: "Period 4" },
+                { period: 5, start: "10:37", end: "11:02", name: "Lunch" },
+                { period: 6, start: "11:07", end: "11:45", name: "Period 6" },
+                { period: 7, start: "11:50", end: "12:28", name: "Period 7" },
+                { period: 8, start: "12:33", end: "13:11", name: "Period 8" }
+            ]
+
+        };
+
+
+        /* =====================================================
+           HELPER: CONVERT HH:MM TO MINUTES
+        ====================================================== */
+
+        function timeToMinutes(timeString) {
+
+            const parts = timeString.split(":");
+
+            const hours = parseInt(parts[0], 10);
+            const minutes = parseInt(parts[1], 10);
+
+            return (hours * 60) + minutes;
+        }
+
+
+        /* =====================================================
+           FORMAT MINUTES
+        ====================================================== */
+
+        function formatMinutes(totalMinutes) {
+
+            totalMinutes = Math.max(0, Math.ceil(totalMinutes));
+
+            if (totalMinutes < 1) {
+                return "less than 1 min";
+            }
+
+            if (totalMinutes === 1) {
+                return "1 min";
+            }
+
+            return totalMinutes + " mins";
+        }
+
+
+        /* =====================================================
+           FORMAT CLOCK
+        ====================================================== */
+
+        function formatClock(date) {
+
+            return date.toLocaleTimeString([], {
+                hour: "numeric",
+                minute: "2-digit",
+                second: "2-digit"
+            });
+
+        }
+
+
+        /* =====================================================
+           GET CURRENT DAY
+        ====================================================== */
+
+        function getDayId(dayNumber) {
+
+            const days = {
+                1: "mon",
+                2: "tue",
+                3: "wed",
+                4: "thu",
+                5: "fri"
+            };
+
+            return days[dayNumber] || "mon";
+
+        }
+
+
+        /* =====================================================
+           SWITCH DAY MANUALLY
+        ====================================================== */
+
+        function switchDay(dayId, button) {
+
+            const columns =
+                document.querySelectorAll(".day-column");
+
+            columns.forEach(function(column) {
+                column.classList.remove("active-day");
+            });
+
+
+            const selectedDay =
+                document.getElementById(dayId);
+
+            if (selectedDay) {
+                selectedDay.classList.add("active-day");
+            }
+
+
+            const buttons =
+                document.querySelectorAll(".toggle-btn");
+
+            buttons.forEach(function(btn) {
+                btn.classList.remove("active");
+            });
+
+
+            if (button) {
+                button.classList.add("active");
+            }
+
+        }
+
+
+        /* =====================================================
+           AUTOMATICALLY SELECT TODAY
+        ====================================================== */
+
+        function selectToday() {
+
+            const now = new Date();
+
+            const dayNumber = now.getDay();
+
+            const todayId = getDayId(dayNumber);
+
+            const todayColumn =
+                document.getElementById(todayId);
+
+            const buttons =
+                document.querySelectorAll(".toggle-btn");
+
+
+            document
+                .querySelectorAll(".day-column")
+                .forEach(function(column) {
+
+                    column.classList.remove("active-day");
+
+                });
+
+
+            buttons.forEach(function(button) {
+
+                button.classList.remove("active");
+
+            });
+
+
+            if (todayColumn) {
+                todayColumn.classList.add("active-day");
+            }
+
+
+            const todayButton =
+                document.querySelector(
+                    '.toggle-btn[data-day="' + todayId + '"]'
+                );
+
+
+            if (todayButton) {
+                todayButton.classList.add("active");
+            }
+
+        }
+
+
+        /* =====================================================
+           CLEAR ALL CURRENT PERIOD HIGHLIGHTS
+        ====================================================== */
+
+        function clearCurrentHighlights() {
+
+            document
+                .querySelectorAll(".class-card.current-period")
+                .forEach(function(card) {
+
+                    card.classList.remove("current-period");
+
+                });
+
+        }
+
+
+        /* =====================================================
+           ADD CURRENT PERIOD HIGHLIGHT
+        ====================================================== */
+
+        function highlightCurrentPeriod(period) {
+
+            clearCurrentHighlights();
+
+
+            if (!period) {
+                return;
+            }
+
+
+            const today =
+                getDayId(new Date().getDay());
+
+
+            const dayColumn =
+                document.getElementById(today);
+
+
+            if (!dayColumn) {
+                return;
+            }
+
+
+            const card =
+                dayColumn.querySelector(
+                    '.class-card[data-period="' + period.period + '"]'
+                );
+
+
+            if (card) {
+                card.classList.add("current-period");
+            }
+
+        }
+
+
+        /* =====================================================
+           UPDATE LIVE SCHEDULE
+        ====================================================== */
+
+        function updateLiveSchedule() {
+
+            const now = new Date();
+
+            const dayNumber = now.getDay();
+
+            const currentMinutes =
+                now.getHours() * 60 +
+                now.getMinutes() +
+                (now.getSeconds() / 60);
+
+
+            /* Update live clock */
+
+            document.getElementById("statusClock").textContent =
+                formatClock(now);
+
+
+            /* Weekend */
+
+            if (dayNumber === 0 || dayNumber === 6) {
+
+                clearCurrentHighlights();
+
+                document.getElementById("statusCurrent").innerHTML =
+                    '<span class="live-dot"></span>Weekend';
+
+                document.getElementById("statusCountdown").textContent =
+                    "No regular school schedule";
+
+                document.getElementById("statusNext").textContent =
+                    "Enjoy your weekend!";
+
+                return;
+            }
+
+
+            /* Friday uses special schedule */
+
+            const schedule =
+                dayNumber === 5
+                    ? bellSchedules.friday
+                    : bellSchedules.regular;
+
+
+            let currentPeriod = null;
+            let nextPeriod = null;
+
+
+            /* =================================================
+               FIND CURRENT PERIOD
+            ================================================== */
+
+            for (let i = 0; i < schedule.length; i++) {
+
+                const item = schedule[i];
+
+                const start =
+                    timeToMinutes(item.start);
+
+                const end =
+                    timeToMinutes(item.end);
+
+
+                if (
+                    currentMinutes >= start &&
+                    currentMinutes < end
+                ) {
+
+                    currentPeriod = item;
+
+                    nextPeriod =
+                        schedule[i + 1] || null;
+
+                    break;
+                }
+
+
+                /*
+                Passing time:
+                current period has ended but next one
+                hasn't started yet.
+                */
+
+                if (
+                    i < schedule.length - 1 &&
+                    currentMinutes >= end &&
+                    currentMinutes < timeToMinutes(
+                        schedule[i + 1].start
+                    )
+                ) {
+
+                    currentPeriod = null;
+
+                    nextPeriod = schedule[i + 1];
+
+                    break;
+                }
+
+            }
+
+
+            /* =================================================
+               BEFORE SCHOOL
+            ================================================== */
+
+            const firstPeriod = schedule[0];
+
+            const firstStart =
+                timeToMinutes(firstPeriod.start);
+
+
+            if (currentMinutes < firstStart) {
+
+                clearCurrentHighlights();
+
+                const minutesUntilSchool =
+                    firstStart - currentMinutes;
+
+
+                document.getElementById("statusCurrent").innerHTML =
+                    '<span class="live-dot"></span>School has not started';
+
+
+                document.getElementById("statusCountdown").textContent =
+                    "School starts in " +
+                    formatMinutes(minutesUntilSchool);
+
+
+                document.getElementById("statusNext").textContent =
+                    "Next: Period 1 at " +
+                    formatDisplayTime(firstPeriod.start);
+
+
+                return;
+            }
+
+
+            /* =================================================
+               AFTER SCHOOL
+            ================================================== */
+
+            const lastPeriod =
+                schedule[schedule.length - 1];
+
+
+            const lastEnd =
+                timeToMinutes(lastPeriod.end);
+
+
+            if (currentMinutes >= lastEnd) {
+
+                clearCurrentHighlights();
+
+                document.getElementById("statusCurrent").innerHTML =
+                    '<span class="live-dot"></span>School day complete';
+
+
+                document.getElementById("statusCountdown").textContent =
+                    "All periods have finished";
+
+
+                document.getElementById("statusNext").textContent =
+                    "Have a great rest of your day!";
+
+
+                return;
+            }
+
+
+            /* =================================================
+               CURRENT PERIOD
+            ================================================== */
+
+            if (currentPeriod) {
+
+                highlightCurrentPeriod(currentPeriod);
+
+
+                const endMinutes =
+                    timeToMinutes(currentPeriod.end);
+
+
+                const remaining =
+                    endMinutes - currentMinutes;
+
+
+                document.getElementById("statusCurrent").innerHTML =
+                    '<span class="live-dot"></span>' +
+                    currentPeriod.name;
+
+
+                document.getElementById("statusCountdown").textContent =
+                    formatMinutes(remaining) +
+                    " remaining";
+
+
+                if (nextPeriod) {
+
+                    document.getElementById("statusNext").textContent =
+                        "Next: " +
+                        nextPeriod.name +
+                        " starts at " +
+                        formatDisplayTime(nextPeriod.start);
+
+                } else {
+
+                    document.getElementById("statusNext").textContent =
+                        "This is the final period";
+
+                }
+
+
+                return;
+            }
+
+
+            /* =================================================
+               PASSING PERIOD
+            ================================================== */
+
+            clearCurrentHighlights();
+
+
+            if (nextPeriod) {
+
+                const nextStart =
+                    timeToMinutes(nextPeriod.start);
+
+
+                const minutesUntilNext =
+                    nextStart - currentMinutes;
+
+
+                document.getElementById("statusCurrent").innerHTML =
+                    '<span class="live-dot"></span>Passing Period';
+
+
+                document.getElementById("statusCountdown").textContent =
+                    nextPeriod.name +
+                    " starts in " +
+                    formatMinutes(minutesUntilNext);
+
+
+                document.getElementById("statusNext").textContent =
+                    "Next: " +
+                    formatDisplayTime(nextPeriod.start);
+
+            }
+
+        }
+
+
+        /* =====================================================
+           FORMAT BELL TIME
+        ====================================================== */
+
+        function formatDisplayTime(timeString) {
+
+            const parts =
+                timeString.split(":");
+
+
+            let hours =
+                parseInt(parts[0], 10);
+
+
+            const minutes =
+                parts[1];
+
+
+            const suffix =
+                hours >= 12
+                    ? "PM"
+                    : "AM";
+
+
+            if (hours > 12) {
+                hours -= 12;
+            }
+
+
+            if (hours === 0) {
+                hours = 12;
+            }
+
+
+            return hours + ":" + minutes + " " + suffix;
+
+        }
+
+
+        /* =====================================================
+           START EVERYTHING
+        ====================================================== */
+
+        document.addEventListener(
+            "DOMContentLoaded",
+            function() {
+
+                /*
+                Automatically select today's
+                day on mobile.
+                */
+
+                selectToday();
+
+
+                /*
+                Run immediately.
+                */
+
+                updateLiveSchedule();
+
+
+                /*
+                Update every second.
+                */
+
+                setInterval(
+                    updateLiveSchedule,
+                    1000
+                );
+
+            }
+        );
+
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,263 @@
+{
+  "subject": "Agriculture",
+  "subjectId": "agriculture-nutrition",
+  "grade": 6,
+  "source": {
+    "title": "Primary School Curriculum Design — Agriculture, Grade 6",
+    "path": "grade-6-curriculum-desings/GRADE-6-AGRICULTURE-Curriculum-Designs.pdf",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-16",
+    "confidence": "high",
+    "notes": "Read in full via the Read tool (no pages param). ISBN 978-9914-43-005-9, First Published 2017, Revised 2024. Grade 6 is Upper Primary, NOT Junior School. Essence statement: 'Agriculture is an integrated learning area comprising aspects of agriculture and Home Science' — this is why the subject spans crop/soil/wildlife content alongside cooking, grooming, laundry and needlework. 4 strands / 10 sub-strands / 120 total suggested lessons. Written retroactively after the skill files already shipped (see CURRICULUM-MINING-GUIDE.md's standing rule to write this file BEFORE dispatching build agents next time) — transcribed from the same PDF read earlier in the session that produced web/src/skills/agricultureG6/."
+  },
+  "strands": [
+    {
+      "name": "1.0 Conservation of Resources",
+      "subStrands": [
+        {
+          "name": "1.1 Controlling Soil Erosion",
+          "lessonCount": 11,
+          "specificLearningOutcomes": [
+            "Describe types of soil erosion in the environment",
+            "Control soil erosion in the environment",
+            "Appreciate importance of conserving soil"
+          ],
+          "keyInquiryQuestions": ["How does erosion control conserve the environment?"],
+          "learningExperiences": [
+            "Watch video clips or observe photographs or make field excursions to observe types of soil erosion",
+            "Demonstrate how to control various types of soil erosion (gulley, rill, splash and sheet erosion)",
+            "Discuss and make class presentations to appreciate the importance of controlling soil erosion to conserve soil in their environment"
+          ],
+          "linkedLearningAreas": ["Social Studies — conservation of natural resources"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem solving"],
+          "assessmentSignal": "Rubric's Exceeds tier for describing conservation asks for 'innovative ways' of conserving the resource, beyond just describing standard ways — matches the mandatory Evaluate-tier branch this competency requires.",
+          "pertinentContemporaryIssues": ["Environmental awareness"],
+          "values": ["Responsibility"],
+          "skillFiles": ["g6-ag-c-controlling-soil-erosion (C.1)"]
+        },
+        {
+          "name": "1.2 Conserving Water — Sunken seedbed, Shallow pits",
+          "lessonCount": 11,
+          "specificLearningOutcomes": [
+            "Identify types of seedbeds that conserve soil moisture",
+            "Prepare different types of seedbeds that conserve soil moisture",
+            "Appreciate importance of conserving moisture in a seedbed to increase chances of plant growth"
+          ],
+          "keyInquiryQuestions": ["How can we prepare a seedbed to conserve moisture?"],
+          "learningExperiences": [
+            "Watch video clips or observe photographs or visit sites to observe sunken bed and shallow pits",
+            "Prepare seedbeds that conserve moisture (sunken seedbed and shallow pit)",
+            "Utilise the sunken seedbed and shallow pits to appreciate the importance of soil moisture conservation in crop production"
+          ],
+          "linkedLearningAreas": ["Social Studies — farming activities"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem solving"],
+          "assessmentSignal": "Same shared strand rubric as 1.1/1.3 — 'describe innovative ways of conserving the resource' at Exceeds tier.",
+          "pertinentContemporaryIssues": ["Conservation of resources (conserving water)"],
+          "values": ["Social justice"],
+          "notes": "Split into two skill files per the Grade-6 'split into deeper skills' round — sunken seedbed and shallow pit are genuinely distinct construction techniques (one continuous trench-bed vs individual planting pockets).",
+          "skillFiles": ["g6-ag-c-sunken-seedbeds (C.2)", "g6-ag-c-shallow-pits (C.3)"]
+        },
+        {
+          "name": "1.3 Conserving Wild Animals",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "Identify deterrents that can keep off wild animals from crop and domestic animals",
+            "Establish deterrents to keep off wild animals from destroying crops and domestic animals",
+            "Acknowledge the importance of deterrents in conserving wild animals"
+          ],
+          "keyInquiryQuestions": ["How can wild animals be kept away from crops and domestic animals?"],
+          "learningExperiences": [
+            "Search for information on physical deterrents such as mesh fences, thorny fences, safe traps, innovative lights, innovative sounds, and deflectors",
+            "Select and establish a deterrent applicable in their local context",
+            "Discuss with a resource person the use of physical deterrents to acknowledge the importance of conserving wild animals in safeguarding crops and domestic animals"
+          ],
+          "linkedLearningAreas": ["Social Studies — importance of wildlife"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and imagination"],
+          "assessmentSignal": "Shared strand rubric — 'conserve three resources in the environment' at Exceeds tier for the strand overall (soil, water, wild animals).",
+          "pertinentContemporaryIssues": ["Protection of biodiversity against extinction (deterring animals without killing them)"],
+          "values": ["Patriotism"],
+          "skillFiles": ["g6-ag-c-wild-animal-deterrents (C.4)"]
+        }
+      ]
+    },
+    {
+      "name": "2.0 Food Production Processes",
+      "subStrands": [
+        {
+          "name": "2.1 Rearing Small Domestic Animals",
+          "lessonCount": 12,
+          "specificLearningOutcomes": [
+            "Explain routine practices in rearing of small domestic animals",
+            "Rear small domestic animals used as sources of food",
+            "Embrace the rearing of small domestic animals used as sources of food"
+          ],
+          "keyInquiryQuestions": ["How does rearing of animals contribute to food production?"],
+          "learningExperiences": [
+            "Share experiences on routine practices in rearing of small domestic animals",
+            "Rear small domestic animal such as rabbits or guinea pigs to practise routine practices such as housing, feeding, watering, sanitation and parasite control",
+            "Make presentations to advocate the rearing of small domestic animals that are used for food"
+          ],
+          "linkedLearningAreas": ["Social Studies — farming as a socio-economic activity"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy"],
+          "assessmentSignal": "Strand rubric: 'carry out five food production processes' at Exceeds tier (across all of 2.1-2.3 combined).",
+          "pertinentContemporaryIssues": ["Animal welfare"],
+          "values": ["Integrity"],
+          "skillFiles": ["g6-ag-f-rearing-small-domestic-animals (F.1)"]
+        },
+        {
+          "name": "2.2 Preserving Crop Products — Fruits, Vegetables",
+          "lessonCount": 11,
+          "specificLearningOutcomes": [
+            "Describe how to preserve crop produce at home",
+            "Preserve crop produce using drying method",
+            "Adopt preservation of crop produce to reduce food wastage"
+          ],
+          "keyInquiryQuestions": ["How does preservation of fruits and vegetables enhance food security?"],
+          "learningExperiences": [
+            "Watch video clips or listen to resource person and share experiences on how to preserve fruits and vegetables using sun-drying method",
+            "Preserve fruits or vegetables using sun-drying method",
+            "Utilize sun-drying method in preservation of fruits and vegetables at home to reduce food wastage"
+          ],
+          "linkedLearningAreas": ["Science and Technology — parts of a plant (preserved produce parts)"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem solving"],
+          "assessmentSignal": "Strand rubric shared across 2.1-2.3 — 'describe five food production processes' at Exceeds tier.",
+          "pertinentContemporaryIssues": ["Food and nutrition security"],
+          "values": ["Integrity"],
+          "skillFiles": ["g6-ag-f-preserving-crop-products (F.2)"]
+        },
+        {
+          "name": "2.3 Cooking Food — Stewing, Baking (rubbing-in method)",
+          "lessonCount": 13,
+          "specificLearningOutcomes": [
+            "Describe different methods of cooking",
+            "Cook food using different methods",
+            "Embrace different methods of cooking in food production"
+          ],
+          "keyInquiryQuestions": ["How can we cook foods by baking?", "How can we cook foods by stewing?"],
+          "learningExperiences": [
+            "Watch video clips or observe demonstration on stewing and baking as methods of cooking",
+            "Cook foods using stewing and baking methods (rubbing-in method)",
+            "Serve foods prepared using stewing and baking methods"
+          ],
+          "linkedLearningAreas": ["Mathematics — measuring ingredients for baking links to measurement of weights"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn"],
+          "assessmentSignal": "Strand rubric shared across 2.1-2.3.",
+          "pertinentContemporaryIssues": ["Safety of self and others while cooking food"],
+          "values": ["Integrity"],
+          "notes": "Split into two skill files — stewing and baking are genuinely distinct cooking methods with distinct step sequences.",
+          "skillFiles": ["g6-ag-f-cooking-by-stewing (F.3)", "g6-ag-f-cooking-by-baking (F.4)"]
+        }
+      ]
+    },
+    {
+      "name": "3.0 Hygiene Practices",
+      "subStrands": [
+        {
+          "name": "3.1 Good Grooming — Body cleaning",
+          "lessonCount": 9,
+          "specificLearningOutcomes": [
+            "Describe practices that enhance body cleanliness",
+            "Practice body cleanliness as a healthy habit",
+            "Recognise importance of body cleanliness as a hygienic practice"
+          ],
+          "keyInquiryQuestions": ["How does body cleanliness enhance personal hygiene?"],
+          "learningExperiences": [
+            "Discuss and share experiences on practices that enhance body cleanliness (managing sweat, acnes and pimples, menstrual hygiene and care of pubic parts) for personal hygiene",
+            "Embrace applicable good routines that suit their body cleanliness",
+            "Discuss the importance of body cleanliness as a hygienic habit"
+          ],
+          "linkedLearningAreas": ["Science and Technology — growth and development"],
+          "scopeNotes": [
+            "include: managing sweat, acne/pimples, menstrual hygiene, and care of pubic parts — all four named explicitly in the source parenthetical, handled with factual/dignified/non-graphic framing in the shipped skill, per KICD's own textbook register"
+          ],
+          "coreCompetencies": ["Self-efficacy"],
+          "assessmentSignal": "Strand rubric: 'applies two hygiene practices (body cleanliness and stain removal)' at Exceeds tier for the strand overall.",
+          "pertinentContemporaryIssues": ["Personal hygiene"],
+          "values": ["Peace"],
+          "notes": "Kept as a single skill file with no visual by design (personal-hygiene content, not diagram-based) and 4 QuestionKinds rather than 5 (no genuine sequence/spatial/numeric angle) — both deliberate, documented in the skill file's own code comment.",
+          "skillFiles": ["g6-ag-h-good-grooming (H.1)"]
+        },
+        {
+          "name": "3.2 Laundry: Stain Removal",
+          "lessonCount": 12,
+          "specificLearningOutcomes": [
+            "Identify common stains on clothing and household articles",
+            "Remove common stains from clothing and household articles",
+            "Adopt stain removal for personal hygiene"
+          ],
+          "keyInquiryQuestions": ["How does stain removal enhance personal hygiene?"],
+          "learningExperiences": [
+            "Use digital resources and sample articles to identify common stains (blood and grass) on clothing and household articles",
+            "Carry out removal of common stains (blood and grass) on clothing and household articles",
+            "Practise and adopt stain removal for personal hygiene"
+          ],
+          "linkedLearningAreas": ["Science and Technology — solvents"],
+          "scopeNotes": ["include: blood and grass are the only two stain types named — other stains may appear only as clearly-labelled wrong-answer distractors, never as core content"],
+          "coreCompetencies": ["Learning to learn"],
+          "assessmentSignal": "Strand rubric shared with 3.1.",
+          "pertinentContemporaryIssues": ["Personal hygiene"],
+          "values": ["Responsibility"],
+          "notes": "Split into two skill files — identifying vs removing are different cognitive tasks, and blood (protein-based, cold-water treatment) vs grass (pigment-based, detergent treatment) genuinely need different removal methods.",
+          "skillFiles": ["g6-ag-h-identifying-stains (H.2)", "g6-ag-h-removing-stains (H.3)"]
+        }
+      ]
+    },
+    {
+      "name": "4.0 Production Techniques",
+      "subStrands": [
+        {
+          "name": "4.1 Crocheting Stitches",
+          "lessonCount": 16,
+          "specificLearningOutcomes": [
+            "Identify crocheting stitches in making household articles",
+            "Use crocheting stitches to make a household articles",
+            "Adopt the use of crocheting stiches in making household articles"
+          ],
+          "keyInquiryQuestions": ["How can crocheting reduce the cost of purchasing household articles?"],
+          "learningExperiences": [
+            "Observe a demonstration by resource person, photographs, or watch video clip to identify crocheting stitches (single and double crochet stitches) in making household article",
+            "Use (single or double crochet stitches) to make articles such as mats, cleaning rug, and surface wipers",
+            "Construct articles using crocheting stitches and showcase the household articles to promote adoption in their daily routines"
+          ],
+          "linkedLearningAreas": ["Creative Arts — artistic skills"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and imagination"],
+          "assessmentSignal": "Strand rubric: 'identify requirements, assemble the requirements, construct the item and produce usable finished product' at Exceeds tier.",
+          "pertinentContemporaryIssues": ["Financial literacy (learners save costs by constructing usable household articles using crocheting skills)"],
+          "values": ["Integrity"],
+          "notes": "Largest single sub-strand in the whole design (16 lessons). Split into two skill files — stitch identification/technique vs the three named articles, with the financial-literacy PCI given its own numeric cost-comparison branch in the articles skill.",
+          "skillFiles": ["g6-ag-p-crochet-stitches (P.1)", "g6-ag-p-crocheted-household-articles (P.2)"]
+        },
+        {
+          "name": "4.2 Constructing Moist Bed Garden",
+          "lessonCount": 15,
+          "specificLearningOutcomes": [
+            "Explain the meaning of moist bed garden",
+            "Construct a moist bed garden for growing a selected crop",
+            "Embrace the use of moist bed garden in growing crops"
+          ],
+          "keyInquiryQuestions": ["How can we construct a moist bed garden to grow crops?"],
+          "learningExperiences": [
+            "Search and share information on the meaning of moist bed garden",
+            "Construct a moist bed (sunken or raised moist bed) using locally available materials",
+            "Establish and grow a crop of their choice to embrace the use of moist bed garden"
+          ],
+          "linkedLearningAreas": ["Creative Arts — craft skills"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration"],
+          "assessmentSignal": "Strand rubric shared with 4.1 — same production-techniques rubric.",
+          "pertinentContemporaryIssues": ["Environmental conservation (using locally available materials)"],
+          "values": ["Respect"],
+          "notes": "Split into two skill files — sunken (traps water below grade, best for dry sites) and raised (improves drainage/aeration, best for waterlogged-prone sites) are opposite mechanisms, not relabeled text. Core competency here is collaboration-flavored rather than 'critical thinking', so per RIGOR-STANDARDS.md these two skills can legitimately stay lighter on mandatory Analyze/Evaluate branches (though each still has one).",
+          "skillFiles": ["g6-ag-p-sunken-moist-bed-garden (P.3)", "g6-ag-p-raised-moist-bed-garden (P.4)"]
+        }
+      ]
+    }
+  ]
+}

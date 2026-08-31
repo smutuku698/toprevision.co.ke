@@ -1,0 +1,464 @@
+{
+  "subject": "Creative Arts",
+  "subjectId": "creative-arts-sports",
+  "grade": 6,
+  "source": {
+    "title": "Primary School Curriculum Design — Creative Arts, Grade 6 (First Published 2017, Revised 2024)",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-17",
+    "confidence": "high",
+    "notes": "Read directly from grade-6-curriculum-desings/GRADE-6-CREATIVE-ARTS-Curriculum-Designs.pdf via the Read tool (no pages param), full text, all 3 strands + optional sub-strand + assessment rubrics + Appendix II resources table. Official Grade 6 subject name is 'Creative Arts' (not 'Creative Arts & Sports' — that title only applies to Grades 7-9), per namesByGrade in curriculum.ts. Essence statement: Creative Arts at this level integrates Art and Craft, Music, and Physical Health Education as one learning area."
+  },
+  "strands": [
+    {
+      "name": "1.0 Creating and Executing",
+      "subStrands": [
+        {
+          "name": "1.1 String Musical Instruments and Drawing",
+          "lessonCount": 15,
+          "specificLearningOutcomes": [
+            "Identify string instruments from different indigenous communities in Kenya",
+            "Describe the functions of the parts of a string instrument",
+            "Make a fiddle using recyclable materials",
+            "Identify pictures drawn using stippling technique",
+            "Draw a picture of a musical instrument using stippling technique",
+            "Value indigenous string instruments drawn from indigenous communities in Kenya"
+          ],
+          "keyInquiryQuestions": [
+            "Why are indigenous string musical instruments necessary in music?",
+            "How is overlapping achieved in still-life drawing?"
+          ],
+          "learningExperiences": [
+            "Observe videos/pictures or real indigenous Kenyan string instruments and name the instrument, identify the community of origin and method of playing",
+            "Name parts of a string instrument from different indigenous communities in Kenya and explain their function(s)",
+            "Visit an institution or a cultural resource centre in the community/virtual site to familiarise themselves with Kenyan indigenous string instruments",
+            "Assemble tools and material from the locality and make a fiddle while observing safety",
+            "Brainstorm on ways of care for and maintenance of a string instrument and discuss the importance of doing so",
+            "Research and identify a drawing done using stippling technique",
+            "Draw a still-life composition of any two string musical instruments using stippling technique with emphasis on: overlapping, balance of forms, tone/texture",
+            "Value others' ideas as they talk about their own and others' displayed work"
+          ],
+          "coreCompetencies": [
+            "Creativity and imagination — comes up with new ideas of arranging forms to create a composition in still-life drawing and make a fiddle",
+            "Communication and Collaboration — values others' ideas as they talk clearly about displayed work"
+          ],
+          "linkedLearningAreas": [
+            "Social Studies — identifies string instruments from different Kenyan communities",
+            "Indigenous Languages — names string instruments using indigenous names as used in their communities of origin"
+          ],
+          "scopeNotes": [
+            "include: name, community of origin, method of playing, parts and functions, and care (handling/cleaning/storage) of string instruments",
+            "include: drawing technique is specifically stippling (dot-density texture/tone), applied to overlapping still-life composition, balance of forms"
+          ],
+          "notes": "Split into 2 skills in this build: string-instrument identification/care/making (music/craft side) and stippling drawing technique (visual art side) — two genuinely distinct techniques named in one sub-strand."
+        },
+        {
+          "name": "1.2 Painting and Collage",
+          "lessonCount": 15,
+          "specificLearningOutcomes": [
+            "Classify colour categories on the colour wheel for familiarity",
+            "Paint a still life composition using brush stroke technique",
+            "Mount the painting using mat technique for display",
+            "Create a collage composition to apply the characteristics",
+            "Appreciate painting and collage techniques"
+          ],
+          "keyInquiryQuestions": ["Why is mounting of pictures important?"],
+          "learningExperiences": [
+            "Mix and paint a colour wheel to represent primary, secondary and tertiary colours",
+            "Mix and paint a surface to create tonal gradation by thinning same tone/adding dark tone",
+            "Illustrate painting to create varied texture focusing on brush position/angle, brush load and brush strokes",
+            "Paint any two objects overlapping inspired by football game (tone and texture)",
+            "Source for mounting materials and tools (papers, glue, cutting tools)",
+            "Prepare the picture and mat surface by measuring and cutting",
+            "Attach the picture on the mat surface (centred position)",
+            "Explore actual/virtual samples of collage pictures to discuss characteristics: multi/mixed media and texture",
+            "Collect and prepare materials for making collage with focus on texture and type of the materials, adhesives, and support",
+            "Collaboratively make a collage with a theme 'football' to apply the characteristics",
+            "Talk about own and others' work"
+          ],
+          "coreCompetencies": [
+            "Critical thinking and problem solving — explores multiple perspectives of painting using varied tools and materials for creativity",
+            "Creativity and imagination — applies creative skills in selecting media for painting, and painting the still life composition"
+          ],
+          "linkedLearningAreas": ["Mathematics — prepares the picture and mat surface by measuring and cutting"],
+          "scopeNotes": [
+            "include: colour wheel classification is specifically primary/secondary/tertiary categories",
+            "include: painting inspiration is explicitly a football-game theme (two overlapping objects); collage theme is also explicitly 'football'"
+          ],
+          "notes": "Split into 2 skills: painting technique (colour wheel, brush stroke, tonal gradation, mounting) and collage (multi/mixed media, texture, football theme) — two named distinct techniques."
+        },
+        {
+          "name": "1.3 Volleyball",
+          "lessonCount": 15,
+          "specificLearningOutcomes": [
+            "Identify the serving and the digging skills in Volleyball",
+            "Perform under-arm service for skill acquisition",
+            "Execute single hand dig pass in volleyball for skill acquisition",
+            "Appreciate playing Volleyball game for enjoyment"
+          ],
+          "keyInquiryQuestions": ["How can service skills in Volleyball be used to win a game?"],
+          "learningExperiences": [
+            "Watch a real or virtual Volleyball game responsibly to identify serving and digging skills",
+            "Demonstrate the under-arm service",
+            "Practise the under-arm in volleyball game",
+            "Demonstrate the single hand dig pass in volleyball",
+            "Practise the single hand dig pass in a game situation",
+            "Play a Volleyball game while applying the skills learnt and observing safety",
+            "Share own and others performance in Volleyball game while giving each other feedback"
+          ],
+          "coreCompetencies": [
+            "Learning to learn — acquires new skills of serving and the single hand dig pass in Volleyball game",
+            "Digital literacy — uses digital technology to source virtual Volleyball game to identify skills"
+          ],
+          "linkedLearningAreas": ["Integrated Science — applies force while serving the Volleyball"],
+          "scopeNotes": ["include: exactly two named skills — under-arm service, and single-hand dig pass (not double-hand/forearm dig)"],
+          "notes": "Kept as one skill — a single cohesive game with two named skills, not two distinct techniques worth splitting."
+        },
+        {
+          "name": "1.4 Rhythm and Pattern Making",
+          "lessonCount": 18,
+          "specificLearningOutcomes": [
+            "Interpret rhythmic patterns in music",
+            "Compose a rhythm using a combination of musical notes and their rests",
+            "Improvise a rhythm in three-beat pattern on a percussion instrument",
+            "Prepare a block with a geometrical motif for printing a pattern",
+            "Print a full repeat pattern using a block for rhythm acquisition",
+            "Value rhythmic patterns created by self and others"
+          ],
+          "keyInquiryQuestions": ["Why create rhythm in different beat patterns?"],
+          "learningExperiences": [
+            "Listen to/sing familiar songs and identify words with the French rhythm names taa, ta-te, taa-aa, taa-aa-aa, taa-aa-aa-aa",
+            "Tap/clap/stamp and recite rhythmic patterns using French rhythm names",
+            "Relate the French rhythm names to the music note symbols for the crotchet, pair of quavers, minim, dotted minim, semibreve and their rests",
+            "Apply composition techniques to compose original rhythmic patterns using French rhythm names or note symbols, and their rests",
+            "Use digital resources to further their skills of creating rhythms",
+            "Listen to songs and identify songs in three-beat patterns",
+            "Sing and conduct/beat time of songs in three-beat patterns",
+            "Improvise short rhythms in three-beat patterns using percussion instruments",
+            "Prepare a printing block from available resources (rubber/old slippers, wood, any other) using geometric shape motif",
+            "Improvise natural dye paste or artificial printing paste (Note: observe safety in improvising the paste)",
+            "Block print a full repeat pattern on a small fabric using contrasting colours",
+            "Neaten by trimming/stitching and ironing to make a small decorated table mat",
+            "Share the work with peers for critique and feedback for improvement"
+          ],
+          "coreCompetencies": [
+            "Creativity and Imagination — combines various techniques to creatively come up with rhythmic patterns and repeat patterns using block printing",
+            "Self-efficacy — applies composition techniques to create and improvise original rhythmic patterns"
+          ],
+          "linkedLearningAreas": [
+            "Mathematics — applies number concept when improvising three-beat patterns",
+            "Agriculture — applies the skills of finishing by trimming/stitching and ironing in making a table mat"
+          ],
+          "scopeNotes": [
+            "include: exact note-value set is crotchet, (pair of) quaver(s), minim, dotted minim, semibreve, and their rests",
+            "include: exact French rhythm names are taa, ta-te, taa-aa, taa-aa-aa, taa-aa-aa-aa",
+            "include: pattern making is specifically block printing with a geometric shape motif, full repeat pattern, on fabric (table mat)"
+          ],
+          "notes": "Split into 2 skills: rhythm notation/composition (note values, French rhythm names, 3-beat improvisation) and block-print pattern making (geometric motif, full repeat pattern) — two named distinct techniques."
+        },
+        {
+          "name": "1.5 Weaving",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "Identify a plain weave for familiarity",
+            "Prepare materials and tools for weaving",
+            "Weave a mat using plain weave on a serrated card loom",
+            "Appreciate own and peers' woven items"
+          ],
+          "keyInquiryQuestions": ["Why is recycling beneficial to the environment?"],
+          "learningExperiences": [
+            "Research in virtual and actual sources to identify a plain weave",
+            "Collect and prepare recyclable materials for weaving such as yarns, fibres among others",
+            "Make a serrated card loom on a stiff material and a shuttle",
+            "Weave a mat/scarf using a serrated card loom with emphasis on colour variation",
+            "Finish the mat/scarf by cutting and tying the tassels",
+            "Display and positively critique each other's woven items for reflective feedback"
+          ],
+          "coreCompetencies": [
+            "Critical thinking and problem solving — weaves a mat/scarf using a plain weave on a serrated card loom",
+            "Learning to learn — acquires new skill to make a mat or scarf using plain weaving technique"
+          ],
+          "linkedLearningAreas": ["Mathematics — measures and cuts to make a serrated card loom"],
+          "scopeNotes": ["include: plain weave is specifically 1/1 or 2/2 interlacing on a serrated card loom (small spaces)"],
+          "notes": "Kept as one skill — a single technique."
+        },
+        {
+          "name": "1.6 Gymnastics",
+          "lessonCount": 12,
+          "specificLearningOutcomes": [
+            "Describe the cartwheel skill in gymnastics",
+            "Perform the cartwheel skill in gymnastics",
+            "Perform 3-action sequence in cartwheel, forward roll and swan balance in gymnastics",
+            "Appreciate the action sequence of gymnastics for enjoyment"
+          ],
+          "keyInquiryQuestions": ["Why are sequences performed in Gymnastics?"],
+          "learningExperiences": [
+            "Watch a video or live performance of a cartwheel in gymnastics and talk about how it is done",
+            "Demonstrate the cartwheel skill in gymnastics",
+            "Practise the cartwheel skill",
+            "Demonstrate sequencing of cartwheel, forward roll, and swan balance",
+            "Practise a 3-action sequence of cartwheel, forward roll, a swan balance while observing safety",
+            "Observe peers' gymnastic performance and give feedback"
+          ],
+          "coreCompetencies": [
+            "Learning to learn — acquires the skills of combining cartwheel, forward roll and swan balance to perform a 3-action sequence",
+            "Critical thinking and problem solving — practises and creates 3-action sequence of a gymnastics performance",
+            "Self-Efficacy — self-esteem is enhanced by being able to perform a 3-action sequence"
+          ],
+          "linkedLearningAreas": ["Science and Technology — applies the concept of how the body works during performance of gymnastic activity"],
+          "scopeNotes": ["include: the 3-action sequence order is specifically cartwheel → forward roll → swan balance"],
+          "notes": "Kept as one skill — a single technique (cartwheel) building into one named 3-action sequence."
+        },
+        {
+          "name": "1.7 Melody",
+          "lessonCount": 12,
+          "specificLearningOutcomes": [
+            "Sing the sol-fa syllables doh to doh1 ascending and descending",
+            "Perform the sol-fa ladder using Kodaly hand signs",
+            "Aurally recognise sol-fa sounds doh to doh1 in familiar melodies",
+            "Compose short melodies within the range of doh to doh1",
+            "Write the sol-fa syllables using calligraphy lettering",
+            "Appreciate melodies created by self and others"
+          ],
+          "keyInquiryQuestions": ["How can melodies be made interesting during composition?"],
+          "learningExperiences": [
+            "Sing sol-fa syllable doh to doh1 ascending and descending with accuracy in pitch",
+            "Imitate sol-fa pitches sung or played on a melodic instrument for pitch discrimination",
+            "Listen to and sing familiar songs within the d-d1 range using sol-fa syllables",
+            "Practise singing and performing the sol-fa ladder using Kodaly hand signs",
+            "Apply composition techniques to compose original melodies based on sol-fa syllables d r m f s l t d1",
+            "Use calligraphy lettering to add sol-fa syllables to created rhythms to form a melody",
+            "Record or present the created melodies to peers for review and improvement"
+          ],
+          "coreCompetencies": [
+            "Creativity and Imagination — makes thoughtful choices in selecting sol-fa syllables and note values to combine to create melodies",
+            "Critical thinking and Problem solving — listens and identifies sol-fa sounds in melodies and interprets hand signs"
+          ],
+          "linkedLearningAreas": [
+            "Mathematics — applies number and sequencing concepts learnt in combining sol-fa syllables in stepwise and leaps motion",
+            "English — uses vowels to sing the sol-fa syllables in ascending and descending order"
+          ],
+          "scopeNotes": [
+            "include: composition techniques are specifically narrow leaps (thirds), stepwise motion, repetition, variation and appropriate ending",
+            "include: full sol-fa range is doh, re, me, fah, soh, lah, te, doh1 (d r m f s l t d1)"
+          ],
+          "notes": "Kept as one skill — content is unified around one scale/range even though several sub-skills (singing, hand signs, aural recognition, composition, notation) are named."
+        }
+      ]
+    },
+    {
+      "name": "2.0 Performing and Displaying",
+      "subStrands": [
+        {
+          "name": "2.1 Athletics",
+          "lessonCount": 15,
+          "specificLearningOutcomes": [
+            "Describe Long jump and High jump techniques in athletics",
+            "Perform the sail technique in Long jump for skills acquisition",
+            "Perform the scissors technique in High jump for skills acquisition",
+            "Appreciate Long jump and High jump techniques in athletics for enjoyment"
+          ],
+          "keyInquiryQuestions": ["How is the jumping skill useful in athletics?", "Why is it important to maintain a pace in athletics?"],
+          "learningExperiences": [
+            "Watch a virtual or live performance of a Long jump and High jump, and keenly observe sail technique in long jump and scissors technique in high jump",
+            "Demonstrate the sail technique in Long jump while observing safety",
+            "Practise the sail technique in Long jump while observing safety",
+            "Demonstrate the scissors technique in High jump, while observing safety",
+            "Practise the scissors technique in High jump while observing safety",
+            "Observe each other's performance in Long jump and High jump and give feedback",
+            "Display own and others' performance in Long jump and High jump and share feedback"
+          ],
+          "coreCompetencies": [
+            "Digital literacy — operates digital devices while watching performances",
+            "Creativity and Imagination — applies tactics while practising the sail technique and scissors technique"
+          ],
+          "linkedLearningAreas": ["Mathematics — measures and appraises their performance accordingly"],
+          "scopeNotes": ["include: exactly two named techniques — sail technique (Long jump), scissors technique/scissor style (High jump)"],
+          "notes": "Kept as one skill — two field events, same 'jumping technique' theme."
+        },
+        {
+          "name": "2.2 Descant Recorder",
+          "lessonCount": 14,
+          "specificLearningOutcomes": [
+            "Play notes C to D1 on the descant recorder with appropriate playing techniques",
+            "Play a melody within the range of C to D1 on the descant recorder",
+            "Play the main melody of the Kenya National Anthem on the descant recorder",
+            "Show interest in playing the descant recorder"
+          ],
+          "keyInquiryQuestions": ["How can a good tone be produced on a descant recorder?"],
+          "learningExperiences": [
+            "Observe and interpret the Baroque fingering chart of the notes C D E F G A B C1 and D1",
+            "Individually and in groups practise playing the notes C D E F G A B C1 D1 ascending and descending on the descant recorder with appropriate playing techniques",
+            "Practise playing melodies based on notes C D E F G A B C1 and D1 on the descant recorder applying playing techniques and hygiene measures",
+            "Present melodies before peers for critique and improvement",
+            "Search, watch videos and practise playing melodies on the descant recorder",
+            "Listen to and play the main melody of the Kenya National Anthem"
+          ],
+          "coreCompetencies": [
+            "Learning to learn — takes the initiative to learn how to play notes and melodies on the descant recorder",
+            "Citizenship — plays the main melody of the Kenya National Anthem on the descant recorder"
+          ],
+          "linkedLearningAreas": ["Agriculture — applies hygiene measures learnt during use and after playing the descant recorder"],
+          "scopeNotes": [
+            "include: full note range is C D E F G A B C1 D1 (Baroque fingering)",
+            "include: playing techniques are specifically fingering, tonguing and posture",
+            "include: explicit repertoire piece named — the Kenya National Anthem's main melody"
+          ],
+          "notes": "Kept as one skill."
+        },
+        {
+          "name": "2.3 Indigenous Kenyan Instrumental Ensembles",
+          "lessonCount": 12,
+          "specificLearningOutcomes": [
+            "Identify the categories of indigenous Kenyan instrumental ensembles",
+            "Describe factors to consider when playing in an instrumental ensemble",
+            "Play a selected instrument in an ensemble using appropriate techniques",
+            "Appreciate the role of Kenyan indigenous musical instruments in performance"
+          ],
+          "keyInquiryQuestions": ["How can one play an instrument as part of an instrumental ensemble?"],
+          "learningExperiences": [
+            "Observe actual/virtual samples of performance of Kenyan indigenous instrumental ensembles and classify them",
+            "Collaboratively identify the instruments that form part of the categories of the instrumental ensembles",
+            "Brainstorm on factors to consider for successful playing in an indigenous Kenyan instrumental ensemble",
+            "Select an instrument to perform in a Kenyan Indigenous Instrumental ensemble",
+            "Tune the selected instrument using appropriate technique",
+            "Handle with care while practising and playing a selected instrument in a Kenyan indigenous Instrumental ensemble"
+          ],
+          "coreCompetencies": [
+            "Citizenship — interacts with and plays indigenous Kenyan musical instruments in an ensemble",
+            "Communication and collaboration — teams up with peers to perform as an ensemble"
+          ],
+          "linkedLearningAreas": [
+            "Indigenous Languages — interacts with different musical instruments from indigenous Kenyan communities",
+            "Social Studies — interacts with musical instruments from different Kenyan Indigenous communities"
+          ],
+          "scopeNotes": [
+            "include: three named ensemble categories — percussion, wind, string ensemble",
+            "include: seven named factors to consider — choosing an appropriate instrument, tuning, playing technique, tempo, synchrony with other instrumentalists, accuracy in rhythm/melody, improvisation of rhythms and melodies"
+          ],
+          "notes": "Kept as one skill — pool floor easily met via the 3 categories x 7 factors matrix."
+        },
+        {
+          "name": "2.4 Indigenous Kenyan Craft — Pottery",
+          "lessonCount": 12,
+          "specificLearningOutcomes": [
+            "Identify pottery items made using slab technique",
+            "Model a vase using slab technique for expression",
+            "Decorate a modelled item for aesthetic enhancement",
+            "Appreciate pottery as an indigenous Kenyan craft"
+          ],
+          "keyInquiryQuestions": ["Why are clay items dried under the shade?"],
+          "learningExperiences": [
+            "Observe actual/virtual samples of indigenous Kenyan pottery items and identify items made using slab technique",
+            "Responsibly source clay from the environment (anthills, riverbanks among others)",
+            "Collaboratively prepare the clay by kneading and wedging",
+            "Roll clay into slabs of equal uniform thickness",
+            "Cut slabs of clay (rectangular and circular) and join to form a vase",
+            "Finish the vase by burnishing and stamping",
+            "Leave to dry under shade",
+            "Display and talk about own and others' modelled item"
+          ],
+          "coreCompetencies": ["Communication and collaboration — works in a group to prepare the clay by kneading and wedging"],
+          "linkedLearningAreas": ["Social Studies — exploits natural resources to source clay from the environment such as anthills, riverbanks"],
+          "scopeNotes": [
+            "include: clay preparation steps — source, knead, wedge, roll into equal-thickness slabs, cut (rectangular + circular), join, finish by burnishing/stamping, dry under shade (not direct sun)"
+          ],
+          "notes": "Kept as one skill."
+        },
+        {
+          "name": "2.5 Swimming (Optional — Either)",
+          "lessonCount": 15,
+          "specificLearningOutcomes": [
+            "Describe the body position in breaststroke",
+            "Perform breaststroke in swimming for skill acquisition",
+            "Acknowledge performing breaststroke skill in swimming"
+          ],
+          "keyInquiryQuestions": ["Why are swimming skills considered as survival skills?"],
+          "learningExperiences": [
+            "Watch a virtual or actual performance to observe breaststroke in swimming",
+            "Demonstrate breaststroke skill",
+            "Practise breaststroke skills while observing safety",
+            "Apply the skill of breaststroke in swimming game",
+            "Observe each other swim using breaststroke and give feedback"
+          ],
+          "coreCompetencies": [
+            "Self-efficacy — expresses water confidence as they practise the skill of breaststroke",
+            "Learning to learn — acquires new skill of breaststroke while practising in the swimming pool"
+          ],
+          "linkedLearningAreas": ["Integrated Science — uses the knowledge of floatation to perform breaststroke in swimming"],
+          "scopeNotes": [
+            "The design presents 2.5 as an EITHER/OR choice between Swimming and Indigenous Kenyan Games — a real school picks one. This app builds skills for BOTH named options (matching the precedent already set by Grade 8 Creative Arts and Sports, which shipped both swimming.ts and indigenousGames.ts), since offline practice content isn't scarce the way a school's pool access is."
+          ]
+        },
+        {
+          "name": "2.5 Indigenous Kenyan Games — Floor games (Optional — Or)",
+          "lessonCount": 15,
+          "specificLearningOutcomes": [
+            "Identify types of indigenous floor games played in Kenya",
+            "Perform different indigenous floor games for skill acquisition",
+            "Execute indigenous floor games to a musical rhythm for enjoyment",
+            "Appreciate the role played by indigenous floor games for fitness and health"
+          ],
+          "keyInquiryQuestions": ["How do floor games enhance physical fitness?", "Why are floor games considered as indigenous?"],
+          "learningExperiences": [
+            "Watch a virtual or live demonstration of indigenous floor game and identify the skills observed",
+            "Demonstrate indigenous floor games while observing safety",
+            "Practise indigenous floor games while observing safety",
+            "Practise different types of indigenous floor games while combining it to a musical rhythm",
+            "Talk about the role of indigenous floor games in enhancing fitness with peers"
+          ],
+          "coreCompetencies": [
+            "Communication and Collaboration — works with others in performing indigenous floor games",
+            "Learning to learn — acquires and masters skills in floor games"
+          ],
+          "linkedLearningAreas": ["Mathematics — keeps counting during practise of indigenous floor games"],
+          "scopeNotes": [
+            "The design does not enumerate specific named floor games (e.g. bao/ajua) in the Suggested Learning Experiences text itself — treated as a genuine content gap in the source; the skill should use commonly-documented Kenyan indigenous floor games (e.g. bao/ajua, kimbo/hopscotch-style games) rather than inventing unnamed ones, and should flag this as a source-thin area rather than silently padding it."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "3.0 Appreciation in Creative Arts",
+      "subStrands": [
+        {
+          "name": "3.1 Analysis of Creative Arts works",
+          "lessonCount": 15,
+          "specificLearningOutcomes": [
+            "Create a catalogue of the exhibited artworks",
+            "Discuss the use of elements of music in a song",
+            "Discuss messages in songs",
+            "Participate in sporting events for enjoyment",
+            "Value analysing Creative Arts works drawn from various cultural backgrounds"
+          ],
+          "keyInquiryQuestions": ["How are Creative Arts analysed?"],
+          "learningExperiences": [
+            "Visit virtual or actual art establishments for inspiration",
+            "Create a catalogue of the exhibited artworks indicating artist's name, type of artwork, media/material",
+            "Interpret works of art displayed by taking into account: type of art, material, media, meaning, techniques, aesthetic",
+            "Reflect on the analysed work of art for inspiration and mentorship",
+            "Listen to a variety of songs addressing Pertinent and Contemporary Issues such as climate, road safety and identify the type of song, discuss how different elements of music are used using appropriate terminology",
+            "Listen to and identify the message/values in the songs",
+            "Discuss the texture and structure of the songs",
+            "Listen to/refer to specific music and relate it to experiences or events in life",
+            "Participate in Football, Athletics, Volleyball, Rounders, Gymnastics and Swimming events for fun and inter-class/inter-school championships",
+            "Appreciate the sports performances with focus on fair play and observance of code of conduct to enhance sportsmanship"
+          ],
+          "coreCompetencies": [
+            "Critical thinking and problem solving — listens to and describes how the different elements of music are used in songs using appropriate terminologies and critiques artworks",
+            "Digital Literacy — interacts with digital technology to watch videos of songs and sports skill execution",
+            "Citizenship — visits community galleries or cultural centres to see artworks done by other local artists"
+          ],
+          "linkedLearningAreas": ["Social Studies — visits community and virtual galleries to see artworks related to art techniques"],
+          "scopeNotes": [
+            "include: seven named elements of music — pitch, melody, rhythm, dynamics, tempo, texture (monophonic and homophonic texture) and structure (AB, ABA)",
+            "include: artwork catalogue must indicate artist's name, type of artwork, media/material",
+            "include: named sporting events for appreciation — Football, Athletics, Volleyball, Rounders, Gymnastics, Swimming",
+            "include: sportsmanship focus is specifically fair play and code-of-conduct observance"
+          ],
+          "notes": "Kept as one skill despite breadth (visual-art catalogue + music-elements analysis + sports appreciation) — matches the Grade 7/Grade 8 Creative Arts and Sports precedent of a single 'analysis.ts' file for the whole Appreciation strand."
+        }
+      ]
+    }
+  ]
+}

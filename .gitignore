@@ -1,0 +1,22 @@
+# env files (secrets — never commit)
+.env*
+
+# dependencies / build output (any depth)
+node_modules/
+.next/
+out/
+build/
+coverage/
+*.tsbuildinfo
+
+# local/session-specific, not project source
+.claude/
+outputs/
+
+# throwaway scripts this project's convention creates and deletes after use
+scratch-*.mts
+scratch-*.mjs
+
+# OS/editor cruft
+.DS_Store
+Thumbs.db

@@ -1,0 +1,699 @@
+{
+  "subject": "Indigenous Language",
+  "subjectId": "indigenous-language",
+  "grade": 7,
+  "source": {
+    "title": "Junior School Curriculum Design: Indigenous Languages, Grade 7",
+    "url": "designs-grade-7/Indigenous-Languages-Grade-7-Design-Formatted-April-2024.pdf",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-16",
+    "confidence": "high",
+    "notes": "Read directly from the local PDF in designs-grade-7/ via the Read tool (no pages param, per standing instruction), full text extracted natively. ISBN 978-9914-43-936-6, First Published 2022, Revised 2024. STRUCTURAL NOTE, same pattern confirmed at Grade 8 and Grade 9: the front-matter 'SUMMARY OF STRANDS AND SUB STRANDS' table presents three generic skill strands (Listening and Speaking / Reading / Writing, each with generic sub-strand categories, totalling 54 lessons) plus a 6-lesson 'Showcasing Concepts and Skills in Indigenous Language (Exhibitions)' entry (60 total) - but the actual body of the document is organised around 9 real-world THEMES (Indigenous Homes, ICT - Internet Access and Use, Safety at Home, Environmental Conservation, Cultural Diversity, The Farm, Talents and Gifts, Indigenous Knowledge: Art, Patriotism), each theme containing exactly one Listening & Speaking sub-strand, one Reading sub-strand, and one Writing sub-strand (2 lessons each, 6 per theme x 9 themes = 54, + 6 lesson Showcasing = 60), with genuinely different content per theme. Following the body's organisation (themes as strands, matching the Grade 8/9 precedent), each Theme is recorded here as a 'strand' with its three L&S/Reading/Writing components as subStrands. Content is generic-English-medium (grammar concepts, listening/reading strategies, essay/letter/dialogue/narrative structure, presentation skills) applied to indigenous-language-medium themes, not actual vocabulary in one specific mother tongue, since KICD's design does not prescribe a single indigenous language among Kenya's 40+. All 9 themes carry genuinely distinct content (not the same theme retold three ways)."
+  },
+  "strands": [
+    {
+      "name": "Theme 1: Indigenous Homes",
+      "vocabulary": ["home", "house", "granary", "store", "visitors", "kitchen", "shed", "farm", "stool", "chairs", "elders", "family"],
+      "subStrands": [
+        {
+          "name": "Listening for information",
+          "notes": "1.1.1, 2 lessons.",
+          "specificLearningOutcomes": [
+            "Respond to information from oral texts for communication",
+            "Use appropriate vocabulary to construct sentences",
+            "Recognise listening for information as a crucial aspect of communication"
+          ],
+          "keyInquiryQuestions": ["How should we listen for specific information from a text?"],
+          "learningExperiences": [
+            "listen to readings of texts or recorded audio clips in a group and respond to questions",
+            "take notes from oral texts or audio clip texts",
+            "share notes with peers in class for peer review",
+            "work collaboratively to make a list of new vocabulary from the listened to texts",
+            "construct simple sentences using the new vocabulary from the texts",
+            "team up to prepare a creative mosaic of a typical indigenous home design",
+            "display their mosaic designs during the class exhibitions and festivals"
+          ],
+          "coreCompetencies": ["Communication (listens to readings/audio clips actively and responds to questions)", "Digital literacy (accesses content via recorded audio clips)"],
+          "values": ["Respect (accepts peer contributions during note review)", "Unity (collaborates on the vocabulary list)"],
+          "pertinentContemporaryIssues": ["Cultural awareness (interacting with information on different indigenous homes)"],
+          "linkedLearningAreas": ["Kiswahili and English (listening for information skills transfer directly)"]
+        },
+        {
+          "name": "Reading comprehension",
+          "notes": "1.2.1, 2 lessons. Sub-topics: direct and inferential questions, vocabulary building.",
+          "specificLearningOutcomes": [
+            "Respond to direct and inferential questions from a text for comprehension",
+            "Use the dictionary to find the meaning of vocabulary used in texts for understanding",
+            "Appreciate indigenous home designs for indigenous knowledge acquisition"
+          ],
+          "keyInquiryQuestions": ["How should we read a text to get accurate information?", "Why is it important to showcase our indigenous homes?"],
+          "learningExperiences": [
+            "read comprehension texts related to the theme of indigenous homes",
+            "create a word bank of vocabulary from the passages",
+            "work with peers to infer the meaning of the vocabulary from context",
+            "use the dictionary to search for the meaning of the vocabulary",
+            "fill in gaps in a passage using the vocabulary",
+            "read texts on indigenous homes and answer inferential questions",
+            "search for information on the theme from digital sources and share the findings with peers"
+          ],
+          "coreCompetencies": ["Digital literacy (accesses info from digital sources and shares with peers)", "Learning to learn (works with peers to derive vocabulary meaning from context)"],
+          "values": ["Unity (infers vocabulary meaning from context with peers)", "Responsibility (searches digital sources diligently)"],
+          "pertinentContemporaryIssues": ["Social cohesion (appreciating texts on indigenous homes and how people lived)"],
+          "linkedLearningAreas": ["Social Studies (compare indigenous home structures to social organisations)"]
+        },
+        {
+          "name": "Social writing - SMS",
+          "notes": "1.3.1, 2 lessons.",
+          "specificLearningOutcomes": [
+            "Identify features of a Short Message Service (SMS) for information",
+            "Create an SMS text with appropriate features for effective communication",
+            "Adopt digital etiquette when using social media for communication"
+          ],
+          "keyInquiryQuestions": ["How do we ensure etiquette when using digital devices?"],
+          "learningExperiences": [
+            "work jointly to talk about the features of an ideal SMS",
+            "write an SMS using a digital device",
+            "peer review another learners' SMS texts",
+            "discuss social media etiquette when writing an SMS",
+            "use SMS with etiquette"
+          ],
+          "coreCompetencies": ["Digital literacy (writes an SMS using a digital device)", "Communication (discusses and observes social media etiquette)"],
+          "values": ["Responsibility (peer reviews SMS texts and gives feedback)", "Unity (works jointly on ideal-SMS features)"],
+          "pertinentContemporaryIssues": ["Global citizenship (applying etiquette in digital communication)"],
+          "linkedLearningAreas": ["Social Studies (modern forms of communication)"]
+        }
+      ]
+    },
+    {
+      "name": "Theme 2: ICT - Internet Access and Use",
+      "vocabulary": ["ICT", "access", "technology", "internet", "site", "computers"],
+      "subStrands": [
+        {
+          "name": "Listening for comprehension",
+          "notes": "2.1.1, 2 lessons. Sub-topics: key events, vocabulary, pronouns.",
+          "specificLearningOutcomes": [
+            "Find specific information from a text by listening",
+            "Infer the meaning of vocabulary from a text",
+            "Recognise the importance of Information Communication Technologies in life"
+          ],
+          "keyInquiryQuestions": ["How is internet important in communication?", "Why is it important to note down main points from an oral text?"],
+          "learningExperiences": [
+            "listen to a story on the theme of internet access and use from a digital device and discuss with peers",
+            "narrate key events in the story, in pairs",
+            "list pronouns from sentences and share",
+            "use the pronouns to write sentences",
+            "infer the meaning of new vocabulary as used in the story",
+            "use the vocabulary to construct sentences",
+            "observe pictures of digital devices and discuss their use",
+            "discuss the importance of internet in communication"
+          ],
+          "coreCompetencies": ["Communication and collaboration (listens to oral stories and discusses importance of internet with peers)"],
+          "values": ["Responsibility (uses internet and digital devices with discipline)", "Respect (listens to different views on the theme)"],
+          "pertinentContemporaryIssues": ["Social cohesion (understanding different viewpoints)"],
+          "linkedLearningAreas": ["General - sourcing learning materials across all learning areas"]
+        },
+        {
+          "name": "Extensive Reading: Library Skills",
+          "notes": "2.2.1, 2 lessons.",
+          "specificLearningOutcomes": [
+            "Select appropriate materials from the library for extensive reading",
+            "Read texts based on a specific topic from a library for general information",
+            "Access specific information from the internet for reading",
+            "Advocate the use of library resources for general reading"
+          ],
+          "keyInquiryQuestions": ["How do we locate reading materials in a library?", "How do we use the dictionary to find the meaning of new words?"],
+          "learningExperiences": [
+            "observe rules and regulations when in a library",
+            "select reference materials from a library for extended reading",
+            "search the internet for reading materials on a given theme",
+            "make a summary of key points from reading materials",
+            "use hard copy and online dictionaries to find the meaning of different vocabulary",
+            "prepare a personal reading list of a collection of books"
+          ],
+          "coreCompetencies": ["Learning to learn (searches library and internet for reference materials)", "Critical thinking and problem solving (encounters new information in library texts)"],
+          "values": ["Responsibility (observes library rules and regulations)", "Respect (searches internet for reading materials responsibly)"],
+          "pertinentContemporaryIssues": ["Digital literacy (searching, reading, acquiring information from online sources)"],
+          "linkedLearningAreas": ["Agriculture (extensive reading skills transfer)"]
+        },
+        {
+          "name": "Essay writing",
+          "notes": "2.3.1, 2 lessons.",
+          "specificLearningOutcomes": [
+            "Outline parts of an essay from samples",
+            "Compose an essay on a specific theme for communication",
+            "Acknowledge the importance of essay writing for effective communication"
+          ],
+          "keyInquiryQuestions": ["How do we write an essay?"],
+          "learningExperiences": [
+            "read in class sample essays and identify the three parts",
+            "identify ideas from sample essays",
+            "read essays aloud in class and correct mistakes",
+            "select a topic and write a simple essay and share with other learners",
+            "search for more information about essay writing from the library or digital sources",
+            "display essays in the class creative corner"
+          ],
+          "coreCompetencies": ["Digital Literacy (searches for essay-writing information from digital sources)", "Communication (writes essays on selected topics)"],
+          "values": ["Responsibility (identifies an idea and selects a topic)", "Respect (reads sample essays with other learners)"],
+          "pertinentContemporaryIssues": ["Social cohesion (reading and identifying ideas from sample essays as a class)"],
+          "linkedLearningAreas": ["English and Kiswahili (essay writing skill)"]
+        }
+      ]
+    },
+    {
+      "name": "Theme 3: Safety at Home",
+      "vocabulary": ["safe", "home", "accident", "emergency", "care", "electricity", "bites", "wounds", "scratch", "heal"],
+      "subStrands": [
+        {
+          "name": "Attentive listening",
+          "notes": "3.1.1, 2 lessons. Sub-topics: main ideas, verbs (words that denote actions).",
+          "specificLearningOutcomes": [
+            "Listen carefully to pick out the main ideas from a comprehension passage",
+            "Respond to questions from an aural text",
+            "Realise the importance of listening attentively for information"
+          ],
+          "keyInquiryQuestions": ["How can we listen attentively?", "Why is it important to observe safety at home?"],
+          "learningExperiences": [
+            "team up to play the 'broken telephone' game to practice attentive listening",
+            "listen to an oral or watch an audio-visual story or passage on the theme of safety at home",
+            "discuss the various key ideas from the story or passage",
+            "identify words that denote actions (verbs) from the story or passage",
+            "team up to compose a song on the theme and sing with peers",
+            "answer questions from the song orally",
+            "debate the importance of safety at home"
+          ],
+          "coreCompetencies": ["Communication (actively listens and discusses key ideas)", "Creativity and imagination (practises singing a composed song on the theme)"],
+          "values": ["Responsibility (diligently takes up roles in the debate)"],
+          "pertinentContemporaryIssues": ["Safety and security education"],
+          "linkedLearningAreas": ["Integrated Science (school laboratories), Creative Arts and Sports (theatres and playgrounds)"]
+        },
+        {
+          "name": "Extensive reading: Vocabulary building",
+          "notes": "3.2.1, 2 lessons. Sub-topics: summarising, vocabulary building.",
+          "specificLearningOutcomes": [
+            "Summarise key points from texts after reading",
+            "Create a glossary of new vocabulary from texts for communication",
+            "Promote reading to enhance language acquisition"
+          ],
+          "keyInquiryQuestions": ["How do we develop library skills?", "How can we identify appropriate material for reading?"],
+          "learningExperiences": [
+            "discuss ways of accessing reading materials on a specific theme from a library",
+            "work jointly to select relevant reading materials based on the theme",
+            "use a digital and any other electronic device to access grade appropriate reading materials on the theme",
+            "read the materials and make brief notes on the main points on the texts",
+            "identify vocabulary from the text and use the dictionary to find their meaning",
+            "team up to build a vocabulary bank on the new words identified",
+            "use the new words to construct sentences",
+            "peer review each other's sentences"
+          ],
+          "coreCompetencies": ["Communication and collaboration (values peers' ideas during peer review)", "Learning to learn (independently identifies vocabulary and uses the dictionary)"],
+          "values": ["Responsibility (diligently selects relevant reading material)", "Unity (cooperates with peers on accessing library materials)"],
+          "pertinentContemporaryIssues": ["Cyber security awareness (responsible digital device use)"],
+          "linkedLearningAreas": ["All other learning areas (library skills)"]
+        },
+        {
+          "name": "Writing for Information",
+          "notes": "3.3.1, 2 lessons. Sub-topics: key points, paraphrasing.",
+          "specificLearningOutcomes": [
+            "Outline key points from a text on a specific theme",
+            "Paraphrase the main issues from a text for comprehension",
+            "Acknowledge the value of brevity in communication"
+          ],
+          "keyInquiryQuestions": ["Why do we write short notes?", "How do you write short notes?"],
+          "learningExperiences": [
+            "brainstorm ideas on the theme of safety at home",
+            "write short notes on the theme",
+            "collaborate to read written or online (or any other electronic sources) texts on the theme",
+            "discuss the main points of the texts on the theme",
+            "team up with peers to paraphrase the main points from each of the texts (not more than 80 words)",
+            "exchange the written work with peers in class for review"
+          ],
+          "coreCompetencies": ["Self-efficacy (shows concerted attention when brainstorming)", "Digital literacy (interacts with technology reading texts online)"],
+          "values": ["Unity (teams up to paraphrase main points)"],
+          "pertinentContemporaryIssues": ["Disaster Risk Reduction (information on safety at home and reducing emergencies)"],
+          "linkedLearningAreas": ["Kiswahili (paraphrasing concept)"],
+          "scopeNotes": ["include: paraphrased notes must not exceed 80 words (explicit numeric constraint stated in the learning experiences)"]
+        }
+      ]
+    },
+    {
+      "name": "Theme 4: Environmental Conservation",
+      "vocabulary": ["environment", "conserve", "nature", "rivers", "pollution", "animals", "plants", "indigenous trees", "deforestation", "afforestation", "protect", "poachers"],
+      "subStrands": [
+        {
+          "name": "Conversational Skills",
+          "notes": "4.1.1, 2 lessons. Sub-topic: beginning and ending a conversation.",
+          "specificLearningOutcomes": [
+            "Identify the common ways of beginning and ending an oral conversation for self-expression",
+            "Take part in a conversation for effective communication",
+            "Value the importance of conserving the environment"
+          ],
+          "keyInquiryQuestions": ["How can we make conversations respectful?", "Why is it important to conserve environment?"],
+          "learningExperiences": [
+            "watch a conversation to identify common ways of beginning and ending a conversation",
+            "use digital devices to view presentations/interviews on environmental conservation",
+            "discuss the main issues focused on",
+            "role-play a face-to-face conversation between two strangers while observing etiquette",
+            "work jointly to pick out the key words and phrases that have been used to begin and end a conversation",
+            "create or join an environmental club in school or the community to discuss practical ways to engage in environmental conservation"
+          ],
+          "coreCompetencies": ["Communication and Collaboration (role plays a dialogue with fellow learners)", "Learning to learn (takes initiative joining/starting an environmental club)"],
+          "values": ["Respect (accommodates other learners' opinions)", "Responsibility (self-driven attitude joining/starting a club)"],
+          "pertinentContemporaryIssues": ["Environmental education"],
+          "linkedLearningAreas": ["Agriculture (environmental conservation skills)"]
+        },
+        {
+          "name": "Reading for information - Visuals",
+          "notes": "4.2.1, 2 lessons.",
+          "specificLearningOutcomes": [
+            "Infer implied meaning of visuals for information",
+            "Summarize written texts into visuals for comprehension",
+            "Acknowledge the role of visuals in effective communication"
+          ],
+          "keyInquiryQuestions": ["Why are visuals used in communication?", "How do we conserve the environment?"],
+          "learningExperiences": [
+            "study the pictures and make observations about environmental conservation",
+            "infer the implied meaning from a variety of visuals",
+            "conduct a reader's theatre to read texts on environmental conservation",
+            "create a personal glossary of vocabulary related to environmental conservation",
+            "work jointly to summarize information from the text into a visual (e.g. picture, charts, graph)",
+            "team up to collect a collection of visuals on the theme and organize them in a class portfolio"
+          ],
+          "coreCompetencies": ["Citizenship (consolidates information studying environmental pictures)", "Learning to learn (motivated to read continuously to build a glossary)"],
+          "values": ["Respect (appreciates diverse peer interpretations of vocabulary)", "Unity (discusses environmental issues in groups)"],
+          "pertinentContemporaryIssues": ["Environmental education"],
+          "linkedLearningAreas": ["Creative Arts and Sports (creating visuals)"]
+        },
+        {
+          "name": "Creative Writing - Dialogue",
+          "notes": "4.3.1, 2 lessons.",
+          "specificLearningOutcomes": [
+            "Outline the main features of a well written dialogue",
+            "Compose an imaginative dialogue on the theme of environmental conservation for self-efficacy",
+            "Promote creative writing for effective communication"
+          ],
+          "keyInquiryQuestions": ["How can we write a good imaginative dialogue?"],
+          "learningExperiences": [
+            "search from electronic and library sources for imaginative dialogues",
+            "watch or read the dialogues and discuss their features",
+            "work with peers to develop an outline of the structure of a good dialogue on a chart",
+            "write a simple imaginative dialogue on environmental conservation",
+            "share the written dialogues with peers for review",
+            "role play the dialogue with peers in class"
+          ],
+          "coreCompetencies": ["Communication and collaboration (contributes to group decisions on dialogue structure)", "Digital literacy (finds sample imaginative dialogues digitally)"],
+          "values": ["Respect (accommodates peer ideas on dialogue features)", "Responsibility (accepts input during peer review)"],
+          "pertinentContemporaryIssues": ["Peace education (role of dialogue for peaceful coexistence)"],
+          "linkedLearningAreas": ["Kiswahili and English (dialogue writing)"]
+        }
+      ]
+    },
+    {
+      "name": "Theme 5: Cultural Diversity",
+      "vocabulary": ["culture", "ethnicities", "different", "leadership", "foods", "dressing", "customs", "values", "rules", "together", "unity", "diversity", "beautiful", "celebrate"],
+      "subStrands": [
+        {
+          "name": "Conversational skills - Tongue Twisters and Riddles",
+          "notes": "5.1.1, 2 lessons.",
+          "specificLearningOutcomes": [
+            "Identify commonly used tongue twisters and riddles in the community",
+            "Take part in the performance of riddles and tongue twisters",
+            "Recognise the importance of riddles and tongue twisters in enhancing communication skills"
+          ],
+          "keyInquiryQuestions": ["Why are tongue twisters important in language development?", "How do riddles help in enhancing communication?"],
+          "learningExperiences": [
+            "take turns to perform common riddles",
+            "work jointly to discuss the process of riddling",
+            "practise turn-taking, negotiation and interjection as part of the riddling process",
+            "brainstorm the features of a riddle",
+            "compete with peers to say tongue twisters and record them",
+            "listen to recorded audio clips of tongue twisters and peer review",
+            "compose tongue twisters and take turns to perform them",
+            "work with peers to create a collection of riddles and tongue twisters and organize in a class portfolio"
+          ],
+          "coreCompetencies": ["Critical thinking and problem solving (follows simple instructions performing riddles/twisters)", "Learning to learn (collective learning composing and performing)"],
+          "values": ["Unity (cooperates with peers taking turns performing)", "Respect (accommodates peer opinions composing tongue twisters)"],
+          "pertinentContemporaryIssues": ["Ethnic and racial relations (exposure to riddles/twisters from different communities)"],
+          "linkedLearningAreas": ["English and Kiswahili"]
+        },
+        {
+          "name": "Reading for Information",
+          "notes": "5.2.1, 2 lessons. Sub-topics: direct and inferential questions, vocabulary building.",
+          "specificLearningOutcomes": [
+            "Answer direct and inferential questions from a written text",
+            "Infer meaning of vocabulary from context for comprehension",
+            "Promote a reading culture in the community for lifelong learning"
+          ],
+          "keyInquiryQuestions": ["Why is it important to read texts?"],
+          "learningExperiences": [
+            "conduct a reader's theatre to read a passage on the theme of cultural diversity",
+            "collaborate with peers to answer direct questions",
+            "outline the main ideas from the passage",
+            "respond to inferential questions on the theme of the passage",
+            "collaborate with peers to identify vocabulary related to the theme and read aloud",
+            "work jointly to infer meaning of vocabulary in context",
+            "make sentences using the vocabulary identified and review each other's sentences"
+          ],
+          "coreCompetencies": ["Self-efficacy (concerted attention inferring vocabulary meaning in context)", "Citizenship (gains knowledge on cultural diversity from texts)"],
+          "values": ["Unity (teams with others to review sentences)"],
+          "pertinentContemporaryIssues": ["Social cohesion (respect for others from cultural diversity knowledge)"],
+          "linkedLearningAreas": ["Social Studies"]
+        },
+        {
+          "name": "Creative writing - Narrative composition",
+          "notes": "5.3.1, 2 lessons.",
+          "specificLearningOutcomes": [
+            "Identify the features of a narrative composition",
+            "Write a narrative composition for self-expression",
+            "Realise the importance of the narrative as a channel of communication"
+          ],
+          "keyInquiryQuestions": ["How do we narrate events?"],
+          "learningExperiences": [
+            "take turns to narrate accounts of social events that they attended",
+            "work jointly to outline key features of a narrative from a sample on a chart",
+            "discuss features of a narrative",
+            "compose a simple narrative about the theme on cultural diversity and read to peers for review",
+            "keep the narrative created in the portfolio"
+          ],
+          "coreCompetencies": ["Creativity and imagination (creative ideas narrating an event attended)", "Self-efficacy (orders and prioritises events composing a narrative)"],
+          "values": ["Respect (constructive comments during narrative review)", "Responsibility (participates outlining narrative features)"],
+          "pertinentContemporaryIssues": ["Cultural awareness"],
+          "linkedLearningAreas": ["English and Kiswahili"]
+        }
+      ]
+    },
+    {
+      "name": "Theme 6: The Farm",
+      "vocabulary": ["vegetables", "fruits", "dairy products", "meat", "farm", "farm tools", "trees", "farm animals", "crops", "cattle", "farmer"],
+      "subStrands": [
+        {
+          "name": "Listening for information",
+          "notes": "6.1.1, 2 lessons. Sub-topics: vocabulary, adverbs, comprehension.",
+          "specificLearningOutcomes": [
+            "Identify vocabulary and adverbs from an oral text",
+            "Use vocabulary and adverbs learnt in a variety of contexts",
+            "Respond to questions from an oral text for comprehension",
+            "Desire to promote active listening for information"
+          ],
+          "keyInquiryQuestions": ["Why should we be keen when listening to a text?", "How do we listen for specific information?"],
+          "learningExperiences": [
+            "listen to an audio recording and pick out vocabulary items based on the theme - The Farm",
+            "work jointly to create a vocabulary bank on the words picked out from the texts",
+            "collaborate with peers to answer comprehension questions based on the text",
+            "work jointly to read adverbs aloud from flash cards",
+            "collaboratively role play various adverbs from a chart",
+            "compose a song related to the theme - the farm with relevant vocabulary and adverbs"
+          ],
+          "coreCompetencies": ["Digital literacy (interacts with digital content picking out vocabulary)", "Communication and collaboration (speaks engagingly during debate)"],
+          "values": ["Unity (collaborates role-playing adverbs from a chart)", "Social justice (fair sharing of roles reading adverbs aloud)"],
+          "pertinentContemporaryIssues": ["Environmental education (day-to-day farm experiences)"],
+          "linkedLearningAreas": ["Agriculture"]
+        },
+        {
+          "name": "Reading comprehension: Reading Strategies",
+          "notes": "6.2.1, 2 lessons. Sub-topics: skimming, scanning.",
+          "specificLearningOutcomes": [
+            "Apply the skimming strategy to identify the main idea in a text for comprehension",
+            "Scan through a text to pick out target words related to the theme",
+            "Appreciate the importance of reading for information"
+          ],
+          "keyInquiryQuestions": ["How is reading important in acquiring information?"],
+          "learningExperiences": [
+            "work jointly to select a story on the theme - the farm",
+            "skim through the passage to identify the main idea",
+            "scan for specific information from the passage (e.g. names of characters and vocabulary items)",
+            "conduct a readers' theatre to read a passage related to the theme aloud",
+            "work with peers to answer questions based on the passage",
+            "select vocabulary from the passage and list them on flash cards",
+            "make sentence using the vocabulary from a substitution table",
+            "work collaboratively to play language games involving vocabulary from digital devices"
+          ],
+          "coreCompetencies": ["Critical thinking and problem solving (explores options using a substitution table)", "Creativity and imagination (connects concepts playing digital language games)"],
+          "values": ["Responsibility (takes up assigned role in readers' theatre)", "Peace (teams up answering questions on the passage)"],
+          "pertinentContemporaryIssues": ["Climate change (climate effects on farm practices)"],
+          "linkedLearningAreas": ["Agriculture"],
+          "scopeNotes": ["include: skimming (main idea) and scanning (target words) are named as two distinct, separately-testable reading strategies, not one generic 'reading' skill"]
+        },
+        {
+          "name": "Essay writing - expository composition",
+          "notes": "6.3.1, 2 lessons.",
+          "specificLearningOutcomes": [
+            "Identify features of expository texts for self-expression",
+            "Create an expository composition creatively and coherently",
+            "Promote expository writing for effective communication"
+          ],
+          "keyInquiryQuestions": ["Why is writing a key aspect in communication?"],
+          "learningExperiences": [
+            "work jointly with peers to mention features of expository texts",
+            "team up to collect sample expository compositions from print and non-print sources",
+            "read sample expository compositions",
+            "write simple expository compositions based on the theme",
+            "read their compositions aloud for peer review",
+            "display their well written compositions on the class language corner for a class gallery walk"
+          ],
+          "coreCompetencies": ["Self-efficacy (mobilises peer support to collect sample compositions)", "Citizenship (nurtures social cohesion reviewing compositions collaboratively)"],
+          "values": ["Integrity (fairness peer reviewing for honest feedback)", "Respect (appreciates varied opinions on expository text features)"],
+          "pertinentContemporaryIssues": ["Environmental awareness (reading topics related to The Farm)"],
+          "linkedLearningAreas": ["English and Kiswahili (functional writing)"]
+        }
+      ]
+    },
+    {
+      "name": "Theme 7: Talents and Gifts",
+      "vocabulary": ["talent", "gift", "performance", "sing", "artist", "artwork", "stage", "craft"],
+      "subStrands": [
+        {
+          "name": "Intensive listening: Transcription",
+          "notes": "7.1.1, 2 lessons.",
+          "specificLearningOutcomes": [
+            "Outline target words related to the theme from an oral text for comprehension",
+            "Transcribe a short listening paragraph from a digital device for effective communication",
+            "Acknowledge the role of transcription in the growth of Indigenous Languages"
+          ],
+          "keyInquiryQuestions": ["How can we transcribe oral texts accurately?", "Why do we transcribe texts in indigenous languages?"],
+          "learningExperiences": [
+            "listen to an oral text on talents and gifts and pick out specific talents and gifts",
+            "write a paragraph by transcribing an audio recorded story based on the theme and share with peers",
+            "peer review each other's transcription for accuracy",
+            "organize the transcribed work in a portfolio",
+            "work with peers to discuss talents and gifts they have seen or they possess"
+          ],
+          "coreCompetencies": ["Citizenship (constructive dialogue discussing talents and gifts)", "Learning to learn (reflects on own/others' work peer reviewing transcriptions)"],
+          "values": ["Responsibility (commits to organising transcribed work in a portfolio)", "Social justice (equal opportunity to contribute picking out talents/gifts)"],
+          "pertinentContemporaryIssues": ["ICT (transcribing an audio recorded story)"],
+          "linkedLearningAreas": ["Kiswahili (intensive listening skills)"]
+        },
+        {
+          "name": "Reading for information",
+          "notes": "7.2.1, 2 lessons.",
+          "specificLearningOutcomes": [
+            "Identify main ideas in a reading text based on theme for comprehension",
+            "Use vocabulary based on the theme to construct sentences for communication",
+            "Recognise the value of reading texts for information in lifelong learning"
+          ],
+          "keyInquiryQuestions": ["How can we pick ideas from a text?", "How can we identify talents and gifts among people?"],
+          "learningExperiences": [
+            "study pictures of talents and gifts and discuss with peers",
+            "take turns to read a text on talents and gifts",
+            "work jointly with peers to pick out the main ideas in each paragraph",
+            "work with others to answer comprehension questions",
+            "work with peers to create a list of vocabulary from the reading text",
+            "construct sentences using the vocabulary identified",
+            "collaboratively peer review the sentences constructed",
+            "conduct a reader's theatre on a level appropriate reader"
+          ],
+          "coreCompetencies": ["Critical thinking and problem solving (analyses texts to pick out main ideas)", "Learning to learn (reflects on own/others' work peer reviewing sentences)"],
+          "values": ["Unity (cooperates creating a vocabulary list)", "Respect (patience taking turns reading)"],
+          "pertinentContemporaryIssues": ["Civic responsibility (appreciating talents/gifts' role in society)"],
+          "linkedLearningAreas": ["Creative Arts and Sports (concepts of talents)"]
+        },
+        {
+          "name": "Writing for information",
+          "notes": "7.3.1, 2 lessons. Sub-topics: paragraph - parts, coherence.",
+          "specificLearningOutcomes": [
+            "Identify parts of a paragraph for information",
+            "Write a short coherent paragraph on the theme for self-expression",
+            "Acknowledge the importance of paragraphing in written communication"
+          ],
+          "keyInquiryQuestions": ["How do we write a paragraph?"],
+          "learningExperiences": [
+            "read varied paragraphs related to the theme with peers",
+            "work with peers to discuss the parts of a paragraph",
+            "prepare sentence strips to form a coherent paragraph",
+            "work with peers to reorganise the jumbled up sentence strips to form a coherent paragraph",
+            "use topic sentences to begin paragraphs and complete the story",
+            "peer review each other's topical paragraphs"
+          ],
+          "coreCompetencies": ["Creativity and imagination (explores new ideas using topic sentences)", "Citizenship (tolerance expressing viewpoints during peer review)"],
+          "values": ["Love (selflessly reorganises jumbled sentence strips with peers)", "Respect (appreciates diverse opinions discussing paragraph parts)"],
+          "pertinentContemporaryIssues": ["Career education (relating gifts/talents to career opportunities)"],
+          "linkedLearningAreas": ["English and Kiswahili (creative writing)"],
+          "scopeNotes": ["include: a paragraph has identifiable parts (topic sentence + supporting/coherent sentences) and a jumbled-sentence-reordering activity is explicitly named — both are testable content, not just 'write a paragraph'"]
+        }
+      ]
+    },
+    {
+      "name": "Theme 8: Indigenous Knowledge: Art",
+      "vocabulary": ["art", "drawings", "creative", "ornaments", "paintings", "ochre", "mud", "beads", "dye"],
+      "subStrands": [
+        {
+          "name": "Storytelling - Fables",
+          "notes": "8.1.1, 2 lessons.",
+          "specificLearningOutcomes": [
+            "Identify features of fables from their community for comprehension",
+            "Narrate a fable from their community for enjoyment",
+            "Advocate for audience awareness skills in storytelling for self-expression"
+          ],
+          "keyInquiryQuestions": ["How does storytelling enhance communication?", "Why are fables important to the community?"],
+          "learningExperiences": [
+            "observe pictures stories of animals",
+            "work with peers to collect fables (animal stories) from the community",
+            "organise the collection of fables in a portfolio",
+            "work collaboratively to discuss the features of animal stories (fables)",
+            "conduct a story telling session to narrate animal stories",
+            "watch fables from a digital device and talk about the character traits of animals",
+            "discuss moral lessons learnt from the fables",
+            "work collaboratively with peers to stage a narrative on fables",
+            "peer review each other's performance for audience awareness"
+          ],
+          "coreCompetencies": ["Digital Literacy (interacts with digital content watching fables)", "Creativity and imagination (explores new/unique ways of narrating)"],
+          "values": ["Respect (open-mindedness discussing moral lessons)", "Patriotism (community awareness collecting fables)"],
+          "pertinentContemporaryIssues": ["Indigenous knowledge (character traits of animals in fables)"],
+          "linkedLearningAreas": ["English and Kiswahili (narratives)"],
+          "scopeNotes": ["include: fables are defined as animal-character stories carrying a moral lesson — features (animal characters, character traits, a moral lesson) are explicit testable content, not just 'a type of story'"]
+        },
+        {
+          "name": "Intensive Reading - Trickster stories",
+          "notes": "8.2.1, 2 lessons.",
+          "specificLearningOutcomes": [
+            "Paraphrase trickster stories from their community for information",
+            "Analyse trickster stories from their community for understanding",
+            "Value reading oral narratives for enjoyment"
+          ],
+          "keyInquiryQuestions": ["Why are trickster narratives shared in the community?"],
+          "learningExperiences": [
+            "work collaboratively to collect varied trickster narratives from the community",
+            "organise the collection of trickster narratives in a class portfolio",
+            "brainstorm characters often portrayed as tricksters in oral narratives",
+            "conduct a reader's theatre to read the trickster narrative in the class portfolio",
+            "listen to a resource person narrate a trickster story",
+            "compose a short summary of the trickster narrative listened to",
+            "outline the characters and plot in a trickster narrative",
+            "work collaboratively to stage a creative skit on a trickster narrative",
+            "brainstorm the moral lessons addressed in trickster narratives"
+          ],
+          "coreCompetencies": ["Citizenship (respect/acceptance of heterogeneity collecting varied narratives)", "Critical thinking and problem solving (brainstorms moral lessons)"],
+          "values": ["Integrity (commitment to duty staging a creative skit)", "Peace (tolerance brainstorming trickster characters)"],
+          "pertinentContemporaryIssues": ["Social cohesion (reading, analysing, presenting trickster stories)"],
+          "linkedLearningAreas": ["English and Kiswahili (narratives)"],
+          "scopeNotes": ["include: a trickster story is distinct from a fable — its defining feature is a recurring trickster character (a cunning figure who outwits others, e.g. a hare) around whom the plot and moral centre, distinct from a fable's animal-cast-with-a-moral structure"]
+        },
+        {
+          "name": "Writing to give information",
+          "notes": "8.3.1, 2 lessons.",
+          "specificLearningOutcomes": [
+            "Outline key ideas and events in an animal story based on the theme",
+            "Compose an animal story featuring animal characters for self-expression",
+            "Appreciate writing short stories for enjoyment"
+          ],
+          "keyInquiryQuestions": ["How can we write interesting animal stories?", "Why are animal stories important?"],
+          "learningExperiences": [
+            "work collaboratively to observe thematic pictures on cards and describe the events",
+            "work collaboratively to organise ideas from picture stories in a logical and sequenced order",
+            "compose a creative story with animal characters with coherent ideas",
+            "read the story to peers for review",
+            "organise their revised stories in a portfolio",
+            "work with peers to publish their best stories in the school or public journal or magazine"
+          ],
+          "coreCompetencies": ["Communication and collaboration (values peer views organising picture-story ideas)", "Self-efficacy (sets targets to publish stories in the school magazine)"],
+          "values": ["Unity (team spirit publishing best stories)", "Respect (accepts diverse feedback from story review)"],
+          "pertinentContemporaryIssues": ["Animal Welfare (wider understanding of animals through the stories)"],
+          "linkedLearningAreas": ["Integrated Science (living things)"]
+        }
+      ]
+    },
+    {
+      "name": "Theme 9: Patriotism",
+      "vocabulary": ["patriot", "country", "unity", "cohesion", "communities", "hate", "love", "national anthem", "responsibility"],
+      "subStrands": [
+        {
+          "name": "Presentation Skills",
+          "notes": "9.1.1, 2 lessons.",
+          "specificLearningOutcomes": [
+            "Outline issues to consider when preparing a short talk on the theme for self-expression",
+            "Present a short talk on the theme for effective communication",
+            "Appreciate the importance of good presentation skills in communication"
+          ],
+          "keyInquiryQuestions": ["How can we make a compelling presentation?", "Why should we appreciate bodies charged with maintenance of our roads?"],
+          "learningExperiences": [
+            "watch a recorded presentation and list key points discussed",
+            "brainstorm with peers the issues to consider before and during a presentation",
+            "work jointly with peers to select a sub-topic on patriotism and prepare a presentation on the role of the government agencies (Kenya Roads Board and Kenya Rural Roads Authority) in construction and maintenance of roads",
+            "conduct a public speaking contest to present a short talk on the topic selected",
+            "collaborate with peers to record themselves when making the presentations",
+            "organise the collection of recorded presentations in a digital portfolio",
+            "engage the presenter in a question and answer session on the topic presented",
+            "peer review each other's presentation for improvement"
+          ],
+          "coreCompetencies": ["Learning to learn (develops peer relationships selecting/preparing a presentation)", "Digital literacy (records presentations with peers)"],
+          "values": ["Patriotism (honesty and dedication in a public speaking contest)", "Respect (appreciates diverse opinions in Q&A)"],
+          "pertinentContemporaryIssues": ["Nationalism (preparing a presentation on a patriotism sub-topic)"],
+          "linkedLearningAreas": ["Creative Arts and Sports (presentation skills)"],
+          "scopeNotes": ["include: the specific named example topic is the role of the Kenya Roads Board and Kenya Rural Roads Authority in road construction and maintenance — an explicit, KICD-supplied civic-institution example, not a generic 'talk about patriotism'"]
+        },
+        {
+          "name": "Reading for information",
+          "notes": "9.2.1, 2 lessons.",
+          "specificLearningOutcomes": [
+            "Use vocabulary related to the theme to create a personal collection of vocabulary related to the theme for information",
+            "Pick out emerging issues related to the theme",
+            "Acknowledge reading as a source for information"
+          ],
+          "keyInquiryQuestions": ["How can we deduce meaning of new words found in texts?", "How are our indigenous communities similar to each other?"],
+          "learningExperiences": [
+            "read digital and print texts and identify vocabulary related to patriotism and construction and maintenance of our roads",
+            "create a personal vocabulary bank of the new words picked",
+            "work collaboratively to infer the meaning of words from context and share with peers",
+            "use the dictionary to find out the meaning the words",
+            "work jointly with peers to use a thesaurus and the dictionary to find synonyms and opposites of the words",
+            "construct sentences using vocabulary",
+            "collaborate with peers to read articles from newspapers and magazines then pick out emerging issues related to the theme"
+          ],
+          "coreCompetencies": ["Critical thinking and problem solving (group decision-making picking out issues from articles)", "Learning to learn (self-discipline using thesaurus/dictionary)"],
+          "values": ["Social justice (shares thesaurus/dictionary resources equitably)", "Responsibility (observes safety precautions using digital devices)"],
+          "pertinentContemporaryIssues": ["Civic responsibility (picking out emerging issues from articles)"],
+          "linkedLearningAreas": ["Social Studies (nationalism vocabulary)"],
+          "scopeNotes": ["include: thesaurus use (synonyms and opposites) is named explicitly alongside dictionary use as a distinct testable skill"]
+        },
+        {
+          "name": "Functional writing - Letter of request",
+          "notes": "9.3.1, 2 lessons.",
+          "specificLearningOutcomes": [
+            "Outline the components of a letter of request for comprehension",
+            "Compose a letter of request (for library or club membership) for effective communication",
+            "Appreciate the importance of letter writing for communication"
+          ],
+          "keyInquiryQuestions": ["Why do we need to make formal requests for membership to groups and institutions?"],
+          "learningExperiences": [
+            "read sample formal letters of request",
+            "work jointly with peers to identify the features of a letter of request",
+            "make short notes on their findings",
+            "write a letter of request for library or club membership",
+            "peer review the composed letters for feedback",
+            "type the letter composed in a digital device",
+            "organise the typed letters in the class digital portfolio"
+          ],
+          "coreCompetencies": ["Learning to learn (builds on own experience peer reviewing letters)", "Digital literacy (types the letter and organises a digital portfolio)"],
+          "values": ["Unity (cooperates identifying letter-of-request features)", "Integrity (honesty giving constructive feedback)"],
+          "pertinentContemporaryIssues": ["Healthy Interpersonal Relationships (formal relations through request letters)"],
+          "linkedLearningAreas": ["English (functional writing)"],
+          "scopeNotes": ["include: the two named worked examples of a request are library membership and club membership — both are explicit, KICD-supplied scenarios"]
+        }
+      ]
+    }
+  ],
+  "assessmentSignal": {
+    "listeningAndSpeaking": "Rubric's 'Meets expectations' row requires identifying specific information/main ideas from oral texts, transcribing accurately, retelling tongue twisters fluently, recognising how to begin AND end a conversation (not just one), and engaging in a conversation for effective communication (not just reciting memorised lines) — confirming conversational skills are assessed as interactive, not scripted.",
+    "reading": "Rubric requires identifying vocabulary from a written text, responding to BOTH direct and inferential questions (inferential is explicitly a separate, harder bar than direct), summarising information from visuals AND texts, identifying features of a trickster narrative and a fable as two distinct forms, and selecting/reading grade-appropriate materials independently (extensive reading).",
+    "writing": "Rubric requires a coherent AND well-sequenced paragraph (sequencing is a named criterion, not just grammatical correctness), paraphrasing (not copying) information from a text, composing an SMS and a letter of request using correct format/language/organisation as functional-writing genres with real structural conventions, and composing essays/imaginative dialogues/narratives using correct structure — confirming format knowledge (not just content) is explicitly graded."
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "subject": "Pre-Technical Studies",
+  "subjectId": "pre-technical",
+  "grade": 9,
+  "source": {
+    "title": "Pre-Technical Studies Grade 9 - July 2024 - Revised (KICD Junior School Curriculum Design)",
+    "url": "https://teacherspalace.co.ke/uploads/documents/pre-technical-studies-grade-9-july-2024-revised-unlocked-2024-12-02-Cps55pgDVy.pdf",
+    "publisher": "teacherspalace.co.ke (mirror of official KICD PDF)",
+    "retrievedDate": "2026-08-13",
+    "confidence": "high",
+    "notes": "WebFetch could not summarize the PDF ('unable to extract text') but saved it locally; the Read tool then parsed the full PDF text natively, verbatim, page by page. Cover page reads 'KENYA INSTITUTE OF CURRICULUM DEVELOPMENT / JUNIOR SCHOOL CURRICULUM DESIGN / PRE-TECHNICAL STUDIES / GRADE 9', ISBN 978-9914-43-985-4, first published 2024 — this matches the confirmed official filename 'Pre-Technical Studies Grade 9 - July 2024 - Revised.pdf' from KICD's own Google Drive index. All 5 strands and 13 sub-strands below were read verbatim from the 'SUMMARY OF STRANDS AND SUB STRANDS' table (p.xii) and cross-checked against each strand's own detailed section (pp.1-31), not summarized or paraphrased. The document breaks down no further than sub-strand level (no subSubStrands anywhere) — every sub-strand's Specific Learning Outcomes table is the finest granularity in the design. This is the same document a prior session used to derive the app's existing 5-strand list in web/src/lib/curriculum.ts; re-verification here confirms that strand list is complete, but the app currently only has 2 skills per strand (10 total) against 13 official sub-strands, so several sub-strands (e.g. 1.3 Self-Exploration and Career Development, 2.2 Visual Programming, 4.3 Project, 5.2 Government and Business, 5.3 Business Plan) likely have zero dedicated skills yet."
+  },
+  "strands": [
+    {
+      "name": "Foundations of Pre-Technical Studies",
+      "subStrands": [
+        {
+          "name": "Safety on Raised Platforms",
+          "specificLearningOutcomes": [
+            "Identify types of raised platforms used in performing tasks",
+            "Describe risks associated with working on raised platforms",
+            "Observe safety when working on raised platforms",
+            "Appreciate the need for observing safety while working on raised platforms"
+          ],
+          "keyInquiryQuestions": [
+            "What is the importance of observing safety when working on raised platforms?"
+          ],
+          "notes": "Suggested 8 lessons. Example raised platform types named in the design: ladders, trestles, steps, stands, mobile raised platforms, work benches, ramps."
+        },
+        {
+          "name": "Handling Hazardous Substances",
+          "specificLearningOutcomes": [
+            "Identify hazardous substances found in the environment",
+            "Classify hazardous substances found in the locality",
+            "Describe safe ways of handling hazardous substances in the environment",
+            "Handle hazardous substances safely in the environment",
+            "Appreciate the importance of observing safety when handling hazardous substances"
+          ],
+          "keyInquiryQuestions": [
+            "Why are hazardous substances labelled?",
+            "How are hazardous substances handled?"
+          ],
+          "notes": "Suggested 9 lessons. Hazardous substance categories named in the design: poisonous, flammable, corrosive."
+        },
+        {
+          "name": "Self-Exploration and Career Development",
+          "specificLearningOutcomes": [
+            "Explain ways of nurturing talents and abilities for self-development",
+            "Relate talents and abilities to career pathways",
+            "Analyse ethical and unethical practices related to the use of talents and abilities",
+            "Choose a career based on talents and abilities for self-development"
+          ],
+          "keyInquiryQuestions": [
+            "How are talents and abilities nurtured?",
+            "Why is self-exploration necessary for career development?"
+          ],
+          "notes": "Suggested 6 lessons."
+        }
+      ]
+    },
+    {
+      "name": "Communication in Pre-Technical Studies",
+      "subStrands": [
+        {
+          "name": "Oblique Projection",
+          "specificLearningOutcomes": [
+            "Explain the characteristics of oblique drawing in technical fields",
+            "Sketch given drawings in oblique projection",
+            "Draw shaped blocks in oblique projection",
+            "Appreciate the application of oblique projection in drawing"
+          ],
+          "keyInquiryQuestions": [
+            "How are oblique drawings used in technical fields?"
+          ],
+          "notes": "Suggested 14 lessons. Design specifies both cavalier and cabinet oblique projection methods, the latter using geometrical set drawing instruments."
+        },
+        {
+          "name": "Visual Programming",
+          "specificLearningOutcomes": [
+            "Explain the application areas of visual programming software in solving problems",
+            "Create an application using visual programming software for solving problems in day-to-day life",
+            "Embrace the use of visual programming in the day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "How are applications developed using visual programming software?"
+          ],
+          "notes": "Suggested 15 lessons. Design suggests building games, stories and animations using visual programming software."
+        }
+      ]
+    },
+    {
+      "name": "Materials for Production",
+      "subStrands": [
+        {
+          "name": "Wood",
+          "specificLearningOutcomes": [
+            "Classify wood according to physical characteristics",
+            "Describe the preparation of wood for use in the production of items",
+            "Relate types of wood to their uses in the community",
+            "Value the importance of wood in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "Why is wood important in day-to-day life?"
+          ],
+          "notes": "Suggested 8 lessons. Covers softwood vs hardwood classification and wood preparation methods (conversion and seasoning)."
+        },
+        {
+          "name": "Handling Waste Materials",
+          "specificLearningOutcomes": [
+            "Identify waste materials found in the environment",
+            "Describe ways of handling waste materials safely in the environment",
+            "Dispose waste materials using appropriate methods",
+            "Appreciate the need for proper handling of waste materials in the environment"
+          ],
+          "keyInquiryQuestions": [
+            "How are waste materials handled in the locality?"
+          ],
+          "notes": "Suggested 8 lessons. Waste categories named: plastic, glass, metal, wood waste, electronic waste, construction waste. Disposal methods named: reduce, reuse, recycle, compost, burn."
+        }
+      ]
+    },
+    {
+      "name": "Tools and Production",
+      "subStrands": [
+        {
+          "name": "Holding Tools",
+          "specificLearningOutcomes": [
+            "Identify holding tools used in day-to-day life",
+            "Select holding tools for performing given tasks",
+            "Use holding tools to perform given tasks",
+            "Care for holding tools used in day-to-day life",
+            "Appreciate the importance of holding tools in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "How are holding tools used in day-to-day life?"
+          ],
+          "notes": "Suggested 8 lessons. Example holding tools named: pliers, clamps, tongs, clips, vice."
+        },
+        {
+          "name": "Driving Tools",
+          "specificLearningOutcomes": [
+            "Identify driving tools used in day-to-day life",
+            "Select driving tools for performing given tasks",
+            "Use driving tools to perform given tasks",
+            "Care for driving tools used in day-to-day life",
+            "Acknowledge the importance of driving tools in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "How are driving tools used in day-to-day life?"
+          ],
+          "notes": "Suggested 8 lessons. Example driving tools named: hammer, screwdriver, spanner, punches, mallets."
+        },
+        {
+          "name": "Project",
+          "specificLearningOutcomes": [
+            "Identify a problem in the locality that can be solved using the skills acquired in Pre-Technical Studies",
+            "Select an item that can be made to solve the identified problem",
+            "Make an item to solve the problem identified using locally available materials",
+            "Utilise skills acquired in Pre-Technical Studies to solve problems in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "How are skills acquired in Pre-Technical Studies used to solve problems in the community?"
+          ],
+          "notes": "Suggested 20 lessons — the largest single sub-strand in the whole design. This is a hands-on, learner-driven making/build project (identify a local problem, sketch, cost, build, price, present an item using locally available materials). Needs an explicit build/product-design decision for the app since it isn't naturally a multiple-choice/short-answer quiz skill the way the others are; do not silently drop it."
+        }
+      ]
+    },
+    {
+      "name": "Entrepreneurship",
+      "subStrands": [
+        {
+          "name": "Financial Services",
+          "specificLearningOutcomes": [
+            "Identify financial institutions available in Kenya",
+            "Classify financial institutions in Kenya",
+            "Analyse services offered by financial institutions in Kenya",
+            "Utilise financial services for entrepreneurial development"
+          ],
+          "keyInquiryQuestions": [
+            "What services are offered by different financial institutions in Kenya?"
+          ],
+          "notes": "Suggested 4 lessons. Institution types named: banks, insurance, SACCOs, micro finance."
+        },
+        {
+          "name": "Government and Business",
+          "specificLearningOutcomes": [
+            "Explain the reasons for government involvement in business",
+            "Describe ways of government involvement in business",
+            "Explore types of taxes in Kenya",
+            "Analyse e-Government services in business",
+            "Acknowledge the need to comply with Government regulations in business"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important for the Government to get involved in business?"
+          ],
+          "notes": "Suggested 6 lessons. Tax types named: income tax, VAT, corporate tax, fuel levy, excise duty. e-Government example cited: NTSA motor vehicle business registration and licensing."
+        },
+        {
+          "name": "Business Plan",
+          "specificLearningOutcomes": [
+            "Explain the importance of a business plan in entrepreneurship",
+            "Describe the components of a business plan in financial management",
+            "Fill in a business plan template for a given business project",
+            "Embrace the use of a business plan in entrepreneurship"
+          ],
+          "keyInquiryQuestions": [
+            "Why is a business plan important to an entrepreneur?",
+            "How is a business plan prepared?"
+          ],
+          "notes": "Suggested 6 lessons. Business plan components named: executive summary, business description, market/competitor analysis, product and services, marketing plan, financial projection."
+        }
+      ]
+    }
+  ]
+}

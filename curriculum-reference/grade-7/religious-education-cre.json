@@ -1,0 +1,574 @@
+{
+  "subject": "Christian Religious Education",
+  "subjectId": "cre",
+  "grade": 7,
+  "source": {
+    "title": "Junior School Curriculum Design — Christian Religious Education, Grade 7",
+    "path": "designs-grade-7/CRE-Grade-7-Curriculum-Designs.pdf",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-17",
+    "confidence": "high",
+    "notes": "Read in full via the Read tool (no pages param). First published 2022, Revised 2024. Backfilled retroactively — skills already shipped in web/src/skills/creG7/ before this record was written. 6 strands: 1.0 Overview of Christian Religious Education, 2.0 Creation, 3.0 The Bible, 4.0 The Early Life of Jesus Christ, 5.0 The Church, 6.0 Christian Living Today (120 lessons total). Discrepancy noted: the front-matter Summary of Strands and Sub-Strands table names sub-strand 2.2 'Responsibility over Animals, Fish and Birds' — the body text (which carries the actual outcomes/experiences) titles the same sub-strand 'Stewardship over Creation'; body text is treated as authoritative, consistent with the precedent for other Grade 7 subjects' front-matter-vs-body discrepancies."
+  },
+  "strands": [
+    {
+      "name": "1.0 Overview of Christian Religious Education",
+      "subStrands": [
+        {
+          "name": "1.1 Importance of Studying Christian Religious Education",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "analyse the importance of learning Christian Religious Education",
+            "discuss how Christian Religious Education promotes sound moral and religious values",
+            "compile five values needed to foster responsible living",
+            "apply the values acquired in their daily interactions",
+            "appreciate the learning of Christian Religious Education by living responsibly"
+          ],
+          "keyInquiryQuestions": ["Why is it important to study Christian Religious Education?"],
+          "learningExperiences": [
+            "brainstorm in small groups the meaning of Christian Religious Education",
+            "search the meaning of Christian Religious Education using a digital device or print materials and make short notes",
+            "discuss in teams the importance of studying Christian Religious Education and note key points",
+            "write a personal reflection journal on how learning CRE has changed his or her behaviour",
+            "list and share five values they need to live a morally upright life",
+            "use charts, posters, or flashcards to write messages that promote sound moral and religious values",
+            "compose a poem on how Christian Religious Education promotes sound moral and religious values"
+          ],
+          "linkedLearningAreas": ["English: learners debate and discuss in groups.", "Pre-Technical Studies: digital devices used to search for information."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to Learn", "Self-efficacy", "Digital Literacy", "Imagination and Creativity"],
+          "values": ["Respect for one another", "Responsibility"],
+          "pertinentContemporaryIssues": ["Effective Communication", "Creative thinking", "Self-awareness"]
+        }
+      ]
+    },
+    {
+      "name": "2.0 Creation",
+      "subStrands": [
+        {
+          "name": "2.1 Accounts of Creation",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "narrate the biblical accounts of creation",
+            "discuss the similarities and differences between the two accounts of creation",
+            "identify five attributes of God from the creation accounts",
+            "value God's creation by conserving the environment"
+          ],
+          "keyInquiryQuestions": ["How is the first account of creation different from the second account?", "Why is it important to learn about the creation accounts?"],
+          "learningExperiences": [
+            "name features found in the natural environment",
+            "take a nature walk and appreciate God's creation in the school compound or the surrounding area",
+            "read Genesis 1:1-50 & 2:1-2:4A on the first creation account and Genesis 2:4B-25 on the second creation account",
+            "watch a video clip on the two biblical accounts of creation",
+            "summarise the main points on the first and second creation accounts",
+            "discuss the similarities and differences between the two accounts of creation and write short notes",
+            "in teams, use digital devices or print media to research on the attributes of God and write them on a chart",
+            "practice environmental conservation measures, such as planting trees or volunteering for clean-ups in the community",
+            "compose and sing a song on the second creation account"
+          ],
+          "linkedLearningAreas": [
+            "Social Studies: interaction with the environment during the nature walk.",
+            "English: reading Bible texts on the biblical accounts of creation.",
+            "Creative Arts and Sports: composing and singing a song on the second account of creation.",
+            "Pre-technical Studies: online search using digital devices on the attributes of God."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and Collaboration", "Creativity and Imagination", "Digital Literacy", "Learning to Learn"],
+          "values": ["Responsibility", "Integrity"],
+          "pertinentContemporaryIssues": ["Gender Mainstreaming", "Environmental issues in education"]
+        },
+        {
+          "name": "2.2 Stewardship over Creation",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "explain the biblical responsibilities given to human beings over creation",
+            "discuss ways they can protect animals, fish, and birds",
+            "practise good stewardship by taking care of animals, fish, and birds",
+            "appreciate God's creation by conserving the environment"
+          ],
+          "keyInquiryQuestions": ["Why should you care for animals, fish, and birds?", "How can you reduce conflicts between human beings and wild animals?"],
+          "learningExperiences": [
+            "brainstorm on how they care for animals, fish, and birds and make summary notes",
+            "read Genesis 2:15-20, James 3:7 and discuss the responsibilities given to human beings by God",
+            "discuss ways they can protect animals, fish, and birds",
+            "visit a zoo, animal park or farm and observe how animals, fish, and birds are taken care of, and write a report for presentation in class",
+            "write sensitisation messages on charts or posters on the importance of good stewardship over animals, fish, and birds",
+            "display the poster or chart in class or on the school notice boards",
+            "compose a poem on how they take care of animals, fish and birds in their environment"
+          ],
+          "linkedLearningAreas": ["English: writing sensitisation messages on charts or posters.", "Agriculture: brainstorming on how they take care of animals, fish, and birds."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem-solving", "Learning to Learn", "Creativity and Imagination", "Communication and Collaboration"],
+          "values": ["Responsibility", "Social Justice", "Patriotism"],
+          "pertinentContemporaryIssues": ["Animal rights and welfare issues in education", "Environmental issues in education"]
+        },
+        {
+          "name": "2.3 Responsibility over Plants",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "describe the biblical responsibilities given to human beings over plants",
+            "apply the biblical teachings acquired to conserve the environment",
+            "discuss how responsible use of plants contributes to economic growth",
+            "choose an income generating crop and plant it at home or school",
+            "desire to contribute to a healthy ecosystem"
+          ],
+          "keyInquiryQuestions": ["Why should you take care of plants?", "How do you care for plants in your environment?"],
+          "learningExperiences": [
+            "list different types of plants found in the environment and how they take care of them",
+            "take a nature walk in the environment, observe different plants, draw them on charts, and display them in class",
+            "read Genesis 1:29, Genesis 2:15 and Psalm 104:14, summarise the teachings on charts and make a presentation",
+            "buzz on how they care for plants in their environment",
+            "brainstorm how responsible use of plants contributes to economic growth",
+            "interact with a resource person (environmentalist/forest officer/any other relevant person) and interview them on the economic benefits of plants",
+            "plant an income-generating crop either at home or school",
+            "take care of the plant until they get results"
+          ],
+          "linkedLearningAreas": ["Social Studies: how they care for plants.", "Agriculture: planting a crop at school or at home and caring for it."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to Learn", "Communication and collaboration", "Self-efficacy", "Critical thinking and Problem-solving"],
+          "values": ["Responsibility", "Social Justice", "Unity"],
+          "pertinentContemporaryIssues": ["Learner support programmes", "Education for Sustainable Development (ESD)", "Financial Literacy", "Parental Engagement-Resource mobilization"]
+        },
+        {
+          "name": "2.4 Use of Natural Resources",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "explain ways in which human beings use and misuse natural resources",
+            "explore the effects of misusing natural resources",
+            "discuss Biblical teachings on good use of natural resources",
+            "conserve the environment as responsible citizens"
+          ],
+          "keyInquiryQuestions": ["Why should you conserve the environment?", "How do human beings benefit from natural resources?"],
+          "learningExperiences": [
+            "brainstorm on how their communities use natural resources",
+            "discuss how their communities have misused natural resources; write the points on charts and present them to the class",
+            "conduct an online or library research on how human beings have used and misused natural resources and make a PowerPoint presentation or use a chart",
+            "debate on the effects of destroying the environment",
+            "read Genesis 2:15, Exodus 23:10-11, and Deuteronomy 20:19 and discuss the biblical teachings on good use of natural resources/God's creation",
+            "write the points from the Biblical teachings on charts and present them to the class",
+            "jointly compose songs on the beauty of God's creation",
+            "engage in cleaning the school as a way of conserving the environment"
+          ],
+          "linkedLearningAreas": ["Agriculture: responsible use of God's creation/environment.", "Pre-technical Studies: online search and presentation using PowerPoint slides.", "English: composing a song and debating on the effects of destroying the environment."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to Learn", "Critical thinking", "Digital Literacy", "Creativity and Imagination"],
+          "values": ["Responsibility", "Respect"],
+          "pertinentContemporaryIssues": ["Environmental Issues in Education", "Social Justice"]
+        }
+      ]
+    },
+    {
+      "name": "3.0 The Bible",
+      "subStrands": [
+        {
+          "name": "3.1 Functions of the Bible",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "explain the importance of the Bible in the society today",
+            "describe how the Bible promotes holistic growth",
+            "analyse how God's Word inspires different services among Christians today",
+            "appreciate the Bible as the inspired Word of God"
+          ],
+          "keyInquiryQuestions": ["Why is the Bible important in the life of a Christian?"],
+          "learningExperiences": [
+            "brainstorm on how the Bible is used in the society today and write the main points",
+            "read 2 Timothy 3:16-17, Hebrews 4:12 and outline lessons learnt",
+            "in teams, prepare PowerPoint slides or charts on the importance of the Bible and make a presentation in class",
+            "write summary points on how the Bible is used in spreading the Word of God",
+            "discuss how the Bible promotes the spiritual, moral, social, emotional, and intellectual growth of a person",
+            "list different services offered by Christians in the local communities",
+            "make a presentation on how God's word inspires different services among Christians today",
+            "participate in different services in their local community and write a journal",
+            "compose a song about the Bible"
+          ],
+          "linkedLearningAreas": ["English: reading and discussing the Bible texts provided.", "Pre-technical Studies: digital devices used to prepare PowerPoint slides.", "Creative Arts and Sports: composing and singing a song about the Bible."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and Imagination", "Critical thinking", "Learning to Learn", "Digital Literacy"],
+          "values": ["Unity", "Respect", "Responsibility", "Peace"],
+          "pertinentContemporaryIssues": ["Effective Communication", "Decision-making"]
+        },
+        {
+          "name": "3.2 Divisions of the Bible",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "identify the two divisions of the Bible",
+            "categorize the books in the Old and New Testament",
+            "appreciate the Bible for reflective learning and living"
+          ],
+          "keyInquiryQuestions": ["Why is it important to know the books of the Bible?"],
+          "learningExperiences": [
+            "brainstorm in pairs the two major divisions of the Bible",
+            "use flashcards to sort and arrange books of the Bible sequentially",
+            "use a digital device or the Bible to read out books in the Old and New Testament",
+            "jointly outline the four major categories of books in the Old Testament",
+            "team up to outline the four major categories of books in the New Testament",
+            "share tasks to design a bookmark on the books of the Bible and place it in their Bible story Book or the Bible"
+          ],
+          "linkedLearningAreas": ["Mathematics: sorting and arranging sequentially books of the Old and New Testament."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to Learn", "Communication and Collaboration", "Creativity and Imagination"],
+          "values": ["Unity", "Responsibility"],
+          "pertinentContemporaryIssues": ["Effective Communication", "Creative and Critical thinking"]
+        },
+        {
+          "name": "3.3 Bible Translation",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "identify versions of the Bible used today",
+            "discuss reasons for translating the Bible into local languages",
+            "describe the translation of the Bible from the original languages to local languages",
+            "examine the social and economic effects of translating the Bible into local languages",
+            "appreciate the work of Bible translation in Kenya"
+          ],
+          "keyInquiryQuestions": ["Why is it important to translate the Bible into different languages?"],
+          "learningExperiences": [
+            "mention versions of the Bible used in Kenya today",
+            "buzz on the reasons that led to the translation of the Bible into local languages",
+            "discuss Bible translation from the original languages (Hebrew, Greek) to local languages",
+            "brainstorm on the benefits of Bible translation",
+            "interview a resource person on the social and economic effects of translating the Bible to local languages",
+            "debate on the topic, 'Bible translation is still necessary today'"
+          ],
+          "linkedLearningAreas": ["English: interviewing resource persons on the social and economic effects of translating the Bible into local languages."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to Learn", "Critical thinking and Problem-solving"],
+          "values": ["Unity", "Respect"],
+          "pertinentContemporaryIssues": ["Digital Citizenship"]
+        },
+        {
+          "name": "3.4 Leadership in Israel: Moses",
+          "lessonCount": 7,
+          "specificLearningOutcomes": [
+            "describe how God prepared Moses for leadership in Israel",
+            "identify the roles played by Moses during the Exodus",
+            "outline leadership qualities they can emulate from Moses",
+            "apply leadership qualities learnt from Moses in their daily lives",
+            "choose leaders of integrity to foster stable governments",
+            "value responsibility by choosing credible leaders"
+          ],
+          "keyInquiryQuestions": ["Why was leadership in Israel important?"],
+          "learningExperiences": [
+            "discuss in groups characteristics of a good leader",
+            "brainstorm on qualities they consider when choosing leaders at school or church",
+            "read Exodus 2:11-13, 3:1-2, 11-12, and 6:12, and list ways God prepared Moses for leadership",
+            "read Exodus 14:13-16, 21, 15:22-25, 18:5-10, 18:17-24; Deuteronomy 4:1-3, 5, 6, and discuss roles performed by Moses during the Exodus",
+            "conduct an online or library research on leadership qualities portrayed by Moses and summarise them on a chart",
+            "write a journal on how to be a good leader at school, church, and in the community",
+            "debate on the advantages of choosing leaders of integrity in today's society"
+          ],
+          "linkedLearningAreas": ["Social Studies: researching and making notes on leadership qualities portrayed by Moses."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy", "Citizenship", "Imagination and Creativity"],
+          "values": ["Responsibility", "Social Justice"],
+          "pertinentContemporaryIssues": ["Human Rights", "Good Governance", "Decision-making", "Effective Communication"]
+        }
+      ]
+    },
+    {
+      "name": "4.0 The Early Life of Jesus Christ",
+      "subStrands": [
+        {
+          "name": "4.1 Prophecies about the Messiah",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "outline the Old Testament prophecies about the Messiah",
+            "elaborate the fulfilment of the Old Testament prophecies about the Messiah",
+            "value the fulfillment of the Old Testament prophecies"
+          ],
+          "keyInquiryQuestions": ["How were the Old Testament prophecies about the Messiah fulfilled?"],
+          "learningExperiences": [
+            "brainstorm on the meaning of the word prophecy and share findings with the class",
+            "buzz on the meaning of the word 'Messiah'",
+            "write the meaning of the word Messiah on flashcards",
+            "read Isaiah 7:13-14, 9:6-7, and Jeremiah 23:5-6, and list the prophecies about the coming of the Messiah",
+            "write the Bible texts on the coming of the Messiah on flashcards and place them in their note books for reference/revision",
+            "watch a video clip on prophecies about the Messiah",
+            "conduct an online or library research on fulfilment of prophecies about the Messiah and present the points in class",
+            "team up to read Matthew 1:18-23 and Luke 1:26-38 and summarise the fulfillment of the Old Testament prophecies"
+          ],
+          "linkedLearningAreas": ["English: reading Bible texts and brainstorming on the meaning of the term 'Prophecy'.", "Social Studies: discussing the message about peace in relation to the coming of the Messiah, the prince of Peace."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital Literacy", "Communication and Collaboration"],
+          "values": ["Unity", "Responsibility"],
+          "pertinentContemporaryIssues": ["Effective Communication", "Information Technology"]
+        },
+        {
+          "name": "4.2 John the Baptist — A Precursor to the Messiah",
+          "lessonCount": 7,
+          "specificLearningOutcomes": [
+            "elaborate the annunciation and birth of John the Baptist",
+            "relate the birth of John the Baptist to the coming of the Messiah",
+            "interpret John's description of the Messiah in Luke 3:16 and John 1:29-30",
+            "discuss the message of John the Baptist in Luke 3:7-18",
+            "apply values acquired from the teachings of John the Baptist in daily life",
+            "desire to live a morally upright life"
+          ],
+          "keyInquiryQuestions": ["How is John the Baptist a precursor to the Messiah?"],
+          "learningExperiences": [
+            "read Luke 1:5-25 on the annunciation of the birth of John the Baptist and retell the story",
+            "read Luke 1:57-66 and make short notes on the birth of John the Baptist",
+            "role-play the annunciation of John the Baptist and record it using a digital device",
+            "read Luke 3:16 and John 1:29-30 and write the main points on flash cards",
+            "compose a poem on how the birth of John the Baptist prepared the way for the coming of the Messiah",
+            "read Luke 3:7-18 and discuss the message of John the Baptist",
+            "list the values outlined in the message of John the Baptist",
+            "dramatize ways of applying values acquired from the message of John the Baptist in daily life",
+            "sing a song related to the mission of John the Baptist"
+          ],
+          "linkedLearningAreas": ["English: reading Bible texts and brainstorming on the meaning of the term 'Prophecy'.", "Social Studies: discussing the message about social justice and responsibility."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Imagination and Creativity", "Critical thinking", "Citizenship", "Communication and Collaboration"],
+          "values": ["Love", "Unity", "Social Justice"],
+          "pertinentContemporaryIssues": ["Social Cohesion", "Decision-making", "Human Rights"]
+        },
+        {
+          "name": "4.3 The Birth and Childhood of Jesus Christ",
+          "lessonCount": 7,
+          "specificLearningOutcomes": [
+            "elaborate the annunciation and birth of Jesus Christ",
+            "describe the dedication of baby Jesus",
+            "relate the dedication of Jesus to similar practises in the church today",
+            "narrate the story of Jesus Christ in the Temple",
+            "identify values learnt from the birth and childhood of Jesus Christ",
+            "acknowledge the gift of our Saviour by celebrating His birth"
+          ],
+          "keyInquiryQuestions": ["Why do Christians celebrate the birth of Jesus Christ?"],
+          "learningExperiences": [
+            "read Luke 1:26-38 and Luke 2:1-20 in turns",
+            "brainstorm on the events that took place during the annunciation of the birth of Jesus Christ",
+            "collaboratively make a presentation on the annunciation of the Birth of Jesus Christ using PowerPoint slides or charts",
+            "watch a video clip on the birth of Jesus Christ and write the key points on a chart",
+            "share experiences of how children are dedicated in church today",
+            "mention the importance of dedicating babies in church today",
+            "read Luke 2:22-38 in turns and make short notes",
+            "in groups discuss the importance of the dedication of baby Jesus",
+            "read Luke 2:41-52 and retell the story of Jesus Christ in the Temple",
+            "create a mind map on the story of Jesus Christ with the elders in the Temple",
+            "in pairs write on flashcards values that Christians learn from the birth and childhood of Jesus Christ"
+          ],
+          "linkedLearningAreas": ["Social Studies: Jesus's parents were concerned about His welfare.", "English: making presentations in class on the annunciation and the birth of Jesus Christ."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to Learn", "Communication and Collaboration"],
+          "values": ["Love", "Peace"],
+          "pertinentContemporaryIssues": ["Children rights and protection", "Effective Communication"]
+        }
+      ]
+    },
+    {
+      "name": "5.0 The Church",
+      "subStrands": [
+        {
+          "name": "5.1 Selected Forms of Worship",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "outline the teachings on praise and thanks giving from the scriptures provided",
+            "discuss the importance of prayer and fasting",
+            "explain teachings on prayer and fasting from the scriptures provided",
+            "practise the teachings of Jesus Christ on prayer and fasting",
+            "take part in different forms of worship at home, church and in school",
+            "pray to God always to grow spiritually"
+          ],
+          "keyInquiryQuestions": ["Why is prayer and fasting important in the life of a Christian?"],
+          "learningExperiences": [
+            "define the word 'Worship'",
+            "share experiences of how worship is done in his or her church",
+            "jointly read Exodus 15:20-21, Psalm 30:11-12, 96:1-2, 150:1-5, Ephesians 5:19; and outline the teachings on praise and thanksgiving",
+            "brainstorm in groups why prayer and fasting is an important form of worship",
+            "use a digital device or a poster to summarise points on the importance of prayer and fasting",
+            "team up to read Luke 4:1-2, Acts 13:1-3, Matthew 6:9-13, 1 Thessalonians 5:16-18",
+            "outline lessons learnt from the Bible texts and make a presentation using a digital device or a chart",
+            "read Matthew 6:16 and discuss how one should conduct himself or herself when fasting",
+            "journal how they practise different forms of worship",
+            "participate in worship at home, church and in school and write a report for presentation in class",
+            "brainstorm on the topic 'we were created to worship God'",
+            "in collaboration, read and compose a song based on Psalms 150:1-5",
+            "sing a song on the Lord's prayer"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports: singing a song on the Lord's Prayer.", "Pre-technical Studies: making a presentation using a digital device."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and Imagination", "Learning to Learn", "Self-efficacy", "Critical thinking"],
+          "values": ["Respect", "Unity"],
+          "pertinentContemporaryIssues": ["Self-awareness", "Effective Communication"]
+        },
+        {
+          "name": "5.2 Role of the Church in Education and Health",
+          "lessonCount": 5,
+          "specificLearningOutcomes": [
+            "appraise the contribution of the Church towards education and health",
+            "identify barriers to effective Church mission work in Kenya today",
+            "recommend solutions to barriers hindering effective mission work",
+            "appreciate the contribution of the Church in education and health"
+          ],
+          "keyInquiryQuestions": ["How does the church support education and health?"],
+          "learningExperiences": [
+            "brainstorm on healthcare facilities established by churches in their communities",
+            "use google maps/County maps to identify healthcare facilities established by the church in Kenya today",
+            "carry out an online research on the role of the church in education and health and present the findings in class",
+            "discuss and summarise on charts, barriers to effective church mission work",
+            "discuss solutions to barriers hindering effective mission work in Kenya today",
+            "interview vetted resource persons on the contribution of the Church to education and health in Kenya today"
+          ],
+          "linkedLearningAreas": ["English: interviewing vetted resource persons on the contribution of the Church in education and health.", "Social Studies: using google maps to identify schools and healthcare facilities established by the church."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital Literacy", "Citizenship"],
+          "values": ["Unity", "Love"],
+          "pertinentContemporaryIssues": ["Health issues in education", "Human Rights"]
+        }
+      ]
+    },
+    {
+      "name": "6.0 Christian Living Today",
+      "subStrands": [
+        {
+          "name": "6.1 Human Sexuality",
+          "lessonCount": 7,
+          "specificLearningOutcomes": [
+            "explain the meaning of human sexuality for holistic development",
+            "discuss healthy and unhealthy relationships for responsible living",
+            "discuss the circumstances that lead to unhealthy relationships",
+            "outline the consequences of engaging in sex before marriage",
+            "compile values and life skills needed to avoid irresponsible sexual behaviour",
+            "utilize values and life skills acquired to form healthy relationships"
+          ],
+          "keyInquiryQuestions": ["How can you maintain sexual purity as a youth?"],
+          "learningExperiences": [
+            "brainstorm on the meaning of human sexuality",
+            "discuss the meaning of healthy and unhealthy relationships",
+            "outline the teachings in 1 Corinthians 6:9 and 18 and summarise lessons learnt",
+            "read Philippians 4:8-9 and Galatians 5:23, reflect on it and write a journal on values and life skills they apply as they relate with others",
+            "write 1 Thessalonians 4:3 on a flash card and recite it",
+            "discuss circumstances that can lead to sexual temptations",
+            "brainstorm on how to avoid temptations/tempting places",
+            "role-play on how to overcome a tempting situation",
+            "list/mention the negative effects of engaging in sex before marriage",
+            "listen to and engage a resource person on values and life skills guiding good morals and summarise key points",
+            "reflect on their relationships and journal their resolve to remain chaste until marriage as they depend on God's strength/prayer",
+            "carry out a debate in class on 'it is possible for a young person to remain chaste until marriage'",
+            "compose and recite a poem titled 'Lord help me overcome temptations'"
+          ],
+          "linkedLearningAreas": ["English: reading scriptures, debating and expressing themselves confidently.", "Creative Arts and Sports: composing and reciting a poem.", "Integrated Science: listing the negative effects of engaging in sex before marriage."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to Learn", "Self-efficacy", "Communication and Collaboration"],
+          "values": ["Respect for one another", "Responsibility", "Integrity", "Peace"],
+          "pertinentContemporaryIssues": ["Effective communication", "Self-awareness and assertiveness", "Peer pressure resistance"]
+        },
+        {
+          "name": "6.2 Christian Marriage and Family",
+          "lessonCount": 7,
+          "specificLearningOutcomes": [
+            "discuss the biblical teachings on marriage and family",
+            "explain ways the church promotes values among young people before marriage",
+            "identify values needed to maintain stability in families",
+            "appreciate the family as a sacred institution ordained by God"
+          ],
+          "keyInquiryQuestions": ["How does a good marriage contribute to stability in the society?"],
+          "learningExperiences": [
+            "read Genesis 2:23-24 and Ephesians 5:22-33 in turns and summarise the main biblical teachings about marriage",
+            "read Exodus 20:12, Psalm 127:3-5, Ephesians 6:4 and note the key points",
+            "list values needed by young people before they enter into marriage",
+            "interact with a religious leader or a resource person and interview them on how the church promotes values among young people before marriage",
+            "carry out an online or library research on values needed to contribute towards stable families",
+            "write key messages on charts or flashcards on values needed to contribute towards stable families",
+            "role-play a stable Christian family",
+            "compose and recite poems on 'God is the centre of stable families'"
+          ],
+          "linkedLearningAreas": ["Social Studies: appreciating marriage and families as important institutions necessary for stability in society.", "English: composing and reciting poems."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and Problem-solving", "Citizenship", "Learning to Learn", "Digital Literacy", "Creativity and Imagination"],
+          "values": ["Unity", "Love", "Responsibility"],
+          "pertinentContemporaryIssues": ["Decision-making", "Social Cohesion"]
+        },
+        {
+          "name": "6.3 Alcohol, Drugs and Substance Use",
+          "lessonCount": 7,
+          "specificLearningOutcomes": [
+            "identify drugs commonly abused by youths in Kenya today",
+            "discuss reasons why young people abuse drugs today",
+            "explore the effects of alcohol, drugs and substance abuse on an individual and the family",
+            "read the scriptures provided on the effects of alcohol, drug and substance abuse",
+            "recommend values and life skills needed to stay free from alcohol, drug and substance abuse",
+            "utilise values and life-skills acquired to live an alcohol, drug and substance-free life"
+          ],
+          "keyInquiryQuestions": ["Why do young people abuse drugs and alcohol today?"],
+          "learningExperiences": [
+            "brainstorm on the meaning of alcohol, drug and substance abuse and share findings with the class",
+            "list drugs commonly abused by youths in Kenya today",
+            "discuss the causes of alcohol, drugs and substance abuse today",
+            "research on persons who abused drugs and the effects it had on them",
+            "conduct an internet or library research on the effects of alcohol, drugs and substance abuse and make a presentation in class",
+            "read 1 Corinthians 3:17, 1 Corinthians 6:10, Ephesians 5:18, Proverbs 20:1, Proverbs 23:29-35, Proverbs 31:6 and Isaiah 5:11",
+            "share lessons learnt from the scriptures and make notes",
+            "debate on life skills and values needed to avoid alcohol, drug and substance abuse",
+            "listen to a resource person sharing success stories on overcoming alcohol, drug and substance abuse as a youth",
+            "reflect and write a journal on ways to avoid alcohol, drugs and substance abuse as a Christian youth"
+          ],
+          "linkedLearningAreas": ["Integrated Science: negative effects of alcohol, drug and substance abuse.", "Pre-technical Studies: online or library research on causes and effects.", "Social Studies: causes of alcohol, drug and substance abuse and values needed for responsible living."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital Literacy", "Learning to Learn", "Citizenship", "Communication and Collaboration"],
+          "values": ["Responsibility", "Respect", "Patriotism"],
+          "pertinentContemporaryIssues": ["Critical and Creative thinking", "Assertiveness", "Decision-making", "Guidance and Counselling"]
+        },
+        {
+          "name": "6.4 Gambling",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "identify types of gambling in Kenya today",
+            "discuss five causes of gambling",
+            "outline teachings on money and wealth from the scriptures provided",
+            "examine the effects of gambling on individuals and families",
+            "outline teachings on true riches from the scriptures provided",
+            "utilize acquired skills and moral values to live a gambling free life"
+          ],
+          "keyInquiryQuestions": ["Why do young people engage in gambling today?"],
+          "learningExperiences": [
+            "share collaboratively what they know about gambling",
+            "brainstorm on the meaning and types of gambling",
+            "jointly use digital devices or read relevant textbooks on the causes of gambling today",
+            "share with classmates how to avoid negative peer influence that can lead to gambling",
+            "listen to and engage a resource person on how to avoid gambling",
+            "read 1 Timothy 6:10, Proverbs 13:11 and Proverbs 28:20-22, Ephesians 4:28 and summarise the key points on charts for presentation in class",
+            "role-play the effects of gambling on individuals and families",
+            "read Matthew 6:19-21, Hebrew 13:5, 1 Timothy 6:17-19 and outline lessons learnt on true riches",
+            "conduct an online or library research on values and life skills needed to avoid gambling",
+            "debate on 'skills and values needed to avoid gambling'",
+            "recite 1 Corinthians 6:12 and explain the meaning as a memory verse"
+          ],
+          "linkedLearningAreas": ["Integrated Science: effects of gambling on an individual and families.", "Creative Arts and Sports: role-playing the effects of gambling on individuals and families."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to Learn", "Communication and Collaboration", "Critical thinking and Problem-solving"],
+          "values": ["Responsibility", "Respect for self and others"],
+          "pertinentContemporaryIssues": ["Self-efficacy", "Decision-making", "Learner support programmes", "Health Issues"]
+        },
+        {
+          "name": "6.5 Social Media",
+          "lessonCount": 7,
+          "specificLearningOutcomes": [
+            "identify different social media platforms used by young people today",
+            "describe ways of using social media responsibly",
+            "examine ways in which social media is misused today",
+            "discuss ways they should respond to cyberbullying",
+            "recommend values and life skills needed for responsible use of social media",
+            "apply Christian values as they use different social media platforms",
+            "desire to use social media responsibly"
+          ],
+          "keyInquiryQuestions": ["Why should you be cautious when using social media?"],
+          "learningExperiences": [
+            "list different social media platforms they interact with",
+            "brainstorm on the dangers of chatting or meeting with online strangers",
+            "list precautions they need to exercise whenever they use social media",
+            "discuss how social media is misused today and make PowerPoint slides for presentation in class",
+            "brainstorm on cyberbullying and how to respond",
+            "write sensitisation messages on charts or posters on values and life-skills needed when using social media platforms",
+            "interview a resource person on responsible use of social media",
+            "write personal reflections on how to use social media responsibly"
+          ],
+          "linkedLearningAreas": ["English: interviewing a resource person on responsible use of social media.", "Pre-technical Studies: discussing how social media is misused today and making a PowerPoint presentation."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to Learn", "Self-efficacy"],
+          "values": ["Integrity", "Responsibility", "Respect"],
+          "pertinentContemporaryIssues": ["Self-awareness and Self-esteem", "Decision-making", "Assertiveness"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "subject": "German",
+  "subjectId": "german",
+  "grade": 8,
+  "source": {
+    "title": "Junior School Curriculum Design — German Grade 8 (First published 2023, Revised 2024)",
+    "url": "https://doyenpublishers.com/wp-content/uploads/2025/04/Grade-8-German-Curriculum-Design.pdf",
+    "publisher": "KICD",
+    "isbn": "978-9914-43-803-1",
+    "retrievedDate": "2026-08-14",
+    "confidence": "high",
+    "notes": "kicd.ac.ke's grade-eight-designs page embeds this exact PDF via Google Drive file id 1irJwC6GArXWf934-_xCDiaGQYJQZHv5m (title confirmed via WebFetch on the Drive /preview page: 'German Grade 8 - July 2024.pdf'). Drive direct download is permission-locked by the owner, so the PDF was instead fetched via this doyenpublishers.com mirror; WebFetch reported binary/unreadable content but saved the PDF locally, and Claude's Read tool parsed the full text natively (not summarized). Structure verified verbatim against the PDF's SUMMARY OF STRANDS AND SUB STRANDS table (page xi) and the per-theme strand tables (pages 1-55)."
+  },
+  "essenceNote": "Kenya's foreign languages at Junior School are Arabic, French, German, and Mandarin — each a non-formal, basic (A1/YCT2-equivalent) 4-skills (listening, speaking, reading, writing) curriculum, taught in an experiential, innovative and flexible program guided by social-constructivism and environmental theories (verbatim essence statement, identical wording to the Grade 9 German design).",
+  "strands": [
+    {
+      "name": "1.0 Listening and Speaking",
+      "totalLessons": 27,
+      "subStrands": [
+        {
+          "code": "1.1",
+          "name": "Oral Expression, Active Listening — Basic Greetings & Formal Form (Sie-Form)",
+          "theme": "Greetings and Introduction",
+          "specificLearningOutcomes": [
+            "Recognize structures and expressions for oral interaction",
+            "Employ appropriate structures and expressions for oral interaction",
+            "Appreciate the role of structures and expressions in communication"
+          ],
+          "keyInquiryQuestions": ["How do we improve our vocabulary?"]
+        },
+        {
+          "code": "1.2",
+          "name": "Interactive Speaking, Listening for Information — Extended Family (Name, Age, Profession)",
+          "theme": "Family",
+          "specificLearningOutcomes": [
+            "Identify specific information for comprehension",
+            "Employ appropriate vocabulary and structures in speaking",
+            "Appreciate the role of turn taking in communication"
+          ],
+          "keyInquiryQuestions": ["How can you make a conversation interesting?"]
+        },
+        {
+          "code": "1.3",
+          "name": "Oral Expression, Active Listening — My Surroundings",
+          "theme": "My Surroundings",
+          "specificLearningOutcomes": [
+            "Identify phrases and vocabulary for comprehension",
+            "Listen actively to texts for communication",
+            "Interact using acquired phrases and vocabulary with peers",
+            "Value the role of expressions in communication"
+          ],
+          "keyInquiryQuestions": ["How do you show you are listening actively?"]
+        },
+        {
+          "code": "1.4",
+          "name": "Interactive Speaking, Listening for Information — Time: Stundenplan",
+          "theme": "Time",
+          "specificLearningOutcomes": [
+            "Identify specific information from listening texts for communication",
+            "Express themselves using acquired language structures for communication",
+            "Value the role of vocabulary in communication"
+          ],
+          "keyInquiryQuestions": ["How can you make a conversation interesting?"]
+        },
+        {
+          "code": "1.5",
+          "name": "Active Listening — Fun and Enjoyment: Travel (\"Wilde Tiere\", \"Wohin?\", \"denn\")",
+          "theme": "Fun and Enjoyment",
+          "specificLearningOutcomes": [
+            "Identify specific sound patterns for communication",
+            "Extract specific information from a text for comprehension",
+            "Acknowledge the role of active listening for communication"
+          ],
+          "keyInquiryQuestions": ["Why should we listen actively?"]
+        },
+        {
+          "code": "1.6",
+          "name": "Interactive Speaking, Listening for Information — Foods and Drinks: In the Kitchen (Vocabulary)",
+          "theme": "Foods and Drinks",
+          "specificLearningOutcomes": [
+            "Identify specific information for comprehension",
+            "Employ specific vocabulary in oral expression",
+            "Value the role vocabulary plays in every day interactions"
+          ],
+          "keyInquiryQuestions": ["How do you share ideas?"]
+        },
+        {
+          "code": "1.7",
+          "name": "Oral Expression, Active Listening (Detailed Listening) — My Body: Feelings and Emotions, Needs",
+          "theme": "My Body",
+          "specificLearningOutcomes": [
+            "Identify appropriate sounds and words for communication",
+            "Express ideas using appropriate language structures",
+            "Acknowledge the value of active listening in communication"
+          ],
+          "keyInquiryQuestions": ["How do you maintain healthy dialogue with others?"]
+        },
+        {
+          "code": "1.8",
+          "name": "Interactive Speaking, Listening for Information — Weather and Environment: Physical Features, Activities Done Under Different Weather Conditions (Vocabulary, Ausdrücke)",
+          "theme": "Weather and Environment",
+          "specificLearningOutcomes": [
+            "Recognize specific vocabulary for comprehension",
+            "Extract specific information from a listening comprehension text",
+            "Appreciate the role vocabulary plays in listening and speaking"
+          ],
+          "keyInquiryQuestions": ["Why is vocabulary important?"]
+        },
+        {
+          "code": "1.9",
+          "name": "Oral Expression, Active Listening — Getting Around: Transport (\"Wie komme ich …?\", \"Wo ist …?\")",
+          "theme": "Getting Around",
+          "specificLearningOutcomes": [
+            "Identify basic sound patterns in speaking",
+            "Extract specific information from listening texts",
+            "Listen to audio texts for enjoyment"
+          ],
+          "keyInquiryQuestions": ["Why are sounds useful in speaking?"]
+        }
+      ]
+    },
+    {
+      "name": "2.0 Reading",
+      "totalLessons": 18,
+      "subStrands": [
+        {
+          "code": "2.1",
+          "name": "Reading Aloud (Fluency) — Greetings and Introduction: Basic Greetings & Formal Form (Sie-Form)",
+          "theme": "Greetings and Introduction",
+          "specificLearningOutcomes": [
+            "Recognize sound combination patterns for fluency",
+            "Read texts aloud for fluency",
+            "Read texts for enjoyment"
+          ],
+          "keyInquiryQuestions": ["How do we improve our fluency?"]
+        },
+        {
+          "code": "2.2",
+          "name": "Reading Comprehension — Extended Family: Name, Age, Profession",
+          "theme": "Family",
+          "specificLearningOutcomes": [
+            "Identify vocabulary for comprehension",
+            "Read texts for comprehension",
+            "Read texts for enjoyment"
+          ],
+          "keyInquiryQuestions": ["How do we get main ideas in a text?"]
+        },
+        {
+          "code": "2.3",
+          "name": "Reading Aloud (Articulation) — My Surroundings: My Town \"Wohin?\"",
+          "theme": "My Surroundings",
+          "specificLearningOutcomes": [
+            "Identify punctuation marks for articulation",
+            "Read texts for articulation",
+            "Value the role of articulation in language"
+          ],
+          "keyInquiryQuestions": ["How do punctuation marks affect reading?"]
+        },
+        {
+          "code": "2.4",
+          "name": "Reading Comprehension (Skimming, Scanning) — Time (12 hrs Clock, \"Stundenplan\")",
+          "theme": "Time",
+          "specificLearningOutcomes": [
+            "Identify information for comprehension",
+            "Read texts for comprehension",
+            "Appreciate role of vocabulary in reading"
+          ],
+          "keyInquiryQuestions": ["How do we ensure we get the needed information from reading texts?"]
+        },
+        {
+          "code": "2.5",
+          "name": "Reading Aloud (Fluency) — Fun and Enjoyment: Travel (\"Wilde Tiere\", \"Wohin?\", \"denn\")",
+          "theme": "Fun and Enjoyment",
+          "specificLearningOutcomes": [
+            "Identify sentence melody for fluency",
+            "Read aloud texts for fluency",
+            "Appreciate the role fluency plays in language"
+          ],
+          "keyInquiryQuestions": ["What role does fluency play in a language?"]
+        },
+        {
+          "code": "2.6",
+          "name": "Reading Comprehension — Foods and Drinks: In the Kitchen — Meal Preparation, Ingredients, Utensils",
+          "theme": "Foods and Drinks",
+          "specificLearningOutcomes": [
+            "Identify information from reading texts for comprehension",
+            "Extract specific information from reading comprehension texts",
+            "Read texts for enjoyment"
+          ],
+          "keyInquiryQuestions": ["How do you share information you have read?"]
+        },
+        {
+          "code": "2.7",
+          "name": "Reading Aloud (Articulation) — My Body: Feelings and Emotions, Needs",
+          "theme": "My Body",
+          "specificLearningOutcomes": [
+            "Recognize specific sound combination patterns for articulation",
+            "Read texts for articulation",
+            "Value the role of articulation in language acquisition"
+          ],
+          "keyInquiryQuestions": ["Why should one pay attention on vowels when reading?"]
+        },
+        {
+          "code": "2.8",
+          "name": "Reading Comprehension — Weather and Environment: Physical Features, Activities Done Under Different Weather Conditions",
+          "theme": "Weather and Environment",
+          "specificLearningOutcomes": [
+            "Identify specific words for comprehension",
+            "Read texts for comprehension",
+            "Appreciate the role of vocabulary in comprehension"
+          ],
+          "keyInquiryQuestions": ["How do we ensure we get all the required information from a text?"]
+        },
+        {
+          "code": "2.9",
+          "name": "Reading Aloud (Fluency) — Getting Around: Transport (\"Wie komme ich …?\", \"Wo ist …?\")",
+          "theme": "Getting Around",
+          "specificLearningOutcomes": [
+            "Recognize specific sound combinations for pronunciation",
+            "Extract specific information from reading comprehension texts",
+            "Read texts for enjoyment"
+          ],
+          "keyInquiryQuestions": ["What is the role of consonants in reading texts?"]
+        }
+      ]
+    },
+    {
+      "name": "3.0 Writing",
+      "totalLessons": 9,
+      "subStrands": [
+        {
+          "code": "3.1",
+          "name": "Guided Writing (Creative Writing: Dialogues) — Greetings and Introduction: Basic Greetings & Formal Form (Sie-Form)",
+          "theme": "Greetings and Introduction",
+          "specificLearningOutcomes": [
+            "Identify specific words and phrases for enhancing language learning",
+            "Write dialogues for communication",
+            "Appreciate the role of words and phrases in writing"
+          ],
+          "keyInquiryQuestions": ["Why is writing important?"]
+        },
+        {
+          "code": "3.2",
+          "name": "Guided Writing (Vocabulary) — Extended Family: Name, Age, Profession",
+          "theme": "Family",
+          "specificLearningOutcomes": [
+            "Recognize appropriate vocabulary for communication",
+            "Write texts for effective communication",
+            "Write texts for enjoyment"
+          ],
+          "keyInquiryQuestions": ["Why is it important to be guided in writing?"]
+        },
+        {
+          "code": "3.3",
+          "name": "Guided Writing — My Surroundings: My Town \"Wohin?\"",
+          "theme": "My Surroundings",
+          "specificLearningOutcomes": [
+            "Identify appropriate language patterns for communication",
+            "Write words in varied contexts for learning",
+            "Appreciate the role spelling plays in writing"
+          ],
+          "keyInquiryQuestions": ["Why is good handwriting important?"]
+        },
+        {
+          "code": "3.4",
+          "name": "Guided Writing (Creative Writing: Poems) — Time: 12 Hour Clock, Stundenplan",
+          "theme": "Time",
+          "specificLearningOutcomes": [
+            "Identify sound combinations for communication",
+            "Utilize appropriate language structures in writing",
+            "Write short texts for enjoyment"
+          ],
+          "keyInquiryQuestions": ["How can you write with speed?"]
+        },
+        {
+          "code": "3.5",
+          "name": "Guided Writing (Orthography) — Fun and Enjoyment: Travel, \"Wilde Tiere\", \"Wohin?\", \"denn\"",
+          "theme": "Fun and Enjoyment",
+          "specificLearningOutcomes": [
+            "Recognize specific patterns as expressed by different sound combinations for communication",
+            "Employ correct orthography in writing texts",
+            "Appreciate the role orthography plays in writing"
+          ],
+          "keyInquiryQuestions": ["Why are punctuation marks important in writing?"]
+        },
+        {
+          "code": "3.6",
+          "name": "Guided Writing (Functional Writing: Menu) — Foods and Drinks: In the Kitchen — Meal Preparation, Ingredients, Utensils",
+          "theme": "Foods and Drinks",
+          "specificLearningOutcomes": [
+            "Recognize basic punctuation marks in writing",
+            "Employ specific vocabulary for communication",
+            "Write texts for enjoyment"
+          ],
+          "keyInquiryQuestions": ["How do you share ideas?", "Why is it important to write things down?"]
+        },
+        {
+          "code": "3.7",
+          "name": "Guided Writing (Word Order, German Orthography Rules) — My Body: Feelings and Emotions",
+          "theme": "My Body",
+          "specificLearningOutcomes": [
+            "Recognize basic spelling patterns for communication",
+            "Employ basic orthography rule in writing",
+            "Appreciate the role spelling plays in writing"
+          ],
+          "keyInquiryQuestions": ["Why is correct spelling useful in writing?"]
+        },
+        {
+          "code": "3.8",
+          "name": "Guided Writing (Vocabulary) — Weather and Environment: Physical Features, Activities Done Under Different Weather Conditions",
+          "theme": "Weather and Environment",
+          "specificLearningOutcomes": [
+            "Recognize specific vocabulary for communication",
+            "Spell words in writing",
+            "Appreciate the role spelling plays in writing"
+          ],
+          "keyInquiryQuestions": ["How do you gather vocabulary in writing?"]
+        },
+        {
+          "code": "3.9",
+          "name": "Guided Writing (Creative Writing: Songs) — Getting Around: Transport, \"Wie komme ich …?\", \"Wo ist …?\"",
+          "theme": "Getting Around",
+          "specificLearningOutcomes": [
+            "Identify specific words and phrases for enhancing language learning",
+            "Spell words correctly for communication",
+            "Appreciate the role of words and phrases in writing"
+          ],
+          "keyInquiryQuestions": ["How do you write well?"]
+        }
+      ]
+    }
+  ],
+  "notes": "Same 9 themes repeat identically across all 3 strands (Greetings and Introduction, Family, My Surroundings, Time, Fun and Enjoyment, Foods and Drinks, My Body, Weather and Environment, Getting Around) = 27 distinct sub-strands (9 themes x 3 strands), confirmed verbatim from the PDF's own SUMMARY OF STRANDS AND SUB STRANDS table and per-theme tables — an exact structural match to German's own Grade 9 design and to French's Grade 8 design (same theme set and order across all three). Total lesson allocation: 27 (Listening & Speaking) + 18 (Reading) + 9 (Writing) = 54 lessons + 6 lessons for showcasing, matching French Grade 8 exactly. Verbatim vocabulary/phrase examples pulled directly from the design's own suggested-learning-experiences tables (marked 'z.B.' = 'zum Beispiel', for example) were preserved in sub-strand names/themes where the source itself embedded them, e.g. Wie heißen Sie?/Ich heiße... (greetings), der Vater/die Oma/der Onkel/der Cousin (family), der Supermarkt/der Markt/die Bibliothek (surroundings), Wie spät ist es?/Es ist...Uhr (time), der Löwe/der Elefant/die Schlange (wild animals), Kopfschmerzen-style feelings vocabulary, Der Berg ist hoch/Der Wald ist grün (physical features), nach rechts/nach links/geradeaus-style directions."
+}

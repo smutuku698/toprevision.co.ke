@@ -1,0 +1,159 @@
+{
+  "subject": "Integrated Science",
+  "subjectId": "science",
+  "grade": 9,
+  "source": {
+    "title": "Junior School Curriculum Design - Integrated Science - Grade 9 (First published 2024, ISBN 978-9914-52-946-3)",
+    "url": "https://teacherspalace.co.ke/uploads/documents/integrated-science-grade-9-july-2024-1-unlocked-2024-12-02-6Gu0YxWoA3.pdf",
+    "publisher": "KICD (mirrored via teacherspalace.co.ke)",
+    "retrievedDate": "2026-08-13",
+    "confidence": "high",
+    "notes": "Fetched via WebFetch, which saved the PDF locally; WebFetch's own summarizer could not extract text ('raw PDF binary stream'), so per the known workaround the Read tool was used directly on the locally-saved PDF path, which parsed the full text natively. All strand/sub-strand headings, specific learning outcomes, and key inquiry questions below were read verbatim from the document text, not summarized by an intermediate model. Title match: the mirror's filename ('integrated-science-grade-9-july-2024-1-unlocked') matches the confirmed official KICD Google Drive filename 'Integrated Science Grade 9 - July 2024.pdf' recorded in this repo's README. The document's own cover/title page does not print a month, only 'First published 2024' and ISBN 978-9914-52-946-3, but the mirror filename and content (Junior School Grade 9 Integrated Science) are consistent with the confirmed official title, so this is treated as the authentic document, not a look-alike or older version. IMPORTANT FINDING: the app's existing curriculum.ts strands for Integrated Science ('Living Things & Environment', 'Matter, Force & Motion', 'Energy', 'Earth & Space' - 4 strands) do NOT match the real design, which has only 3 strands ('Mixtures, Elements, and Compounds', 'Living Things and their Environment', 'Force and Energy') and no 'Earth & Space' strand at all (no solar system / weather systems / environmental management content in this design). This needs to be flagged and corrected before any Integrated Science skills are audited or built."
+  },
+  "strands": [
+    {
+      "name": "Mixtures, Elements, and Compounds",
+      "subStrands": [
+        {
+          "name": "Structure of the atom",
+          "specificLearningOutcomes": [
+            "Describe the structure of the atom",
+            "Determine the mass number of elements",
+            "Draw the electron arrangement in atoms using dot or cross diagrams",
+            "Classify elements into metals and non-metals",
+            "Show interest in classifying elements into metals and non-metals"
+          ],
+          "keyInquiryQuestions": [
+            "How is the structure of the atom important?"
+          ],
+          "notes": "Suggested 14 lessons. Content covers: structure of the atom (protons, electrons, neutrons); atomic number and mass number of elements; electron arrangement of elements; energy level diagrams (cross or dot); metals and non-metals. Explicit scope note in source: use only the first 20 elements of the periodic table; do NOT introduce the periodic table itself at this level."
+        },
+        {
+          "name": "Metals and Alloys",
+          "specificLearningOutcomes": [
+            "Describe the physical properties of metals",
+            "Describe the composition of alloys",
+            "Identify the uses of metals and alloys in day-to-day life",
+            "Explain the effects of rusting of metals",
+            "Appreciate the importance of common alloys in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "How are alloys important in day-to-day life?"
+          ],
+          "notes": "Suggested 16 lessons. Content covers: physical properties of metals (state, ductility, malleability, electrical and thermal conductivity); composition of alloys (steel, stainless steel, bronze, brass, duralumin); uses of metals and alloys in day-to-day life (sodium, magnesium, aluminium, copper, iron, gold, silver, brass, steel, bronze, duralumin, stainless steel); rusting (causes, effects, prevention)."
+        },
+        {
+          "name": "Water hardness",
+          "specificLearningOutcomes": [
+            "Describe the physical properties of water",
+            "Distinguish between hard and soft water in nature",
+            "Apply methods of softening hard water in day-to-day life",
+            "Outline the advantages and disadvantages of hard and soft water",
+            "Appreciate the applications of soft and hard water in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "What is the importance of different types of water?",
+            "Why is hard water preferred for drinking?"
+          ],
+          "notes": "Suggested 14 lessons. Content covers: physical properties of water (taste, colour, odour, boiling point); hard and soft water; methods of softening temporary hard water (boiling, addition of washing soda, distilling) - explicit scope note: avoid ion exchange; advantages and disadvantages of hard water and soft water."
+        }
+      ]
+    },
+    {
+      "name": "Living Things and their Environment",
+      "subStrands": [
+        {
+          "name": "Nutrition in Plants",
+          "specificLearningOutcomes": [
+            "Identify external and internal parts of a leaf",
+            "Explain adaptations of the leaf to photosynthesis",
+            "Describe the process of photosynthesis",
+            "Investigate the conditions necessary for photosynthesis",
+            "Appreciate the process of photosynthesis in nature"
+          ],
+          "keyInquiryQuestions": [
+            "What is the importance of photosynthesis in nature?"
+          ],
+          "notes": "Suggested 18 lessons. Content covers: parts of a leaf (external and internal); adaptations of the leaf to photosynthesis; structure of chloroplasts (membranes, grana, stroma); process of photosynthesis - explicit scope note: chemical reactions during light and dark stages are not required; conditions necessary for photosynthesis."
+        },
+        {
+          "name": "Nutrition in animals",
+          "specificLearningOutcomes": [
+            "Outline modes of nutrition in animals",
+            "Describe the structure and functions of different types of teeth",
+            "Classify animals based on their dentition",
+            "Describe the process of digestion in human beings",
+            "Appreciate that animals have varied modes of nutrition"
+          ],
+          "keyInquiryQuestions": [
+            "How do different animals feed?",
+            "How is food digested in the human body?"
+          ],
+          "notes": "Suggested 16 lessons. Content covers: modes of nutrition in animals (parasitic, saprophytic, symbiosis, holozoic); dentition in animals (homodont and heterodont; carnivorous, herbivorous, omnivorous); types of teeth (incisors, canines, premolars, molars) - structure and functions; process of digestion in human beings (ingestion, digestion, absorption, assimilation, egestion)."
+        },
+        {
+          "name": "Reproduction in plants",
+          "specificLearningOutcomes": [
+            "Outline functions of parts of a flower",
+            "Describe pollination in plants",
+            "Outline the adaptations of flowers to wind and insect pollination",
+            "Explain fertilisation and fruit formation in flowering plants",
+            "Categorise fruits and seeds based on their mode of dispersal",
+            "Recognise the role of flowers in nature"
+          ],
+          "keyInquiryQuestions": [
+            "How does reproduction in plants occur?"
+          ],
+          "notes": "Suggested 20 lessons. Content covers: functions of parts of a flower; meaning and types of pollination (explicit scope note: details on factors that promote/hinder self-pollination not required); adaptations of flowers to wind and insect pollination; fertilisation, seed and fruit formation in flowering plants (explicit scope note: details of double fertilisation not required); fruit and seed dispersal in plants (modes and importance)."
+        },
+        {
+          "name": "The Interdependence of Life",
+          "specificLearningOutcomes": [
+            "Explain the biotic and abiotic factors of the environment",
+            "Construct food chains and food webs in the environment",
+            "Describe the effect of human activities on the environment",
+            "Appreciate the interdependence between living and non-living factors of the environment"
+          ],
+          "keyInquiryQuestions": [
+            "What is the role of living and non-living factors in environments?"
+          ],
+          "notes": "Suggested 18 lessons. Content covers: biotic (living) components of the environment (predation, parasitism, symbiosis, competition, saprophytic); abiotic (non-living) components of the environment (temperature, light, water, wind, atmospheric pressure, pH and salinity); energy flow in an ecosystem (food chains and food webs); effect of human activities on the environment (habitat change, hunting and poaching, introduction of new living things). Explicit scope note: avoid details of chemical reactions and specific microorganisms involved in nitrogen, carbon and sulphur cycles when discussing decomposers."
+        }
+      ]
+    },
+    {
+      "name": "Force and Energy",
+      "subStrands": [
+        {
+          "name": "Curved mirrors",
+          "specificLearningOutcomes": [
+            "Describe types of curved mirrors",
+            "Draw ray diagrams to locate images formed by concave and convex mirrors",
+            "Describe the characteristics of images formed by concave and convex mirrors",
+            "Explain the uses of concave and convex mirrors in day-to-day life",
+            "Appreciate the applications of curved mirrors in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "How are curved mirrors used in day-to-day life?"
+          ],
+          "notes": "Suggested 18 lessons. Content covers: types of curved mirrors (concave, convex, parabolic surfaces); image formed by concave and convex mirrors (locating images, characteristics of images across object positions: at infinity, beyond C, at C, between C & F, at F, between F and P); applications of curved mirrors in day-to-day life (solar concentrators, car headlamps, shaving mirrors, dentists' mirrors, projector lamps, telescopes, supermarket mirrors, driving mirrors)."
+        },
+        {
+          "name": "Waves",
+          "specificLearningOutcomes": [
+            "Describe the generation of waves in nature",
+            "Classify waves as longitudinal and transverse",
+            "Describe basic characteristics of waves in nature",
+            "Describe remote sensing in relation to waves",
+            "Describe applications of waves in day-to-day life",
+            "Appreciate the applications of waves in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "How are waves applied in our day-to-day life?"
+          ],
+          "notes": "Suggested 16 lessons. Content covers: generation of waves; classification of waves as longitudinal and transverse; characteristics of waves (parts of a wave - amplitude, wavelength, frequency, period, wave speed, phase; wave equation velocity = wavelength x frequency; straight line motion, reflection, bending of waves, movement around objects); remote sensing (reflection, absorption, transmission of electromagnetic radiation at different wavelengths; active/passive remote sensing; remote sensing platforms); applications of waves in day-to-day life (medical - ultrasound, X-rays, CT scans, MRI scans, cancer therapy, laser surgery; communication - radar, radio, cell phone, television, Wi-Fi, operation of drones; cooking - microwave)."
+        }
+      ]
+    }
+  ]
+}

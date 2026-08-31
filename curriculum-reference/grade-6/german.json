@@ -1,0 +1,617 @@
+{
+  "subject": "German",
+  "subjectId": "german",
+  "grade": 6,
+  "source": {
+    "title": "Primary School Education Curriculum Design — German, Grade 6 (Revised 2024)",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-18",
+    "confidence": "high",
+    "notes": "Read directly from grade-6-curriculum-desings/GRADE-6-GERMAN-Curriculum-Designs.pdf via the Read tool (no pages param, per standing environment note). Essence statement: foreign language taught non-formally at Upper Primary alongside Arabic/French/Mandarin, targeting basic proficiency equivalent to A1 (Basic Language Level). Same 9-theme structure as Grade 6 French/Arabic (see curriculum-reference/grade-6/french.json, curriculum-reference/grade-6/arabic.json if present), informal 'du' register throughout (all example sentences use 'du', never formal 'Sie'). Time allocation: Listening and Speaking 27 lessons, Reading 18 lessons, Writing 9 lessons, +6 lessons showcasing (total 54+6)."
+  },
+  "strands": [
+    {
+      "name": "1.0 Listening and Speaking",
+      "lessonCount": 27,
+      "subStrands": [
+        {
+          "name": "1.1 Selective Listening, Imitative Speaking — Theme 1: Greetings and Introduction",
+          "specificLearningOutcomes": [
+            "identify specific information from given texts",
+            "apply appropriate language structures in communication",
+            "appreciate the value of greetings in fostering respect"
+          ],
+          "keyInquiryQuestions": ["How do you get all the needed information from a listening text?"],
+          "learningExperiences": [
+            "listen to audio texts of people introducing themselves and saying their ages and answer given questions",
+            "listen/watch audio-visual text of people introducing others using name and age (z.B. Das ist ___; Er/sie ist ___ Jahre alt) and match to given pictures",
+            "research on how formal greetings are done in German and present in plenary",
+            "simulate greetings and introduction with peers while observing etiquette of formal settings"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Citizenship"],
+          "linkedLearningAreas": ["English and Kiswahili — greetings, self- and others' introduction"],
+          "scopeNotes": ["model phrases: Das ist ___; Er/sie ist ___ Jahre alt"]
+        },
+        {
+          "name": "1.2 Listening for gist — Theme 2: Family (Nuclear)",
+          "specificLearningOutcomes": [
+            "identify general information from given texts",
+            "listen to given texts for comprehension",
+            "value the role of listening comprehension in communication"
+          ],
+          "keyInquiryQuestions": ["How can one wrong pronunciation impair understanding?"],
+          "learningExperiences": [
+            "compare how numbers 20-100 are spoken in their various languages",
+            "discuss the differences in counting numbers above 20 in various languages",
+            "listen/watch audio-visual texts on people talking about their family members (z.B. Das ist mein Vater/meine Mutter. Er/sie ist fünfzig Jahre alt.)",
+            "talk about their families with peers (z.B. Wie alt bist du? Wie alt ist dein/e Vater/Mutter? usw)"
+          ],
+          "coreCompetencies": ["Learning to Learn"],
+          "values": ["Love"],
+          "pertinentContemporaryIssues": ["Social Cohesion"],
+          "linkedLearningAreas": ["Mathematics — numbers and age"],
+          "scopeNotes": ["numbers 20-100 taught here via cross-language comparison; model phrases: Das ist mein Vater/meine Mutter. Er/sie ist fünfzig Jahre alt.; Wie alt bist du? Wie alt ist dein/e Vater/Mutter?"]
+        },
+        {
+          "name": "1.3 Phonological awareness — Theme 3: My Surroundings (My School)",
+          "specificLearningOutcomes": [
+            "identify main information from given texts",
+            "imitate given language structures for effective communication",
+            "show appreciation for phonological awareness in a language"
+          ],
+          "keyInquiryQuestions": ["What is the best way to learn new vocabulary?"],
+          "learningExperiences": [
+            "mention all the facilities in the school",
+            "discuss the functions of the facilities",
+            "listen to audio texts about school facilities",
+            "speak aloud the names of various school facilities",
+            "play an oral matching game where one person says a word (an aspect of the facility) and the partner guesses the facility (z.B. lesen - Bibliothek; spielen/Fußball – Sportplatz, usw)",
+            "play a guessing game where one mimes what s/he wants to do and the others tell him/her where to go",
+            "listen and imitate people talking about going to different places in a school setting"
+          ],
+          "coreCompetencies": ["Creativity and Imagination"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Safety and Security"],
+          "linkedLearningAreas": ["Social studies — the concept of school"],
+          "scopeNotes": ["named school-facility vocabulary example pairs: lesen–Bibliothek (reading–library), spielen/Fußball–Sportplatz (playing football–sports field)"]
+        },
+        {
+          "name": "1.4 Selective Listening, Imitative speaking — Theme 4: Time (Months of the year)",
+          "specificLearningOutcomes": [
+            "identify specific information from given texts",
+            "use learnt structures for communication",
+            "appreciate the role of imitation in language"
+          ],
+          "keyInquiryQuestions": ["Why is it important to imitate new words during listening?"],
+          "learningExperiences": [
+            "say aloud the months of the year",
+            "say which months of the year are important to them and why",
+            "discuss what seasons they have in their region",
+            "discuss when they have school holidays",
+            "listen to audio of peers talking about when they have their school holidays",
+            "listen to audio about people talking about holidays",
+            "listen and repeat how words about holidays are pronounced (z.B. Weihnachten, Ostern, Schulferien, Osterferien, usw)"
+          ],
+          "coreCompetencies": ["Learning to learn"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Life skills"],
+          "linkedLearningAreas": ["Social studies — seasons; English and Kiswahili — months of the year"],
+          "scopeNotes": ["named holiday vocabulary: Weihnachten (Christmas), Ostern (Easter), Schulferien (school holidays), Osterferien (Easter holidays)"]
+        },
+        {
+          "name": "1.5 Phonological awareness — Theme 5: Fun and enjoyment (Sports and games)",
+          "specificLearningOutcomes": [
+            "identify typical German sounds from given texts",
+            "articulate typical German sounds for communication",
+            "appreciate the importance of fluency in a language"
+          ],
+          "keyInquiryQuestions": ["How does awareness for sounds influence language learning?"],
+          "learningExperiences": [
+            "talk about what they like doing",
+            "compare favourite activities with peers",
+            "listen to background sounds of various activities and identify them",
+            "pantomime favourite activities with peers",
+            "listen to audio texts of peers talking about their likes and dislikes",
+            "speak to peers about favourite activities using the word gern (z.B. Ich spiele gern Fußball; ich lese gern, etc)",
+            "speak to peers about activities they don't like doing using nicht gern (z.B. Ich schwimme nicht gern; ich spiele nicht gern Fußball, etc)"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Peer pressure"],
+          "linkedLearningAreas": ["Creative arts — hobbies"],
+          "scopeNotes": ["model grammatical structures: gern (like to) / nicht gern (don't like to) + verb, e.g. Ich spiele gern Fußball; ich lese gern; Ich schwimme nicht gern; ich spiele nicht gern Fußball"]
+        },
+        {
+          "name": "1.6 Listening for information — Theme 6: Food and drinks (Food Preferences)",
+          "specificLearningOutcomes": [
+            "identify structures for communication",
+            "use acquired structures for communication",
+            "demonstrate appreciation for structures in language learning"
+          ],
+          "keyInquiryQuestions": ["What do you do get information from a listening text?"],
+          "learningExperiences": [
+            "list various foods from different mealtimes",
+            "talk to peers about favourite foods",
+            "talk about favourite flavours",
+            "listen to/watch recorded audio/video about various foods",
+            "listen and imitate sounds (z.B. suß, salzig, schmecken, usw)",
+            "listen to people talking about their favourite foods (z.B. Was isst du gern? Ich esse gern Brot; usw)",
+            "talk about favourite foods with peers",
+            "listen to people describing various foods (z.B. Der Kuchen ist suß; Die Suppe ist salzig; usw)",
+            "talk about various flavours of foods to peers"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Health education – healthy eating habits"],
+          "linkedLearningAreas": ["English — expressions of likes and dislikes"],
+          "scopeNotes": ["flavour vocabulary: suß (sweet), salzig (salty), schmecken (to taste); model phrases: Was isst du gern? Ich esse gern Brot; Der Kuchen ist suß; Die Suppe ist salzig"]
+        },
+        {
+          "name": "1.7 Interactive speaking — Theme 7: My Body (I love my body)",
+          "specificLearningOutcomes": [
+            "identify language structures for appropriate oral expression",
+            "employ appropriate language structures in interactive situations",
+            "value the role of vocabulary in interactions"
+          ],
+          "keyInquiryQuestions": ["How do we make our conversations interactive?"],
+          "learningExperiences": [
+            "discuss what they do routinely throughout the day",
+            "discuss with peers how one talks about personal grooming activities",
+            "listen to audio about people talking about grooming activities",
+            "talk about own grooming activities in pairs",
+            "talk to peers about grooming activities (z.B. Ich putze mir die Zähne/Ich kämme mir die Haare/Ich wasche mir die Hände, etc)",
+            "ask peers about grooming activities (z.B. Was machst du um 7 Uhr?)",
+            "mime a grooming activity and the rest guess"
+          ],
+          "coreCompetencies": ["Learning to learn"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Personal hygiene"],
+          "linkedLearningAreas": ["Science & Technology — grooming/health status"],
+          "scopeNotes": ["theme content is grooming/personal-hygiene routine vocabulary, not body-parts anatomy — matches the theme title 'My Body' being used for grooming/self-care across the whole design; model phrases: Ich putze mir die Zähne/Ich kämme mir die Haare/Ich wasche mir die Hände; Was machst du um 7 Uhr?"]
+        },
+        {
+          "name": "1.8 Oral expressions — Theme 8: Weather and Environment (Weather conditions)",
+          "specificLearningOutcomes": [
+            "relate concepts in given contexts",
+            "employ oral expression strategies for communication",
+            "appreciate interactive speaking skills in everyday communication"
+          ],
+          "keyInquiryQuestions": ["How does one build their vocabulary?"],
+          "learningExperiences": [
+            "talk about favourite weather in pairs",
+            "discuss weather conditions in pairs/groups",
+            "listen to simple texts on weather conditions",
+            "listen to a simplified weather forecast",
+            "listen and take note of weather-related terms",
+            "talk about the weather (z.B. Es scheint/regnet, Es ist warm in Kisumu/Es ist kalt in Nyeri, usw)"
+          ],
+          "coreCompetencies": ["Creativity and Imagination"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Care of the environment"],
+          "linkedLearningAreas": ["Social Studies — weather and weather conditions"],
+          "scopeNotes": ["model weather phrases localized to Kenyan places: Es scheint/regnet (it shines/rains), Es ist warm in Kisumu/Es ist kalt in Nyeri (it is warm in Kisumu / cold in Nyeri)"]
+        },
+        {
+          "name": "1.9 Interactive speaking — Theme 9: Getting Around (In the school)",
+          "specificLearningOutcomes": [
+            "identify information for communication",
+            "use oral expressions appropriately in given contexts",
+            "value the role of vocabulary in everyday interactions"
+          ],
+          "keyInquiryQuestions": ["How do you describe the location of things?"],
+          "learningExperiences": [
+            "name facilities found in school",
+            "name items found within the school in pairs/groups",
+            "listen to a text about facilities and items found in a school",
+            "discuss where the facilities and items are found in the school",
+            "listen to audio about people talking on where items are located in the classroom (z.B. Wo liegt das Deutschbuch? Das Deutschbuch liegt auf dem Stuhl, usw)",
+            "ask peers about the location of classroom items",
+            "listen to audio texts about people talking on facilities in the school (z.B. Wo ist das Klo? Das Klo ist hinter dem Lehrerzimmer, usw)",
+            "ask each other about where facilities are located in the school"
+          ],
+          "coreCompetencies": ["Self-efficacy"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Social cohesion"],
+          "linkedLearningAreas": ["Environmental Activities and Creative Activities, Science and Technology, Creative Arts, Agriculture and Nutrition — the school and its facilities"],
+          "scopeNotes": ["model location phrases: Wo liegt das Deutschbuch? Das Deutschbuch liegt auf dem Stuhl (Where is the German book? It's lying on the chair); Wo ist das Klo? Das Klo ist hinter dem Lehrerzimmer (Where is the toilet? It's behind the staff room)"]
+        }
+      ]
+    },
+    {
+      "name": "2.0 Reading",
+      "lessonCount": 18,
+      "subStrands": [
+        {
+          "name": "2.1 Reading aloud (decoding) — Theme 1: Greetings and introductions",
+          "specificLearningOutcomes": [
+            "identify information from given texts",
+            "extract information from given texts for communication",
+            "appreciate the value of greetings in fostering respect"
+          ],
+          "keyInquiryQuestions": ["What do you need to be able to read texts aloud?", "Why is it important to read texts aloud?"],
+          "learningExperiences": [
+            "read simple dialogues in pairs",
+            "read and simulate simple greetings and introductions",
+            "read numbers up to 100",
+            "match pictures to the correct texts",
+            "rearrange cut up jumbled pieces of paper to make simple sentences and read them aloud",
+            "bring flash cards in order and read",
+            "read short texts of people talking about their family members"
+          ],
+          "coreCompetencies": ["Self-efficacy"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Citizenship"],
+          "linkedLearningAreas": ["English and Kiswahili — greetings, self- and others' introduction"],
+          "scopeNotes": ["reading numbers up to 100 introduced here"]
+        },
+        {
+          "name": "2.2 Guided reading (Skimming) — Theme 2: Family (Nuclear)",
+          "specificLearningOutcomes": [
+            "identify language features in given texts",
+            "read texts correctly using acquired phonemes",
+            "appreciate the value of language structures in communication"
+          ],
+          "keyInquiryQuestions": ["What do you do to get information from a text when reading?"],
+          "learningExperiences": [
+            "read numbers up to 100",
+            "read along to numbers being counted",
+            "compare how numbers 20-100 are read in their various languages",
+            "discuss the differences in counting numbers above 20 in various languages",
+            "read short texts on people talking about their family members (z.B. Das ist mein Vater/meine Mutter. Er/sie ist fünfzig Jahre alt)",
+            "read short texts about people talking about ages (z.B. Wie alt bist du? Wie alt ist dein Vater/deine Mutter? usw)"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Life skills"],
+          "linkedLearningAreas": ["Mathematics — numbers"],
+          "scopeNotes": []
+        },
+        {
+          "name": "2.3 Reading aloud — Theme 3: My Surroundings (My School)",
+          "specificLearningOutcomes": [
+            "identify language features in given texts",
+            "read texts aloud for articulation",
+            "appreciate the value of language structures in communication"
+          ],
+          "keyInquiryQuestions": ["What do you pay attention to when reading a text aloud?"],
+          "learningExperiences": [
+            "read aloud texts on school facilities",
+            "read brief texts on functions of school facilities (z.B. lesen - Bibliothek; spielen/Fußball – Sportplatz, usw)",
+            "read along to audio texts about school facilities",
+            "read to a peer who matches a given picture to a school facility",
+            "play bingo to match flash cards to school facilities",
+            "search out hidden facilities in a word-search"
+          ],
+          "coreCompetencies": ["Creativity and Imagination"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Safety and Security"],
+          "linkedLearningAreas": ["Social studies — the school"],
+          "scopeNotes": []
+        },
+        {
+          "name": "2.4 Guided Reading (Comprehension) — Theme 4: Time (Months of the Year)",
+          "specificLearningOutcomes": [
+            "identify information from given texts",
+            "read simple texts for comprehension",
+            "appreciate the need for short texts in language learning"
+          ],
+          "keyInquiryQuestions": ["What is good reading?"],
+          "learningExperiences": [
+            "read the months of the year out loud",
+            "read short texts on what seasons they have in their region",
+            "read short texts of peers talking about when they have their school holidays",
+            "read along to an audio text of people talking about holidays and match to given pictures",
+            "read texts about holidays and underline vocabulary (z.B. Weihnachten, Ostern, Schulferien, Osterferien, usw)"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Life skills"],
+          "linkedLearningAreas": ["Mathematics — time (date, months, seasons)"],
+          "scopeNotes": []
+        },
+        {
+          "name": "2.5 Reading aloud — Theme 5: Fun and Enjoyment (Fun and Games)",
+          "specificLearningOutcomes": [
+            "identify appropriate language structures from given texts",
+            "read aloud given texts fluently",
+            "appreciate the importance of guided writing in language learning"
+          ],
+          "keyInquiryQuestions": ["What steps do you take before you start reading a text?"],
+          "learningExperiences": [
+            "read short and simple profiles of people talking about their likes and dislike",
+            "read a list of activities and indicate whether they like them or not using Emojis/ thumbs- up/down",
+            "read aloud activities provided on flash cards and mimic",
+            "read simple sentences with the language structures (z.B. Ich spiele gern Fußball; ich lese gern, usw)",
+            "read short texts from peers about activities they don't like doing using nicht gern (z.B. Ich schwimme nicht gern; ich spiele nicht gern Fußball, usw)"
+          ],
+          "coreCompetencies": ["Creativity and Imagination"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Peer pressure"],
+          "linkedLearningAreas": ["English — adjectives"],
+          "scopeNotes": []
+        },
+        {
+          "name": "2.6 Guided reading (Articulation) — Theme 6: Food and Drinks (Food preferences)",
+          "specificLearningOutcomes": [
+            "identify vocabulary in texts for fluency",
+            "read aloud texts for fluency",
+            "value the role of reading aloud in a language"
+          ],
+          "keyInquiryQuestions": ["How does reading build fluency in a language?"],
+          "learningExperiences": [
+            "read a list of various foods from different mealtimes",
+            "read short texts from peers about favourite foods (z.B. Was isst du gern? Ich esse gern Brot; usw)",
+            "read along to audio texts (z.B. suß, salzig, schmecken, usw)",
+            "read about people describing various foods (z.B. Der Kuchen ist suß; Die Suppe ist salzig; usw)"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Health education – healthy eating habits"],
+          "linkedLearningAreas": ["Agriculture — food"],
+          "scopeNotes": []
+        },
+        {
+          "name": "2.7 Guided reading (Comprehension) — Theme 7: My Body (I love my body)",
+          "specificLearningOutcomes": [
+            "identify information from texts for comprehension",
+            "read selected texts for comprehension",
+            "value the role of reading comprehension in communication"
+          ],
+          "keyInquiryQuestions": ["How do we get all the required information from a text?"],
+          "learningExperiences": [
+            "read short texts about people talking on grooming activities",
+            "read along to audio texts of people talking about grooming activities",
+            "read texts about grooming activities (z.B. Ich putze mir die Zähne/ich kämme mir die Haare/Ich wasche mir die Hände, was machst du um 7 Uhr? usw)",
+            "read flash cards, mime the grooming activity indicated and guess the rest"
+          ],
+          "coreCompetencies": ["Creativity and Imagination"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Personal hygiene"],
+          "linkedLearningAreas": ["Agriculture — grooming"],
+          "scopeNotes": []
+        },
+        {
+          "name": "2.8 Reading aloud — Theme 8: Weather and Environment (Weather Conditions)",
+          "specificLearningOutcomes": [
+            "identify vocabulary for communication",
+            "read aloud texts for fluency",
+            "appreciate reading aloud skills in language learning"
+          ],
+          "keyInquiryQuestions": ["What do you do to read aloud texts fluently?"],
+          "learningExperiences": [
+            "discuss weather conditions in pairs/groups",
+            "read simple texts on weather conditions",
+            "read a simplified weather forecast",
+            "listen and read along to weather-related terms",
+            "read about describing the weather (z.B. Es scheint/regnet, Es ist warm in Kisumu/Es ist kalt in Nyeri, usw)"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Care of the environment"],
+          "linkedLearningAreas": ["Social studies — weather and weather conditions"],
+          "scopeNotes": []
+        },
+        {
+          "name": "2.9 Guided Reading (Vocabulary) — Theme 9: Getting around (In the school)",
+          "specificLearningOutcomes": [
+            "identify specific language structure in given contexts",
+            "read texts to build vocabulary",
+            "recognise the role reading plays in building vocabulary"
+          ],
+          "keyInquiryQuestions": ["How does reading help?"],
+          "learningExperiences": [
+            "read a simple text about facilities and items found in a school",
+            "discuss where the facilities and items are found in the school",
+            "read simple texts of people talking about where items are located in the classroom (z.B. Wo liegt das Deutschbuch? Das Deutschbuch liegt auf dem Stuhl, usw)",
+            "read simple texts of people talking about facilities in the school (z.B. Wo ist das Klo? Das Klo ist hinter dem Lehrerzimmer, usw)",
+            "read texts about items in the classroom and locate them with peers"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Social cohesion"],
+          "linkedLearningAreas": ["English and Kiswahili — location of facilities"],
+          "scopeNotes": []
+        }
+      ]
+    },
+    {
+      "name": "3.0 Writing",
+      "lessonCount": 9,
+      "subStrands": [
+        {
+          "name": "3.1 Functional writing — Theme 1: Greetings and Introduction",
+          "specificLearningOutcomes": [
+            "identify parts of a sentence for communication",
+            "produce short texts using appropriate register and language structures",
+            "appreciate the role of writing skills for communication"
+          ],
+          "keyInquiryQuestions": ["Why do you write?"],
+          "learningExperiences": [
+            "make a profile with name and age",
+            "write short texts to introduce themselves (z.B. Ich heiße_____/ich bin_____/Mein Name ist_____; ich bin ____ Jahre alt)",
+            "write profiles of peers (z.B. Das ist ___; Er/sie ist ___ Jahre alt)",
+            "fill in cloze tests"
+          ],
+          "coreCompetencies": ["Self-efficacy"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Citizenship"],
+          "linkedLearningAreas": ["English and Kiswahili — greetings, self- and others' introduction"],
+          "scopeNotes": ["model self-introduction phrases: Ich heiße___/ich bin___/Mein Name ist___; ich bin ___ Jahre alt"]
+        },
+        {
+          "name": "3.2 Functional writing — Theme 2: Family (Nuclear)",
+          "specificLearningOutcomes": [
+            "identify language features in given texts",
+            "write texts using acquired language structures",
+            "appreciate correct writing skills in communication"
+          ],
+          "keyInquiryQuestions": ["Why is it important to write texts correctly?"],
+          "learningExperiences": [
+            "write numbers up to 100",
+            "compare how numbers 20-100 are written in their various languages",
+            "discuss the differences in writing numbers above 20 in various languages",
+            "write down number being dictated",
+            "write short texts about their family members (z.B. Das ist mein Vater/meine Mutter. Er/sie ist fünfzig Jahre alt./Wie alt bist du? Wie alt ist dein/e Vater/Mutter?)",
+            "fill in cloze tests"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Life skills"],
+          "linkedLearningAreas": ["Mathematics — numbers, counting, calculation, saying one's age"],
+          "scopeNotes": []
+        },
+        {
+          "name": "3.3 Guided writing (Vocabulary) — Theme 3: My Surroundings (My School)",
+          "specificLearningOutcomes": [
+            "identify language features in given texts",
+            "write texts using the acquired vocabulary and language structures",
+            "appreciate the value of language structures in communication"
+          ],
+          "keyInquiryQuestions": ["Why is vocabulary important when writing?"],
+          "learningExperiences": [
+            "list names of facilities",
+            "match activities and facilities",
+            "listen to audio texts about school facilities and note them down",
+            "listen to a dictation about school facilities and note them down",
+            "find hidden words in a word-search and write them down"
+          ],
+          "coreCompetencies": ["Creativity and Imagination"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Safety and Security"],
+          "linkedLearningAreas": ["Social studies — the school"],
+          "scopeNotes": []
+        },
+        {
+          "name": "3.4 Creative writing — Theme 4: Time (Months of the year)",
+          "specificLearningOutcomes": [
+            "identify language features in given texts",
+            "write texts using the acquired, vocabulary and language structures",
+            "appreciate the value of language structures in communication"
+          ],
+          "keyInquiryQuestions": ["How best can you improve your writing skills?"],
+          "learningExperiences": [
+            "write down the months of the year",
+            "note down which months of the year are important to them and why",
+            "write short texts about when they have their school holidays",
+            "note down months of the year from dictation",
+            "listen to audio text and note down when the people talking have holidays"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Life skills"],
+          "linkedLearningAreas": ["Mathematics — time (date, months, seasons)"],
+          "scopeNotes": []
+        },
+        {
+          "name": "3.5 Guided writing (Sentence Construction) — Theme 5: Fun and enjoyment (Sports and games)",
+          "specificLearningOutcomes": [
+            "identify appropriate language structures from given texts",
+            "write texts using the acquired vocabulary and language structures",
+            "appreciate the importance of guided writing in language learning"
+          ],
+          "keyInquiryQuestions": ["What do you do that shows you are careful when writing?"],
+          "learningExperiences": [
+            "write what they like/dislike",
+            "indicate which activities they like/dislike using Emojis/ thumbs- up/down",
+            "write favourite activities on flash cards and share with peers",
+            "write simple texts on what they like using gern (z.B. Ich spiele gern Fußball; Ich lese gern, usw.)",
+            "write short texts and share with peers about activities they don't like doing using nicht gern (z.B. Ich schwimme nicht gern; Ich spiele nicht gern Fußball, usw)"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Peer pressure"],
+          "linkedLearningAreas": ["English — likes and dislikes"],
+          "scopeNotes": []
+        },
+        {
+          "name": "3.6 Functional writing — Theme 6: Foods and drinks (Food preferences)",
+          "specificLearningOutcomes": [
+            "identify appropriate vocabulary, phrases and language structures in texts",
+            "write texts using appropriate vocabulary, phrases and language structures",
+            "appreciate the need for correct vocabulary in communication"
+          ],
+          "keyInquiryQuestions": ["Why is language structure important when writing?"],
+          "learningExperiences": [
+            "write a list of various foods from different mealtimes",
+            "write short texts about favourite foods (z.B. Was isst du gern? Ich esse gern Brot; usw)",
+            "listen to a dictation and write the words down (z.B. suß, salzig, schmecken, usw)",
+            "write brief descriptions of food (z.B. Der Kuchen ist suß; Die Suppe ist salzig; usw)"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Health education – healthy eating habits"],
+          "linkedLearningAreas": ["Agriculture — food"],
+          "scopeNotes": []
+        },
+        {
+          "name": "3.7 Creative writing — Theme 7: My body (I love my body)",
+          "specificLearningOutcomes": [
+            "identify appropriate vocabulary, phrases and language structures in texts",
+            "write texts using appropriate vocabulary, phrases and language structures",
+            "appreciate the role of clear instructions in writing tasks"
+          ],
+          "keyInquiryQuestions": ["What do you need to write vocabulary and sentences correctly?"],
+          "learningExperiences": [
+            "write short texts about people talking on grooming activities",
+            "write down grooming activities from a dictation",
+            "write short texts about grooming activities (z.B. Ich putze mir die Zähne/Ich kämme mir die Haare/Ich wasche mir die Hände, Was machst du um 7 Uhr? usw)",
+            "write an activity on a flash card, have a peer mime it for the rest",
+            "fill in cloze tests"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Personal hygiene"],
+          "linkedLearningAreas": ["Science and Technology — grooming"],
+          "scopeNotes": []
+        },
+        {
+          "name": "3.8 Functional writing — Theme 8: Weather and environment (Weather conditions)",
+          "specificLearningOutcomes": [
+            "identify vocabulary and language structures in given texts",
+            "use provided structures for writing",
+            "appreciate the need for vocabulary in communication"
+          ],
+          "keyInquiryQuestions": ["Why do we write things down?"],
+          "learningExperiences": [
+            "discuss weather conditions in their areas in pairs/groups",
+            "write simple texts on weather conditions in their areas",
+            "write a simplified weather forecast for their areas",
+            "listen and write weather-related terms from a dictation (z.B. Es scheint/regnet, usw.; Kisumu ist warm/Nyeri ist kalt, usw)",
+            "fill in cloze tests"
+          ],
+          "coreCompetencies": ["Learning to learn"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Care of the environment"],
+          "linkedLearningAreas": ["Social Studies — weather and weather conditions"],
+          "scopeNotes": []
+        },
+        {
+          "name": "3.9 Guided writing — Theme 9: Getting around (In the school)",
+          "specificLearningOutcomes": [
+            "identify language structure in given contexts",
+            "use provided structures for writing",
+            "appreciate the role of language structures in denoting location of items and things"
+          ],
+          "keyInquiryQuestions": ["What words do you use to denote the location of things?"],
+          "learningExperiences": [
+            "write a list of facilities and items found in a school",
+            "write items found on the classroom as dictated",
+            "write facilities found in the school as dictated",
+            "write short texts about where items are located in the classroom (z.B. Wo liegt das Deutschbuch? Das Deutschbuch liegt auf dem Stuhl, usw)",
+            "write short texts about facilities in the school (z.B. Wo ist das Klo? Das Klo ist hinter dem Lehrerzimmer, usw)",
+            "write a simple treasure guide to find items in the classroom/school"
+          ],
+          "coreCompetencies": ["Communication and Collaboration"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Social cohesion"],
+          "linkedLearningAreas": ["English and Kiswahili — prepositions"],
+          "scopeNotes": []
+        }
+      ]
+    }
+  ],
+  "assessmentSignal": "Listening rubric rewards correctly identifying general information from texts, imitating simulations appropriately, and correctly articulating/pronouncing words, with the top band explicitly rewarding an exerted effort to sound like a native speaker. Reading rubric rewards reading aloud with appropriate rhythm/stress/intonation/articulation and reading for comprehension by carrying out required tasks, with the top band rewarding native-speaker-like sound and exceeding the required comprehension tasks. Writing rubric (labelled 'for Reading' in the source but covering writing content) rewards correct punctuation and correct application of German orthography rules, with the top band rewarding correctly applying MORE than the given orthography rules.",
+  "notes": "Grade 6 German has the same 9-theme, 3-strand (Listening and Speaking / Reading / Writing) shape as Grade 6 French/Arabic — the same 9 theme names (Greetings and Introduction, Family, My Surroundings, Time, Fun and Enjoyment, Food and Drinks, My Body, Weather and Environment, Getting Around), informal 'du' register throughout (no formal 'Sie' register drilling). Numbers 20-100 taught cross-strand across Listening 1.2/Reading 2.2/Writing 3.2 (Family theme). Weather examples are Kenya-localized (Kisumu, Nyeri) even in German-language example sentences, matching the source PDF's own choice. To be built as web/src/skills/germanG6/ (9 themes x 3 strands: Speaking/Reading/Writing), following the exact frenchG6/arabicG6 file/strand/code pattern (strand ids g6-de-listening-speaking / g6-de-reading / g6-de-writing, codes LS.1-9 / R.1-9 / W.1-9)."
+}

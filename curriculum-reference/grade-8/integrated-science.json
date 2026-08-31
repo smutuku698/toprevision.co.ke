@@ -1,0 +1,140 @@
+{
+  "subject": "Integrated Science",
+  "subjectId": "science",
+  "grade": 8,
+  "source": {
+    "title": "Junior School Curriculum Design: Integrated Science, Grade 8 (KICD, First published 2023, Revised 2024, ISBN 978-9914-52-947-0)",
+    "url": "https://doyenpublishers.com/wp-content/uploads/2025/04/Grade-8-Integrated-Science-Curriculum-Design.pdf",
+    "publisher": "Kenya Institute of Curriculum Development (KICD) — mirrored via doyenpublishers.com",
+    "retrievedDate": "2026-08-14",
+    "confidence": "high",
+    "notes": "Follow-up verification pass superseded the previously-cited teacher.co.ke mirror, which turned out to carry materially different (and older) strand content. This doyenpublishers.com copy's cover page reads 'KENYA INSTITUTE OF CURRICULUM DEVELOPMENT / JUNIOR SCHOOL CURRICULUM DESIGN / INTEGRATED SCIENCE / GRADE 8', states 'First published 2023 / Revised 2024', ISBN 978-9914-52-947-0 (a DIFFERENT ISBN from the superseded 978-9914-43-798-0 mirror, confirming these are genuinely different printings/editions, not the same file relabelled), and its foreword is signed by the current Cabinet Secretary HON. EZEKIEL OMBAKI MACHOGU -- matching the pattern of other confirmed-2024-revised Grade 8 designs. The document still carries a 'DRAFT' watermark despite the 'Revised 2024' cover date, which appears to be normal for this print run (several other confirmed-current KICD mirrors, e.g. Kiswahili, also carry DRAFT watermarks). CRITICALLY, this document's strand/sub-strand structure is STRUCTURALLY DIFFERENT from what was transcribed from the superseded 2022-draft mirror: the old version had substrands on 'Structure of the atom' (with fire classification folded in), 'Static charges', and 'Electrical energy', none of which appear in this 2024-revised document; this version instead has dedicated substrands on 'Physical and chemical changes', 'Classes of fire' (split out on its own), and 'Reproduction in human beings' (an entirely new substrand not present in the old version), and drops 'Static charges' and 'Electrical energy' in favour of a leaner 'Transformation of Energy' and 'Pressure' pairing under Force and Energy. Both versions coincidentally total 3 strands / 8 sub-strands, which is why this discrepancy wasn't caught by structure-shape alone in the first research pass. The strands below have been REWRITTEN IN FULL to match this confirmed-current 2024 document; the old 2022-draft content (atomic structure, static charges, electrical energy) has been superseded and removed, not retained as bonus/hidden content, since it reflects an earlier, non-current curriculum design rather than supplementary material. All content read verbatim via the Read tool from a locally-saved copy of the doyenpublishers PDF, not AI-summarized. The document uses lesson-count allocations (e.g. '18 lessons', '22 lessons') rather than hour-based allocations, unlike the superseded mirror. No sub-strand is broken down further into subSubStrands in this document."
+  },
+  "strands": [
+    {
+      "name": "Mixtures, Elements and Compounds",
+      "subStrands": [
+        {
+          "name": "Elements and Compounds",
+          "specificLearningOutcomes": [
+            "explain the relationship between an atom, an element, a molecule and a compound",
+            "assign symbols to selected elements",
+            "write word equations to represent reactions of selected elements to form compounds",
+            "outline the applications of common elements in the society",
+            "appreciate the information on packaging labels of commonly consumed substances"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to use symbols for representing elements in day to day life?"
+          ],
+          "notes": "Allocated 18 lessons. Covers atoms, elements, molecules and compounds; symbols of common elements (oxygen, carbon, hydrogen, nitrogen, iron, aluminium, copper, silver, gold, chlorine, sodium, mercury, lead); word equations for reactions forming sodium chloride, water, carbon dioxide, copper oxide, aluminium oxide; and uses of common elements in society (jewellery, construction, electricity, food nutrients, mineral elements, medals)."
+        },
+        {
+          "name": "Physical and chemical changes",
+          "specificLearningOutcomes": [
+            "describe the characteristics of particles in the three states of matter",
+            "explain the effects of impurities on boiling point and melting point of a substance",
+            "distinguish between physical and chemical changes in substances",
+            "outline applications of change of state of matter in day-to-day life",
+            "appreciate the applications of change of state of matter in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "How does the movement of particles in matter affect its properties?"
+          ],
+          "notes": "Allocated 22 lessons. Covers the kinetic theory of matter, the heating curve, effects of impurities on boiling/melting point, and physical vs chemical changes (both temporary and permanent)."
+        },
+        {
+          "name": "Classes of fire",
+          "specificLearningOutcomes": [
+            "identify causes of fire in nature",
+            "explain the role of the components of fire triangle in the spread of fire",
+            "describe ways of controlling different classes of fires",
+            "acknowledge the dangers of fires in nature"
+          ],
+          "keyInquiryQuestions": [
+            "What are the dangers of fire in nature?"
+          ],
+          "notes": "Allocated 20 lessons. Covers causes of fire (classes of fire), the fire triangle and fire control (breaking the fire triangle, use of fire extinguishers), and dangers of fires."
+        }
+      ]
+    },
+    {
+      "name": "Living Things and their Environment",
+      "subStrands": [
+        {
+          "name": "The Cell",
+          "specificLearningOutcomes": [
+            "describe the structure of plant and animal cells as observed under a light microscope",
+            "describe the functions of components of cells seen under the light microscope",
+            "compare plant and animal cells as observed under a light microscope",
+            "determine the magnification of cells under the light microscope",
+            "appreciate the role of cells in living things"
+          ],
+          "keyInquiryQuestions": [
+            "What makes up plant and animal cells?"
+          ],
+          "notes": "Allocated 20 lessons. Covers the definition of 'cell', cell structure as seen under a light microscope (plant and animal cells), preparation of temporary slides of plant cells, and magnification of cells seen under the light microscope."
+        },
+        {
+          "name": "Movement of Materials in and out of the cell",
+          "specificLearningOutcomes": [
+            "outline the process of diffusion and osmosis in cells",
+            "demonstrate diffusion and osmosis in living things",
+            "explain the role of diffusion and osmosis in living things",
+            "appreciate the importance of diffusion and osmosis in living things"
+          ],
+          "keyInquiryQuestions": [
+            "How do materials move in and out of a cell?"
+          ],
+          "notes": "Allocated 16 lessons. Covers diffusion and osmosis, demonstration of diffusion and osmosis, and their role in living things (absorption of water, nutrients in the intestines, gases in the lungs)."
+        },
+        {
+          "name": "Reproduction in human beings",
+          "specificLearningOutcomes": [
+            "outline the menstrual cycle and its related challenges in human beings",
+            "develop a plan to manage challenges related to menstrual cycle in human beings",
+            "describe fertilisation and implantation in human beings",
+            "outline symptoms of STIs in human beings",
+            "explain prevention measures for common STIs in human beings",
+            "appreciate the need for a healthy reproductive system"
+          ],
+          "keyInquiryQuestions": [
+            "How best can challenges related to the menstrual cycle be managed?"
+          ],
+          "notes": "Allocated 18 lessons. Covers the menstrual cycle in human beings (omitting details of hormonal control), challenges related to the menstrual cycle (irregular periods, irregular bleeding, pain), the process of fertilisation and implantation (fusion of sperm with the egg and implantation of blastocyst in the uterus, without details on blastocyst formation), and symptoms/prevention of common STIs (HIV & Aids, Gonorrhea, Syphilis, Herpes -- causative agents excluded)."
+        }
+      ]
+    },
+    {
+      "name": "Force and Energy",
+      "subStrands": [
+        {
+          "name": "Transformation of Energy",
+          "specificLearningOutcomes": [
+            "identify forms of energy in nature",
+            "classify energy sources into renewable or non-renewable",
+            "demonstrate simple energy transformations in nature",
+            "describe safety measures associated with energy transformation",
+            "appreciate the applications of energy transformation in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "What are the sources of energy in the environment?",
+            "How is energy transformation applied in day-to-day life?"
+          ],
+          "notes": "Allocated 20 lessons. Covers forms of energy in nature, renewable and non-renewable energy sources, energy transformations in nature, safety measures associated with energy transformation, and applications of energy transformation in day-to-day life."
+        },
+        {
+          "name": "Pressure",
+          "specificLearningOutcomes": [
+            "demonstrate pressure in solids and liquids",
+            "identify applications of pressure in solids and liquids",
+            "appreciate the applications of pressure in solids and liquids"
+          ],
+          "keyInquiryQuestions": [
+            "What are the applications of pressure in solids and liquids?"
+          ],
+          "notes": "Allocated 16 lessons. Covers pressure in solids and liquids, and applications of pressure in solids and liquids."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  "subject": "Arabic",
+  "subjectId": "arabic",
+  "grade": 7,
+  "source": {
+    "title": "Junior School Curriculum Design — Arabic Grade 7 (First published 2022, Revised 2024)",
+    "url": "designs/Arabic-Grade-7-Design-Formatted-April-2024.pdf",
+    "publisher": "Kenya Institute of Curriculum Development (KICD)",
+    "isbn": "978-9914-43-935-9",
+    "retrievedDate": "2026-08-16",
+    "confidence": "high",
+    "notes": "Read in full via the Read tool (native PDF text extraction, no pages param, per CURRICULUM-MINING-GUIDE.md) directly from designs/. Structure: 3 strands (1.0 Listening and Speaking, 2.0 Reading, 3.0 Writing), each built around the same 9 real-world themes used by Arabic/French/German/Mandarin at Grades 8-9 (Greetings and Introduction, Family, My Surrounding, Time, Fun and Enjoyment, Food and Drinks, My Body, Weather and Environment, Getting Around) = 27 sub-strands (1.1-1.9, 2.1-2.9, 3.1-3.9), each 2 sessions, plus a standalone 6-lesson 'Showcasing of skills and concepts (Exhibition)' allocation = 60 lessons total, matching the summary table on p.x. KNOWN SOURCE-DOCUMENT TYPO: sub-strand 2.7's page header literally reads 'THEME 7: FOOD AND DRINKS' a second time, but its actual Specific Learning Outcomes / Suggested Learning Experiences are unambiguously about physical-appearance description (identify descriptive words, describe physical appearance via picture reading, reader's theatre) — i.e. it is really the strand's 'My Body' theme, matching Listening&Speaking 1.7 and Writing 3.7 which are both correctly labelled 'My Body'. Recorded below under theme 'My Body' with the typo noted, not treated as a real second Food-and-Drinks sub-strand. Only Theme 1 (Greetings) supplies actual romanized Arabic example phrases in the source document itself ('ayna taskun?' = where do you live?, 'maa ismu sadeeqak?' = what is your friend's name?); the other 8 themes describe target vocabulary only in English, so vocabulary for those themes reuses the same vetted romanized-Arabic word bank already used and spot-checked in this project's Grade 8/9 Arabic skill files (same 9 shared themes), per the 'don't fabricate vocabulary beyond a vetted bank' discipline used for Grade 9 Arabic's own sourcing."
+  },
+  "essenceNote": "Kenya is part of the international community and therefore the learners shall be given an opportunity to learn foreign languages in addition to the national, official and indigenous languages. These foreign languages include: Arabic, French, German and Mandarin. The Learner is expected to acquire the four language skills: listening, speaking, reading and writing at a basic level in the curriculum. Foreign languages learning at this level is guided by social-constructivism and environmental theories. The learner will transit to Senior School having acquired basic proficiency equivalent to A1/YCT2 (verbatim essence statement, p.viii).",
+  "generalLearningOutcomes": {
+    "scope": "By the end of Junior School (Grades 7-9 combined)",
+    "outcomes": [
+      "Listen and respond appropriately to relevant information in the Arabic language.",
+      "Read a wide variety of texts fluently and accurately for lifelong learning.",
+      "Write texts legibly, coherently and creatively in the Arabic language.",
+      "Express themselves fluently and confidently in varied contexts.",
+      "Appreciate the role of Arabic language as a means of embracing creativity and international relevance.",
+      "Enjoy communicating in the Arabic language.",
+      "Appreciate cultural awareness and exposure to the Arabic language."
+    ]
+  },
+  "strands": [
+    {
+      "name": "1.0 Listening and Speaking",
+      "subStrands": [
+        {
+          "code": "1.1",
+          "name": "Listening for Gist",
+          "theme": "Greetings and Introduction",
+          "notes": "2 sessions",
+          "specificLearningOutcomes": [
+            "identify the main idea in a spoken text",
+            "respond to simple questions on greetings and introduction of self and others",
+            "develop interest in learning Arabic"
+          ],
+          "learningExperiences": [
+            "listen to an audio recording on greetings and introduction",
+            "collaborate with peers to analyse concepts to identify the main idea in the recorded text",
+            "work with peers to answer questions while accommodating diverse opinions, e.g. 'where do you live? (ayna taskun?)', 'What is your friend's name? (maa ismu sadeeqak?)'",
+            "role play greetings and introduction of friends of different gender"
+          ],
+          "keyInquiryQuestions": ["How can you extract the main idea in a given text?"],
+          "coreCompetencies": ["Critical thinking and problem solving", "Self-efficacy"],
+          "scopeNotes": ["include: role play must cover greetings/introductions of friends of different gender (gender-issues PCI)"]
+        },
+        {
+          "code": "1.2",
+          "name": "Imitative Speaking: Pronunciation",
+          "theme": "Family",
+          "notes": "2 sessions — vocabulary building, intonation, stress",
+          "specificLearningOutcomes": [
+            "identify family members by their names and professions",
+            "apply appropriate intonation and stress in pronouncing words for fluency",
+            "appreciate the role of immediate family members for social co-existence"
+          ],
+          "learningExperiences": [
+            "identify family members by their names and professions",
+            "talk about their immediate family members with peers actively, e.g. 'where does your parents work?'",
+            "use appropriate intonation and stress when asking questions related to the theme",
+            "team up to record each other applying intonation/stress in speech, peer assess for constructive feedback",
+            "collaborate with peers to compose a song on various professions"
+          ],
+          "keyInquiryQuestions": ["Why is it good to pronounce words correctly?"],
+          "coreCompetencies": ["Communication and Collaboration", "Self-efficacy"],
+          "scopeNotes": ["include: professions vocabulary, not just family-relation terms — SLO (a) explicitly names 'names and professions'"]
+        },
+        {
+          "code": "1.3",
+          "name": "Phonological Awareness",
+          "theme": "My Surrounding",
+          "notes": "2 sessions — pronunciation, stress, intonation",
+          "specificLearningOutcomes": [
+            "pronounce words related to the theme appropriately",
+            "apply appropriate stress and intonation for fluency",
+            "develop interest pronouncing Arabic words correctly"
+          ],
+          "learningExperiences": [
+            "listen to audio-visual recordings about the market using digital devices",
+            "identify vocabulary related to the theme used in the recording",
+            "work jointly to practise pronouncing the words accurately",
+            "role play a market scene involving buying and selling of items, using appropriate stress/intonation"
+          ],
+          "keyInquiryQuestions": ["What can you do to improve your ability to pronounce words accurately?"],
+          "coreCompetencies": ["Digital Literacy", "Creativity and imagination"]
+        },
+        {
+          "code": "1.4",
+          "name": "Listening for Gist",
+          "theme": "Time",
+          "notes": "2 sessions — key ideas, vocabulary building",
+          "specificLearningOutcomes": [
+            "identify key ideas from a spoken text related to the theme",
+            "use acquired vocabulary to make sentences for comprehension",
+            "acknowledge important dates and holidays for lifelong learning"
+          ],
+          "learningExperiences": [
+            "listen attentively to a presentation on important dates in the calendar",
+            "pick out key ideas from the recorded presentation on various dates in the calendar",
+            "work with peers to practise pronouncing the dates while showing respect for each other",
+            "make an oral presentation using simple sentences on important dates, that is, Eid, Holidays"
+          ],
+          "keyInquiryQuestions": ["How can we pick out key ideas from a text?"],
+          "coreCompetencies": ["Communication", "Critical thinking and problem solving"],
+          "scopeNotes": ["include: Eid and Holidays are the source's own named examples of important dates"]
+        },
+        {
+          "code": "1.5",
+          "name": "Listening for Information",
+          "theme": "Fun and Enjoyment",
+          "notes": "2 sessions — identifying specific details, verbal instructions",
+          "specificLearningOutcomes": [
+            "identify specific information from an oral text for information",
+            "respond to simple verbal instructions correctly",
+            "acknowledge the role of listening keenly for lifelong learning"
+          ],
+          "learningExperiences": [
+            "listen to an audio recording on activities carried out for fun and enjoyment",
+            "collaborate with peers to answer direct and inferential questions on the recording",
+            "play a language game involving use of verbal instructions e.g. the 'Simon says' language game",
+            "engage in a dialogue with peers on how leisure time should be used"
+          ],
+          "keyInquiryQuestions": ["How can we extract specific information from a text?"],
+          "coreCompetencies": ["Communication and collaboration", "Social Justice"],
+          "scopeNotes": ["include: a verbal-instruction / 'Simon says' style activity, not just leisure-activity vocabulary"]
+        },
+        {
+          "code": "1.6",
+          "name": "Phonological Awareness",
+          "theme": "Food and Drinks",
+          "notes": "2 sessions — pronunciation, vocabulary building",
+          "specificLearningOutcomes": [
+            "pronounce vocabulary accurately for fluency",
+            "use acquired vocabulary to describe an event fluently",
+            "appreciate fluency in speech using acquired vocabulary"
+          ],
+          "learningExperiences": [
+            "engage in a collaborative conversation on the prices of different items from a given display of price lists",
+            "work jointly to practise pronouncing words related to the theme correctly",
+            "use acquired vocabulary to role play a dialogue between a shop assistant and customers"
+          ],
+          "keyInquiryQuestions": ["How does vocabulary building help in learning Arabic language?"],
+          "coreCompetencies": ["Communication and collaboration", "Self-efficacy"]
+        },
+        {
+          "code": "1.7",
+          "name": "Imitative Speaking",
+          "theme": "My Body",
+          "notes": "2 sessions — vocabulary building, adjectives",
+          "specificLearningOutcomes": [
+            "identify words used to describe people and things",
+            "describe different things and events using relevant descriptive words",
+            "appreciate vocabulary building for language acquisition"
+          ],
+          "learningExperiences": [
+            "search for words used to describe people and things from print and online sources",
+            "practise pronouncing vocabulary on physical appearance descriptors",
+            "observe different pictures from a given display and describe the appearances of the people using relevant descriptors",
+            "take turns to talk about their friend or family members"
+          ],
+          "keyInquiryQuestions": ["How does vocabulary help in learning a language?"],
+          "coreCompetencies": ["Communication", "Creativity and imagination"]
+        },
+        {
+          "code": "1.8",
+          "name": "Conversational Skills",
+          "theme": "Weather and Environment",
+          "notes": "2 sessions — non-verbal cues, oral presentations",
+          "specificLearningOutcomes": [
+            "identify nonverbal cues used for effective communication",
+            "use appropriate non-verbal cues in oral presentations",
+            "develop interest in speaking skills"
+          ],
+          "learningExperiences": [
+            "watch a video presentation related to the theme",
+            "work jointly to identify non-verbal cues used in presentations e.g. gestures, general appearance, tonal variation, movement, facial expressions",
+            "collaborate with peers to demonstrate the various non-verbal cues and what they imply",
+            "make a presentation to peers using appropriate non-verbal cues, peer assess for correct use of non-verbal cues",
+            "discuss common non-verbal cues that may contradict the message being spoken"
+          ],
+          "keyInquiryQuestions": ["Why are non-verbal cues key in communication?"],
+          "coreCompetencies": ["Communication and collaboration"],
+          "scopeNotes": ["include: the 5 named non-verbal cue types (gestures, general appearance, tonal variation, movement, facial expressions) as testable content, not just weather vocabulary — this sub-strand is genuinely about communication technique"]
+        },
+        {
+          "code": "1.9",
+          "name": "Phonological Awareness: Pronunciation",
+          "theme": "Getting Around",
+          "notes": "2 sessions — vocabulary building, pronunciation",
+          "specificLearningOutcomes": [
+            "identify vocabulary related to the theme from an oral text",
+            "use accurate pronunciation in target words for fluency",
+            "appreciate the role of fluency in effective communication"
+          ],
+          "learningExperiences": [
+            "watch a video clip and answer questions on different places in the locality in groups e.g. market, school, hospital, mosques",
+            "describe different places within the locality using related vocabulary",
+            "engage in a conversation locating different places in the locality using appropriate pronunciation of target words",
+            "take turns to practise pronouncing words using minimal pairs fluently"
+          ],
+          "keyInquiryQuestions": ["How can you improve your speaking skill?"],
+          "coreCompetencies": ["Communication and collaboration", "Digital literacy"],
+          "scopeNotes": ["include: market, school, hospital, mosques are the source's own named example locality places"]
+        }
+      ]
+    },
+    {
+      "name": "2.0 Reading",
+      "subStrands": [
+        {
+          "code": "2.1",
+          "name": "Reading Aloud: Fluency",
+          "theme": "Greetings and Introduction",
+          "notes": "2 sessions — pronunciation, simple sentences",
+          "specificLearningOutcomes": [
+            "differentiate words and phrases based on their pronunciation correctly",
+            "read simple sentences on basic introductions fluently",
+            "develop interest in reading Arabic texts for enjoyment"
+          ],
+          "learningExperiences": [
+            "read words and phrases while underlining huruf shamsiyya and huruf qamariyyah from a given display",
+            "read short sentences on greetings and introductions fluently",
+            "use think-pair-share to read and complete simple sentences",
+            "practise reading from variety of texts at home"
+          ],
+          "keyInquiryQuestions": ["Why is fluency important?"],
+          "coreCompetencies": ["Self-efficacy", "Communication and collaboration"],
+          "scopeNotes": ["include: huruf shamsiyya (sun letters) vs huruf qamariyyah (moon letters) — the definite-article 'al-' pronunciation rule — is the sub-strand's own named distinguishing content, not decoration"]
+        },
+        {
+          "code": "2.2",
+          "name": "Reading for Comprehension",
+          "theme": "Family",
+          "notes": "2 sessions — vocabulary building, inferring meaning of words",
+          "specificLearningOutcomes": [
+            "identify target words and phrases in a written text",
+            "infer meaning of new words in a text",
+            "appreciate vocabulary building for language acquisition"
+          ],
+          "learningExperiences": [
+            "read simple sentences in a text and circle familiar words and phrases",
+            "pick out vocabulary from a text related to the theme, build a vocabulary bank",
+            "work jointly to infer meaning of words from context",
+            "use the vocabulary acquired to make sentences"
+          ],
+          "keyInquiryQuestions": ["How can we derive meaning of a new word in texts?"],
+          "coreCompetencies": ["Self-efficacy", "Critical thinking and problem solving"]
+        },
+        {
+          "code": "2.3",
+          "name": "Reading Aloud: Fluency",
+          "theme": "My Surrounding",
+          "notes": "2 sessions — simple sentences, reading speed",
+          "specificLearningOutcomes": [
+            "read short and simple sentences fluently",
+            "use appropriate pace to read simple texts for fluency",
+            "read texts in Arabic for enjoyment"
+          ],
+          "learningExperiences": [
+            "take turns to read aloud short sentences about the market",
+            "team up to conduct a reading speed contest for fluency",
+            "time each other's reading speed and identify the best reading speed",
+            "discuss disadvantages of other reading speeds and reasons for the selected speed"
+          ],
+          "keyInquiryQuestions": ["Why is reading at the right speed important?"],
+          "coreCompetencies": ["Communication and collaboration", "Self-efficacy"]
+        },
+        {
+          "code": "2.4",
+          "name": "Reading for Comprehension",
+          "theme": "Time",
+          "notes": "2 sessions — pronunciation, comprehension questions",
+          "specificLearningOutcomes": [
+            "pronounce target words accurately for effective communication",
+            "respond to questions on a text for comprehension",
+            "develop interest in reading Arabic texts"
+          ],
+          "learningExperiences": [
+            "identify vocabulary words from a written text, pronounce them correctly",
+            "use minimal pairs to practise pronouncing target sounds and letters",
+            "collaborate with peers to respond to direct and inferential questions"
+          ],
+          "keyInquiryQuestions": ["How can you improve your fluency in reading skills?"],
+          "coreCompetencies": ["Communication and collaboration", "Learning to learn"]
+        },
+        {
+          "code": "2.5",
+          "name": "Reading Aloud: Fluency",
+          "theme": "Fun and Enjoyment",
+          "notes": "2 sessions — vocabulary building, intonation, reading speed",
+          "specificLearningOutcomes": [
+            "read target vocabulary in a given text",
+            "read a short passage with proper intonation and appropriate speed",
+            "develop interest in reading Arabic texts fluently"
+          ],
+          "learningExperiences": [
+            "read a range of texts aloud about leisure time and answer questions",
+            "isolate new words and search for their meaning",
+            "read a given passage focusing on correct pronunciation of consonants and verbs",
+            "team up to participate in a reading competition, peer assess for correct intonation and speed"
+          ],
+          "keyInquiryQuestions": ["How does reading speed affect communication?"],
+          "coreCompetencies": ["Learning to learn"]
+        },
+        {
+          "code": "2.6",
+          "name": "Reading for Information",
+          "theme": "Food and Drinks",
+          "notes": "2 sessions — paraphrasing ideas",
+          "specificLearningOutcomes": [
+            "identify locations where various foods are bought",
+            "summarise ideas presented in a written text for comprehension",
+            "read Arabic texts for enjoyment"
+          ],
+          "learningExperiences": [
+            "identify locations where foods and drinks are found",
+            "read a simple paragraph related to the theme, summarize key ideas",
+            "derive meaning of vocabulary identified from the paragraph, match vocabulary to its meaning",
+            "read level appropriate text independently during free time"
+          ],
+          "keyInquiryQuestions": ["How can you paraphrase a long text without losing out on key ideas?"],
+          "coreCompetencies": ["Communication and collaboration", "Self-efficacy"]
+        },
+        {
+          "code": "2.7",
+          "name": "Reading Aloud: Fluency",
+          "theme": "My Body",
+          "notes": "2 sessions — adjectives (descriptive words), pronunciation. SOURCE TYPO: page header literally repeats 'THEME 7: FOOD AND DRINKS' but SLOs/content are unambiguously physical-appearance description — recorded here under its real theme, 'My Body', matching Listening&Speaking 1.7 and Writing 3.7.",
+          "specificLearningOutcomes": [
+            "identify descriptive words from a text for comprehension",
+            "read a passage related to the theme using correct pronunciation for fluency",
+            "acknowledge the need for correct pronunciation for effective communication"
+          ],
+          "learningExperiences": [
+            "read short passages aloud on physical appearance and answer questions",
+            "pick out descriptive words from the text",
+            "describe the physical appearance of people through picture reading from a digital device",
+            "conduct a reader's theatre to read a passage using correct pronunciation",
+            "organise a language reading club for future use"
+          ],
+          "keyInquiryQuestions": ["Why is reading fluently important?"],
+          "coreCompetencies": ["Communication and collaboration", "Self-efficacy"]
+        },
+        {
+          "code": "2.8",
+          "name": "Reading for Comprehension",
+          "theme": "Weather and Environment",
+          "notes": "2 sessions — vocabulary building, comprehension questions",
+          "specificLearningOutcomes": [
+            "identify the various clothing used for different weather seasons",
+            "respond to questions based on the theme for comprehension",
+            "advocate for reading of Arabic texts for enjoyment"
+          ],
+          "learningExperiences": [
+            "practise reading short passages on seasons with appropriate speed",
+            "identify clothing used at different weather seasons",
+            "organise the information on a chart for comprehension",
+            "collaborate to answer questions on the text read",
+            "memorise and recite poems about weather"
+          ],
+          "keyInquiryQuestions": ["How does change of seasons affect our daily activities?", "Why are comprehension questions important?"],
+          "coreCompetencies": ["Learning to learn", "Critical thinking and problem solving"],
+          "scopeNotes": ["include: clothing-per-season is the sub-strand's explicit named angle, not bare weather-word recall"]
+        },
+        {
+          "code": "2.9",
+          "name": "Extensive Reading: Library Skills",
+          "theme": "Getting Around",
+          "notes": "2 sessions — selecting texts, tracking reading progress",
+          "specificLearningOutcomes": [
+            "select a reading text from a collection of materials",
+            "track the reading progress for self-assessment",
+            "develop a positive attitude towards reading"
+          ],
+          "learningExperiences": [
+            "discuss issues to consider when selecting a reading text from a collection of materials",
+            "read a text aloud on locating places in the locality and talk about it",
+            "participate in reading circles by reading varied texts related to the theme",
+            "prepare a vocabulary bank on words identified from the texts",
+            "prepare a reading log to track the reading progress for self-assessment"
+          ],
+          "keyInquiryQuestions": ["How can we easily and safely locate places in our environment?", "Why should we keep a record of texts read?"],
+          "coreCompetencies": ["Communication and collaboration", "Self-efficacy"],
+          "scopeNotes": ["This sub-strand's real content is library/reading-habit skills (choosing a text, tracking a reading log), not vocabulary recall — build accordingly."]
+        }
+      ]
+    },
+    {
+      "name": "3.0 Writing",
+      "subStrands": [
+        {
+          "code": "3.1",
+          "name": "Guided Writing: Handwriting",
+          "theme": "Greetings and Introduction",
+          "notes": "2 sessions — neatness and legibility, simple sentences",
+          "specificLearningOutcomes": [
+            "write target words neatly and legibly",
+            "use vocabulary to make sentences on introduction of friends for comprehension",
+            "develop interest in writing Arabic"
+          ],
+          "learningExperiences": [
+            "listen to a recording on greetings/introductions, write the specific greetings mentioned",
+            "list common names of friends on flashcards",
+            "identify vocabulary on greetings and introduction, construct simple sentences",
+            "share sentences with peers for review"
+          ],
+          "keyInquiryQuestions": ["Why is greeting important?", "How can we ensure we write texts neatly and legibly?"],
+          "coreCompetencies": ["Critical Thinking and Problem Solving"],
+          "scopeNotes": ["This app has no handwriting-tracing UI — express 'neatness/legibility' as correct-spelling/well-formed-sentence content instead, per project precedent for handwriting sub-strands."]
+        },
+        {
+          "code": "3.2",
+          "name": "Guided Writing: Spelling",
+          "theme": "Family",
+          "notes": "2 sessions — vocabulary building, spelling, neatness and legibility",
+          "specificLearningOutcomes": [
+            "list different professions using correct spelling",
+            "use acquired vocabulary to make sentences neatly and legibly",
+            "appreciate neat and legible handwriting for effective communication"
+          ],
+          "learningExperiences": [
+            "list various professions on charts, share for peer review on spelling",
+            "fill word puzzles on the various professions",
+            "write sentences using acquired vocabulary neatly and legibly",
+            "reorganise jumbled up words into meaningful sentences using correct spelling",
+            "peer assess for correct spelling, neatness and legibility"
+          ],
+          "keyInquiryQuestions": ["How can you ensure correct spelling of words when writing?"],
+          "coreCompetencies": ["Critical thinking and problem solving"],
+          "scopeNotes": ["include: professions vocabulary explicitly, matching SLO (a)"]
+        },
+        {
+          "code": "3.3",
+          "name": "Guided Writing: Paragraph Writing",
+          "theme": "My Surrounding",
+          "notes": "2 sessions — forming simple paragraphs",
+          "specificLearningOutcomes": [
+            "identify places where things are bought for comprehension",
+            "construct a simple paragraph using acquired vocabulary for effective communication",
+            "appreciate writing as a skill for effective communication"
+          ],
+          "learningExperiences": [
+            "identify various places where foods and drinks are bought",
+            "build a collection of vocabulary based on the theme",
+            "match names of places and food bought at each place",
+            "fill in a broken paragraph with correct vocabulary",
+            "study a picture display about a market and write a paragraph using acquired vocabulary"
+          ],
+          "keyInquiryQuestions": ["How is writing paragraphs in Arabic different from English?"],
+          "coreCompetencies": ["Creativity and imagination"]
+        },
+        {
+          "code": "3.4",
+          "name": "Guided Writing: Sequencing Ideas",
+          "theme": "Time",
+          "notes": "2 sessions — vocabulary building, coherence, paragraph writing",
+          "specificLearningOutcomes": [
+            "list the festivals and holidays celebrated at different times of the year for information",
+            "organise ideas to form a coherent paragraph",
+            "appreciate the need for logic and coherence in writing for effective communication"
+          ],
+          "learningExperiences": [
+            "listen to a recording on festivals/holidays celebrated at different times, make a list",
+            "prepare a record of festivals in the calendar",
+            "reorder jumbled up sentences to form a coherent paragraph related to the theme",
+            "peer review paragraphs for constructive feedback"
+          ],
+          "keyInquiryQuestions": ["How can we present ideas in a paragraph in correct sequence?"],
+          "coreCompetencies": ["Learning to learn", "Digital Literacy"],
+          "scopeNotes": ["include: festivals/holidays (Eid) reordering-into-coherent-paragraph is this sub-strand's explicit content — a natural fit for an ordering QuestionKind branch"]
+        },
+        {
+          "code": "3.5",
+          "name": "Guided Writing: Imaginative Writing",
+          "theme": "Fun and Enjoyment",
+          "notes": "2 sessions — features of a composition, composing an imaginative composition",
+          "specificLearningOutcomes": [
+            "identify features of an imaginative writing for information",
+            "create a short personal and imaginative text to express ideas on the theme",
+            "appreciate different creative Arabic writing styles"
+          ],
+          "learningExperiences": [
+            "research features of imaginative writing from print and non-print sources",
+            "organise ideas on the theme using mind maps",
+            "write an imaginative composition on the theme using organised ideas",
+            "share compositions with peers for review, publish best compositions"
+          ],
+          "keyInquiryQuestions": ["How can you develop a creative text?"],
+          "coreCompetencies": ["Critical thinking and problem solving", "Self-efficacy"]
+        },
+        {
+          "code": "3.6",
+          "name": "Mechanics of Writing: Punctuation",
+          "theme": "Food and Drinks",
+          "notes": "2 sessions — punctuation marks",
+          "specificLearningOutcomes": [
+            "identify punctuation marks used in writing Arabic texts",
+            "use appropriate punctuation marks to write a paragraph for effective communication",
+            "appreciate the role of punctuation marks in writing for effective communication"
+          ],
+          "learningExperiences": [
+            "identify punctuation marks used in Arabic texts, draw on charts",
+            "match punctuation marks to their uses",
+            "practise writing simple sentences on shopping for food/drinks using correct punctuation",
+            "collaborate to punctuate a paragraph appropriately"
+          ],
+          "keyInquiryQuestions": ["Why do we do shopping?", "How do punctuation marks contribute to meaning in texts?"],
+          "coreCompetencies": ["Critical thinking and problem solving", "Learning to learn"],
+          "scopeNotes": ["This app uses the romanized/Latin punctuation marks (full stop, comma, question mark, exclamation mark) since Arabic-script-specific punctuation isn't renderable without Arabic script in this app's typed-answer fields."]
+        },
+        {
+          "code": "3.7",
+          "name": "Guided Writing: Poetry",
+          "theme": "My Body",
+          "notes": "2 sessions — distinct features of a poem, simple poem",
+          "specificLearningOutcomes": [
+            "distinguish a poem from a prose text for information",
+            "compose a poem related to the theme using acquired vocabulary",
+            "develop interest in artistic expression through writing"
+          ],
+          "learningExperiences": [
+            "search for simple poems from print and non-print sources",
+            "pick out features that differentiate a poem from a prose narrative",
+            "compose a poem describing themselves using vocabulary identified",
+            "recite the poem to peers for review, stage/record poems for inter-class contests"
+          ],
+          "keyInquiryQuestions": ["How do we keep our body healthy?", "How do poems differ from prose texts?"],
+          "coreCompetencies": ["Critical thinking and problem solving"]
+        },
+        {
+          "code": "3.8",
+          "name": "Guided Writing: Paragraph Writing",
+          "theme": "Weather and Environment",
+          "notes": "2 sessions — vocabulary building, simple paragraphs",
+          "specificLearningOutcomes": [
+            "outline vocabulary related to the theme correctly",
+            "use acquired vocabulary to write a paragraph",
+            "appreciate the skill of writing for effective communication"
+          ],
+          "learningExperiences": [
+            "write vocabulary related to clothes people wear in different seasons on flashcards",
+            "look up meaning of vocabulary from print and digital sources",
+            "compose a paragraph using the acquired vocabulary",
+            "peer assess paragraphs for neatness and legibility"
+          ],
+          "keyInquiryQuestions": ["What type of clothes do people wear in different seasons?", "How can we assess paragraphs to establish their correctness in structure?"],
+          "coreCompetencies": ["Creativity and imagination", "Self-efficacy"],
+          "scopeNotes": ["include: clothing-per-season vocabulary explicitly, matching SLO (a)/(b)"]
+        },
+        {
+          "code": "3.9",
+          "name": "Guided Writing: Paragraph Writing",
+          "theme": "Getting Around",
+          "notes": "2 sessions — key ideas, coherence in paragraphs, neatness and legibility",
+          "specificLearningOutcomes": [
+            "outline ideas related to the theme logically in writing",
+            "construct a simple coherent paragraph neatly and legibly",
+            "develop positive attitude towards writing Arabic"
+          ],
+          "learningExperiences": [
+            "make notes on directions to a facility in the neighbourhood",
+            "write sentences on sentence strips, play a language game reorganising strips into a coherent paragraph",
+            "write a simple paragraph on facilities within the locality with well-sequenced ideas",
+            "practise copying paragraphs legibly and correctly during free times"
+          ],
+          "keyInquiryQuestions": ["How do we take care of facilities in the locality?", "Why is coherence a key aspect in paragraph writing?"],
+          "coreCompetencies": ["Communication and collaboration"],
+          "scopeNotes": ["include: direction-giving-to-a-facility framing is the sub-strand's explicit context"]
+        }
+      ]
+    }
+  ]
+}

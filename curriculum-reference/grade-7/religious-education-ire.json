@@ -1,0 +1,423 @@
+{
+  "subject": "Islamic Religious Education",
+  "subjectId": "ire",
+  "grade": 7,
+  "source": {
+    "title": "Junior School Curriculum Design: Islamic Religious Education, Grade 7",
+    "url": "designs/GRADE.7.IRE_.pdf",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-16",
+    "confidence": "high",
+    "notes": "First Published 2023, Revised 2024, ISBN 978-9914-43-926-7. Read directly via the Read tool (no pages param) per CURRICULUM-MINING-GUIDE.md. Strand/sub-strand headings, SLOs, learning experiences (including verbatim parenthetical lists), key inquiry questions, core competencies, values, PCIs and links to other subjects transcribed from the strand tables (pp.1-38). Community Service Learning (pp.39-46) is a milestone-based practical activity hosted in Social Studies, not covered by generated practice skills, same treatment as g7-ss-csl in social-studies.json."
+  },
+  "strands": [
+    {
+      "name": "1.0 Qur'an",
+      "subStrands": [
+        {
+          "name": "1.1 Ulumul Qur'an",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "Discuss the rationale for the revelation of the Qur'an as a guide to mankind",
+            "Describe the stages of revelation of the Qur'an as a sign of mercy to mankind",
+            "Describe the incident of the first revelation of the Qur'an at cave Hira to show the importance of seeking knowledge",
+            "Explain the reasons for the revelation of the Qur'an in portions for ease of its implementation",
+            "Assess the importance of the Qur'an in day-to-day life of a Muslim as a divine guidance for humanity",
+            "Value the Qur'an as a book of guidance to mankind"
+          ],
+          "keyInquiryQuestions": [
+            "Why was the Qur'an revealed to mankind?",
+            "How does the Qur'an guide mankind?",
+            "How did Muslims benefit from the revelation of the Qur'an in portions?"
+          ],
+          "learningExperiences": [
+            "Research online/on available reference materials on the rationale for the revelation of the Qur'an and make a class presentation",
+            "Discuss the stages of the revelation of the Qur'an in groups and make notes",
+            "Search and watch videos on the first incident at cave Hira and narrate individually in class",
+            "Research on the reasons for the revelation of the Qur'an in portions and make class presentation",
+            "Discuss on the importance of the Qur'an in pairs and make notes"
+          ],
+          "coreCompetencies": ["Communication and collaboration", "Self-efficacy", "Digital literacy", "Learning to learn"],
+          "linkedLearningAreas": ["Pre-technical Studies — skills of interacting with digital technology during search for, and watching videos on the incident of the first revelation at cave Hira"],
+          "scopeNotes": [],
+          "assessmentSignal": "Rubric distinguishes 'discusses the revelation correctly and comprehensively' from 'correctly' — full stage sequence (not just headline fact) is expected at Meets Expectations."
+        },
+        {
+          "name": "1.2 Selected Chapters (Surah)",
+          "lessonCount": 12,
+          "specificLearningOutcomes": [
+            "Read surah Ad-Dhuha (Q.93:1-11) and surah Al-Balad (Q.90:1-20) correctly for spiritual nourishment",
+            "Explain the meaning of surah Ad-Dhuha (Q.93:1-11) and surah Al-Balad (Q.90:1-20) for better understanding",
+            "Discuss the teachings/lessons of surah Ad-Dhuha (Q.93:1-11) and surah Al-Balad (Q.90:1-20) for application in daily life",
+            "Apply the teachings of surah Ad-Dhuha (Q.93:1-11) and surah Al-Balad (Q.90:1-20) in their daily life to earn rewards from Allah",
+            "Appreciate the teachings of surah Ad-Dhuha (Q.93:1-11) and surah Al-Balad (Q.90:1-20) as a guide in daily life"
+          ],
+          "keyInquiryQuestions": [
+            "What lessons do Muslims learn from the selected surah?",
+            "How can a Muslim apply the teachings of the selected surah?"
+          ],
+          "learningExperiences": [
+            "Read the selected surah",
+            "Discuss the meaning of the selected surah in groups and make class presentations",
+            "Research on the teachings/lessons from selected surah online/on available reference materials in pairs and make class presentations",
+            "Dramatize teachings/lessons from Surah Ad-Dhuha (treatment of orphans, needy and bounties of Allah)"
+          ],
+          "coreCompetencies": ["Digital literacy", "Citizenship", "Learning to learn"],
+          "linkedLearningAreas": ["Creative Arts — dramatizing teachings/lessons from surah Ad-Dhuha (treatment of orphans, needy, appreciating bounties of Allah)"],
+          "scopeNotes": ["include: Surah Ad-Dhuha teachings named explicitly — treatment of orphans, respect for parents, humility, appreciating Allah's bounties"],
+          "notes": "Split into two skills (surahAdDuha.ts, surahAlBalad.ts) given the 12-lesson depth and each surah having distinct, substantial verse content."
+        }
+      ]
+    },
+    {
+      "name": "2.0 Hadith",
+      "subStrands": [
+        {
+          "name": "2.1 Ulumul Hadith",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "Explain the meaning of hadith for better understanding",
+            "Describe the forms of Hadith for better understanding of science of Hadith (Qaul, Fiil, Taqrir, Sifat)",
+            "State the components of Hadith for better understanding of science of Hadith",
+            "Explain the types of Hadith (Hadith Qudsy and Nabawy) as the second source of Sharia",
+            "Assess the importance of Hadith for spiritual nourishment",
+            "Emulate the life of the Prophet (S.A.W.) to earn Allah's rewards and enhance the competency of self-efficacy",
+            "Acknowledge Hadith as a primary source of Sharia"
+          ],
+          "keyInquiryQuestions": ["Why is Hadith important in the life of a Muslim?"],
+          "learningExperiences": [
+            "Search online/on available reference materials on the meaning of hadith",
+            "Discuss on the components of Hadith in groups and present in class",
+            "Research on forms of Hadith (Qaul, Fiil, Taqrir, Sifat) and prepare a chart for display in groups",
+            "Research on types of Hadith (Nabawy and Qudsy) and make class presentation",
+            "Discuss the differences between Hadith Qudsy and Nabawy in groups and share in class",
+            "Research on the importance of hadith from available reference materials and make notes",
+            "Identify and use available networks to access and share information on the sifat of the Prophet (S.A.W.)"
+          ],
+          "coreCompetencies": ["Critical thinking and problem solving", "Creativity and imagination", "Digital literacy"],
+          "linkedLearningAreas": ["English and Kiswahili — listening, speaking and writing skills"],
+          "scopeNotes": ["include: forms of Hadith explicitly named as Qaul (saying), Fiil (action), Taqrir (approval), Sifat (attributes/description) — all four are examinable, not just a general definition"]
+        },
+        {
+          "name": "2.2 Selected Hadith",
+          "lessonCount": 8,
+          "notes": "Hadith on intention (Umar bin Khattab R.A., Bukhari and Muslim) and Hadith on choice of friends (Abu Musa R.A., Bukhari and Muslim) — full texts transcribed verbatim below.",
+          "hadithTexts": [
+            {
+              "topic": "Intention",
+              "narrator": "Umar bin Khattab (R.A.)",
+              "source": "Bukhari and Muslim",
+              "text": "I heard the Prophet (S.A.W.) say, actions are judged by intentions and everyone will get what was intended. So, the one whose hijrah was to Allah and His Messenger, then his hijrah was to Allah and His Messenger. The one whose hijrah was for the world to gain from it, or a woman to marry, then his hijrah was to what he made hijrah for."
+            },
+            {
+              "topic": "Choice of friends",
+              "narrator": "Abu Musa (R.A.)",
+              "source": "Bukhari and Muslim",
+              "text": "The example of a good companion (who sits with you) in comparison with a bad one, is like that of the musk seller and the blacksmith's bellows (or furnace); from the first you would either buy musk or enjoy its good smell while the bellows would either burn your clothes or your house, or you get a bad nasty smell thereof."
+            }
+          ],
+          "specificLearningOutcomes": [
+            "Discuss the lessons learnt from the selected Hadith for character building",
+            "Explain the relevance of the selected Hadith in the life of a Muslim",
+            "Practise the teachings from the selected hadith in daily life",
+            "Appreciate Hadith as the second source of Islamic law and spiritual guidance"
+          ],
+          "keyInquiryQuestions": [
+            "What are the benefits of having good intention?",
+            "Who is a good friend?",
+            "Why is it important to choose good friends?"
+          ],
+          "learningExperiences": [
+            "Read the selected hadith",
+            "Discuss lessons derived from the selected hadith in pairs or groups and make class presentation",
+            "Discuss the relevance of the selected Hadith in the life of a Muslim and make notes",
+            "Role play the qualities and importance of having good friends",
+            "Create social groups with friends where they can share information to influence each other positively"
+          ],
+          "coreCompetencies": ["Citizenship", "Self-efficacy", "Communication and collaboration"],
+          "linkedLearningAreas": ["Social Studies — role playing the qualities of good friends"],
+          "scopeNotes": []
+        }
+      ]
+    },
+    {
+      "name": "3.0 Pillars of Iman",
+      "subStrands": [
+        {
+          "name": "3.1 Significance of Tawheed",
+          "lessonCount": 4,
+          "specificLearningOutcomes": [
+            "Explain the significance of Tawheed for spiritual nourishment",
+            "Apply ways of showing belief in Tawhid",
+            "Appreciate Tawheed as the basis of Islamic faith"
+          ],
+          "keyInquiryQuestions": ["Why do Muslims believe in Tawheed?", "How is Tawheed manifested in a Muslim?"],
+          "learningExperiences": [
+            "Research on the significance of Tawheed in the life of a Muslim and make class presentations",
+            "Discuss the significance of Tawheed in groups and make notes",
+            "Search online/from available books on the ways of showing belief in Tawheed and share in class",
+            "Discuss ways of showing belief in Tawheed in pairs or groups and make notes",
+            "Role play ways of showing belief in Tawheed"
+          ],
+          "coreCompetencies": ["Communication and collaboration", "Critical thinking and problem solving", "Digital literacy"],
+          "linkedLearningAreas": ["Social Studies — skills of self-assertiveness"],
+          "scopeNotes": []
+        },
+        {
+          "name": "3.2 Shirk",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "Describe different types of shirk to avoid associating Allah with other beings",
+            "Describe different ways through which shirk is manifested to protect one's Iman",
+            "Explain the effects of shirk to safeguard one's Iman",
+            "Perform acts that are devoid of shirk in daily life",
+            "Recognise the belief in One God as the foundation of Iman"
+          ],
+          "keyInquiryQuestions": ["Why should a Muslim avoid shirk?", "How can a Muslim avoid shirk?"],
+          "learningExperiences": [
+            "Use digital devices/available reference books to search for different types of shirk and make notes",
+            "Demonstrate manifestation of shirk through skits in groups",
+            "Discuss the effects of shirk in pairs and make class presentation"
+          ],
+          "coreCompetencies": ["Self-efficacy", "Learning to learn", "Digital literacy"],
+          "linkedLearningAreas": ["Creative Arts and Sports — performing skills used to demonstrate manifestation of shirk through skits"],
+          "scopeNotes": []
+        }
+      ]
+    },
+    {
+      "name": "4.0 Devotional Acts",
+      "subStrands": [
+        {
+          "name": "4.1 Swalah",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "Describe how congregational prayers and sunnah prayers are performed to earn rewards (Tahajud, Tahiyatul Masjid and Dhuha)",
+            "Describe the performance of prayers on special occasions to earn Allah (S.W.T.)'s blessing (Swalatul Janaza, Musafir, Kusuf and Khusuf)",
+            "Perform congregational prayers, sunnah prayers and prayers on special occasions for spiritual nourishment",
+            "Assess the importance of performing congregational prayers, Sunnah prayers, and prayers on special occasions to earn rewards from Allah",
+            "Appreciate the performance of congregational prayers, sunnah prayers and prayers on special occasions as a way of fulfilling Allah (S.W.T.)'s command"
+          ],
+          "keyInquiryQuestions": ["Why should Muslims perform congregational prayers?", "Why are Sunnah prayers important?"],
+          "learningExperiences": [
+            "Search and watch video clips/other resources on how congregational prayers, Sunnah prayers and prayers on special occasions are performed in pairs or groups and be guided by the teacher to make notes",
+            "Demonstrate the performance of congregational prayers, Sunnah prayers and prayers on special occasions",
+            "Discuss significance of congregational prayers, Sunnah prayers and prayers on special occasions in groups and make class presentations"
+          ],
+          "coreCompetencies": ["Learning to learn", "Creativity and imagination", "Digital literacy", "Communication and collaboration"],
+          "linkedLearningAreas": ["Integrated Science — Swalatul Kusuf and Khusuf relate to knowledge on eclipses"],
+          "scopeNotes": ["include: named sunnah prayers are Tahajud, Tahiyatul Masjid, Dhuha; named special-occasion prayers are Swalatul Janaza (funeral), Musafir (traveller), Kusuf (solar eclipse), Khusuf (lunar eclipse)"]
+        },
+        {
+          "name": "4.2 Zakat",
+          "lessonCount": 5,
+          "specificLearningOutcomes": [
+            "Describe Zakatul Maal and Zakatul Fitr as an obligation on a Muslim",
+            "Differentiate between Zakatul Maal and Zakatul Fitr as acts of ibadah",
+            "Identify items exempted from Zakat payment",
+            "Explain the importance of Zakatul Maal and Zakatul Fitr to the society",
+            "Appreciate the role of zakat in the development of a Muslim society"
+          ],
+          "keyInquiryQuestions": ["Why is it important to pay Zakat?"],
+          "learningExperiences": [
+            "Brainstorm the importance and discuss the different types of zakat in groups and make notes guided by the teacher",
+            "Search for the differences between Zakatul Maal and Zakatul Fitr and present on charts/posters/PowerPoint",
+            "Research on items exempted from Zakat in groups and make class presentation"
+          ],
+          "coreCompetencies": ["Citizenship", "Digital literacy", "Communication and collaboration"],
+          "linkedLearningAreas": ["Pre-technical Studies — business skills relating to identifying items exempted from Zakat and discussing the importance of zakat"],
+          "scopeNotes": []
+        },
+        {
+          "name": "4.3 Saum",
+          "lessonCount": 5,
+          "specificLearningOutcomes": [
+            "Describe types of Saum for ease of observance (Fardh, Sunnah, Nadhir, Kafara, Qadha)",
+            "Assess the significance of Saum for spiritual growth",
+            "Observe saum to earn rewards from Allah",
+            "Appreciate the observance of Saum as a way of earning taqwa"
+          ],
+          "keyInquiryQuestions": ["What are the benefits of Saum in the life of a Muslim?"],
+          "learningExperiences": [
+            "Discuss the types of Saum, make charts in groups and present in class",
+            "Research on the significance of Saum and present on PowerPoint/charts in groups",
+            "Compose a poem on Saum and make a class presentation"
+          ],
+          "coreCompetencies": ["Communication and collaboration", "Digital literacy", "Creativity and imagination"],
+          "linkedLearningAreas": ["Integrated Science — health education relating to the significance of Saum"],
+          "scopeNotes": ["include: five named types of Saum — Fardh (obligatory), Sunnah (recommended), Nadhir (vow), Kafara (expiation), Qadha (makeup)"]
+        }
+      ]
+    },
+    {
+      "name": "5.0 Akhlaq (Moral values)",
+      "subStrands": [
+        {
+          "name": "5.1 Dimensions of morality in Islam",
+          "lessonCount": 4,
+          "specificLearningOutcomes": [
+            "Identify sources of morality in Islam as a guide to good behaviour",
+            "Explain the purpose of morality in promoting uprightness in the society",
+            "Practise Islamic moral values in day-to-day life to earn rewards from Allah",
+            "Regard Islamic values as a form of ibadah"
+          ],
+          "keyInquiryQuestions": ["Why should Muslims have good morals?"],
+          "learningExperiences": [
+            "Research online/from available books on sources of morality i.e. Quran and Sunnah and make notes guided by the teacher",
+            "Discuss the purpose of morality in groups and make presentation",
+            "Role play acts depicting good morals"
+          ],
+          "coreCompetencies": ["Citizenship", "Learning to learn", "Creativity and imagination"],
+          "linkedLearningAreas": ["Life skills — researching online sources and purpose of morality"],
+          "scopeNotes": ["include: the two named sources of morality are the Qur'an and Sunnah"]
+        },
+        {
+          "name": "5.2 Virtues in Islam",
+          "lessonCount": 5,
+          "specificLearningOutcomes": [
+            "Explain Islamic teachings on truthfulness and forgiveness for moral growth",
+            "Assess the significance of upholding truthfulness and forgiveness for harmonious co-existence in the society",
+            "Practise truthfulness and forgiveness in day-to-day life to earn rewards from Allah (S.W.T.)",
+            "Appreciate Islamic virtues for a morally upright society"
+          ],
+          "keyInquiryQuestions": ["Why should a Muslim be truthful?", "Why is it important for a Muslim to exercise forgiveness?"],
+          "learningExperiences": [
+            "Discuss the Islamic teachings on truthfulness and forgiveness in groups and make class presentations",
+            "Discuss the significance of upholding truthfulness in groups and make notes",
+            "Research individually on the significance of forgiveness and make notes",
+            "Record short videos as they dramatize acts depicting truthfulness and forgiveness in the society and share on social media platforms"
+          ],
+          "coreCompetencies": ["Creativity and imagination", "Communication and collaboration", "Digital literacy"],
+          "linkedLearningAreas": ["Life Skills Education — discussing Islamic teachings on truthfulness and forgiveness"],
+          "scopeNotes": []
+        },
+        {
+          "name": "5.3 Prohibitions in Islam — Drug abuse",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "Describe the effects of drug abuse for healthy living",
+            "Examine the rationale behind prohibition of drugs as a way of fostering positive character formation",
+            "Explain remedies for drug abuse for a healthy and morally upright society",
+            "Abstain from abusing drugs to earn Allah's pleasure",
+            "Acknowledge the rationale for prohibition of drugs for the growth and development of the nation"
+          ],
+          "keyInquiryQuestions": ["What causes drug abuse?", "What are the effects of drug abuse in the society?", "What are the possible remedies for drug abuse?"],
+          "learningExperiences": [
+            "List down some types of drugs (bhang, heroin, cocaine, khat etc)",
+            "Discuss the effects of drug abuse in the society in groups and present on charts/PowerPoint",
+            "Search and watch video clips/search on available newspapers, books, magazines, journals on the effects of drug abuse and deduce lessons",
+            "Use digital devices/available Islamic books to research the rationale behind the prohibition of drugs in Islam and make notes",
+            "Research on the possible remedies for drug abuse and make posters",
+            "Depict through skits the effects of drug abuse in the society",
+            "Discuss ways of avoiding drug abuse and make class presentations",
+            "Visit a rehabilitation centre to learn more on the effects and remedies for drug abuse",
+            "Listen to a talk on drug abuse from a medical expert/NACADA official"
+          ],
+          "coreCompetencies": ["Critical thinking and problem-solving", "Learning to learn", "Digital literacy", "Communication and collaboration"],
+          "linkedLearningAreas": ["Health Education and Life Skills Education — discussing the effects of drug abuse in the society"],
+          "scopeNotes": ["include: named example drugs are bhang, heroin, cocaine, khat"]
+        }
+      ]
+    },
+    {
+      "name": "6.0 Muamalat (Social Relationship)",
+      "subStrands": [
+        {
+          "name": "6.1 Marriage",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Explain the purpose of marriage as a means of fulfilling one's faith",
+            "State the conditions for a valid marriage in Islam",
+            "Describe the rights and responsibilities in marriage for observance of Allah (S.W.T.)'s commandments",
+            "Regard marriage as a way of validating the establishment of a family"
+          ],
+          "keyInquiryQuestions": ["Why is marriage important in Islam?", "What are the rights of a husband/wife in Islam?"],
+          "learningExperiences": [
+            "Discuss the purpose of marriage in groups and share in class",
+            "Discuss the conditions for marriage in groups and make notes",
+            "Research on rights and responsibilities of a husband and wife in marriage and make class presentations",
+            "Dramatise on rights and responsibilities in marriage"
+          ],
+          "coreCompetencies": ["Creativity and imagination", "Self-efficacy", "Learning to learn"],
+          "linkedLearningAreas": ["Social Studies — types of marriage"],
+          "scopeNotes": []
+        },
+        {
+          "name": "6.2 Trade and Finance in Islam",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "Identify the halal and haram sources of earning for legitimate livelihood",
+            "Describe the legitimate ways of spending income to earn Allah (S.W.T.)'s Pleasure",
+            "Analyse the effects of spending income in haram ways in the life of a Muslim",
+            "Explain the importance of lawful earnings as an act of ibadah",
+            "Apply the knowledge of halal way of earning in daily life",
+            "Discuss the benefits of spending income in legitimate ways so as to earn rewards from Allah (S.W.T.)",
+            "Appreciate halal sources of earning and spending as a fulfilment of Allah (S.W.T.)'s command"
+          ],
+          "keyInquiryQuestions": ["How do Muslims spend their income?", "Why should Muslims spend their income in a halal manner?", "Why are some sources of earning considered haram in Islam?"],
+          "learningExperiences": [
+            "Use digital devices or Islamic books to search for halal and haram sources of earning and in pairs or groups make class presentations",
+            "Discuss on legitimate ways of spending income and share in class in groups",
+            "Brainstorm the effects of spending income in haram in groups and present in class",
+            "Discuss the importance of lawful earnings in groups and make notes",
+            "Role play on the benefits of spending income in legitimate ways",
+            "Search and watch video clips on legitimate ways of spending and make notes"
+          ],
+          "coreCompetencies": ["Learning to learn", "Digital literacy", "Communication and collaboration"],
+          "linkedLearningAreas": ["Business Studies (Pre-technical Studies) — searching for halal and haram sources of earning"],
+          "scopeNotes": []
+        },
+        {
+          "name": "6.3 Contemporary issues",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Identify the rights of women in Islam for gender parity",
+            "Describe the modes of transmission of HIV and AIDS and COVID-19 to avoid transmission",
+            "Explain the possible remedies for the spread of HIV and AIDS and COVID-19 for healthy living",
+            "Honour the rights of women as a fulfilment of the teachings of the Prophet (S.A.W.)"
+          ],
+          "keyInquiryQuestions": ["How should women be treated in Islam?", "What are the possible remedies for the spread of HIV and AIDS and COVID-19?"],
+          "learningExperiences": [
+            "Discuss the rights of women in groups and present in class",
+            "Using digital devices/books, journals, newspapers search for information on modes of transmission and remedies for the spread of HIV and AIDS, COVID-19 and present on charts/PowerPoint",
+            "Search and watch video clips on modes of transmission and remedies for the spread of HIV and AIDS, COVID-19, and make notes"
+          ],
+          "coreCompetencies": ["Digital literacy", "Communication and collaboration", "Citizenship", "Learning to learn"],
+          "linkedLearningAreas": ["Health Education — modes of transmission and remedies for the spread of HIV and AIDS and COVID-19"],
+          "scopeNotes": []
+        }
+      ]
+    },
+    {
+      "name": "7.0 Islamic Heritage and Civilisation",
+      "subStrands": [
+        {
+          "name": "7.1 Reforms introduced By Prophet Muhammad (S.A.W.)",
+          "lessonCount": 16,
+          "specificLearningOutcomes": [
+            "Describe the socio-religious, political and economic reforms introduced by Prophet Muhammad (S.A.W.) as an agent of change",
+            "Assess the importance of the socio-religious, political and economic reforms introduced by Prophet Muhammad (S.A.W.) to the world civilisation",
+            "Apply lessons learnt from the reforms introduced by Prophet Muhammad (S.A.W.)",
+            "Treasure the reforms introduced by Prophet Muhammad (S.A.W.) for a morally upright society"
+          ],
+          "keyInquiryQuestions": ["What are the benefits of the reforms introduced by Prophet Muhammad (S.A.W.)?", "What lessons do Muslims learn from the reforms introduced by Prophet Muhammad (S.A.W.)?"],
+          "learningExperiences": [
+            "Search online for video clips/available reference materials on the Jahiliyya period",
+            "Discuss the socio-religious, political and economic reforms introduced by Prophet Muhammad (S.A.W.) in groups and make class presentation",
+            "Watch/read and make a comparative analysis between Jahiliyya and post Jahiliyya periods and make notes",
+            "Discuss the importance of socio-religious, political and economic reforms introduced by Prophet Muhammad (S.A.W.) in groups and make class presentation",
+            "Brainstorm on lessons learnt from the reforms introduced by Prophet Muhammad (S.A.W.)",
+            "Dramatise acts depicting Jahiliyya period and the reforms introduced by Prophet Muhammad (S.A.W.)"
+          ],
+          "coreCompetencies": ["Citizenship", "Digital literacy", "Critical thinking and problem solving", "Communication and collaboration"],
+          "linkedLearningAreas": ["Performing Arts — dramatising Jahiliyya period and the reforms", "Computer Science — searching online for video clips on the Jahiliyya period", "Social Studies — discussing the socio-religious, political and economic reforms"],
+          "scopeNotes": [],
+          "notes": "16-lesson sub-strand, the deepest in Grade 7 IRE alongside Swalah (10) and Selected Chapters (12) — reforms span socio-religious, political AND economic dimensions plus an explicit Jahiliyya vs post-Jahiliyya comparative-analysis outcome; all three dimensions and the comparison must be covered, not just a headline 'reforms were good' summary."
+        }
+      ]
+    }
+  ],
+  "outOfScope": {
+    "communityServiceLearning": "pp.39-46 — CSL class activity is hosted in Social Studies (g7-ss-csl) as a milestone-based practical project, not IRE-specific generated content."
+  }
+}

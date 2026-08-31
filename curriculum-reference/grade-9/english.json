@@ -1,0 +1,1025 @@
+{
+  "subject": "English",
+  "subjectId": "english",
+  "grade": 9,
+  "source": {
+    "title": "Junior School Curriculum Design - English - Grade 9",
+    "url": "https://cbcelimu.com/wp-content/uploads/2024/12/English-Grade-9-Formatted-April-2024.pdf",
+    "publisher": "KICD (mirrored via cbcelimu.com)",
+    "retrievedDate": "2026-08-13",
+    "confidence": "medium",
+    "notes": "KICD's own Google Drive index (https://drive.google.com/file/d/1ehe01q4q8G-ft1PsA0r7skcz6grZfiNQ/preview, confirmed via WebFetch) shows the official filename as 'English Grade 9 - Revised Oct.pdf', but that Drive file is download-blocked so its text could not be read directly. The document actually read here (via WebFetch's saved-local-copy + Read, full text read verbatim, NOT summarized) is cbcelimu.com's mirror, filenamed 'English-Grade-9-Formatted-April-2024.pdf' -- an earlier-dated KICD document. Its title page reads 'KENYA INSTITUTE OF CURRICULUM DEVELOPMENT / JUNIOR SCHOOL CURRICULUM DESIGN / ENGLISH / GRADE 9', 'First published in 2024', ISBN 978-9914-43-443-9, and carries a 'DRAFT' watermark; the acknowledgement page explicitly states 'The revised Grade 9 curriculum designs were developed with the support of the World Bank through KPEELP', so this is authentically a KICD-produced document in the same revision lineage, but its exact byte-for-byte identity with the final 'Revised Oct' Drive file could not be independently confirmed. Strand/sub-strand structure, specific learning outcomes and key inquiry questions below were transcribed verbatim from this PDF's text (read directly via the Read tool, not AI-summarized), including the 'SUMMARY OF STRANDS AND SUBSTRANDS' table on p.xii-xv which was cross-checked against the full per-theme breakdown (p.1-143) for consistency -- both matched exactly. Because the exact 'Revised Oct' filename match to KICD's Drive listing could not be verified (Drive download blocked), confidence is marked 'medium' rather than 'high'; strand-level structure is very unlikely to have changed between an April/proofing pass and the October revision (KICD's rationalisation process typically only affects wording/proofing at that stage), but this has not been independently confirmed and should be spot-checked against the final Revised Oct PDF if it becomes accessible later. The app's current strand names ('Listening & Speaking', 'Reading', 'Writing', 'Grammar in Use') match the real design's 4 strands correctly -- confirmed, not previously verified against source. Grade 9 English also designates a class reader (a play) studied across all 15 themes as part of the Reading strand -- see notes on individual Reading sub-strands below."
+  },
+  "strands": [
+    {
+      "name": "Listening and Speaking",
+      "subStrands": [
+        {
+          "name": "Polite Language (Euphemism)",
+          "specificLearningOutcomes": [
+            "Outline words and phrases used to express euphemism",
+            "Use euphemism to show politeness in communication",
+            "Conduct a debate while adhering to conventions of polite language",
+            "Acknowledge the importance of politeness in communication"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we use polite language?",
+            "Why is it embarrassing to say some words in public?",
+            "How can we show good citizenship with regards to road safety?"
+          ],
+          "notes": "Theme 1: Citizenship"
+        },
+        {
+          "name": "Oral Literature: Short Forms",
+          "specificLearningOutcomes": [
+            "Identify the characteristics of riddles, tongue twisters and proverbs",
+            "Explain the functions of riddles, tongue twisters and proverbs",
+            "Perform riddles, tongue twisters and proverbs",
+            "Appreciate the importance of short forms in fostering fluency in communication"
+          ],
+          "keyInquiryQuestions": [
+            "Why are riddles, proverbs and tongue twisters important?",
+            "How do we perform riddles, proverbs and tongue twisters?"
+          ],
+          "notes": "Theme 2: Science: Fiction"
+        },
+        {
+          "name": "Listening Comprehension (Grade Appropriate Texts)",
+          "specificLearningOutcomes": [
+            "Identify the main idea and specific details from an argumentative text",
+            "Listen for the main idea and specific information (details) in an argumentative text",
+            "Acknowledge the need for comprehension in communication"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to listen attentively?",
+            "How do the specific details in a text enhance comprehension?"
+          ],
+          "notes": "Theme 3: Environmental Conservation"
+        },
+        {
+          "name": "Selective Listening",
+          "specificLearningOutcomes": [
+            "Select required information from a listening text",
+            "Make judgement on the message in the listening text",
+            "Advocate the need for selective listening in various contexts"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we listen attentively?",
+            "How can we ensure we pick out relevant details from a text?"
+          ],
+          "notes": "Theme 4: Consumer Protection: Consumer Laws and Policies"
+        },
+        {
+          "name": "Pronunciation",
+          "specificLearningOutcomes": [
+            "Pronounce the semi vowels /j/ /w/ and the diphthongs /aɪ/ and /eɪ/ words with clarity",
+            "Apply stress on content and function words appropriately for speech clarity",
+            "Appreciate the importance of correct pronunciation in communication"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we pronounce sounds accurately?",
+            "How can the same word express different meanings?"
+          ],
+          "notes": "Theme 5: Relationships: Community"
+        },
+        {
+          "name": "Conversational Skills: Negotiation Skills",
+          "specificLearningOutcomes": [
+            "Identify words and phrases used during negotiations",
+            "Use verbal and non-verbal cues during negotiations",
+            "Acknowledge the importance of negotiation skills in communication"
+          ],
+          "keyInquiryQuestions": [
+            "Which words or expressions would one use when negotiating?",
+            "How can one enhance their negotiation skills?"
+          ],
+          "notes": "Theme 6: Leisure Time"
+        },
+        {
+          "name": "Listening Comprehension: Listening for Detail",
+          "specificLearningOutcomes": [
+            "Select the main idea from a listening passage",
+            "Respond to questions based on the listening passage",
+            "Acknowledge the importance of attentive listening"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we distinguish between relevant and irrelevant information during a presentation?",
+            "Why is it important to listen keenly?"
+          ],
+          "notes": "Theme 7: Natural Resources: Marine Life"
+        },
+        {
+          "name": "Oral Poetry",
+          "specificLearningOutcomes": [
+            "Interpret oral poems on varied issues",
+            "Perform an oral poem using performance techniques",
+            "Acknowledge the role of oral poetry in the preservation of our cultural heritage"
+          ],
+          "keyInquiryQuestions": [
+            "Why should you interpret an oral poem correctly?",
+            "How can you make the performance of an oral poem interesting?"
+          ],
+          "notes": "Theme 8: Tourism: International"
+        },
+        {
+          "name": "Diphthongs and Sentence Stress",
+          "specificLearningOutcomes": [
+            "Identify words with the diphthongs /aʊ/ and /ʊə/ in a text",
+            "Use emphatic stress in words to convey meanings",
+            "Advocate the need for accurate pronunciation in oral communication"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to pronounce words correctly?",
+            "How does stress help us to convey different meanings?"
+          ],
+          "notes": "Theme 9: Heroes and Heroines: World"
+        },
+        {
+          "name": "Impromptu Speeches",
+          "specificLearningOutcomes": [
+            "Outline the procedure for preparing for an impromptu speech",
+            "Make an impromptu speech on a selected topic",
+            "Acknowledge the importance of excellent presentation skills in speech delivery"
+          ],
+          "keyInquiryQuestions": [
+            "In what instances could one be called upon to make a speech without prior notice?",
+            "What makes an impromptu speech effective?"
+          ],
+          "notes": "Theme 10: Social and Mass Media"
+        },
+        {
+          "name": "Conversation Skills: Job Interviews",
+          "specificLearningOutcomes": [
+            "Outline preparations undertaken by an interviewer and interviewee before a job interview",
+            "Ask and answer appropriate questions in mock job interviews",
+            "Recognise excellent interview skills as a positive step towards getting a job"
+          ],
+          "keyInquiryQuestions": [
+            "How can you succeed in a job interview?",
+            "Why is it important to prepare for a job interview?"
+          ],
+          "notes": "Theme 11: Income Generating Activities"
+        },
+        {
+          "name": "Listening to Respond: Expressing Feelings",
+          "specificLearningOutcomes": [
+            "Identify words and expressions used to describe their feelings towards a poem",
+            "Express their feelings towards the subject matter of a poem",
+            "Value the importance of poem recitation for effective communication"
+          ],
+          "keyInquiryQuestions": [
+            "How can one express their feelings while reciting a poem?",
+            "Why is it important to recite poems with feeling?"
+          ],
+          "notes": "Theme 12: Personal Grooming"
+        },
+        {
+          "name": "Extensive Listening: Speeches",
+          "specificLearningOutcomes": [
+            "Identify the issue addressed by the different speeches listened to",
+            "Take notes on the points made by the different speakers on the issue",
+            "Acknowledge the importance of getting information from varied sources"
+          ],
+          "keyInquiryQuestions": [
+            "How can you ensure that you remember what you hear from a speech?"
+          ],
+          "notes": "Theme 13: Sea Travel"
+        },
+        {
+          "name": "Intonation in Sentences: Question Tags",
+          "specificLearningOutcomes": [
+            "Write the correct form of question tags in sentences",
+            "Apply question tags appropriately in communication",
+            "Compose sentences using question tags correctly",
+            "Appreciate the importance of question tags and correct intonation in communication"
+          ],
+          "keyInquiryQuestions": [
+            "How can we improve our speaking skills?",
+            "Why do we use question tags in speech?"
+          ],
+          "notes": "Theme 14: Sports - World Cup (Football)"
+        },
+        {
+          "name": "Oral Reports: News (Role Play)",
+          "specificLearningOutcomes": [
+            "Read a short report within a specified number of minutes",
+            "Analyse a recorded grade appropriate oral news report",
+            "Apply the features of oral presentations for effective communication",
+            "Appreciate the importance of fluency in News report"
+          ],
+          "keyInquiryQuestions": [
+            "Who is your favourite news presenter and why?",
+            "What is an oral report?",
+            "When are you required to present an oral report?"
+          ],
+          "notes": "Theme 15: Tourist Attraction Sites - World"
+        }
+      ]
+    },
+    {
+      "name": "Reading",
+      "subStrands": [
+        {
+          "name": "Independent Reading - Grade Appropriate Text",
+          "specificLearningOutcomes": [
+            "Select reading materials from digital or non-digital sources",
+            "Read grade appropriate materials for lifelong learning",
+            "Create a reading log for monitoring reading activities",
+            "Recommend to peers suitable fiction and non-fiction materials to read"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to read different types of materials?"
+          ],
+          "notes": "Theme 1: Citizenship. Part of the design's 'Reading 1' (general reading) track."
+        },
+        {
+          "name": "Play: Structure and Setting (Class Reader)",
+          "specificLearningOutcomes": [
+            "Describe the structure and setting of a play",
+            "Analyse the acts and scenes of a play for literary appreciation",
+            "Recognise the role of literary appreciation in critical thinking"
+          ],
+          "keyInquiryQuestions": [
+            "What are the features of a play?",
+            "Why is it necessary to know when and where the action in a play took place?"
+          ],
+          "notes": "Theme 1: Citizenship. Part of the design's 'Reading 2' (class reader) track -- Grade 9 designates a play as the set class reader genre; assessment is NOT tied to any specific title/book (the design explicitly states readers are not set texts, so any KICD-approved play may be used)."
+        },
+        {
+          "name": "Intensive Reading: Simple Poems",
+          "specificLearningOutcomes": [
+            "Identify basic aspects of style such as repetition and rhyme in a poem",
+            "Describe the functions of rhyme and repetition in a poem",
+            "Appreciate the role of repetition and rhyme in a poem"
+          ],
+          "keyInquiryQuestions": [
+            "Why do we repeat some sounds, words and lines in a poem?"
+          ],
+          "notes": "Theme 2: Science: Fiction. Reading 1 track."
+        },
+        {
+          "name": "Intensive Reading: Plot (Class Reader)",
+          "specificLearningOutcomes": [
+            "Describe the sequence of events in a play",
+            "Relate the events in a play to real life experiences",
+            "Acknowledge the importance of a plot in a literary work"
+          ],
+          "keyInquiryQuestions": [
+            "How do we know the key events in a play?"
+          ],
+          "notes": "Theme 2: Science: Fiction. Reading 2 (class reader) track."
+        },
+        {
+          "name": "Reading for Information and Meaning",
+          "specificLearningOutcomes": [
+            "Infer the meaning of words, phrases and sentences from the context",
+            "Make connections between events in a text and real life situations",
+            "Value the need to comprehend the information in written texts"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to find the meaning of new words and phrases?",
+            "How do we derive information from a given text?"
+          ],
+          "notes": "Theme 3: Environmental Conservation. Reading 1 track."
+        },
+        {
+          "name": "Poems: Structure",
+          "specificLearningOutcomes": [
+            "Describe the structure of a poem",
+            "Analyse the use of personification in a poem",
+            "Create a poem based on a topic of interest",
+            "Appreciate the reading of poetry for enjoyment"
+          ],
+          "keyInquiryQuestions": [
+            "Why do we read or recite poems?",
+            "Why are non-living things or animals made to behave like human beings in poems or stories?"
+          ],
+          "notes": "Theme 3: Environmental Conservation. Reading 2 track (this slot covers a standalone poem rather than the class reader)."
+        },
+        {
+          "name": "Intensive Reading",
+          "specificLearningOutcomes": [
+            "Predict events in a reading text",
+            "Outline the key events in a text",
+            "Answer direct and inferential questions for comprehension",
+            "Infer the meaning of new words and phrases using contextual clues",
+            "Relate the characters, events and places in the text to real life",
+            "Appreciate the importance of comprehension in lifelong learning"
+          ],
+          "keyInquiryQuestions": [
+            "How are characters and events in a text related to real life?",
+            "Why is summary writing an important reading skill?"
+          ],
+          "notes": "Theme 4: Consumer Protection: Consumer Laws and Policies. Reading 1 track."
+        },
+        {
+          "name": "Play: Identification of Characters (Class Reader)",
+          "specificLearningOutcomes": [
+            "Identify the characters in a play",
+            "Use appropriate adjectives to describe the characters",
+            "Describe the actions of the characters using appropriate adverbs",
+            "Value the need to describe people and situations appropriately"
+          ],
+          "keyInquiryQuestions": [
+            "How can one tell the qualities of a character in a play?",
+            "How does describing actions of characters aid our understanding of a play?"
+          ],
+          "notes": "Theme 4: Consumer Protection: Consumer Laws and Policies. Reading 2 (class reader) track."
+        },
+        {
+          "name": "Reference Materials: Dictionary, Thesaurus, Encyclopaedia",
+          "specificLearningOutcomes": [
+            "Outline various types of reference materials and their uses",
+            "Use the dictionary, thesaurus and subject specific encyclopaedia to check the meaning and usage of words",
+            "Conduct research on a topic of interest using the dictionary, thesaurus and encyclopaedia",
+            "Acknowledge the value of reference materials in research"
+          ],
+          "keyInquiryQuestions": [
+            "Why do we use reference materials?"
+          ],
+          "notes": "Theme 5: Relationships: Community. Reading 1 track."
+        },
+        {
+          "name": "Play: Style (Class Reader)",
+          "specificLearningOutcomes": [
+            "Identify the features of style used in a play with examples",
+            "Relate the stylistic features to the message in a play",
+            "Value the role of varied styles in reinforcing the message in a play"
+          ],
+          "keyInquiryQuestions": [
+            "What makes a play interesting to read?",
+            "How do stylistic features enhance the message in a play?"
+          ],
+          "notes": "Theme 5: Relationships: Community. Reading 2 (class reader) track."
+        },
+        {
+          "name": "Reading Fluency",
+          "specificLearningOutcomes": [
+            "Outline ways of enhancing fluency in reading",
+            "Read a text at the right speed, accurately and with expression for effective communication",
+            "Acknowledge the role of reading fluently in extensive reading"
+          ],
+          "keyInquiryQuestions": [
+            "Why is reading a text fluently important?",
+            "How can one read a text fluently?"
+          ],
+          "notes": "Theme 6: Leisure Time. Reading 1 track."
+        },
+        {
+          "name": "Intensive Reading - Play (Class Reader)",
+          "specificLearningOutcomes": [
+            "Identify the themes in a play or a section of a play",
+            "Analyse the themes in a play",
+            "Relate the themes in a play to real life",
+            "Appreciate the role of literary appreciation in the development of critical thinking skills"
+          ],
+          "keyInquiryQuestions": [
+            "What are some of the issues authors write about?",
+            "How are literary texts different from factual ones?"
+          ],
+          "notes": "Theme 6: Leisure Time. Reading 2 (class reader) track."
+        },
+        {
+          "name": "Intensive Reading: Interpretation and Evaluation",
+          "specificLearningOutcomes": [
+            "Distinguish between reading for interpretation and reading for evaluation of information",
+            "Interpret a reading text for lifelong learning",
+            "Summarise information in a reading text",
+            "Appreciate the role of correct interpretation and evaluation of a text in learning"
+          ],
+          "keyInquiryQuestions": [
+            "Why should you give the correct interpretation of a text?",
+            "How can you interpret a text correctly?"
+          ],
+          "notes": "Theme 7: Natural Resources: Marine Life. Reading 1 track."
+        },
+        {
+          "name": "Intensive Reading: Play (Class Reader)",
+          "specificLearningOutcomes": [
+            "Identify the characters in a play for deeper understanding",
+            "Analyse the characters in a play and their relationship",
+            "Value the role of literary appreciation in developing critical thinking"
+          ],
+          "keyInquiryQuestions": [
+            "Why should we establish the relationship between the characters in a play?",
+            "How does understanding the relationship between characters help our understanding of the play?"
+          ],
+          "notes": "Theme 7: Natural Resources: Marine Life. Reading 2 (class reader) track."
+        },
+        {
+          "name": "Reading for Interpretation",
+          "specificLearningOutcomes": [
+            "Identify the point of view in a poem",
+            "Analyse the point of view in a poem",
+            "Acknowledge the importance of the point of view in the understanding of a poem"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to understand the point of view in a poem?"
+          ],
+          "notes": "Theme 8: Tourism: International. Reading 1 track."
+        },
+        {
+          "name": "Poetry: Characters",
+          "specificLearningOutcomes": [
+            "Identify the persona and other participants in a poem",
+            "Analyse the character of the speaker (persona) and the other participants in a poem",
+            "Acknowledge the importance of characters in literary appreciation"
+          ],
+          "keyInquiryQuestions": [
+            "How do we tell the behaviour of the characters in a poem?",
+            "What are some of the words we use to describe the behaviour of characters?"
+          ],
+          "notes": "Theme 8: Tourism: International. Reading 2 track (standalone poem)."
+        },
+        {
+          "name": "Extensive Reading (Grade Appropriate Fiction)",
+          "specificLearningOutcomes": [
+            "Select a reading text from a collection of books or the library",
+            "Read a text for information and enjoyment",
+            "Appreciate the role of extensive reading in lifelong learning"
+          ],
+          "keyInquiryQuestions": [
+            "How does reading widely help us learn better?",
+            "What should one consider when choosing a reading text?"
+          ],
+          "notes": "Theme 9: Heroes and Heroines: World. Reading 1 track."
+        },
+        {
+          "name": "Play: Style (Class Reader)",
+          "specificLearningOutcomes": [
+            "Identify features of style used in a play",
+            "Relate features of style to the meaning of a play",
+            "Acknowledge the importance of stylistic features in literary appreciation"
+          ],
+          "keyInquiryQuestions": [
+            "Why do authors use flashback, flash-forward and personification in plays?"
+          ],
+          "notes": "Theme 9: Heroes and Heroines: World. Reading 2 (class reader) track; focuses on flashback, flash-forward and personification."
+        },
+        {
+          "name": "Note Making",
+          "specificLearningOutcomes": [
+            "Identify main points or ideas in an argumentative passage",
+            "Make notes from an argumentative passage",
+            "Value the importance of note making while reading for pleasure or academic purposes"
+          ],
+          "keyInquiryQuestions": [
+            "In what situations could notes be made?",
+            "Why is it important to make notes?"
+          ],
+          "notes": "Theme 10: Social and Mass Media. Reading 1 track."
+        },
+        {
+          "name": "Play: Project",
+          "specificLearningOutcomes": [
+            "Identify simple props and costumes that create mood and atmosphere",
+            "Present dramatised parts of a play to an audience",
+            "Acknowledge the effectiveness of the performance in delivering the play's message"
+          ],
+          "keyInquiryQuestions": [
+            "How does an acted play differ from a written one?",
+            "What makes a performance successful?"
+          ],
+          "notes": "Theme 10: Social and Mass Media. Reading 2 (class reader) track -- a staged/dramatised performance project; needs performance/audio-visual elements our app cannot generate, flagged for build-decision."
+        },
+        {
+          "name": "Extensive Reading: Fiction",
+          "specificLearningOutcomes": [
+            "Distinguish between fiction and non-fiction reading materials",
+            "Select and read grade appropriate fiction materials",
+            "Keep a portfolio of the subject matter",
+            "Appreciate the importance of reading fiction for exposure"
+          ],
+          "keyInquiryQuestions": [
+            "Which story books or plays have you read?",
+            "What makes a book interesting?"
+          ],
+          "notes": "Theme 11: Income Generating Activities. Reading 1 track."
+        },
+        {
+          "name": "Grade-appropriate Play: Lessons Learnt (Class Reader)",
+          "specificLearningOutcomes": [
+            "Identify and illustrate the lessons learnt from a play",
+            "Relate the lessons learnt to real life experiences",
+            "Perceive plays as sources of life lessons and entertainment"
+          ],
+          "keyInquiryQuestions": [
+            "What lessons can one learn from a play?",
+            "Which issues are addressed in a play?"
+          ],
+          "notes": "Theme 11: Income Generating Activities. Reading 2 (class reader) track."
+        },
+        {
+          "name": "Intensive Reading: Comprehension Strategies",
+          "specificLearningOutcomes": [
+            "Identify clues in the passage from which conclusions can be drawn",
+            "Infer information and meaning of words and expressions from a passage",
+            "Summarise ideas in a passage",
+            "Apply the skills of making inferences and drawing conclusions in independent reading"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to summarise information from a text?",
+            "How can one draw conclusions from a text?"
+          ],
+          "notes": "Theme 12: Personal Grooming. Reading 1 track."
+        },
+        {
+          "name": "Play: Characterisation (Class Reader)",
+          "specificLearningOutcomes": [
+            "Outline the clues for identifying traits of different characters in a play",
+            "Use the clues to describe the characters in a play",
+            "Appreciate the role of characterisation in determining virtues and vices in the society"
+          ],
+          "keyInquiryQuestions": [
+            "Which words or expressions can you use to describe one's character?",
+            "Why is characterisation important?"
+          ],
+          "notes": "Theme 12: Personal Grooming. Reading 2 (class reader) track."
+        },
+        {
+          "name": "Intensive Reading: Visualising and Summarising",
+          "specificLearningOutcomes": [
+            "Identify mental images created from a read passage",
+            "Summarise what a paragraph and the passage are about",
+            "Appreciate the role of visualising and summarising in enhancing understanding of a text"
+          ],
+          "keyInquiryQuestions": [
+            "Which words or expressions appeal to the five senses?",
+            "Why is it important to make a relevant summary of a text?"
+          ],
+          "notes": "Theme 13: Sea Travel. Reading 1 track."
+        },
+        {
+          "name": "Grade-appropriate Play: Style (Class Reader)",
+          "specificLearningOutcomes": [
+            "Identify the styles of humour and monologue in a play",
+            "Dramatise instances of humour and monologue in a play",
+            "Acknowledge the role of humour and monologue in enriching a literary work"
+          ],
+          "keyInquiryQuestions": [
+            "What is the role of humour in a play?",
+            "Which programmes on radio or television do you find amusing?"
+          ],
+          "notes": "Theme 13: Sea Travel. Reading 2 (class reader) track; focuses on humour and monologue."
+        },
+        {
+          "name": "Summarising: Argumentative Texts",
+          "specificLearningOutcomes": [
+            "Pick out the main points discussed in a text",
+            "Organise an outline of points into a coherent whole",
+            "Summarise a text correctly in their own words",
+            "Realise the importance of good summary writing skills in writing"
+          ],
+          "keyInquiryQuestions": [
+            "How do we write summaries?",
+            "Why should we learn good summary writing skills?"
+          ],
+          "notes": "Theme 14: Sports - World Cup (Football). Reading 1 track (grade appropriate text)."
+        },
+        {
+          "name": "Intensive Reading: Play - Relating to Real Life (Class Reader)",
+          "specificLearningOutcomes": [
+            "Identify the characters in a play",
+            "Discuss the various themes in a play",
+            "Relate the characters and themes to real life",
+            "Participate in a stage performance of a play",
+            "Appreciate the beauty of performance of a literary text"
+          ],
+          "keyInquiryQuestions": [
+            "What makes plays interesting?",
+            "Why is it important for an actor to pronounce words correctly and speak audibly in a performance?"
+          ],
+          "notes": "Theme 14: Sports - World Cup (Football). Reading 2 (class reader) track; includes a live stage performance component that needs audio/performance elements our app cannot generate, flagged for build-decision."
+        },
+        {
+          "name": "Reading Fluency",
+          "specificLearningOutcomes": [
+            "Preview a text while ignoring unknown words",
+            "Make predictions about the characters, events and the message in a given text",
+            "Skim a text to get the gist",
+            "Scan a text to obtain specific information",
+            "Advocate the role of reading fluency in communication"
+          ],
+          "keyInquiryQuestions": [
+            "How can you tell if a text is appropriate for reading?",
+            "Why should one read a text fluently?"
+          ],
+          "notes": "Theme 15: Tourist Attraction Sites - World. Reading 1 track."
+        },
+        {
+          "name": "Intensive Reading: Poems",
+          "specificLearningOutcomes": [
+            "Explain why it is important to relate ideas learnt in poems to real life",
+            "Relate ideas in poems on tourist attraction sites to real life",
+            "Acknowledge the need to relate ideas in poems to real life"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to relate ideas read in works of art to real life?",
+            "What is the role of poems in the society?"
+          ],
+          "notes": "Theme 15: Tourist Attraction Sites - World. Reading 2 track (standalone poems, closes out the class-reader/poetry component for the year)."
+        }
+      ]
+    },
+    {
+      "name": "Grammar in Use",
+      "subStrands": [
+        {
+          "name": "Gender Neutral Language",
+          "specificLearningOutcomes": [
+            "Identify gender biased words and phrases in oral and written texts",
+            "Use gender neutral words and phrases in sentences",
+            "Acknowledge the importance of gender sensitivity in communication"
+          ],
+          "keyInquiryQuestions": [
+            "How can one avoid gender bias in communication?",
+            "Which words demonstrate gender sensitivity in communication?"
+          ],
+          "notes": "Theme 1: Citizenship"
+        },
+        {
+          "name": "Nouns and Quantifiers",
+          "specificLearningOutcomes": [
+            "Use quantifiers in sentences",
+            "Categorise count and non-count nouns in oral and written texts",
+            "Acknowledge the importance of quantifiers in oral and written communication"
+          ],
+          "keyInquiryQuestions": [
+            "How do count nouns differ from the non-count nouns?",
+            "Why is it important to express the quantity of something correctly?"
+          ],
+          "notes": "Theme 2: Science: Fiction"
+        },
+        {
+          "name": "Modal Auxiliaries",
+          "specificLearningOutcomes": [
+            "Identify modal auxiliaries in a passage",
+            "Use modal auxiliaries to express different moods",
+            "Value the importance of using modal auxiliaries in communication"
+          ],
+          "keyInquiryQuestions": [
+            "Which words do we use to express different moods such as requests, permission, ability and obligation?"
+          ],
+          "notes": "Theme 3: Environmental Conservation. Covers modal auxiliaries: may, might, will, shall, would, should, can, could."
+        },
+        {
+          "name": "Present and Past Perfect Aspect",
+          "specificLearningOutcomes": [
+            "Distinguish the present and past perfect aspect in sentences",
+            "Use present and past perfect aspect in sentences",
+            "Appreciate the importance of using tense in sentences"
+          ],
+          "keyInquiryQuestions": [
+            "How do we show that an action is complete?",
+            "Why should we use tense correctly in sentences?"
+          ],
+          "notes": "Theme 4: Consumer Protection: Consumer Laws and Policies"
+        },
+        {
+          "name": "Order of Adjectives",
+          "specificLearningOutcomes": [
+            "Identify various types of adjectives in texts",
+            "Use the correct order of adjectives in oral and written texts",
+            "Appreciate the role of ordered adjectives in communication for clarity"
+          ],
+          "keyInquiryQuestions": [
+            "How can we use words to create vivid pictures of a person or place?",
+            "Why is it important to order adjectives correctly?"
+          ],
+          "notes": "Theme 5: Relationships: Community. Covers opinion, shape, size, age, colour, origin, material, purpose adjectives."
+        },
+        {
+          "name": "Comparison of Adverbs",
+          "specificLearningOutcomes": [
+            "Identify the degrees of comparison in adverbs",
+            "Use positive, comparative and superlative degrees of adverbs in sentences",
+            "Appreciate the importance of the correct usage of adverbs"
+          ],
+          "keyInquiryQuestions": [
+            "How do we compare things?",
+            "Which words are used to make comparison?"
+          ],
+          "notes": "Theme 6: Leisure Time"
+        },
+        {
+          "name": "Relative Pronouns, Interrogative Pronouns",
+          "specificLearningOutcomes": [
+            "Recognise relative and interrogative pronouns in a text",
+            "Use relative and interrogative pronouns in sentences",
+            "Acknowledge the value of relative and interrogative pronouns in communication"
+          ],
+          "keyInquiryQuestions": [
+            "How do you obtain information from people?",
+            "Which words do you use to ask questions and to join simple sentences?"
+          ],
+          "notes": "Theme 7: Natural Resources: Marine Life"
+        },
+        {
+          "name": "Complex Prepositions",
+          "specificLearningOutcomes": [
+            "Recognise complex prepositions in texts",
+            "Use complex prepositions in sentences",
+            "Appreciate the role of prepositions in oral and written communication"
+          ],
+          "keyInquiryQuestions": [
+            "Which words let you know where someone is going?",
+            "How do you describe where something is located?"
+          ],
+          "notes": "Theme 8: Tourism: International"
+        },
+        {
+          "name": "Conjunctions: Correlative Conjunctions",
+          "specificLearningOutcomes": [
+            "Identify correlative conjunctions in texts",
+            "Use correlative conjunctions in sentences",
+            "Appreciate use of correlative conjunctions for effective communication"
+          ],
+          "keyInquiryQuestions": [
+            "How do we join sentences?"
+          ],
+          "notes": "Theme 9: Heroes and Heroines: World. Covers either...or, neither...nor, both...and, not only...but also."
+        },
+        {
+          "name": "Determiners: Numerals and Ordinals",
+          "specificLearningOutcomes": [
+            "Identify numerals and ordinals used as determiners in a text",
+            "Use numerals and ordinals as determiners in sentences",
+            "Appreciate the need for well-formed sentences in communication"
+          ],
+          "keyInquiryQuestions": [
+            "How are quantities of nouns expressed?",
+            "Why is it important to quantify nouns?"
+          ],
+          "notes": "Theme 10: Social and Mass Media"
+        },
+        {
+          "name": "Word Classes: Nouns",
+          "specificLearningOutcomes": [
+            "Identify nouns formed from verbs and other nouns from a text",
+            "Use nouns formed from verbs and other nouns in sentences",
+            "Acknowledge the necessity of forming words from other word classes in the process of communication"
+          ],
+          "keyInquiryQuestions": [
+            "Which words can be formed from others?",
+            "What changes when a word is formed from another?"
+          ],
+          "notes": "Theme 11: Income Generating Activities. Noun derivation from verbs/other nouns via suffixes (e.g. employ -> employment)."
+        },
+        {
+          "name": "Phrasal Verbs",
+          "specificLearningOutcomes": [
+            "Identify phrasal verbs formed from break, hang, run and turn in texts",
+            "Use the given phrasal verbs in sentences of their own",
+            "Value the importance of using phrasal verbs in spoken and written communication"
+          ],
+          "keyInquiryQuestions": [
+            "How are phrasal verbs different from other verbs?",
+            "Why is it important to learn meanings of phrasal verbs?"
+          ],
+          "notes": "Theme 12: Personal Grooming"
+        },
+        {
+          "name": "Sentences: Complex Sentences",
+          "specificLearningOutcomes": [
+            "Identify subordinating conjunctions in sentences",
+            "Construct complex sentences using subordinating conjunctions learnt",
+            "Correct disjointed sentences using the rule of subordinating conjunctions"
+          ],
+          "keyInquiryQuestions": [
+            "What is the role of conjunctions in sentences?",
+            "How can one differentiate between a simple and a complex sentence?"
+          ],
+          "notes": "Theme 13: Sea Travel"
+        },
+        {
+          "name": "Sentences: Direct and Indirect Speech",
+          "specificLearningOutcomes": [
+            "Differentiate between direct and indirect speech",
+            "Convert direct speech into indirect speech",
+            "Use the correct punctuation marks in direct speech",
+            "Apply direct and indirect speech correctly in communication"
+          ],
+          "keyInquiryQuestions": [
+            "How do we report what others have said?"
+          ],
+          "notes": "Theme 14: Sports - World Cup (Football)"
+        },
+        {
+          "name": "Sentences: Imperatives, Commands, Requests, Exclamatory",
+          "specificLearningOutcomes": [
+            "Identify instances where the two types of sentences are used correctly in printed handouts or online texts",
+            "Punctuate given texts by use of the appropriate punctuation marks",
+            "Appreciate the use of exclamatory and imperative sentences in spoken language"
+          ],
+          "keyInquiryQuestions": [
+            "When do you use an exclamatory or an imperative sentence in school?",
+            "How do you decide whether to use an exclamation mark or a period at the end of a sentence?"
+          ],
+          "notes": "Theme 15: Tourist Attraction Sites - World. Covers imperative sentences (commands, requests) and exclamatory sentences as one combined sub-strand (design labels it 15.3.1 with two numbered parts, 15.3.1.1 and 15.3.1.2)."
+        }
+      ]
+    },
+    {
+      "name": "Writing",
+      "subStrands": [
+        {
+          "name": "Legibility and Neatness",
+          "specificLearningOutcomes": [
+            "Identify sections of a piece of writing that require breaking of words and indentation",
+            "Indent paragraphs when writing a composition",
+            "Create a neat and legible text",
+            "Appreciate the importance of legibility and neatness in written communication"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to write legibly?",
+            "Why do we indent paragraphs?"
+          ],
+          "notes": "Theme 1: Citizenship"
+        },
+        {
+          "name": "Mechanics of Writing: Punctuation",
+          "specificLearningOutcomes": [
+            "Identify the double quotation marks and the bracket in a text",
+            "Use the double quotation marks and the bracket in written texts",
+            "Appreciate the role of the double quotation marks and the bracket in written texts"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to use punctuation marks correctly?",
+            "How do we use the double quotation marks and the bracket in writing?"
+          ],
+          "notes": "Theme 2: Science: Fiction"
+        },
+        {
+          "name": "Structure of a Paragraph",
+          "specificLearningOutcomes": [
+            "Outline the four characteristics of a well formed paragraph",
+            "Create a paragraph that is well developed, coherent and unified",
+            "Acknowledge the need for concise paragraphs in written communication"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to organise ideas in your paragraphs coherently?",
+            "How can you ensure that your paragraphs are well formed?"
+          ],
+          "notes": "Theme 3: Environmental Conservation"
+        },
+        {
+          "name": "Narrative and Descriptive Paragraphs",
+          "specificLearningOutcomes": [
+            "Highlight the qualities of a well formed paragraph",
+            "Write narrative and descriptive paragraphs",
+            "Use the first person and second person in narrative and descriptive paragraphs",
+            "Value the need for well formed paragraphs in written communication"
+          ],
+          "keyInquiryQuestions": [
+            "How can we make a narrative composition interesting?",
+            "How can we ensure unity in a paragraph?"
+          ],
+          "notes": "Theme 4: Consumer Protection: Consumer Laws and Policies"
+        },
+        {
+          "name": "Letter of Application",
+          "specificLearningOutcomes": [
+            "Identify the components of a letter of application",
+            "Write a letter of application for placement at Senior School using all the components",
+            "Advocate the need to adhere to the format of formal letter writing"
+          ],
+          "keyInquiryQuestions": [
+            "Why do we write letters of application?",
+            "How can one ensure a letter of application meets the expected standards?"
+          ],
+          "notes": "Theme 5: Relationships: Community"
+        },
+        {
+          "name": "Mechanics of Writing: Spelling",
+          "specificLearningOutcomes": [
+            "Recognise homonyms, homophones, double consonants and double vowels in written texts",
+            "Spell commonly misspelt words for writing fluency",
+            "Value the importance of correct spelling in written communication"
+          ],
+          "keyInquiryQuestions": [
+            "Why are some words commonly misspelt?",
+            "Why is it important to spell words correctly?"
+          ],
+          "notes": "Theme 6: Leisure Time"
+        },
+        {
+          "name": "The Writing Process",
+          "specificLearningOutcomes": [
+            "Outline the stages of the writing process",
+            "Create a composition, story or poem following the steps of the writing process",
+            "Advocate the need for creativity in life"
+          ],
+          "keyInquiryQuestions": [
+            "How does the writing process help us improve the quality of our writing?"
+          ],
+          "notes": "Theme 7: Natural Resources: Marine Life"
+        },
+        {
+          "name": "Assessing Writing",
+          "specificLearningOutcomes": [
+            "Identify the qualities of a well written composition",
+            "Write a composition related to the theme",
+            "Assess a composition against a predesigned criteria",
+            "Value the need for clarity and cohesion in written communication"
+          ],
+          "keyInquiryQuestions": [
+            "What are the qualities of a good composition?",
+            "How can one make a composition interesting?"
+          ],
+          "notes": "Theme 8: Tourism: International"
+        },
+        {
+          "name": "Narrative Compositions",
+          "specificLearningOutcomes": [
+            "Identify the elements of a narrative composition",
+            "Use the elements of a narrative composition in a story",
+            "Appreciate the role of background information in the creation of credible stories"
+          ],
+          "keyInquiryQuestions": [
+            "How should we organise our compositions?"
+          ],
+          "notes": "Theme 9: Heroes and Heroines: World"
+        },
+        {
+          "name": "Filling Forms: Application Forms",
+          "specificLearningOutcomes": [
+            "Recognize bursary and scholarship application forms from a list of forms",
+            "Fill in bursary and scholarship application forms while adhering to conventions",
+            "Value the importance of giving accurate and sufficient information in forms"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to fill in all parts of a form?"
+          ],
+          "notes": "Theme 10: Social and Mass Media"
+        },
+        {
+          "name": "Mechanics of Writing - Spelling",
+          "specificLearningOutcomes": [
+            "Spell words for effective communication",
+            "Write common abbreviations in full",
+            "Appreciate the importance of abbreviations in writing"
+          ],
+          "keyInquiryQuestions": [
+            "What should you consider when splitting words at the end of a line?",
+            "Which words do we normally abbreviate?"
+          ],
+          "notes": "Theme 11: Income Generating Activities. Covers abbreviation rules for titles, time references, organisations/technical words/company names."
+        },
+        {
+          "name": "The Writing Process",
+          "specificLearningOutcomes": [
+            "Outline the different stages of the writing process",
+            "Apply the writing process in creating a dialogue on a relevant theme",
+            "Emphasise the importance of each of the stages in the writing process in crafting flawless dialogues"
+          ],
+          "keyInquiryQuestions": [
+            "Why should you plan your writing?",
+            "Why is it important to learn dialogue writing?"
+          ],
+          "notes": "Theme 12: Personal Grooming. Second occurrence of 'The Writing Process' sub-strand, applied here specifically to dialogue writing (distinct from Theme 7's composition/story/poem focus)."
+        },
+        {
+          "name": "Creative Writing: Idioms",
+          "specificLearningOutcomes": [
+            "Explain the meaning of given idioms in different contexts",
+            "Use a variety of idioms in writing narrative compositions",
+            "Encourage peers to use idioms appropriately in speech and writing"
+          ],
+          "keyInquiryQuestions": [
+            "What are idioms?",
+            "Which idioms are you familiar with?"
+          ],
+          "notes": "Theme 13: Sea Travel. Specifies 8 target idioms: peace of mind, bury the hatchet, sit on the fence, with open arms, burning bridges, follow in someone's footsteps, monkey business, adding insult to injury."
+        },
+        {
+          "name": "Descriptive Writing",
+          "specificLearningOutcomes": [
+            "Use the correct writing process to write a composition",
+            "Spell words correctly in composition writing",
+            "Apply the five senses in writing descriptive compositions",
+            "Display creativity and imagination in composition writing",
+            "Recognise the importance of creativity in writing"
+          ],
+          "keyInquiryQuestions": [
+            "What makes a story creative?",
+            "Which words do we use to describe our different senses?"
+          ],
+          "notes": "Theme 14: Sports - World Cup (Football). Design specifies target composition length of 280-320 words."
+        },
+        {
+          "name": "Emails",
+          "specificLearningOutcomes": [
+            "Identify the key elements of an email",
+            "Apply the elements in writing an email",
+            "Appreciate the importance of writing emails"
+          ],
+          "keyInquiryQuestions": [
+            "Why do we write emails?",
+            "What is the difference between emails and letters?"
+          ],
+          "notes": "Theme 15: Tourist Attraction Sites - World"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "subject": "Islamic Religious Education",
+  "subjectId": "ire",
+  "grade": 8,
+  "source": {
+    "title": "Junior School Curriculum Design: Islamic Religious Education, Grade 8",
+    "url": "https://easylearn.co.ke/images/document/11752310/Islamic-Religious-Education-Grade-8-July-2024.pdf",
+    "publisher": "KICD (mirrored via easylearn.co.ke)",
+    "retrievedDate": "2026-08-14",
+    "confidence": "high",
+    "notes": "Filename confirmed against KICD's own Google Drive listing (kicd.ac.ke/cbc-materials/curriculum-designs/grade-eight-designs/, file id 10HXITblf3E9bwYFABlcbv_qA9ZGSSod1, whose /preview page title reads 'Islamic Religious Education Grade 8 - July 2024.pdf'). WebFetch reported it could not extract text from the PDF itself but saved it locally; Read then parsed the full PDF text natively (ISBN 978-9914-43-797-3, First Published 2023, Revised 2024). Strand/sub-strand headings, SLOs, and key inquiry questions below are transcribed verbatim from the 'STRAND'-labelled tables and the 'SUMMARY OF STRANDS AND SUB STRANDS' table. CAVEAT: strand 5.0 (Akhlaq) sub-strand 5.3 'Prohibitions in Islam' explicitly covers deviant sexual behaviour topics (incest, bestiality, prostitution, homosexuality) exactly as the official curriculum frames them (causes, effects on society, and the Islamic rationale for their prohibition) - this is legitimate, officially mandated Grade 8 IRE content, not an editorial addition, and should be built as the design presents it rather than reframed or softened. This differs in specific topic from Grade 9's Muamalat strand (which covered domestic violence/polygamy/jihad/terrorism instead) - Grade 8's sensitive content sits in Akhlaq (Moral Teachings) rather than Muamalat, and Grade 8's Muamalat strand here is comparatively mild (divorce mechanics, trade/finance, general human rights) with no Jihad/terrorism/extremism sub-strand at this grade level."
+  },
+  "strands": [
+    {
+      "name": "Qur'an",
+      "subStrands": [
+        {
+          "name": "Modes of preservation of the Qur'an",
+          "specificLearningOutcomes": [
+            "Describe the modes of preservation of the Qur'an during the time of the Prophet (S.A.W.), the Rightly Guided Caliphs and presently for posterity",
+            "Recite chapters/verses of the Qur'an as a means of preserving it",
+            "Assess the importance of preserving the Qur'an to safeguard its authenticity",
+            "Cherish the Qur'an as a guide for mankind"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to preserve the Qur'an?",
+            "How is the Qur'an preserved in modern times?"
+          ]
+        },
+        {
+          "name": "Divisions of the Qur'an",
+          "notes": "Covers ayat, juzuu, manzil, ruk'u, surah, Makkan Surah, Madinan Surah.",
+          "specificLearningOutcomes": [
+            "Explain the divisions of the Qur'an for easy referencing",
+            "Identify the divisions of the Qur'an to facilitate the reading of the Qur'an",
+            "Describe the characteristics of Makkan and Madinan Surahs to ease learning",
+            "Appreciate the division of the Qur'an for ease of recitation"
+          ],
+          "keyInquiryQuestions": [
+            "How do the divisions of the Qur'an help in studying it?"
+          ]
+        },
+        {
+          "name": "Selected verses (Al-Luqman 12-19)",
+          "specificLearningOutcomes": [
+            "Read the selected verses correctly for spiritual nourishment",
+            "Explain the meaning of the selected verses to ease application",
+            "Explain the teachings of the selected verses for character building",
+            "Apply the teachings of the selected verses in their daily lives",
+            "Appreciate the teachings of the selected verses as sourced from the Quran"
+          ],
+          "keyInquiryQuestions": [
+            "How can the teachings of the verses reform the society?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hadith",
+      "subStrands": [
+        {
+          "name": "Ulum al-Hadith",
+          "specificLearningOutcomes": [
+            "Describe the factors that led to the development of Hadith during the time of the Prophet (S.A.W.) and the Rightly Guided Caliphs",
+            "Explain the methods used by the Prophet (S.A.W.) to teach Hadith",
+            "Apply the methods used by the Prophet (S.A.W.) to teach Hadith",
+            "Value Hadith as a primary source of guidance"
+          ],
+          "keyInquiryQuestions": [
+            "What role did the Prophet (S.A.W.) play in the development of Hadith?",
+            "Why is it important for a Muslim to learn Ulum al-Hadith?"
+          ]
+        },
+        {
+          "name": "Selected Hadith",
+          "notes": "Hadith on accountability (At-Tirmidhi: the feet of a servant will not move on the Day of Resurrection until questioned about lifetime, youth, wealth and knowledge) and Hadith on respect for authority (Bukhari and Muslim: listening to and obeying the leader is an obligation unless commanded to disobey Allah).",
+          "specificLearningOutcomes": [
+            "Deduce the lessons learnt from the Hadith on accountability and respect for authority for character building",
+            "Explain the relevance of the Hadith on accountability and respect for authority in the life of a Muslim",
+            "Practise the teachings of the Hadith on accountability and respect for authority in daily life",
+            "Appreciate Hadith as the second source of sharia"
+          ],
+          "keyInquiryQuestions": [
+            "Why is intention important in Islam?",
+            "Why should Muslims respect authority?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pillars of Iman",
+      "subStrands": [
+        {
+          "name": "Belief in revealed scriptures",
+          "specificLearningOutcomes": [
+            "Identify the revealed scriptures to strengthen their Iman",
+            "Assess the importance of believing in the revealed scriptures as a pillar of Iman",
+            "Explain the reasons for the revelation of the revealed scriptures as a guide for mankind",
+            "Identify the similarities in the revealed scriptures for religious tolerance",
+            "Describe ways of showing respect for the revealed scriptures to promote religious tolerance",
+            "Practise tolerance towards people of other faiths for peaceful co-existence",
+            "Acknowledge the revealed scriptures as part of faith"
+          ],
+          "keyInquiryQuestions": [
+            "How can Muslims practise religious tolerance?",
+            "Why does mankind need revealed scriptures?"
+          ]
+        },
+        {
+          "name": "Ulul-Azm Prophets",
+          "notes": "Covers Nabii Musa (A.S.) and Issa (A.S.).",
+          "specificLearningOutcomes": [
+            "Describe the qualities of Ulul-Azm Prophets for emulation",
+            "Narrate the stories of Nabii Musa (A.S.) and Issa (A.S.) for spiritual nourishment",
+            "Apply the teachings from the stories of Nabii Musa (A.S.) and Issa (A.S.) for character building",
+            "Appreciate the Ulul-Azm Prophets as role models"
+          ],
+          "keyInquiryQuestions": [
+            "What lessons do Muslims learn from the Ulul-Azm Prophets?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Devotional Acts",
+      "subStrands": [
+        {
+          "name": "Prayers on special occasions",
+          "notes": "Covers Swalatul Istisqaa and Swalatul Istikhara.",
+          "specificLearningOutcomes": [
+            "Describe how swalatul Istisqaa and swalatul Istikhara are performed to earn Allah (S.W.T.)'s blessings",
+            "Assess the significance of performing swalatul Istisqaa and swalatul Istikhara to seek Allah (S.W.T.)'s bounties",
+            "Perform swalatul Istisqaa and swalatul Istikhara in the correct way",
+            "Embrace the performance of swalatul Istisqaa and swalatul Istikhara as a way of fulfilling Allah (S.W.T.)'s command"
+          ],
+          "keyInquiryQuestions": [
+            "Why do Muslims perform prayers on special occasions?"
+          ]
+        },
+        {
+          "name": "Hajj and Umrah",
+          "specificLearningOutcomes": [
+            "Describe the sequence of Hajj for its validity",
+            "Explain the fardh, wajib and sunnah rites of Hajj to classify them",
+            "Describe the rites of Umrah for ease of performance",
+            "Assess the significance of Hajj as a pillar of Islam",
+            "Acknowledge the performance of Hajj and Umrah as a commandment from Allah (S.W.T.)"
+          ],
+          "keyInquiryQuestions": [
+            "How is Hajj/Umrah performed?",
+            "Why do Muslims perform Hajj/Umrah?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Akhlaq",
+      "notes": "Moral Teachings.",
+      "subStrands": [
+        {
+          "name": "Commanding good and forbidding evil",
+          "specificLearningOutcomes": [
+            "Describe ways of commanding good and forbidding evil as a way of fulfilling Allah (S.W.T.)'s commandment",
+            "Assess the significance of commanding good and forbidding evil to promote righteousness",
+            "Apply wisdom in commanding good and forbidding evil",
+            "Value commanding good and forbidding evil as a way of promoting a morally upright society"
+          ],
+          "keyInquiryQuestions": [
+            "Why should a Muslim command good and forbid evil?",
+            "How can today's Muslims command good and forbid evil?"
+          ]
+        },
+        {
+          "name": "Virtues in Islam",
+          "notes": "Covers fulfilment of promise and anger management.",
+          "specificLearningOutcomes": [
+            "Explain the teachings on fulfilment of promise and anger management according to the sunnah of the Prophet (S.A.W.)",
+            "Describe ways in which Muslims can manage anger for harmonious co-existence in the society",
+            "Assess the significance of fulfilling promise and managing anger in shaping the character of a Muslim",
+            "Practise fulfilment of promise and anger management as commanded in Islam",
+            "Appreciate fulfilment of promise and anger management as virtues in Islam"
+          ],
+          "keyInquiryQuestions": [
+            "How can Muslims manage anger?",
+            "Why should Muslims fulfil promises?"
+          ]
+        },
+        {
+          "name": "Prohibitions in Islam",
+          "notes": "Covers deviant sexual behaviour: incest, bestiality, prostitution, and homosexuality - their causes, effects on society, and the Islamic rationale for prohibition. Sensitive but officially mandated content; recorded here exactly as the curriculum frames it, per project policy of not softening or omitting officially-mandated sensitive content.",
+          "specificLearningOutcomes": [
+            "Explain the causes of deviant sexual behaviour to safeguard oneself",
+            "Describe the effects of deviant sexual behaviour in the society",
+            "Explain the rationale for the prohibition of deviant sexual behaviour in Islam",
+            "Appreciate the rationale for the prohibition of deviant sexual behaviour"
+          ],
+          "keyInquiryQuestions": [
+            "What causes deviant sexual behaviour in the society?",
+            "What is the rationale for the prohibition of deviant sexual behaviour in Islam?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muamalat",
+      "notes": "Social Relations.",
+      "subStrands": [
+        {
+          "name": "Divorce",
+          "specificLearningOutcomes": [
+            "Identify the causes of conflicts in marriage",
+            "Describe the mechanism of conflict resolution in marriage",
+            "Appreciate the mechanism of conflict resolution in marriage"
+          ],
+          "keyInquiryQuestions": [
+            "What causes conflicts in marriage?",
+            "How can Muslims reduce conflicts in marriage?"
+          ]
+        },
+        {
+          "name": "Types of divorce",
+          "notes": "Covers at-Talaq and khul'u.",
+          "specificLearningOutcomes": [
+            "Explain at-Talaq and Khul'u types of divorce as provided in the Quran and Hadith",
+            "Describe the steps involved in at-Talaq and Khul'u according to Islamic teachings",
+            "Explain the effects of divorce in society",
+            "Acknowledge divorce as the last resort in marital conflicts"
+          ],
+          "keyInquiryQuestions": [
+            "What are the reasons for khul'u?",
+            "What are the effects of talaq?"
+          ]
+        },
+        {
+          "name": "Trade and Finance in Islam",
+          "specificLearningOutcomes": [
+            "Examine the rules on agreements and contracts according to Islamic teachings",
+            "Assess the significance of agreements and contracts in Islam",
+            "Practise the rules of agreement and contracts in trade and finance",
+            "Appreciate Islamic rules on agreements and contracts"
+          ],
+          "keyInquiryQuestions": [
+            "Why are agreements and contracts used in business transactions?"
+          ]
+        },
+        {
+          "name": "Human Rights",
+          "notes": "Covers general human rights and the role of government consumer protection agencies (Kenya Bureau of Standards, Competition Authority of Kenya, Central Bank of Kenya, Retirement Benefits Authority of Kenya) - not the domestic-violence/polygamy/child-custody/Jihad content found in Grade 9's Muamalat strand.",
+          "specificLearningOutcomes": [
+            "Describe ways in which human rights are upheld in Islam",
+            "Assess the significance of safeguarding human rights",
+            "Practise human rights in their day-to-day life",
+            "Appreciate human rights as an avenue for justice"
+          ],
+          "keyInquiryQuestions": [
+            "How can a Muslim advocate for human rights in the 21st century?",
+            "What are the benefits of observing human rights?"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Islamic Heritage and Civilisation",
+      "subStrands": [
+        {
+          "name": "The Rightly Guided Caliphs",
+          "notes": "Covers Abubakar (R.A.), Umar (R.A.), Uthman (R.A.), and Ali (R.A.).",
+          "specificLearningOutcomes": [
+            "Describe the administrative features of the Rightly Guided Caliphs as role models in leadership",
+            "Examine the challenges faced by the Rightly Guided Caliphs",
+            "Explain the social, political and economic reforms of the Rightly Guided Caliphs to appreciate their contribution to Islam",
+            "Emulate the character of the Rightly Guided Caliphs to earn rewards from Allah (S.W.T.)",
+            "Appreciate the role of the Rightly Guided Caliphs in Islamic heritage"
+          ],
+          "keyInquiryQuestions": [
+            "What do Muslims learn from the challenges faced by the Rightly Guided Caliphs?",
+            "How do Muslims benefit from the leadership of Rightly Guided Caliphs?"
+          ]
+        }
+      ]
+    }
+  ]
+}

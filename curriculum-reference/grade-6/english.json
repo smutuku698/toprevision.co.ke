@@ -1,0 +1,548 @@
+{
+  "subject": "English",
+  "subjectId": "english",
+  "grade": 6,
+  "source": {
+    "title": "Primary School Education Curriculum Design — English Language Grade 6",
+    "url": "grade-6-curriculum-desings/GRADE-6-ENGLISH-LANGUAGE-Curriculum-Designs.pdf",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-17",
+    "confidence": "high",
+    "notes": "Read directly via the Read tool (no pages param), full 128-page text extracted in one pass. Structure is unusual vs other Grade 6 subjects: 13 numbered real-world THEMES (1.0-13.0; the table of contents omits Theme 2.0 'Cultural and Religious Celebrations' and Theme 9.0 'Lifestyle Diseases' but both exist in full in the body — a source inconsistency, not a gap, resolved by reading the full body not just the TOC), each theme contributing exactly one Listening & Speaking + one Reading + one Grammar-in-Use + one Writing sub-strand (52 raw sub-strands total). The 4 official strand names per the Summary of Strands table (p.xii) are 'Listening and Speaking', 'Reading', 'Language Use', 'Writing' (labelled 'Grammar in Use' inline per-theme, 'Language Use' in the summary table and lesson-count totals — same strand, two names used inconsistently by the source itself; this file uses 'Language Use' as the canonical strand name and keeps 'Grammar in Use' as the per-theme inline label)."
+  },
+  "themes": [
+    "1.0 Child Labour", "2.0 Cultural and Religious Celebrations", "3.0 Etiquette - Telephone",
+    "4.0 Emergency Rescue Services", "5.0 Our Tourist Attractions", "6.0 Jobs and Occupation - Work Ethics",
+    "7.0 Technology: Scientific Innovations", "8.0 The Farm - Animal Safety and Care", "9.0 Lifestyle Diseases",
+    "10.0 Proper Use of Leisure Time", "11.0 Sports - Indoor Games", "12.0 Environment Conservation",
+    "13.0 Money - Trade"
+  ],
+  "strands": [
+    {
+      "name": "Listening and Speaking",
+      "subStrands": [
+        {
+          "name": "1.1.1 Pronunciation and Listening (Child Labour)",
+          "specificLearningOutcomes": ["Select words with the target sound /ɪə/ from an oral narrative", "Use vocabulary related to the theme in sentences correctly", "Use proverbs, fixed phrases, idioms, and metaphors with straightforward meanings in oral communication", "Listen for the main idea and specific details from an oral text", "Value the importance of listening attentively"],
+          "keyInquiryQuestions": ["Why should you listen keenly?", "Why should you pronounce words accurately?"],
+          "learningExperiences": [
+            "Sound /ɪə/ as in tear, appear, rear, clear, severe",
+            "Theme vocabulary: orphanage, orphan, domestic, servant, work, underage, teenager, labour, homeless, baby-sitter, trafficking, street children, children's department, children's court, exploit, chores, house help, violate, fatigue, tired, wages, employer, long hours, salary, income",
+            "Fixed phrases: play games, far away, believe it or not, do your best, burst into tears",
+            "Similes: as hungry as a wolf, as greedy as a hyena",
+            "Metaphor: The thief was a hyena, he was so greedy",
+            "Idioms: work like a dog, dog tired, work for peanuts, donkey work",
+            "Proverb: all work and no play makes Jack a dull boy",
+            "Phrasal verbs: beat up, agree with, put up with, cope with"
+          ],
+          "linkedLearningAreas": ["Social Studies — vocabulary on child labour applies to learning of child rights"]
+        },
+        {
+          "name": "2.1.1 Pronunciation and Listening Comprehension (Cultural and Religious Celebrations)",
+          "specificLearningOutcomes": ["Identify proverbs from a text for effective communication", "Listen for the main idea and specific details from a text", "Use words and expressions such as similes, metaphors and proverbs containing selected sounds correctly", "Value the importance of attentive listening in communication"],
+          "keyInquiryQuestions": ["Why should you pronounce words correctly?", "Why do we use proverbs?"],
+          "learningExperiences": [
+            "Sounds /l/ and /r/",
+            "Theme vocabulary: festival, culture, annual, tradition, artist, ethnic, folk dance, folksong, anniversary, reunion, homecoming, concert, circumcision, guest, eulogy, reception, hijab, Sunday best, Christmas, Easter, Good Friday, Diwali, Idd-al-Fitr, entertain",
+            "Metaphor: Peter is a giraffe — he is so tall",
+            "Idioms: a red letter day, kill two birds with one stone, feel at home",
+            "Proverb: charity begins at home",
+            "Phrasal verbs: pass by, look forward to, look for, look at"
+          ],
+          "linkedLearningAreas": ["Kiswahili — common sayings and expressions from different cultures"]
+        },
+        {
+          "name": "3.1.1 Pronunciation and Vocabulary (Etiquette - Telephone)",
+          "specificLearningOutcomes": ["Pronounce words with target sounds correctly", "Use polite words and phrases in a variety of contexts", "Use a variety of similes, proverbs, idioms and fixed phrases in oral communication", "Collaborate with peers to judge whether words or phrases have been used politely in a text"],
+          "keyInquiryQuestions": ["Why should we use polite words and phrases in a conversation?"],
+          "learningExperiences": [
+            "Sounds /æ/ and /ɜː/",
+            "Theme vocabulary: phone, telephone, mobile, dial, cell phone, call, handset, disconnect, receive, network, signal, proper, mindful, polite, rude, voicemail, answering machine, etiquette, tone, courteous, inquire, privacy, guidelines, receiver, connect, video call",
+            "Fixed phrase: make friends",
+            "Simile: as proud as a peacock",
+            "Metaphor: Peter is a giraffe; he is so tall",
+            "Idiom: feel at home",
+            "Proverb: charity begins at home",
+            "Phrasal verbs: pass by, look for, look at"
+          ],
+          "linkedLearningAreas": ["Religious Education — harmonious living/polite language"]
+        },
+        {
+          "name": "4.1.1 Pronunciation and Vocabulary (Emergency Rescue Services)",
+          "specificLearningOutcomes": ["Select words with the target sound /ʊə/ from a text", "Use appropriate words, similes and proverbs with straightforward meanings in day-to-day communication", "Distinguish nouns, verbs and adjectives by stressing syllables correctly", "Apply stress on content words and helping verbs for speech clarity", "Advocate the correct use of stress in oral communication"],
+          "keyInquiryQuestions": ["Which words have the same spelling but different meanings?", "Why is it important to pronounce words accurately?"],
+          "learningExperiences": [
+            "Sound /ʊə/; homographs distinguished by stress (extract/extract, perfect/perfect)",
+            "Theme vocabulary: red cross, ambulance, emergency, flying doctors, rescue, security, epidemic, amputate, workers, aid, stroke, unconscious, casualty, oxygen mask, hazard, precaution, prepare, critical, escape, care, intensive care unit, watch out, one way, two way, dual carriage way, guard rails, culverts, road median, chevron, reflectors, road signs (street signs, black/hazard spots, diversions)",
+            "Fixed phrases: catch fire, on fire, cause for alarm, in time, on time, lose control, all day long, all day",
+            "Similes: as fast as lightning, as light as a feather, as helpless as a baby, as cunning as a fox",
+            "Metaphor: The boy was a fox, he was so cunning",
+            "Proverbs: prevention is better than cure, there is no smoke without fire, a stitch in time saves nine, all is well that ends well",
+            "Idioms: face the music, play with fire, in the nick of time, get into hot water, breakneck speed",
+            "Phrasal verbs: care for, disagree with, end in tears, put out"
+          ],
+          "linkedLearningAreas": ["Kiswahili — pronouncing sounds correctly"]
+        },
+        {
+          "name": "5.1.1 Pronunciation and Vocabulary (Our Tourist Attractions)",
+          "specificLearningOutcomes": ["Listen for specific information and the main idea for self-expression", "Respond to oral questions based on the theme", "Use expressions such as similes, metaphors and proverbs in oral communication", "Advocate the importance of listening comprehension"],
+          "keyInquiryQuestions": ["Why should we pronounce sounds correctly?", "What information do we obtain when we listen keenly?"],
+          "learningExperiences": [
+            "Sounds /ð/ and /θ/",
+            "Theme vocabulary: big five, museum, attract, tour, park, warden, game park, wonder, seven wonders of the world, poach, protect, national park, game reserve, film, watch, beauty, beach, holiday, tourist, tour guide, hotel, nature walk, travel, bird watching, swimming, snake park, dance, music, mountain climbing, foreign exchange, game keeper, sun bathe",
+            "Fixed phrases: make friends, be careful, fall asleep, in future, in a hurry",
+            "Similes: as brave as a lion, as blind as a bat",
+            "Metaphor: She is a lion. She is so brave",
+            "Proverbs: prevention is better than cure, seeing is believing, the early bird catches the worm",
+            "Idioms: sick as a dog, you are what you eat, kick the habit, let the cat out of the bag, would not hurt a fly",
+            "Phrasal verbs: go away, go back, pick up, get away"
+          ],
+          "linkedLearningAreas": ["Social Studies — tourist attraction sites"]
+        },
+        {
+          "name": "6.1.1 Pronunciation and Vocabulary — Intonation and Stress (Jobs and Occupation - Work Ethics)",
+          "specificLearningOutcomes": ["Identify words and phrases with the sounds /f/, /v/ and /əʊ/", "Use vocabulary related to the theme in sentences correctly", "Apply stress and intonation in questions, statements, and exclamatory sentences", "Value the importance of stress and intonation in sentences"],
+          "keyInquiryQuestions": ["Why do we put emphasis on some words and not others?", "How can you vary your voice to convey different meanings?"],
+          "learningExperiences": [
+            "Sounds /f/, /v/ and /əʊ/; stress and intonation across questions/statements/exclamations",
+            "Theme vocabulary: value, work, bad, virtue, upright, code, responsible, occupation, teamwork, integrity, trespass, co-worker, self-esteem, passion, smart, early, unethical, loyal, hardworking, hard work, character, corrupt, honest, reward, excel",
+            "Fixed phrases: take care of, have no idea, you never know",
+            "Similes: as happy as a king, as busy as a bee, work like a horse",
+            "Metaphor: Wambui is a bee. She is so busy",
+            "Idioms: lay off, hand in, take over, deal with, strike while the iron is hot, go the extra mile",
+            "Proverbs: make hay while the sun shines, the sun does not wait for a king, honesty is the best policy, slow but sure wins the race, Jack of all trades master of none",
+            "Phrasal verbs: grow up, take over, deal with, give up, go on"
+          ],
+          "linkedLearningAreas": ["Kiswahili — stress and intonation"]
+        },
+        {
+          "name": "7.1.1 Pronunciation and Interactive Listening (Technology: Scientific Innovations)",
+          "specificLearningOutcomes": ["Articulate sounds correctly for communication clarity", "Seek clarification during a two-way conversation to express different moods in oral contexts", "Interrupt appropriately during a conversation", "Use appropriate words and expressions such as similes, metaphors, proverbs among others", "Advocate the importance of interactive listening"],
+          "keyInquiryQuestions": ["How do you interrupt a speaker politely during a conversation?", "What emotions or feelings do we show on our faces when talking?"],
+          "learningExperiences": [
+            "Sounds /ɒ/ as in of/on/from/lot/hot, /ɔː/ as in door/sort/short/ball/call; showing moods (happiness, surprise, sadness, regret, pain) while seeking clarification; turn-taking and appropriate interruption",
+            "Theme vocabulary: engineer, computer science, device, app, telephone, industrial, laboratory, evolve, architect, irrigation, electronic, wireless, digital, invent, modern, medical, advance, space, rocket, science, discover, satellite",
+            "Fixed phrases: good at, be familiar with, little by little, long ago, a long time ago",
+            "Similes: work like magic, as easy as ABC, like a sea of knowledge, as slow as a snail, as quick as silver",
+            "Metaphor: The internet is a sea of knowledge. It has a lot of information",
+            "Idioms: to make headway, apple of my eye",
+            "Proverbs: practise makes perfect, necessity is the mother of invention, live and learn, little learning is a dangerous thing",
+            "Phrasal verbs: start over, key in, leave behind, look for, come up with"
+          ],
+          "linkedLearningAreas": ["Kiswahili — listening skills"]
+        },
+        {
+          "name": "8.1.1 Pronunciation and Vocabulary — Riddles and Proverbs (The Farm - Animal Safety and Care)",
+          "specificLearningOutcomes": ["Explain the difference between riddles and proverbs", "Pronounce sounds, words, and phrases related to the theme accurately", "Use words and expressions such as idioms, fixed phrases, phrasal verbs and proverbs in varied contexts", "Acknowledge the importance of proverbs, riddles, and idioms in communication"],
+          "keyInquiryQuestions": ["Why do we tell riddles and proverbs?", "Which are some of the proverbs you know?"],
+          "learningExperiences": [
+            "Sounds /ʃ/ and /ʧ/; a riddling session; own riddles created and shared",
+            "Theme vocabulary: veterinary, poisonous, cruel, brand, sanctuary, adoption, orphanage, cage, inspect, helmet, pesticide, tether, endangered, die, protect, safety, danger, care, suffering, clean, pet, feed, animal rights, overwork",
+            "Fixed phrases: in good shape, at the moment, make money, one by one",
+            "Similes: as mischievous as a monkey, as helpless as a baby, as gentle as a lamb, as white as wool",
+            "Metaphor: the girl is a lamb. She is so gentle",
+            "Idioms: would not hurt a fly, curiosity killed the cat, let the cat out of the bag, kill two birds with one stone",
+            "Proverbs: a bad workman quarrels with his tools, put all your eggs in one basket, it is no use crying over spilt milk, a barking dog never bites, a dog is a man's best friend",
+            "Phrasal verbs: die out, care for, care about, look after, rely on"
+          ],
+          "linkedLearningAreas": ["Kiswahili — riddles and tongue twisters for pronunciation"]
+        },
+        {
+          "name": "9.1.1 Pronunciation and Speaking: Fluency (Lifestyle Diseases)",
+          "specificLearningOutcomes": ["Identify words, phrases and sentences with the target sounds", "Use words and expressions such as idioms, proverbs and similes related to the theme in sentences correctly", "Make an oral presentation related to the theme fluently", "Acknowledge the importance of fluency in oral communication"],
+          "keyInquiryQuestions": ["Why should you speak accurately and without hesitations?", "What is the importance of showing the right feelings when reciting a poem or telling a story?"],
+          "learningExperiences": [
+            "Sounds /eə/, /aʊ/ and /h/; short speeches made expressively, accurately, without hesitations; readers' theatre showing right facial expressions",
+            "Theme vocabulary: cancer, high blood pressure, heart disease, heart attack, obesity, overweight, diabetes, exercise, incurable, cure, allergy, treat, distress, headache, prevention, diet, lifestyle, stroke",
+            "Fixed phrase: fall sick",
+            "Simile: as right as rain",
+            "Metaphor: Kadzo is a lark. She is always happy",
+            "Idioms: fit as a fiddle, sick like a dog",
+            "Proverbs: an apple a day keeps the doctor away, prevention is better than cure",
+            "Phrasal verb: pass out"
+          ],
+          "linkedLearningAreas": ["Kiswahili — public speaking"]
+        },
+        {
+          "name": "10.1.1 Pronunciation and Vocabulary: Interactive Listening (Proper Use of Leisure Time)",
+          "specificLearningOutcomes": ["Identify words with the sound /h/ in an oral text", "Use turn taking and polite interruption during a conversation", "Express appropriate moods during a conversation", "Advocate the importance of polite interruption and turn taking in oral communication"],
+          "keyInquiryQuestions": ["Why should we take turns in a conversation?", "What are some of the moods/feelings we can show during a conversation?"],
+          "learningExperiences": [
+            "Sounds /h/ as in holiday, /j/ as in yam, /eə/ as in air; turn-taking during interviews/debates/discussions; polite interruption; reader's theatre showing moods",
+            "Theme vocabulary: holiday, enjoy, drugs, recreation, leisure, pastime, vacation, relax, loiter, waste, squander, idle, pleasure, hobbies, bully, misconduct, stroll, insult, blackmail, exercise, sports, games, picnic",
+            "Fixed phrase: kill time",
+            "Simile: sleep like a log",
+            "Metaphor: My mother is hawk eyed. She sees everything",
+            "Proverb: there is no time like the present",
+            "Idiom: day dream",
+            "Phrasal verb: good at"
+          ],
+          "linkedLearningAreas": ["Creative Arts — group interactions"]
+        },
+        {
+          "name": "11.1.1 Pronunciation and Vocabulary (Sports - Indoor Games)",
+          "specificLearningOutcomes": ["Select sounds, words and phrases from a text for listening fluency", "Use words and expressions such as proverbs, phrasal verbs, among others in sentences", "Listen for specific details and main idea from audio recordings, internet, radio or television programmes", "Appreciate the importance of effective listening in communication"],
+          "keyInquiryQuestions": ["Why should we look at the face of people as they speak?", "How are audio stories different from a written story?"],
+          "learningExperiences": [
+            "Sounds /ʊ/ and /uː/; interpreting non-verbal cues correctly during conversations",
+            "Theme vocabulary: sports, volleyball, basketball, wrestling, gymnasium, arena, stadium, monopoly, lane, chess, court, card room, host, draw, front runner, table tennis, badminton, Olympics, netball, boxing, swimming, compete, win, hobby",
+            "Fixed phrase: out of breath",
+            "Simile: as bright as day",
+            "Metaphor: Lodunga is a deer. He runs very fast",
+            "Idiom: get a head start",
+            "Proverb: look before you leap",
+            "Phrasal verb: pass round"
+          ],
+          "linkedLearningAreas": ["Religious Education — completing written assignments correctly"]
+        },
+        {
+          "name": "12.1.1 Pronunciation and Vocabulary (Environment Conservation)",
+          "specificLearningOutcomes": ["Listen for specific details such as sounds, words and expressions for effective oral communication", "Make oral presentations such as speeches accurately, with minimal hesitations and with expressions", "Use non-verbal cues appropriately to enhance fluency", "Judge the appropriateness of non-verbal cues in a conversation or video recordings"],
+          "keyInquiryQuestions": ["Why should you speak at the right speed, accurately, and with expression?", "How do our faces, hands, and eyes help us communicate better?"],
+          "learningExperiences": [
+            "Sounds /ʒ/ and /ʤ/; speeches on environmental conservation delivered in class; mock interviews",
+            "Theme vocabulary: conserve, preserve, restore, wildlife, nature, drought, dry, die, reforestation, safeguard, sustain, sewage, garbage, refuse, pollute, forest, gullies, recycle, soil erosion",
+            "Fixed phrases: as long as, all the time, set on fire, from time to time, too bad, be in trouble",
+            "Similes: as wide as the sky, as brave as a lion, as green as grass, as clear as crystal, as clear as day, as black as soot, as pure as snow",
+            "Metaphors: The man is a tortoise. He walks so slowly! Sanaipei is a lion. She is very brave",
+            "Idioms: a drop in the ocean, add fuel to the fire, beat about the bush, the grass is always greener on the other side of the fence",
+            "Proverbs: prevention is better than cure, the best things in life are free, an apple never falls far from the tree, if you want to be happy for a year plant a garden, if you want to be happy for life plant a tree",
+            "Phrasal verbs: clean up, cut down, die out, dry up"
+          ],
+          "linkedLearningAreas": ["Social Studies — oral presentations"]
+        },
+        {
+          "name": "13.1.1 Pronunciation and Intensive Listening (Money - Trade)",
+          "specificLearningOutcomes": ["Identify specific sounds, words, phrases, and sentences from a text", "Listen to a short text and rewrite it accurately", "Use expressions such as similes, proverbs, fixed phrases, idioms and metaphors in oral contexts correctly", "Advocate the need for attentive listening during oral comprehension"],
+          "keyInquiryQuestions": ["Why should we listen carefully?", "What is the function of similes and proverbs in communication?"],
+          "learningExperiences": [
+            "Sounds /ʌ/ as in but, /ʊ/ as in put, /ʊə/ as in tour, /eɪ/ as in gate; dictation and accurate rewriting of a short text; predicting the likely outcome of events in a listening text; picking out amounts/dates/time/facts/characters/sequence from an oral text",
+            "Theme vocabulary: currency, funds, stock, purchase, foreign exchange, wholesale, retail, export, product, online trade, import, deal, hawker, boutique, service, consume, tax, negotiate, credit, hike, buy, barter trade, profit, invest, save, safe",
+            "Fixed phrases: at once, no entry",
+            "Similes: sell like hot cakes, as happy as a hippo",
+            "Metaphor: Chebet is a hare. She is so clever",
+            "Proverbs: a stitch in time saves nine, money doesn't grow on trees",
+            "Idioms: back to square one, to cut corners",
+            "Phrasal verbs: count on, give in, give back"
+          ],
+          "linkedLearningAreas": ["Kiswahili — reading of texts"]
+        }
+      ]
+    },
+    {
+      "name": "Reading",
+      "subStrands": [
+        {
+          "name": "1.2.1 Extensive Reading (Child Labour)",
+          "specificLearningOutcomes": ["Select appropriate reading materials in collaboration with peers", "Read a variety of materials independently for information and pleasure", "Use reference materials to find the required information", "Judge the suitability of sample extensive reading materials"],
+          "keyInquiryQuestions": ["How do you select the books you read?", "Why do you read books?"],
+          "learningExperiences": [
+            "Select age-appropriate reference materials from print and non-print sources; search for information on child labour; compile a list of new words and meanings; create a crossword puzzle from the new words; make notes on information obtained"
+          ],
+          "linkedLearningAreas": ["Kiswahili — listening comprehension skills"]
+        },
+        {
+          "name": "2.2.1 Intensive Reading — Comprehension strategies (Cultural and Religious Celebrations)",
+          "specificLearningOutcomes": ["Identify characters and events in a text for comprehension", "Predict events in a text accurately", "Answer factual and inferential questions correctly for comprehension", "Create mental images from the events in poems and stories", "Judge the characters or events in a story in collaboration with peers"],
+          "keyInquiryQuestions": ["Why do we enjoy reading stories and poems?", "Which stories and poems have you read?"],
+          "learningExperiences": [
+            "Read a poem or story (~500 words) and identify characters/events; predict events; answer factual/inferential questions; recite a poem collaboratively; summarise events by retelling; create crossword puzzles using learnt vocabulary; describe characters or places in poems/stories"
+          ],
+          "linkedLearningAreas": ["Religious Education — storytelling"]
+        },
+        {
+          "name": "3.2.1 Intensive Reading (Etiquette - Telephone)",
+          "specificLearningOutcomes": ["Identify new words in a text for comprehension", "Answer direct and inferential questions for comprehension", "Infer the meaning of words, similes, proverbs, metaphors and idioms with straightforward meanings using contextual clues", "Advocate the need to read intensively for lifelong learning"],
+          "keyInquiryQuestions": ["How do you obtain information from a text?", "Why do you need to infer the meaning of unfamiliar words?"],
+          "learningExperiences": [
+            "Skim/scan a text (up to 500 words) on etiquette; answer direct/inferential questions; use contextual clues (synonyms/antonyms/neighbouring words) to infer meaning of fixed phrases/similes/metaphors/idioms/proverbs/phrasal verbs; use a dictionary; create a crossword puzzle from text vocabulary"
+          ],
+          "linkedLearningAreas": ["Pre-Technical Studies — critical study skill", "Religious Education"]
+        },
+        {
+          "name": "4.2.1 Intensive Reading — Visuals (Emergency Rescue Services)",
+          "specificLearningOutcomes": ["Predict events from visuals", "Create images from viewed, read or heard texts", "Answer direct and inferential questions correctly for comprehension", "Assess the relevance of visuals in a text"],
+          "keyInquiryQuestions": ["How can we communicate without using words?", "What information can we obtain from pictures?"],
+          "learningExperiences": [
+            "Read a variety of visuals related to emergency rescue services; infer meaning of words (unconscious, casualty, oxygen mask, hazard, precaution, prepare, critical, escape, care, intensive care unit, watch out) from the passage; make predictions from visuals; create and retell a story from visuals; judge the relevance of visuals; watch videos/mimes/cartoons and answer questions"
+          ],
+          "linkedLearningAreas": ["Creative Arts — skills of creating from visuals"]
+        },
+        {
+          "name": "5.2.1 Extensive Reading — Fiction/Non-Fiction 1251-1500 words (Our Tourist Attractions)",
+          "specificLearningOutcomes": ["Select appropriate reading materials from varied texts", "Read a variety of texts for enjoyment and general understanding", "Assess a text for appropriateness and relevance"],
+          "keyInquiryQuestions": ["Why should we read a variety of materials?", "How do you identify the book you want to read?"],
+          "learningExperiences": [
+            "Preview a text by title/author (fiction/non-fiction, 1251-1500 words); determine appropriateness collaboratively; skim texts on tourist attraction sites for the general idea; scan for specific details/keywords; select and read based on interest"
+          ],
+          "linkedLearningAreas": ["Agriculture — extensive reading skill"]
+        },
+        {
+          "name": "6.2.1 Intensive Reading — Dialogue (Jobs and Occupation - Work Ethics)",
+          "specificLearningOutcomes": ["Make connections between events in the text and prior experiences", "Use contextual clues to infer the meaning of vocabulary such as words, proverbs, fixed phrases, similes, and phrasal verbs", "Respond to a reading text for comprehension", "Acknowledge the role of reading comprehension in lifelong learning"],
+          "keyInquiryQuestions": ["Why is it important to relate events in a story to our own experience?", "How can you predict what will happen in a story or passage?"],
+          "learningExperiences": [
+            "Relate title/illustrations to personal experiences; skim a dialogue (~500 words) for the general idea; scan for specific details on work ethics; predict from cover/pictures/title; infer meaning from context; visualise from text; retell events; make posters of new words; answer literal/inferential questions"
+          ],
+          "linkedLearningAreas": ["Kiswahili — intensive reading skills"]
+        },
+        {
+          "name": "7.2.1 Extensive Reading — Fictional and Non-Fictional 1251-1500 words (Technology: Scientific Innovations)",
+          "specificLearningOutcomes": ["Select appropriate reading texts from a library", "Read a variety of texts for general information and enjoyment", "Acknowledge the importance of reading widely for lifelong learning"],
+          "keyInquiryQuestions": ["How can you obtain the general idea of what a text is about?", "Why is it important to read many books?"],
+          "learningExperiences": [
+            "Select a text from a varied collection/library; preview table of contents and answer oral questions; skim for gist; scan for specific information; select a reading text (1251-1500 words); use a dictionary; write and share a summary"
+          ],
+          "linkedLearningAreas": ["Social Studies — research skills for assignments"]
+        },
+        {
+          "name": "8.2.1 Fluency (The Farm - Animal Safety and Care)",
+          "specificLearningOutcomes": ["Select a reading text from a collection of materials or the library", "Read a text at a reasonable speed for fluency", "Read a text accurately and with expression", "Acknowledge the importance of reading fluency in lifelong learning"],
+          "keyInquiryQuestions": ["How can you improve your reading speed?", "What are some of the feelings you show when reading a story or poem?"],
+          "learningExperiences": [
+            "Obtain specific information from a text; practise reading at the right speed with peers; read a text on animal safety observing punctuation correctly; watch a video on reading fluency; recite a choral verse collaboratively; read a paragraph/passage/story in turns"
+          ],
+          "linkedLearningAreas": ["Kiswahili — reading and appreciating texts"]
+        },
+        {
+          "name": "9.2.1 Intensive Reading — Fictional and Non-fictional (Lifestyle Diseases)",
+          "specificLearningOutcomes": ["Make connections between events in the text and real life experiences", "Create mental images from viewed, heard or read text for comprehension", "Respond to texts correctly for comprehension", "Acknowledge the importance of reading comprehension in lifelong learning"],
+          "keyInquiryQuestions": ["Why should we relate events in a text with real life, people or places?", "How can we predict what will happen in a text or story?"],
+          "learningExperiences": [
+            "Predict events from title/cover/pictures on lifestyle diseases; picture events/characters/places mentally; read texts (~500 words); connect events to real-world occurrences; infer meaning of unfamiliar words/fixed phrases/idioms/proverbs/phrasal verbs; answer direct/inferential questions; retell events; create a mind map of text vocabulary"
+          ],
+          "linkedLearningAreas": ["Creative Arts — drama techniques (mental imaging)"]
+        },
+        {
+          "name": "10.2.1 Intensive Reading (Proper Use of Leisure Time)",
+          "specificLearningOutcomes": ["Make connections between events in a text and real life experiences", "Respond to a text correctly for comprehension", "Use contextual clues to infer the meaning of unfamiliar words and expressions such as proverbs, similes among others", "Acknowledge the role of reading comprehension in lifelong learning"],
+          "keyInquiryQuestions": ["Why should we relate events in a book to our own life experiences?", "How can you predict the information in a book even before you read it?"],
+          "learningExperiences": [
+            "Preview a text on proper use of leisure time for general understanding; predict events; infer meaning using prior knowledge/contextual clues; answer direct/inferential questions orally and in writing; summarise events through retelling; create a crossword puzzle using learnt vocabulary"
+          ],
+          "linkedLearningAreas": ["Kiswahili — reading skills"]
+        },
+        {
+          "name": "11.2.1 Intensive Reading — Digital Stories (Sports - Indoor Games)",
+          "specificLearningOutcomes": ["Identify words, phrases and proverbs from a digital text", "Create mental images from viewed, heard or read text", "Answer direct and inferential questions correctly for comprehension", "Acknowledge the role of reading comprehension in lifelong learning"],
+          "keyInquiryQuestions": ["What role do pictures in a book or cover play in a story?", "How are digital stories different from story books?"],
+          "learningExperiences": [
+            "Reader's theatre reading solo/choral poems on indoor games; predict from cover/title; connect pictures to real life; summarise ideas in own words; retell events chronologically; infer meaning of similes/metaphors/idioms/proverbs/phrasal verbs from context; summarise through retelling"
+          ],
+          "linkedLearningAreas": ["Kiswahili — reading of passages"]
+        },
+        {
+          "name": "12.2.1 Intensive Reading — Poems/Songs Stress and Rhythm (Environment Conservation)",
+          "specificLearningOutcomes": ["Identify words, phrases, and proverbs used in a song or poem", "Use stress and rhythm correctly while reading lines and words in a poem or song", "Respond to a reading text for comprehension", "Advocate the importance of correct stress and rhythm in communication"],
+          "keyInquiryQuestions": ["Why are songs and poems more enjoyable than reading a book?", "How can we make a poem or song more interesting?"],
+          "learningExperiences": [
+            "Reader's theatre reading solo/choral poems using correct stress; sing along to a poetry recitation/song video using correct rhythm; identify words/phrases/proverbs used; predict events in an environmental-conservation poem from picture/title; answer direct/inferential questions; create mental images comparing to real life; infer meaning of new words/expressions (fixed phrases, proverbs, idioms, phrasal verbs, similes) from context"
+          ],
+          "linkedLearningAreas": ["Kiswahili — intensive reading"]
+        },
+        {
+          "name": "13.2.1 Extensive Reading (Money - Trade)",
+          "specificLearningOutcomes": ["Select appropriate reading texts from print or digital collections", "Read a variety of print or digital texts for enjoyment and general understanding", "Appreciate the importance of extensive reading in lifelong learning"],
+          "keyInquiryQuestions": ["Why do we enjoy reading some materials but not others?", "How do you obtain information from a newspaper, book, or magazine quickly?"],
+          "learningExperiences": [
+            "Skim/scan various texts; read texts of 1251-1500 words from newspapers, magazines, grade-appropriate digital/print texts and articles; collaborate to establish a class library; read print and non-print materials independently; read newspapers/magazines/poems/class readers on trade; read digital versions of newspapers/magazines"
+          ],
+          "linkedLearningAreas": ["Kiswahili — reading extensively for information"]
+        }
+      ]
+    },
+    {
+      "name": "Language Use",
+      "subStrands": [
+        {
+          "name": "1.3.1 Word Classes — Determiners: some, enough, each, a lot of (Child Labour)",
+          "specificLearningOutcomes": ["Identify determiners some, enough, each, and a lot of, in texts", "Use determiners some, enough, each, and a lot of, in sentences correctly", "Collaborate with peers to judge the correct use of determiners in sentences"],
+          "keyInquiryQuestions": ["How do we express the quantity or amount of something?", "Why should we give the exact amount of something?"],
+          "learningExperiences": ["Identify determiners in sentences; complete online quizzes; construct sentences; use substitution tables; correct peer sentences; judge correctness in groups"],
+          "linkedLearningAreas": ["Kiswahili — editing written work"]
+        },
+        {
+          "name": "2.3.1 Word Classes — Concrete and Abstract Nouns (Cultural and Religious Celebrations)",
+          "specificLearningOutcomes": ["Identify concrete and abstract nouns from a text", "Use concrete and abstract nouns correctly in a variety of contexts", "Appreciate the role of concrete and abstract nouns in communication"],
+          "keyInquiryQuestions": ["Which things can you see and touch in the classroom?", "Which things cannot be seen or touched?"],
+          "learningExperiences": ["Listen to a story/conversation/poem containing both noun types; pick them out; construct sentences; use substitution tables; create and share a crossword puzzle or word search digitally"],
+          "linkedLearningAreas": ["Kiswahili — nouns"]
+        },
+        {
+          "name": "3.3.1 Correlative Conjunctions — either...or/neither...nor and show...nominal...how/where/who (Etiquette - Telephone)",
+          "specificLearningOutcomes": ["Identify correlative conjunctions in an oral or written text", "Use correlative conjunctions correctly in oral and written communication", "Use the pattern show...nominal...how/where/who in sentences", "Acknowledge the importance of using well-formed sentences in communication"],
+          "keyInquiryQuestions": ["Which words do we use when making a choice between two things?"],
+          "learningExperiences": ["Identify the show...nominal...how/where/who pattern; use either...or/neither...nor in sentences; construct sentences with the pattern; fill in blanks; search newspapers/magazines/internet for correlative-conjunction examples"],
+          "linkedLearningAreas": ["Kiswahili — conjunctions"]
+        },
+        {
+          "name": "4.3.1 Word Classes — Relative and Indefinite Pronouns (Emergency Rescue Services)",
+          "specificLearningOutcomes": ["Identify relative and indefinite pronouns in a text", "Use relative and indefinite pronouns correctly in oral and written texts", "Judge the correctness of sentences featuring relative and indefinite pronouns from various texts"],
+          "keyInquiryQuestions": ["Which words do we use to refer to people or things without saying who or what they are exactly?"],
+          "learningExperiences": ["Relative pronouns that/which/who/whom/whose; indefinite pronouns anyone/anything/everybody/everyone/everything/nobody/somebody/someone; construct sentences on emergency rescue services; complete a crossword puzzle with theme vocabulary (red cross, ambulance, emergency, flying doctors, one way, two way, dual carriage way, guard rails, culverts); create posters/charts"],
+          "linkedLearningAreas": ["Kiswahili"]
+        },
+        {
+          "name": "5.3.1 Adjectives — Comparative and Superlative Forms (Our Tourist Attractions)",
+          "specificLearningOutcomes": ["Identify simple, comparative and superlative forms of adjectives in print and digital texts correctly", "Use simple, comparative and superlative forms of adjectives in oral and written texts", "Acknowledge the importance of using adjectives correctly in communication"],
+          "keyInquiryQuestions": ["Which words do we use to describe people, things, and places?", "How do we compare people, things, and events?"],
+          "learningExperiences": ["Identify adjectives; compare items using simple/comparative/superlative forms; list regular and irregular adjectives; create and display a crossword puzzle/word search"],
+          "linkedLearningAreas": ["Kiswahili — grammar lessons"]
+        },
+        {
+          "name": "6.3.1 Phrasal Quantifiers (Jobs and Occupation - Work Ethics)",
+          "specificLearningOutcomes": ["Recognise phrasal quantifiers in oral and written contexts", "Use phrasal quantifiers with countable and uncountable nouns correctly", "Judge the correctness of phrasal quantifiers in sentences"],
+          "keyInquiryQuestions": ["How do we tell countable nouns from uncountable ones?", "Which words are used to show the amount of something?"],
+          "learningExperiences": ["Identify quantifiers a lot of, a pinch of, plenty of, a number of, a crate of from a video/audio text on work ethics; construct sentences; create and share charts/posters; use substitution tables"],
+          "linkedLearningAreas": ["Agriculture — handling food and nutrition"]
+        },
+        {
+          "name": "7.3.1 Tense — Future Continuous Aspect (Technology: Scientific Innovations)",
+          "specificLearningOutcomes": ["Identify sentences featuring future continuous tense in print and digital texts", "Use future continuous tense in oral and written contexts correctly", "Assess sentences for correctness and appropriateness of tense"],
+          "keyInquiryQuestions": ["How do you show an action will take place tomorrow or at a later time?"],
+          "learningExperiences": ["Ask/answer 'What are you doing?/What were you doing yesterday?/What will you be doing tomorrow?'; describe likely future events from a map/globe/time-zones list/video/pictures; discuss past/present/future activities; search the internet for continuous-aspect examples; judge correctness of sample sentences"],
+          "linkedLearningAreas": ["Kiswahili and all other learning areas — presentations"]
+        },
+        {
+          "name": "8.3.1 Sentence Patterns — Active and Passive Voice (The Farm - Animal Safety and Care)",
+          "specificLearningOutcomes": ["Distinguish the active and passive voice in a sample text correctly", "Contrast the use of some given words in sentences", "Use active and passive voice correctly", "Assess sentences for correctness on the use of active and passive voice"],
+          "keyInquiryQuestions": ["How do we change a sentence from active to passive form?"],
+          "learningExperiences": ["Identify active/passive sentences from a text; convert active↔passive; sort/classify sentence pairs; construct active/passive sentences on animal safety and share digitally; search the internet for more examples; judge correctness collaboratively"],
+          "linkedLearningAreas": ["Kiswahili — writing of minutes"]
+        },
+        {
+          "name": "9.3.1 Adverbs (Lifestyle Diseases)",
+          "specificLearningOutcomes": ["Identify adverbs in oral and written texts", "Use adverbs to express different meanings correctly", "Judge the appropriateness of adverbs used in oral and written texts"],
+          "keyInquiryQuestions": ["How do we show where, how, when and how many times an action occurs?", "What are some of the words you could use to talk more about an action?"],
+          "learningExperiences": ["Identify adverbs of manner/time/place/frequency in a text on lifestyle diseases; underline adverbs in a passage; pick out adverbs from print texts/internet; judge correctness of sentences featuring adverbs; form sentences; create a poem/story; create and solve crossword puzzles"],
+          "linkedLearningAreas": ["Kiswahili — word classes"]
+        },
+        {
+          "name": "10.3.1 Conjunctions — since, so, nor, yet, for, unless, although, though (Proper Use of Leisure Time)",
+          "specificLearningOutcomes": ["Identify conjunctions in a text", "Use conjunctions correctly in varied contexts", "Judge the appropriateness of conjunctions used in sentences"],
+          "keyInquiryQuestions": ["How do you join two or more sentences?"],
+          "learningExperiences": ["Identify the conjunctions since/so/nor/yet/for/unless/although/though in a text; construct sentences on proper use of leisure time; fill in blanks; create and share a crossword puzzle"],
+          "linkedLearningAreas": ["Kiswahili — similar concepts"]
+        },
+        {
+          "name": "11.3.1 Interrogatives (Sports - Indoor Games)",
+          "specificLearningOutcomes": ["Identify interrogatives in print or digital texts", "Use interrogatives correctly to express different meanings", "Assess the appropriateness of interrogatives used in print and digital texts"],
+          "keyInquiryQuestions": ["How do you form questions?", "Why do we ask questions?"],
+          "learningExperiences": ["Distinguish interrogatives (how, what, when, whom, why, which, where) from non-interrogative look-alikes (whip, whisper, whole); use when-clauses with present tense to show the future; construct interrogative sentences on the theme; display typed lists to peers"],
+          "linkedLearningAreas": ["Kiswahili"]
+        },
+        {
+          "name": "12.3.1 Question Tags (Environment Conservation)",
+          "specificLearningOutcomes": ["Identify question tags from a print or digital text for information", "Form question tags from verbs to be, verbs to have, verbs to do and modals", "Use question tags correctly in oral and written texts", "Appreciate the importance of well-formed sentences in communication"],
+          "keyInquiryQuestions": ["What is a question tag?", "How do we form question tags?"],
+          "learningExperiences": ["Identify verbs to be/have/do and modals; form question tags applying the positive-statement→negative-tag rule and vice versa; search the web for examples; practise in dialogues/conversations; make and display posters"],
+          "linkedLearningAreas": ["Kiswahili — interrogatives"]
+        },
+        {
+          "name": "13.3.1 Word Classes — Prepositions (Money - Trade)",
+          "specificLearningOutcomes": ["Identify prepositions correctly in oral and written texts", "Use prepositions correctly in varied texts", "Judge the appropriateness of prepositions used in various texts"],
+          "keyInquiryQuestions": ["What words do we use to describe the position of people or objects in relation to others?"],
+          "learningExperiences": ["Prepositions of time (since, before, until, about, during, past), direction (above, across, below, after), agent (by, with), instrument (with, by); create visuals demonstrating preposition use; construct sentences on money and trade; create crossword puzzles; create charts/posters showing object position"],
+          "linkedLearningAreas": ["Kiswahili"]
+        }
+      ]
+    },
+    {
+      "name": "Writing",
+      "subStrands": [
+        {
+          "name": "1.4.1 Guided Writing — Fill in Forms (Child Labour)",
+          "specificLearningOutcomes": ["Record specific details on forms to convey information", "Design a form to provide the required information", "Advocate the importance of filling forms correctly"],
+          "keyInquiryQuestions": ["Why do we fill forms?", "Why is it important to fill forms accurately and correctly?"],
+          "learningExperiences": ["Discuss different types of forms filled before; search for and download sample forms from the internet; fill basic/personal/'why' details on a form; design a form with basic/personal/why details in small groups"],
+          "linkedLearningAreas": ["Kiswahili — filling forms"]
+        },
+        {
+          "name": "Creative Writing — Narrative Compositions (merged: Cultural and Religious Celebrations 2.4.1, Our Tourist Attractions 5.4.1, The Farm - Animal Safety and Care 8.4.1)",
+          "specificLearningOutcomes": ["Identify topics and possible ideas for open-ended compositions", "Organise ideas in a paragraph logically", "Create an open-ended narrative composition on a variety of themes (160-200 words)", "Judge a narrative composition for correctness of language, relevance of topic, organisation of ideas and creativity"],
+          "keyInquiryQuestions": ["How can you make your composition interesting to read?", "Why is it important to plan your composition?", "What makes a composition interesting?"],
+          "learningExperiences": [
+            "Theme 2 (Cultural and Religious Celebrations): list topics/ideas; discuss experiences in groups; write points to guide an open-ended narrative composition (160-200 words) on cultural/religious celebrations, e.g. 'Daktari nimpendaye'-style prompts adapted for English, with anwani/mpangilio/hati safi equivalents — correct paragraphing, punctuation, creative language including proverbs/similes/idioms; collaborate on the first paragraph; complete individually; proofread; peer-critique for coherence/creativity/relevance/accuracy",
+            "Theme 5 (Our Tourist Attractions): identify parts of a narrative composition; plan collaboratively (160-200 words) on tourist attraction sites; critique sample compositions for correctness of language, flow/organisation, relevance, creativity; use the writing process; use fixed phrases such as catch fire, similes such as as fast as lightning, metaphors such as the boy was a fox — he was so cunning, proverbs such as prevention is better than cure, idioms such as get into hot water, phrasal verbs such as care for",
+            "Theme 8 (The Farm - Animal Safety and Care): use the full writing process (planning, drafting, editing, revising, publishing) to create a narrative composition (160-200 words); identify idioms/proverbs/similes from a text; use fixed phrases/similes/idioms/phrasal verbs/metaphors in writing; display compositions in class/charts/school magazine/noticeboard/blogs; complete a gap-filling exercise involving similes, proverbs and idioms"
+          ],
+          "linkedLearningAreas": ["Kiswahili — writing process", "Creative Arts and Pre-Technical Studies — essay writing (planning/drafting/editing/revising/publishing)"]
+        },
+        {
+          "name": "3.4.1 Mechanics of Writing — Acronyms, Abbreviations, Numerals (Etiquette - Telephone)",
+          "specificLearningOutcomes": ["Identify numerals, common abbreviations and acronyms from a text", "Compose a story incorporating acronyms, abbreviations and numerals", "Use similes, proverbs, metaphors and idioms with straightforward meanings in a composition", "Judge correctness of abbreviations, numerals and acronyms used in a text"],
+          "keyInquiryQuestions": ["Why do we use abbreviations and acronyms?", "How do we write numerals?"],
+          "learningExperiences": ["Search the internet for numerals/abbreviations/acronyms; create and peer-review a crossword puzzle featuring them; compose a story (150-200 words) incorporating common acronyms, abbreviations and numerals using idioms/similes/metaphors correctly"],
+          "linkedLearningAreas": ["Kiswahili"]
+        },
+        {
+          "name": "4.4.1 Functional Writing — Formal Letter (Emergency Rescue Services)",
+          "specificLearningOutcomes": ["Identify the key features of a formal letter", "Create a formal invitation letter using the correct format", "Judge a formal letter for correctness of language and relevance"],
+          "keyInquiryQuestions": ["Why do you write letters?", "Which kinds of letters do you write?"],
+          "learningExperiences": ["Identify formal-letter components from a sample; search/download sample formal letters; plan and write a formal invitation letter; proofread and correct; display/upload/share via email/WhatsApp; write an invitation letter to a County NTSA Officer/Red Cross/St. John Ambulance representative requesting a talk on emergency response"],
+          "linkedLearningAreas": ["Kiswahili — writing of letters"]
+        },
+        {
+          "name": "6.4.1 Creative Writing — Pictorial Compositions (Jobs and Occupation - Work Ethics)",
+          "specificLearningOutcomes": ["Plan a composition in preparation for writing", "Use appropriate words and expressions such as similes, metaphors, fixed phrases, phrasal verbs and idioms in written communication", "Create a pictorial composition from visuals", "Judge a pictorial composition for relevance of topic, correctness of language, and creativity"],
+          "keyInquiryQuestions": ["How can you make others want to read your composition?", "What information do we obtain from pictures or visuals?"],
+          "learningExperiences": ["View and discuss pictures/illustrations/comic strips from newspapers and magazines; use fixed phrases/similes/metaphors/idioms/proverbs/phrasal verbs in a composition; collaboratively compose a story (160-200 words) from visuals; organise ideas logically; revise with peer suggestions; publish on wall/charts/online/posters/social media"],
+          "linkedLearningAreas": ["Kiswahili — composition writing"]
+        },
+        {
+          "name": "7.4.1 Mechanics of Writing — Punctuation: Comma and Double Quotation Marks (Technology: Scientific Innovations)",
+          "specificLearningOutcomes": ["Identify the comma and double quotation marks in a text", "Use the comma and the double quotation marks correctly in oral and written texts", "Collaborate with peers to determine the correct use of the comma and the double quotation marks"],
+          "keyInquiryQuestions": ["Why should we punctuate our speech or writing correctly?", "Which punctuation marks do you use frequently?"],
+          "learningExperiences": ["Identify sentences using the comma/double quotation marks; recite a poem on scientific innovations attending to punctuation; listen to an oral presentation and answer questions; use substitution tables; construct and punctuate sentences with peers; create a poster/PowerPoint and display to another group; write from dictation and punctuate correctly"],
+          "linkedLearningAreas": ["Kiswahili and Religious Education — essay writing"]
+        },
+        {
+          "name": "9.4.1 Mechanics of Writing — The Hyphen (Lifestyle Diseases)",
+          "specificLearningOutcomes": ["Identify grade-appropriate hyphenated words from a written text", "Use grade-appropriate hyphenated words correctly for clarity of meaning", "Judge sentences for correctness of language, and use of the hyphen"],
+          "keyInquiryQuestions": ["Why is it important to punctuate texts appropriately?"],
+          "learningExperiences": ["Search for and share hyphenated/unhyphenated word pairs (dark-blue shirt, good-looking, goodhearted, fast-moving, anticlockwise); dictation of mother-in-law/father-in-law/sister-in-law/brother-in-law/anti-clockwise; use fast-flowing/slow-moving/open-mouthed/big-eyed/sugar-free in sentences; hyphenate age expressions (five-year-old girl, two-year-old, middle-aged man); hyphenate numbers 21-99 (twenty-one, ninety-nine); create a poster on lifestyle diseases featuring the words learnt", "Note: the learner should only be exposed to simple and common hyphenated words"],
+          "linkedLearningAreas": ["Agriculture — correct punctuation of texts"]
+        },
+        {
+          "name": "10.4.1 Creative Writing — Descriptive Compositions (Proper Use of Leisure Time)",
+          "specificLearningOutcomes": ["Use appropriate adjectives to describe a person, object or a place", "Plan a descriptive composition in preparation for writing", "Create a descriptive composition on a variety of topics (160-200 words)", "Judge a descriptive composition for correctness of language, relevance to the topic, creativity and organisation of ideas"],
+          "keyInquiryQuestions": ["What words do we use to describe objects, people or events?", "How can we make our descriptions more interesting?"],
+          "learningExperiences": ["Identify key points about an event (wedding ceremony, football match, dance); suggest describable people/events/places/objects in pairs; plan a descriptive composition (160-200 words); select and use proverbs/idioms in the composition; collaboratively write the introductory paragraph; complete the composition"],
+          "linkedLearningAreas": ["All other learning areas — paragraph and descriptive writing"]
+        },
+        {
+          "name": "11.4.1 Mechanics of Writing — Synonyms and Antonyms (Sports - Indoor Games)",
+          "specificLearningOutcomes": ["Identify synonyms and antonyms correctly for writing fluency", "Use synonyms and antonyms correctly in sentences", "Advocate the use of a rich vocabulary in writing"],
+          "keyInquiryQuestions": ["How do you tell the meaning of unfamiliar words?", "Which are some of the words with same or opposite meaning?"],
+          "learningExperiences": ["Watch/listen to a video on in-door games and identify synonym/antonym words; form sentences using them; identify synonyms/antonyms from newspapers/magazines/internet and create a crossword puzzle; display work on posters"],
+          "linkedLearningAreas": ["Kiswahili — spelling"]
+        },
+        {
+          "name": "12.4.1 Functional Writing — Personal Journal (Environment Conservation)",
+          "specificLearningOutcomes": ["Identify all the components of a personal journal", "Use the correct format to create a personal journal", "Judge the correctness, relevance to the topic and the format of a personal journal"],
+          "keyInquiryQuestions": ["Why do we keep journals and diaries?", "How do you record important occasions or dates in your life?"],
+          "learningExperiences": ["Identify personal-journal components; read a sample journal; create a 7-day personal journal; peer-edit journals in exchanged pairs; revise; display in class"],
+          "linkedLearningAreas": ["Social Studies — self-assessment"]
+        },
+        {
+          "name": "13.4.1 Mechanics of Writing — Spelling: Affixes (Prefixes and Suffixes) (Money - Trade)",
+          "specificLearningOutcomes": ["Recognise affixes used to change the form and meaning of words", "Form new words using prefixes and suffixes", "Spell words correctly for writing fluency", "Determine the correctness and appropriateness of affixes used in various texts"],
+          "keyInquiryQuestions": ["Why is it difficult to spell some words?", "How can we become better at spelling?"],
+          "learningExperiences": ["Identify words with prefixes/suffixes and create puzzles; form words using prefixes and suffixes; match words with affixes (-un, -cian, -sion, -tion); use mind maps to generate related words by adding affixes; create a crossword puzzle from generated words"],
+          "linkedLearningAreas": ["Kiswahili and other learning areas — editing written work"]
+        }
+      ]
+    }
+  ],
+  "buildPlan": {
+    "strandIds": {
+      "ls": "g6-eng-ls (13 skills: LS.1-LS.13, one per theme, kept 1:1 — each theme targets genuinely distinct phonemes/vocabulary/expressions, same precedent as Kiswahili's 19 distinct Sarufi categories staying 1:1)",
+      "reading": "g6-eng-reading (6 skills: R.1-R.6 — heavily consolidated, see rationale below)",
+      "grammar": "g6-eng-grammar (13 skills: G.1-G.13, one per theme, kept 1:1 — each theme targets a genuinely distinct grammar rule)",
+      "writing": "g6-eng-writing (11 skills: W.1-W.11 — narrative-composition sub-strands merged, see rationale below)"
+    },
+    "consolidationRationale": "43 skills from 52 raw sub-strands (13 themes x 4 strands). Listening&Speaking and Language Use stayed fully 1:1 (13 each) because every theme's target sounds/vocabulary (L&S) or grammar rule (Language Use) is genuinely distinct — no two themes teach the same phoneme set or the same grammar point. Reading and Writing had real, KICD-source repeats of the identical skill-type+mechanics combination across different themes (the same test this project's Kiswahili G6 precedent already established): Reading's 'Extensive Reading' sub-strand (themes 1, 5, 7, 13 — select/skim/scan/read-a-variety/library, differing only in theme flavor) merged into one R.1 skill; Reading's generic 'Intensive Reading — comprehension' sub-strand (themes 2, 3, 9, 10, 11 — predict/connect, infer vocab from context, answer direct+inferential questions, retell) merged into one R.2 skill; the three genuinely distinct Reading mechanics (4 Visuals, 6 Dialogue, 12 stress/rhythm-in-poems) and Fluency (8, speed/expression-focused, distinct from comprehension) stayed separate as R.3-R.6. Writing's 'Creative Writing — Narrative Compositions (160-200 words)' sub-strand (themes 2, 5, 8 — identical outcome text and word-count target) merged into one skill carrying scenario variety across cultural-celebrations/tourist-attractions/animal-safety framings; Writing's other Creative Writing variants (6 Pictorial, 10 Descriptive) are genuinely different composition modes and stayed separate, as did all 5 distinct Mechanics-of-Writing sub-strands (3 acronyms/abbreviations/numerals, 7 punctuation, 9 hyphen, 11 synonyms/antonyms, 13 affixes) and both distinct Functional Writing sub-strands (4 formal letter, 12 personal journal).",
+    "poolSizeFloor": "30+ items per fixed array (Grade 6 standard, raised from the project default 10+), 5+ distinct QuestionKinds per skill.",
+    "svgNote": "English is vocabulary/grammar-heavy with a genuinely narrow visual angle, matching Grade 6 Kiswahili's and Grade 7/8 English's own precedent (checked: only one English skill anywhere in the project — englishG7/independentReadingVisuals.ts — uses a VisualSpec, reusing the generic bar-chart/line-graph/pie-chart types for a 'reading data visuals' sub-strand). The one Grade 6 sub-strand that explicitly names visuals (R.3, theme 4's 'Intensive Reading — Visuals') should reuse those same existing generic chart VisualSpecs rather than any new type — no new VisualSpec types needed for this subject."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "subject": "Science & Technology",
+  "subjectId": "science",
+  "grade": 5,
+  "source": {
+    "title": "Primary School Curriculum Design — Science & Technology, Grade 5 (First Published 2017, Revised 2024)",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-27",
+    "confidence": "high",
+    "notes": "Read directly from 'grade 5 designs/GRADE-5-SCIENCE-Curriculum-Designs.pdf' via the Read tool (no pages param), full text extracted, all 3 strands / 8 sub-strands / 120 lessons mined per CURRICULUM-MINING-GUIDE.md's 10-step checklist."
+  },
+  "strands": [
+    {
+      "name": "1.0 Living Things and their Environment",
+      "subStrands": [
+        {
+          "name": "1.1 Classification of Plants",
+          "lessonCount": 14,
+          "specificLearningOutcomes": [
+            "Classify plants into flowering and non-flowering",
+            "Describe functions of parts of a flower",
+            "Outline the importance of flowers in nature",
+            "Appreciate the importance of flowers in nature"
+          ],
+          "keyInquiryQuestions": ["How are plants classified?"],
+          "learningExperiences": [
+            "Use print and non-print materials to search for images of flowering and non-flowering plants and share",
+            "Take a walk in their locality to observe, identify and categorise plants into flowering and non-flowering",
+            "Draw a flower and label parts",
+            "Discuss functions of parts of a flower and share with peers",
+            "Discuss the importance of flowers in nature with peers",
+            "Use digital applications to draw, paint and label flowers"
+          ],
+          "linkedLearningAreas": ["Creative Arts — use of digital applications to draw, paint and label flowers is linked to drawing and painting in Creative Arts"],
+          "scopeNotes": ["Note: Learners are guided on precautions to take when handling plants as they study flowering and non-flowering plants."],
+          "assessmentSignal": "Rubric rewards describing functions of ALL parts of a flower with illustration(s) at the top tier — flower parts must be named/labelled individually, not treated as one bundled fact.",
+          "coreCompetencies": ["Creativity and imagination — reflects and draws accurate images labelling a flower", "Digital literacy — uses digital applications to draw, paint and label flowers"],
+          "notes": "Flower parts to cover: the design does not enumerate them in the outcomes text itself (no explicit parenthetical list), so standard primary-level flower parts (petal, sepal, stem, leaf, root, stamen, pistil/carpel) are the implemented pool — matches the 'draw a flower and label parts' learning experience and the rubric's per-part expectation."
+        },
+        {
+          "name": "1.2 Vertebrates",
+          "lessonCount": 16,
+          "specificLearningOutcomes": [
+            "Describe general characteristics of vertebrates",
+            "Classify vertebrates into their main groups",
+            "Appreciate the importance of vertebrates in the environment"
+          ],
+          "keyInquiryQuestions": ["What are the key features of vertebrates?"],
+          "learningExperiences": [
+            "Search for information from print and non-print material on the general characteristics of vertebrates and share with peers",
+            "Explore the school compound and adjacent environment to observe and identify characteristics of vertebrates",
+            "Discuss with peers the characteristics of different groups of vertebrates, study their main characteristics",
+            "Project: making a portfolio of different categories of vertebrates in their locality"
+          ],
+          "linkedLearningAreas": [
+            "Agriculture and Nutrition — characteristics of animals as living things links to the study of livestock in Agriculture",
+            "Creative Arts — making a portfolio of different categories of vertebrates links to designing in Creative Arts"
+          ],
+          "scopeNotes": ["Note: The learners are guided to observe safety precautions when handling different animals.", "Sub-strand title in the Summary of Strands table reads 'Invertebrates' (likely a source typo) but the full strand text, specific learning outcomes, and rubric row all say 'Vertebrates' with groups '(mammals, birds, reptiles, fish and amphibians; structural features only)' — the detailed text is treated as authoritative, so this sub-strand is mined and built as Vertebrates, not Invertebrates."],
+          "assessmentSignal": "Rubric rewards classifying vertebrates into main groups 'giving examples from the locality' at the top tier — Kenyan-local example animals are expected, not just textbook examples.",
+          "coreCompetencies": ["Communication and collaboration — speaking/listening as they discuss vertebrate characteristics", "Creativity and Imagination — manipulative skills designing a portfolio on vertebrates"],
+          "namedGroups": ["mammals", "birds", "reptiles", "fish", "amphibians"],
+          "notes": "Groups are explicitly enumerated in the sub-strand header parenthetical: (mammals, birds, reptiles, fish and amphibians; structural features only) — structural/external features only, no internal anatomy."
+        },
+        {
+          "name": "1.3 The Human Breathing System",
+          "lessonCount": 18,
+          "specificLearningOutcomes": [
+            "Identify the main parts of the human breathing system",
+            "Describe the functions of parts of the human breathing system",
+            "Outline the symptoms and prevention measures for common conditions and diseases of the breathing system",
+            "Appreciate the need for maintaining a healthy breathing system"
+          ],
+          "keyInquiryQuestions": ["What makes up the human breathing system?", "What enhances a healthy breathing system?"],
+          "learningExperiences": [
+            "Use print and non-print material to identify the human breathing system",
+            "Draw the human breathing system and label the main parts",
+            "Use print or non-print media to search for information on the functions of main parts of the human breathing system and share with peers",
+            "Discuss symptoms and prevention of common conditions and diseases that affect the human breathing system and share",
+            "Use simulation or digital images to illustrate major parts of the human breathing system",
+            "Project: make models of the human breathing system using locally available materials"
+          ],
+          "linkedLearningAreas": ["Agriculture and Nutrition — symptoms/prevention of breathing-system conditions links to personal hygiene in Agriculture and Nutrition"],
+          "scopeNotes": [],
+          "assessmentSignal": "Rubric top tier requires describing functions 'correctly and comprehensively' and outlining symptoms/prevention 'correctly and exhaustively' — every named part and every named condition must be covered, not a representative sample.",
+          "coreCompetencies": ["Creativity and Imagination — designs a model of the breathing system from local materials", "Digital literacy — uses simulations/digital images of the breathing system"],
+          "namedParts": ["nose", "trachea", "lungs", "diaphragm"],
+          "namedConditions": ["common colds", "coughs", "COVID-19", "allergy", "asthma"],
+          "notes": "Both parts list and conditions list are explicit parentheticals in the sub-strand header — hard floor of 4 parts and 5 conditions."
+        }
+      ]
+    },
+    {
+      "name": "2.0 Matter",
+      "subStrands": [
+        {
+          "name": "2.1 Mixtures",
+          "lessonCount": 14,
+          "specificLearningOutcomes": [
+            "Classify mixtures as homogeneous or heterogeneous",
+            "Apply appropriate methods to separate heterogeneous mixtures",
+            "Outline the applications of separating mixtures in day-to-day life",
+            "Appreciate different methods of separating mixtures in day-to-day life"
+          ],
+          "keyInquiryQuestions": ["What are the applications of mixture separation in day-to-day life?"],
+          "learningExperiences": [
+            "Brainstorm on the meaning of a mixture, give examples at home and school",
+            "Carry out activities to categorise mixtures as homogeneous (uniform) and heterogeneous (non-uniform)",
+            "Carry out activities to separate heterogeneous mixtures",
+            "Carry out activities to demonstrate ways of separating mixtures in day-to-day life"
+          ],
+          "linkedLearningAreas": ["Agriculture and Nutrition — separating mixtures applies to straining milk, winnowing grains and straining honey"],
+          "scopeNotes": [],
+          "assessmentSignal": "Rubric top tier for separation methods requires applying ALL appropriate methods correctly with illustration — every named method in the pool must be implemented, not a subset.",
+          "coreCompetencies": ["Critical thinking and problem solving — reflects on best ways of separating different mixtures", "Learning to learn — learns new separation methods through own experience"],
+          "mixtureTypes": ["heterogeneous", "homogeneous"],
+          "mixtureExamples": ["solid-solid", "solid-liquid", "liquid-liquid"],
+          "separationMethods": ["winnowing", "picking", "sieving", "using a magnet", "filtering", "decanting", "using a separating funnel"],
+          "notes": "Critical thinking and problem solving is a named core competency here — requires at least one Analyze/Evaluate branch per RIGOR-STANDARDS.md (e.g. choosing the correct separation method for a described new mixture, not just recalling method names)."
+        },
+        {
+          "name": "2.2 Water Pollution",
+          "lessonCount": 18,
+          "specificLearningOutcomes": [
+            "Identify water pollutants in the water sources",
+            "Outline the effects of water pollution in day-to-day life",
+            "Identify methods of reducing water pollution in the water sources",
+            "Apply appropriate methods of water treatment",
+            "Advocate for safe water sources in the locality"
+          ],
+          "keyInquiryQuestions": ["What are the dangers of water pollution?"],
+          "learningExperiences": [
+            "Brainstorm on water pollutants in water sources",
+            "Discuss with peers the effects of water pollution in day-to-day life",
+            "Discuss with peers the different methods of reducing water pollution",
+            "Observe safety measures when working in a water-polluted environment (example: practise use of gumboots and gloves)",
+            "Carry out activities to demonstrate methods of water treatment",
+            "Use visual aids or digital devices to identify water pollutants and their effects in day-to-day life",
+            "Project: make functional water filters using locally available materials"
+          ],
+          "linkedLearningAreas": ["Agriculture and Nutrition — ways of reducing pollutants are used to obtain clean water for domestic use"],
+          "scopeNotes": [],
+          "assessmentSignal": "Rubric top tier for water treatment requires applying all appropriate methods 'correctly and systematically' — sequencing/procedure matters, not just naming the method (supports an ordering-kind branch).",
+          "coreCompetencies": ["Creativity and imagination — comes up with new ideas making functional water filters"],
+          "waterTreatmentMethods": ["boiling", "filtration", "chemical treatment", "solar treatment"],
+          "notes": "Common water pollutants are not enumerated as a closed parenthetical list in the design (open-ended 'brainstorm'), so the implemented pool draws on standard Kenyan-context pollutants consistent with the design's own framing (sewage/human waste, industrial/factory chemical waste, agricultural fertiliser and pesticide runoff, oil spills, plastic and other solid litter, silt/soil erosion runoff) — declined-with-reason per the mining guide since the source itself leaves this open rather than closed."
+        }
+      ]
+    },
+    {
+      "name": "3.0 Force and Energy",
+      "subStrands": [
+        {
+          "name": "3.1 Floating and Sinking",
+          "lessonCount": 14,
+          "specificLearningOutcomes": [
+            "Classify objects as floating or sinking in water",
+            "Identify factors that affect floating and sinking of objects in water",
+            "Explain applications of floating and sinking in day-to-day life",
+            "Appreciate the use of floaters as life savers"
+          ],
+          "keyInquiryQuestions": ["Why do some materials float and others sink?", "How are floaters useful in day-to-day life?"],
+          "learningExperiences": [
+            "Carry out activities using different objects to demonstrate floating and sinking in water (use dry wood, stone, metals, plastic, cork, buoy & feathers)",
+            "Carry out activities to classify objects into those that float and those that sink in water",
+            "Carry out activities to show how shape, weight and size affect floating and sinking of objects in water (normal bottle tops, crushed bottle tops, same quantity of plasticine in different shapes, containers of same size and weight; one filled with sand and the other feathers or cotton wool)",
+            "Discuss with peers the applications of floating and sinking in day-to-day life (swimming, diving, use of lifesavers, water transport, floods, drowning, surfing)",
+            "Use digital or print media to search for effects of flooding and the use of floaters as life savers",
+            "Project: make lifesaving floaters from locally available materials"
+          ],
+          "linkedLearningAreas": ["Agriculture and Nutrition — floating and sinking relates to fish farming and irrigation"],
+          "scopeNotes": [],
+          "assessmentSignal": "Rubric top tier requires explaining applications 'correctly and comprehensively' — every named application (swimming, diving, lifesavers, water transport, floods, drowning, surfing) is expected coverage.",
+          "coreCompetencies": ["Communication and Collaboration — teamwork classifying floating/sinking objects", "Critical thinking and problem solving — explores materials for making lifesaving floaters"],
+          "testObjects": ["dry wood", "stone", "metal", "plastic", "cork", "buoy", "feather"],
+          "affectingFactors": ["shape", "weight", "size"],
+          "applications": ["swimming", "diving", "use of lifesavers", "water transport", "floods", "drowning", "surfing"],
+          "notes": "Critical thinking and problem solving is a named core competency — requires an Analyze/Evaluate branch (e.g. predicting which of two described objects floats, given shape/weight/size differences, not just recalling the factor names)."
+        },
+        {
+          "name": "3.2 Sound Energy",
+          "lessonCount": 14,
+          "specificLearningOutcomes": [
+            "Identify sources of sound in nature",
+            "Demonstrate the movement of sound in nature",
+            "Describe effects of loud sound in day-to-day life",
+            "Appreciate the role of sound in day-to-day life"
+          ],
+          "keyInquiryQuestions": ["How is sound produced?", "What are the effects of loud sound?"],
+          "learningExperiences": [
+            "Carry out activities to identify sources of sound",
+            "Carry out an activity to demonstrate that sound travels in all directions from a source (listening to a loud sound from a common speaker from different directions and around corners)",
+            "Carry out an activity to demonstrate reflection of sound; echo (use of two tubes placed alongside a wall, a cliff, a large hall, a forest, a valley, between tall buildings)",
+            "Discuss with peers the effects of loud sound in the environment",
+            "Use digital or print media to search for the effects of loud sound in day-to-day life",
+            "Discuss the role of the government in addressing sound pollution",
+            "Project 1: make a sound-producing instrument from locally available materials (bell, drum, guitar, wind instruments, etc.)",
+            "Project 2: create a sound game using Scratch"
+          ],
+          "linkedLearningAreas": ["Creative Arts — sources of sound relates to making musical instruments"],
+          "scopeNotes": [],
+          "assessmentSignal": "Rubric top tier for sources of sound requires 'giving examples from the locality' — Kenyan-context sound sources expected, not generic.",
+          "coreCompetencies": ["Creativity and Imagination — experiments with ways of making sound-producing instruments", "Digital literacy — uses Scratch sound blocks"],
+          "soundSources": ["vibrating air", "vibrating strings", "vibrating drums/membranes"],
+          "echoLocations": ["a wall", "a cliff", "a large hall", "a forest", "a valley", "between tall buildings"],
+          "notes": "Echo/reflection-of-sound locations are an explicit parenthetical list — pool for scenario 'where would you hear an echo' branches."
+        },
+        {
+          "name": "3.3 Heat Transfer",
+          "lessonCount": 12,
+          "specificLearningOutcomes": [
+            "Demonstrate the modes of heat transfer in nature",
+            "Classify conductors of heat into good or poor conductors",
+            "Explain the uses of heat transfer in day-to-day life",
+            "Acknowledge safety precautions when handling heat"
+          ],
+          "keyInquiryQuestions": ["How is heat transferred through materials in nature?"],
+          "learningExperiences": [
+            "Brainstorm on the meanings of the terms conduction, convection and radiation as used in heat transfer",
+            "Perform experiments to demonstrate the modes of heat transfer",
+            "Carry out experiments to identify good and poor conductors of heat",
+            "Discuss with peers applications of heat transfer in day-to-day life (cooking, melting, freezing, maintaining body temperature, insulation)",
+            "Use digital or print media to search for applications of heat transfer in day-to-day life",
+            "Discuss with peers safety precautions when handling heat",
+            "Discuss with peers various ways of responding to fire emergencies",
+            "Project 1: make oven gloves using locally available materials",
+            "Project 2: make a fireless cooker"
+          ],
+          "linkedLearningAreas": ["Agriculture and Nutrition — heat transfer concept applies to choosing appropriate material for knitting oven gloves"],
+          "scopeNotes": [],
+          "assessmentSignal": "Rubric distinguishes learners who demonstrate all 3 modes vs 2 vs 1 — all three modes (conduction, convection, radiation) are separately checkable, not bundled as one fact.",
+          "coreCompetencies": ["Self-efficacy — confidence performing heat-transfer experiments"],
+          "heatTransferModes": ["conduction", "convection", "radiation"],
+          "heatApplications": ["cooking", "melting", "freezing", "maintaining body temperature", "insulation"],
+          "notes": "Fire-emergency response is a distinct safety-precaution outcome (d) beyond the 3 modes — worth its own branch (evaluate a described heat-handling scenario as safe/unsafe)."
+        }
+      ]
+    }
+  ]
+}

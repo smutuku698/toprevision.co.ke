@@ -1,0 +1,849 @@
+{
+  "subject": "Kiswahili",
+  "subjectId": "kiswahili",
+  "grade": 8,
+  "source": {
+    "title": "Mtaala wa Shule ya Junia - Kiswahili - Gredi ya 8 (Toleo la Kwanza 2023, Iliyorekebishwa 2024)",
+    "url": "https://www.teacherspalace.co.ke/uploads/documents/kiswahili-grade-8-july-2024-revised-oct-unlocked-2025-01-05-ndsvT4gmko.pdf",
+    "publisher": "Kenya Institute of Curriculum Development (KICD) — mirrored via teacherspalace.co.ke",
+    "retrievedDate": "2026-08-14",
+    "confidence": "high",
+    "notes": "Follow-up verification pass confirmed this is genuinely the current 2024-revised design, superseding the previously-cited teacher.co.ke mirror (which was a 2022 first-edition draft copy of the same document). This teacherspalace.co.ke file matches the exact filename pattern KICD's own Google Drive index shows for this subject ('Kiswahili Grade 8 - July 2024 - Revised Oct'). Its title page reads 'TAASISI YA UKUZAJI MITAALA KENYA / MTAALA WA SHULE YA JUNIA / KISWAHILI / GREDI YA NANE', states 'Toleo la Kwanza 2023 / Iliyorekebishwa 2024' (First Edition 2023, Revised 2024), and carries the SAME ISBN (978-9914-43-796-6) as the earlier-cited 2022-draft mirror -- confirming both are the same underlying KICD document, with this copy being the later-dated, revised printing. The foreword (DIBAJI YA WAZIRI WA ELIMU) is signed by the current Cabinet Secretary MHE. EZEKIEL OMBAKI MACHOGU, matching the pattern of other confirmed-2024-revised Grade 8 designs (French, German, Mandarin, CRE). Full text was read verbatim via the Read tool (not AI-summarized). Strand/sub-strand structure (15 themes x 4 language-skill strands = 60 sub-strands: Kusikiliza na Kuzungumza, Kusoma, Kuandika, Sarufi) matches exactly what was already transcribed from the 2022-draft mirror, confirming that revision pass did not restructure the curriculum -- the previously-recorded strand content below is retained as-is since spot-checking the theme titles, sub-strand names, and lesson-count table (MUHTASARI WA MADA NA MADA NDOGO) against this confirmed-current copy showed no differences. The design's own MGAO WA VIPINDI (lesson allocation) table labels the subject slot 'Kiswahili/KSL' (Kenya Sign Language sharing the same lesson allocation slot), but the design content itself is pure Kiswahili with no distinct KSL curriculum content found in the document body."
+  },
+  "strands": [
+    {
+      "name": "Kusikiliza na Kuzungumza",
+      "subStrands": [
+        {
+          "name": "Kusikiliza na Kujibu (Mahojiano)",
+          "specificLearningOutcomes": [
+            "Kutambua vipengele vya kuzingatia katika kusikiliza mahojiano",
+            "Kutambua vipengele vya kuzingatia katika kujibu mahojiano",
+            "Kutumia vipengele vifaavyo katika kusikiliza na kujibu mahojiano ipasavyo",
+            "Kuchangamkia kushiriki mahojiano katika miktadha mbalimbali"
+          ],
+          "keyInquiryQuestions": [
+            "Je, ni vipengele vipi vinavyofaa kuzingatiwa katika kusikiliza mahojiano?"
+          ],
+          "notes": "Mada 1: Usafi wa Sehemu za Umma"
+        },
+        {
+          "name": "Kusikiliza kwa Kina (Sauti /g/ na /gh/)",
+          "specificLearningOutcomes": [
+            "Kutambua sauti /g/ na /gh/ katika silabi na maneno",
+            "Kutamka sauti /g/ na /gh/ ipasavyo katika silabi na maneno",
+            "Kutumia maneno yenye sauti /g/ na /gh/ ipasavyo katika matini ili kuyatofautisha kimatamshi",
+            "Kuchangamkia matamshi bora ya sauti /g/ na /gh/ katika mazungumzo ya kawaida"
+          ],
+          "keyInquiryQuestions": [
+            "Ni maneno yapi yaliyo na sauti /g/ na /gh/?"
+          ],
+          "notes": "Mada 2: Matumizi Yafaayo ya Dawa"
+        },
+        {
+          "name": "Hadithi Mighani",
+          "specificLearningOutcomes": [
+            "Kueleza maana ya mighani ili kuibainisha",
+            "Kueleza sifa za mighani ili kuipambanua",
+            "Kujadili vipengele vya kuzingatia katika uwasilishaji wa mighani",
+            "Kujadili ujumbe na lugha katika mighani",
+            "Kusimulia mighani kwa kuzingatia vipengele vifaayo vya uwasilishaji",
+            "Kuchangamkia kushiriki katika uwasilishaji wa mighani katika miktadha mbalimbali ya kijamii"
+          ],
+          "keyInquiryQuestions": [
+            "Je, unaposimulia mighani unafaa kuzingatia vipengele gani?"
+          ],
+          "notes": "Mada 3: Dhiki Zinazokumba Wanyama"
+        },
+        {
+          "name": "Hadithi Visasili",
+          "specificLearningOutcomes": [
+            "Kueleza maana ya visasili ili kuibanisha",
+            "Kujadili sifa za visasili ili kuipambanua",
+            "Kujadili vipengele vya kimsingi katika uwasilishaji wa visasili",
+            "Kuwasilisha visasili kwa kuzingatia uwasilishaji ufaao",
+            "Kufurahia uchambuzi na uwasilishaji wa visasili ili kujenga umahiri katika fasihi simulizi"
+          ],
+          "keyInquiryQuestions": [
+            "Je, uwasilishaji wa hadithi ya visasili huzingatia vipengele gani?",
+            "Visasili vina sifa gani?"
+          ],
+          "notes": "Mada 4: Matumizi Bora ya Maliasili"
+        },
+        {
+          "name": "Kusikiliza Maagizo",
+          "specificLearningOutcomes": [
+            "Kueleza maana ya maagizo ili kuyapambanua",
+            "Kutambua maagizo katika miktadha mbalimbali",
+            "Kujadili sifa za kimsingi za maagizo yafaayo",
+            "Kutoa na kupokea maagizo ipasavyo",
+            "Kuchangamkia kutoa na kufuata maagizo ifaavyo katika miktadha mbalimbali"
+          ],
+          "keyInquiryQuestions": [
+            "Je, kwa nini mtu hupewa maagizo?",
+            "Maagizo ambayo umewahi kupewa yalikusaidia vipi?"
+          ],
+          "notes": "Mada 5: Majukumu ya Kijinsia"
+        },
+        {
+          "name": "Kusikiliza kwa Kufasiri",
+          "specificLearningOutcomes": [
+            "Kutambua ujumbe katika matini ya kusikiliza",
+            "Kueleza uhusiano kati ya ujumbe wa matini na maisha ya kila siku",
+            "Kujadili mafunzo yanayotokana na ujumbe wa matini",
+            "Kujenga mazoea ya kuhusisha ujumbe katika matini na hali ya maisha ya kila siku"
+          ],
+          "keyInquiryQuestions": [
+            "Ni ujumbe gani uliosikiliza katika matini ambao unafanana na mambo katika jamii yako?",
+            "Unajifunza nini kutokana na ujumbe katika matini ulizosikiliza?"
+          ],
+          "notes": "Mada 6: Usalama Nyumbani"
+        },
+        {
+          "name": "Usikilizaji Husishi",
+          "specificLearningOutcomes": [
+            "Kueleza maana ya usikilizaji husishi ili kuubainisha",
+            "Kujadili vipengele vya kuzingatia katika usikilizaji husishi",
+            "Kufanya mazungumzo yanayozingatia vipengele vya usikilizaji husishi",
+            "Kuchangamkia kushiriki katika usikilizaji husishi ili kujenga uhusiano mwema na wengine"
+          ],
+          "keyInquiryQuestions": [
+            "Unaposhiriki katika usikilizaji husishi, utazingatia nini ili kufanikisha usikilizaji?"
+          ],
+          "notes": "Mada 7: Kuhudumia Wenye Mahitaji Maalumu"
+        },
+        {
+          "name": "Aina za Uzungumzaji: Uzungumzaji wa Papo kwa Papo",
+          "specificLearningOutcomes": [
+            "Kueleza maana ya uzungumzaji wa papo kwa papo ili kuyapambanua",
+            "Kutambua vipengele vya kuzingatia katika uzungumzaji wa papo kwa papo",
+            "Kutoa uzungumzaji wa papo kwa papo kwa kuzingatia vipengele vifaavyo vya uzungumzaji",
+            "Kuchangamkia kutoa uzungumzaji wa papo kwa papo ili kufanikisha mawasiliano"
+          ],
+          "keyInquiryQuestions": [
+            "Unazingatia mambo gani ili kufanikisha uzungumzaji wa papo kwa papo?"
+          ],
+          "notes": "Mada 8: Uhalifu wa Mtandaoni"
+        },
+        {
+          "name": "Kusikiliza kwa Kina (Sauti /k/ na /gh/)",
+          "specificLearningOutcomes": [
+            "Kutambua sauti /k/ na /gh/ katika silabi na maneno",
+            "Kutamka sauti /k/ na /gh/ ipasavyo katika silabi na maneno",
+            "Kutumia maneno yenye sauti /k/ na /gh/ ipasavyo katika matini ili kuyatofautisha kimatamshi",
+            "Kuchangamkia matamshi bora ya sauti /k/ na /gh/ katika mazungumzo ya kawaida ili kufanikisha mawasiliano"
+          ],
+          "keyInquiryQuestions": [
+            "Ni maneno yapi unayoyajua yaliyo na sauti /k/ na /gh/?"
+          ],
+          "notes": "Mada 9: Majukumu ya Mnunuzi"
+        },
+        {
+          "name": "Hadithi Hurafa na Hekaya",
+          "specificLearningOutcomes": [
+            "Kueleza maana ya hurafa na hekaya ili kuzibainisha",
+            "Kueleza ujumbe katika hurafa na hekaya",
+            "Kujadili vipengele vya uwasilishaji wa hurafa na hekaya",
+            "Kusimulia hurafa na hekaya kwa kuzingatia vipengele vya uwasilishaji",
+            "Kufurahia hurafa na hekaya kama vipera vya fasihi simulizi"
+          ],
+          "keyInquiryQuestions": [
+            "Je, hadithi ambayo umewahi kusikiliza ilihusu wanyama gani?",
+            "Je, hurafa na hekaya hutofautianaje?"
+          ],
+          "notes": "Mada 10: Kukabiliana na Hisia"
+        },
+        {
+          "name": "Kuzungumza kwa Kutumia Vidokezo",
+          "specificLearningOutcomes": [
+            "Kueleza maana ya kuzungumza kwa kutumia vidokezo",
+            "Kutambua umuhimu wa kuzungumza kwa kutumia vidokezo",
+            "Kutambua miktadha katika jamii ambapo kuzungumza kwa kutumia vidokezo hufanywa",
+            "Kujadili vipengele vya kuzingatia katika kuzungumza kwa kutumia vidokezo",
+            "Kutoa mazungumzo kwa kutumia vidokezo ifaavyo",
+            "Kujenga mazoea ya kutumia vidokezo katika mazungumzo ili kufanikisha mawasiliano"
+          ],
+          "keyInquiryQuestions": [
+            "Kwa nini ni muhimu kuandaa vidokezo unapozungumza?"
+          ],
+          "notes": "Mada 11: Haki za Watoto"
+        },
+        {
+          "name": "Kusikiliza kwa Makini",
+          "specificLearningOutcomes": [
+            "Kueleza habari katika matini ya kusikiliza",
+            "Kukadiria maana ya msamiati mahususi na vifungu katika matini ya kusikiliza",
+            "Kuziwasilisha hoja muhimu katika habari aliyosikiliza kwa kufuata mpangilio ufaao",
+            "Kujenga mazoea ya kufurahia kusikiliza vifungu vya kusikiliza ili kuimarisha uwezo wa kusikiliza"
+          ],
+          "keyInquiryQuestions": [
+            "Je, kwa nini ni muhimu kuwa na mpangilio ufaao wa hoja kutoka habari uliyosikiliza?"
+          ],
+          "notes": "Mada 12: Magonjwa Yasiyoambukizwa"
+        },
+        {
+          "name": "Wahusika katika Hadithi",
+          "specificLearningOutcomes": [
+            "Kutambua wahusika katika hadithi",
+            "Kuchambua sifa za wahusika katika hadithi",
+            "Kueleza mafunzo kutokana na wahusika katika hadithi",
+            "Kufurahia kushiriki katika uchambuzi wa wahusika katika hadithi"
+          ],
+          "keyInquiryQuestions": [
+            "Je, hadithi uliyowahi kusimuliwa ilikuwa na wahusika gani?"
+          ],
+          "notes": "Mada 13: Heshima kwa Tamaduni za Wengine"
+        },
+        {
+          "name": "Lugha katika Hadithi",
+          "specificLearningOutcomes": [
+            "Kutambua vipengele vya lugha vinavyotumika katika hadithi",
+            "Kujadili umuhimu wa vipengele vya lugha vinavyotumika katika hadithi",
+            "Kusimulia hadithi kwa kutumia vipengele vya lugha ipasavyo",
+            "Kuonea fahari uchanganuzi wa lugha katika hadithi kama utungo wa fasihi simulizi"
+          ],
+          "keyInquiryQuestions": [
+            "Ni mbinu gani za lugha zinazotumika katika masimulizi ya hadithi?",
+            "Matumizi ya lugha katika hadithi yana umuhimu gani?"
+          ],
+          "notes": "Mada 14: Kuweka Akiba"
+        },
+        {
+          "name": "Kusikiliza Husishi",
+          "specificLearningOutcomes": [
+            "Kueleza maana ya usikilizaji husishi",
+            "Kutambua vipengele vya usikilizaji husishi katika matini",
+            "Kujadili vipengele vya usikilizaji husishi ili kuvipambanua",
+            "Kushiriki mazungumzo akizingatia vipengele vya usikilizaji husishi",
+            "Kuchangamkia kushiriki katika kusikiliza husishi ili kuimarisha uwezo wa kufuatilia habari zinazoelezwa"
+          ],
+          "keyInquiryQuestions": [
+            "Je, ni miktadha gani rasmi na isiyo rasmi ambapo usikilizaji husishi hutokea?",
+            "Ni vipengele gani unazingatia katika kusikiliza husishi?"
+          ],
+          "notes": "Mada 15: Maadili ya Kijamii"
+        }
+      ]
+    },
+    {
+      "name": "Kusoma",
+      "subStrands": [
+        {
+          "name": "Ufahamu wa Kifungu cha Simulizi",
+          "specificLearningOutcomes": [
+            "Kudondoa habari mahususi katika kifungu cha ufahamu",
+            "Kupanga matukio yanavyofuatana katika kifungu cha ufahamu",
+            "Kufanya utabiri na ufasiri kutokana na kifungu cha ufahamu",
+            "Kueleza maana ya msamiati katika kifungu cha ufahamu",
+            "Kuchangamkia kujibu maswali ya ufahamu ili kukuza uelewa wa habari"
+          ],
+          "keyInquiryQuestions": [
+            "Je, tunapataje habari mahususi katika kifungu cha ufahamu?",
+            "Je, ni mambo gani yanayoweza kukusaidia kuelewa kifungu cha ufahamu?"
+          ],
+          "notes": "Mada 1: Usafi wa Sehemu za Umma"
+        },
+        {
+          "name": "Kusoma kwa Mapana: Matini ya Kujichagulia",
+          "specificLearningOutcomes": [
+            "Kutambua msamiati uliotumiwa katika matini ya kujichagulia",
+            "Kutumia ipasavyo msamiati unaotokana na matini aliyosoma",
+            "Kueleza ujumbe wa matini aliyosoma",
+            "Kutoa muhtasari wa matini ya kujichagulia aliyosoma",
+            "Kuweka daftarini rekodi ya aliyosoma",
+            "Kujenga mazoea ya kusoma matini za miktadha mbalimbali ili kupanua mawanda ya fikra"
+          ],
+          "keyInquiryQuestions": [
+            "Unazingatia nini unapochagua matini ya kusoma?",
+            "Unapataje ujumbe katika matini uliyoisoma?"
+          ],
+          "notes": "Mada 2: Matumizi Yafaayo ya Dawa"
+        },
+        {
+          "name": "Kusoma kwa Kina: Tamthilia",
+          "specificLearningOutcomes": [
+            "Kueleza maana ya tamthilia ili kuipambanua",
+            "Kujadili sifa za tamthilia kama utanzu wa fasihi andishi",
+            "Kuchangamkia usomaji wa tamthilia ili kukuza stadi ya kusoma"
+          ],
+          "keyInquiryQuestions": [
+            "Je, tamthilia uliyowahi kusoma ilikuwa inahusu nini?"
+          ],
+          "notes": "Mada 3: Dhiki Zinazokumba Wanyama"
+        },
+        {
+          "name": "Kusoma kwa Ufasaha",
+          "specificLearningOutcomes": [
+            "Kusoma kifungu kwa kuzingatia matamshi bora",
+            "Kusoma kifungu kwa kasi ifaayo",
+            "Kusoma kifungu kwa kutumia sauti ipasavyo",
+            "Kusoma kifungu kwa kuambatanisha ishara zifaazo",
+            "Kuchangamkia kusoma kifungu kwa kuzingatia vipengele vya usomaji"
+          ],
+          "keyInquiryQuestions": [
+            "Je, kusoma kwa ufasaha kuna umuhimu gani?",
+            "Unaposoma kifungu ni mambo yapi unayozingatia ili kufanikisha usomaji kwa ufasaha?"
+          ],
+          "notes": "Mada 4: Matumizi Bora ya Maliasili"
+        },
+        {
+          "name": "Kusoma kwa Ufahamu",
+          "specificLearningOutcomes": [
+            "Kudondoa habari mahususi katika kifungu cha ufahamu",
+            "Kueleza maana ya msamiati kulingana na muktadha wa kifungu cha ufahamu",
+            "Kuchangamkia kusoma kwa ufahamu ili kukuza uelewa wa habari"
+          ],
+          "keyInquiryQuestions": [
+            "Ni kwa njia gani tunaweza kudondoa habari mahususi kutokana na kifungu cha ufahamu?"
+          ],
+          "notes": "Mada 5: Majukumu ya Kijinsia"
+        },
+        {
+          "name": "Kusoma kwa Kina: Maudhui na Dhamira",
+          "specificLearningOutcomes": [
+            "Kueleza maana ya maudhui na dhamira katika fasihi ili kuvipambanua",
+            "Kutambua maudhui katika tamthilia",
+            "Kujadili maudhui katika tamthilia",
+            "Kutambua dhamira katika tamthilia",
+            "Kujadili dhamira katika tamthilia",
+            "Kujenga mazoea ya usomaji wa kazi za kifasihi ili kujenga misingi ya uchambuzi"
+          ],
+          "keyInquiryQuestions": [
+            "Je, ni mambo gani muhimu yaliyo katika tamthilia ulizosoma?"
+          ],
+          "notes": "Mada 6: Usalama Nyumbani"
+        },
+        {
+          "name": "Ufupisho",
+          "specificLearningOutcomes": [
+            "Kueleza maana ya ufupisho ili kuupambanua",
+            "Kujadili vipengele vya ufupisho wa kifungu",
+            "Kufupisha kifungu akizingatia vipengele vya ufupisho",
+            "Kujenga mazoea ya kuwasiliana kwa maelezo mafupi"
+          ],
+          "keyInquiryQuestions": [
+            "Unazingatia nini unapofupisha kifungu?"
+          ],
+          "notes": "Mada 7: Kuhudumia Wenye Mahitaji Maalumu"
+        },
+        {
+          "name": "Kusoma kwa Kina: Mandhari na Ploti",
+          "specificLearningOutcomes": [
+            "Kutambua mandhari na ploti katika tamthilia",
+            "Kueleza umuhimu wa mandhari na ploti ili kuubanisha",
+            "Kujadili mandhari na ploti ya tamthilia aliyosoma",
+            "Kuchangamkia nafasi ya mandhari na ploti katika tamthilia"
+          ],
+          "keyInquiryQuestions": [
+            "Ni mandhari gani unayokumbuka yaliyo katika tamthilia ulizowahi kusoma?",
+            "Ploti ina umuhimu gani katika tamthilia ulizowahi kusoma?"
+          ],
+          "notes": "Mada 8: Uhalifu wa Mtandaoni"
+        },
+        {
+          "name": "Ufahamu wa Kifungu cha Kushawishi",
+          "specificLearningOutcomes": [
+            "Kutambua habari mahususi katika kifungu cha ufahamu",
+            "Kutabiri matukio katika kifungu cha ufahamu",
+            "Kueleza maana ya msamiati na vifungu vya maneno katika kifungu cha ufahamu",
+            "Kujadili ushawishi katika kifungu cha ufahamu",
+            "Kuchangamkia usomaji wa ufahamu shawishi ili kukuza hamu ya ujifunzaji"
+          ],
+          "keyInquiryQuestions": [
+            "Ni kwa njia gani tunaweza kutambua ujumbe wenye lengo la kushawishi katika habari?"
+          ],
+          "notes": "Mada 9: Majukumu ya Mnunuzi"
+        },
+        {
+          "name": "Kusoma kwa Kina: Wahusika katika Tamthilia",
+          "specificLearningOutcomes": [
+            "Kutambua wahusika katika tamthilia aliyosoma",
+            "Kujadili sifa za wahusika katika tamthilia",
+            "Kujadili mafunzo yanayotokana na wahusika katika tamthilia",
+            "Kujenga mazoea ya usomaji wa kazi za kifasihi ili kukuza hamu ya ujifunzaji"
+          ],
+          "keyInquiryQuestions": [
+            "Ni mambo yapi yanayokuelekeza kuwaelewa wahusika katika tamthilia?",
+            "Je, ni mambo gani tunayoweza kujifunza kutokana na wahusika wa tamthilia?"
+          ],
+          "notes": "Mada 10: Kukabiliana na Hisia"
+        },
+        {
+          "name": "Kusoma kwa Mapana: Matini za Kujichagulia",
+          "specificLearningOutcomes": [
+            "Kuteua matini ifaayo ya kujisomea",
+            "Kutambua maana za msamiati na matumizi mengine ya lugha katika matini ya kujichagulia",
+            "Kueleza ujumbe katika matini ya kujichagulia",
+            "Kujenga mazoea ya kusoma matini mbalimbali katika maisha ya kila siku"
+          ],
+          "keyInquiryQuestions": [
+            "Unavutiwa zaidi na nini unaposoma makala ya kujichagulia?",
+            "Unazingatia mambo gani wakati wa kusoma makala ya kujichagulia?"
+          ],
+          "notes": "Mada 11: Haki za Watoto"
+        },
+        {
+          "name": "Kusoma kwa Ufasaha (Vipengele Vinavyofanikisha Mawasiliano)",
+          "specificLearningOutcomes": [
+            "Kusoma kifungu kwa kuzingatia matamshi bora",
+            "Kusoma kifungu kwa kasi ifaayo",
+            "Kusoma kifungu kwa kutumia sauti ipasavyo",
+            "Kusoma kifungu kwa kuambatanisha ishara zifaazo",
+            "Kuridhia kusoma makala kwa kuzingatia vipengele vinavyofanikisha mawasiliano"
+          ],
+          "keyInquiryQuestions": [
+            "Je, unaposoma kifungu unazingatia mambo gani ili kufanikisha usomaji?"
+          ],
+          "notes": "Mada 12: Magonjwa Yasiyoambukizwa. Ukurasa unaofuatia wa mfululizo huu (ufasaha) katika muundo wa mada za kusoma; mada ndogo hii inafanana kimaudhui na 4.2 (Kusoma kwa Ufasaha) lakini imepewa mada tofauti (12) katika mtaala."
+        },
+        {
+          "name": "Kusoma kwa Kina: Mbinu za Lugha",
+          "specificLearningOutcomes": [
+            "Kutambua mbinu za lugha katika tamthilia",
+            "Kueleza umuhimu wa mbinu za lugha zilizotumiwa katika tamthilia",
+            "Kufurahia kuchanganua matumizi ya mbinu za lugha katika fasihi"
+          ],
+          "keyInquiryQuestions": [
+            "Tamthilia hutumia mbinu gani za lugha?",
+            "Mbinu za lugha zina umuhimu gani katika tamthilia?"
+          ],
+          "notes": "Mada 13: Heshima kwa Tamaduni za Wengine"
+        },
+        {
+          "name": "Kusoma kwa Ufahamu (Kifungu cha Mjadala)",
+          "specificLearningOutcomes": [
+            "Kudondoa habari mahususi katika kifungu cha mjadala",
+            "Kutambua msamiati mpya katika kifungu cha mjadala",
+            "Kuchambua mitazamo katika kifungu cha mjadala",
+            "Kuridhia kusoma kifungu cha mjadala ili kukuza uelewa wa habari"
+          ],
+          "keyInquiryQuestions": [
+            "Utawezaje kutambua habari mahususi katika hadithi unayoisoma?",
+            "Je, unazingatia nini unaposoma vifungu vya ufahamu?"
+          ],
+          "notes": "Mada 14: Kuweka Akiba"
+        },
+        {
+          "name": "Ufupisho (Aya kwa Aya Moja)",
+          "specificLearningOutcomes": [
+            "Kueleza kwa usahihi ujumbe wa aya za matini kwa sentensi mojamoja",
+            "Kueleza kwa usahihi ujumbe wa aya zote za matini kwa aya moja",
+            "Kuandika ufupisho unaozingatia mtazamo wa matini ya kufupishwa",
+            "Kufurahia kufupisha ujumbe kwa usahihi katika miktadha mbalimbali"
+          ],
+          "keyInquiryQuestions": [
+            "Je, unazingatia nini unapofupisha kifungu cha ufahamu?"
+          ],
+          "notes": "Mada 15: Maadili ya Kijamii. Mfululizo wa pili wa mada ya Ufupisho katika mtaala (linganisha na Mada 7); hapa lengo ni ufupishaji wa kina zaidi (aya kwa aya moja) badala ya ufupishaji wa jumla wa kifungu."
+        }
+      ]
+    },
+    {
+      "name": "Kuandika",
+      "subStrands": [
+        {
+          "name": "Viakifishi: Alama ya Hisi na Ritifaa",
+          "specificLearningOutcomes": [
+            "Kutambua matumizi ya alama ya hisi na ritifaa katika matini",
+            "Kutumia alama ya hisi na ritifaa ipasavyo katika matini",
+            "Kuonea fahari matumizi yafaayo ya alama ya hisi na ritifaa katika matini"
+          ],
+          "keyInquiryQuestions": [
+            "Je, alama ya hisi huonyesha hisia zipi?",
+            "Je, alama ya ritifaa hutumiwa vipi katika maandishi?"
+          ],
+          "notes": "Mada 1: Usafi wa Sehemu za Umma"
+        },
+        {
+          "name": "Barua ya Kirafiki (ya Kutoa Shukrani)",
+          "specificLearningOutcomes": [
+            "Kueleza umuhimu wa barua ya kirafiki ya kutoa shukrani",
+            "Kutambua ujumbe unaoafiki barua ya kirafiki ya kutoa shukrani",
+            "Kutambua vipengele vya kimuundo vya barua ya kirafiki ya kutoa shukrani",
+            "Kuandika barua ya kirafiki ya kutoa shukrani kwa kuzingatia ujumbe, lugha na muundo ipasavyo",
+            "Kujenga mazoea ya kuandika barua ya kirafiki ya kutoa shukrani katika maisha ya kila siku"
+          ],
+          "keyInquiryQuestions": [
+            "Je, ni mambo gani yanayoweza kukufanya uandike barua ya kirafiki ya kutoa shukrani?",
+            "Barua ya kirafiki ya kutoa shukrani huwa na vipengele gani?"
+          ],
+          "notes": "Mada 2: Matumizi Yafaayo ya Dawa"
+        },
+        {
+          "name": "Insha za Kubuni: Masimulizi (Wazo Moja Kuu)",
+          "specificLearningOutcomes": [
+            "Kubaini wazo moja kuu la insha ya masimulizi atakayoandika",
+            "Kuandika insha ya masimulizi inayoendeleza wazo moja kuu katika kila aya",
+            "Kufurahia kuandika insha za masimulizi katika maisha ya kila siku akizingatia ujumbe uliotegemezwa kwenye wazo moja kuu"
+          ],
+          "keyInquiryQuestions": [
+            "Je, ni vipengele vipi vya kimsingi utakavyozingatia unapoandika insha ya kubuni?"
+          ],
+          "notes": "Mada 3: Dhiki Zinazokumba Wanyama"
+        },
+        {
+          "name": "Insha za Kubuni: Masimulizi (Mbinu za Lugha, Wahusika na Mandhari)",
+          "specificLearningOutcomes": [
+            "Kutambua mbinu za lugha katika insha ya masimulizi",
+            "Kujadili umuhimu wa mbinu za lugha katika insha za masimulizi",
+            "Kujadili wahusika na mandhari katika insha za masimulizi",
+            "Kuandika insha ya masimulizi akizingatia mbinu za lugha, wahusika wanaobainika na mandhari ifaavyo",
+            "Kufurahia kuandika insha ya masimulizi akizingatia lugha, wahusika na mandhari ifaavyo ili kukuza ubunifu"
+          ],
+          "keyInquiryQuestions": [
+            "Je, ni vipengele vipi vya kimsingi utakavyozingatia unapoandika insha ya masimulizi?",
+            "Mbinu za lugha zina umuhimu gani katika uandishi wa insha ya masimulizi?"
+          ],
+          "notes": "Mada 4: Matumizi Bora ya Maliasili"
+        },
+        {
+          "name": "Insha ya Maelekezo",
+          "specificLearningOutcomes": [
+            "Kutambua insha ya maelekezo katika matini",
+            "Kujadili sifa za insha ya maelekezo",
+            "Kuandika insha ya maelekezo akizingatia anwani na mpangilio ufaao",
+            "Kufurahia kuandika insha za maelekezo maishani"
+          ],
+          "keyInquiryQuestions": [
+            "Je, ni mambo gani unayozingatia unapoandika insha ya maelekezo?"
+          ],
+          "notes": "Mada 5: Majukumu ya Kijinsia"
+        },
+        {
+          "name": "Insha za Kubuni: Mdokezo",
+          "specificLearningOutcomes": [
+            "Kueleza maana ya insha ya mdokezo ili kuipambanua",
+            "Kubainisha aina za insha ya mdokezo",
+            "Kujadili vipengele vya insha ya mdokezo",
+            "Kuandika insha ya mdokezo kwa kuzingatia vipengele vya uandishi husika",
+            "Kufurahia kuandika insha za mdokezo ili kukuza ubunifu"
+          ],
+          "keyInquiryQuestions": [
+            "Je, ni vigezo vipi vinavyotumika katika kuandika insha za mdokezo?"
+          ],
+          "notes": "Mada 6: Usalama Nyumbani"
+        },
+        {
+          "name": "Insha za Kubuni: Maelezo (Tamathali za Lugha)",
+          "specificLearningOutcomes": [
+            "Kutambua tamathali mbalimbali za lugha katika insha ya maelezo",
+            "Kueleza jinsi tamathali mbalimbali za lugha zinavyochangia kujenga picha dhahiri katika insha ya maelezo",
+            "Kuandika insha ya maelezo akitumia tamathali mbalimbali za lugha ili kujenga picha dhahiri",
+            "Kufurahia kuandika insha za maelezo akitumia tamathali mbalimbali za lugha ili kujenga picha dhahiri"
+          ],
+          "keyInquiryQuestions": [
+            "Je, unatumia lugha ya aina gani wakati unapotaka kumweleza mtu kitu ili aweze kupata picha kamili?"
+          ],
+          "notes": "Mada 7: Kuhudumia Wenye Mahitaji Maalumu"
+        },
+        {
+          "name": "Viakifishi: Alama za Mtajo na Mshazari",
+          "specificLearningOutcomes": [
+            "Kutambua matumizi ya alama za mtajo na mshazari katika matini",
+            "Kutumia ipasavyo alama za mtajo na mshazari katika matini",
+            "Kufurahia matumizi yafaayo ya alama za mtajo na mshazari katika matini"
+          ],
+          "keyInquiryQuestions": [
+            "Je, alama za mtajo hutumiwa vipi katika maandishi?",
+            "Je, alama ya mshazari hutumiwa vipi katika maandishi?"
+          ],
+          "notes": "Mada 8: Uhalifu wa Mtandaoni"
+        },
+        {
+          "name": "Insha za Kubuni: Masimulizi (Ukuzaji wa Wazo katika Aya)",
+          "specificLearningOutcomes": [
+            "Kutambua vipengele vinavyozingatiwa kujenga wazo katika insha ya masimulizi",
+            "Kujadili vipengele vinavyojenga wazo katika aya kuhusu insha ya masimulizi",
+            "Kuandika insha ya masimulizi akikuza wazo katika aya ipasavyo",
+            "Kufurahia utunzi wa insha za masimulizi zenye mpangilio mzuri wa wazo"
+          ],
+          "keyInquiryQuestions": [
+            "Je, unawezaje kulikuza wazo vizuri katika insha ya masimulizi?"
+          ],
+          "notes": "Mada 9: Majukumu ya Mnunuzi"
+        },
+        {
+          "name": "Barua ya Kuomba Msaada",
+          "specificLearningOutcomes": [
+            "Kutambua vipengele vya kimuundo vya barua rasmi ya kuomba msaada",
+            "Kutambua ujumbe katika barua rasmi ya kuomba msaada",
+            "Kuandika barua rasmi ya kuomba msaada kwa kuzingatia ujumbe, muundo na lugha ifaayo",
+            "Kufurahia kujieleza kwa ifaavyo kwa njia ya barua"
+          ],
+          "keyInquiryQuestions": [
+            "Je ni mambo gani yanayoweza kukufanya kuomba msaada?",
+            "Je, ni vipengele vipi unazingatia wakati unapoandika barua ya kuomba msaada?"
+          ],
+          "notes": "Mada 10: Kukabiliana na Hisia"
+        },
+        {
+          "name": "Insha za Kubuni: Maelezo (Habari Mahususi)",
+          "specificLearningOutcomes": [
+            "Kujadili vipengele vya insha ya maelezo",
+            "Kuandika insha ya maelezo ipasavyo kwa kuzingatia vipengele vyake",
+            "Kufurahia kuandika insha za maelezo katika maisha ya kila siku"
+          ],
+          "keyInquiryQuestions": [
+            "Je, ni viepengele gani vya kuzingatia katika kuandika insha ya maelezo?"
+          ],
+          "notes": "Mada 11: Haki za Watoto"
+        },
+        {
+          "name": "Insha za Kiuamilifu: Hotuba (Kutoa Ufafanuzi)",
+          "specificLearningOutcomes": [
+            "Kueleza maana ya hotuba ya kutoa ufafanuzi",
+            "Kutambua hotuba ya kutoa ufafanuzi katika matini",
+            "Kujadili ujumbe, lugha na muundo wa hotuba ya kutoa ufafanuzi",
+            "Kuandika hotuba ya kutoa ufafanuzi kwa kuzingatia vipengele vyake",
+            "Kuchangamkia nafasi ya hotuba ya kutoa ufafanuzi katika mawasiliano"
+          ],
+          "keyInquiryQuestions": [
+            "Ni mambo gani ya kuzingatia katika kutoa hotuba ya ufafanuzi?"
+          ],
+          "notes": "Mada 12: Magonjwa Yasiyoambukizwa"
+        },
+        {
+          "name": "Insha za Kubuni: Maelezo (Kuhusu Mahali)",
+          "specificLearningOutcomes": [
+            "Kutambua vipengele vya insha ya maelezo kuhusu mahali",
+            "Kujadili vipengele vya insha ya maelezo kuhusu mahali",
+            "Kuandika insha ya maelezo inayodhihirisha sifa za mahali",
+            "Kuonea fahari utoaji wa maelezo kamilifu kuhusu kitu au jambo"
+          ],
+          "keyInquiryQuestions": [
+            "Je, ni vigezo vipi vinavyotumika katika kuandika insha ya maelezo?"
+          ],
+          "notes": "Mada 13: Heshima kwa Tamaduni za Wengine"
+        },
+        {
+          "name": "Insha za Maelekezo (Uteuzi wa Maneno na Mpangilio wa Hatua)",
+          "specificLearningOutcomes": [
+            "Kujadili vipengele vya insha ya maelekezo",
+            "Kuandika insha ya maelekezo akizingatia vipengele vyake muhimu",
+            "Kufurahia kuandika insha za maelekezo akizingatia vipengele vyake muhimu"
+          ],
+          "keyInquiryQuestions": [
+            "Je, unapoandika insha ya maelekezo unazingatia mambo gani?"
+          ],
+          "notes": "Mada 14: Kuweka Akiba"
+        },
+        {
+          "name": "Baruapepe ya Kiofisi",
+          "specificLearningOutcomes": [
+            "Kutambua ujumbe unaoafiki baruapepe ya kiofisi",
+            "Kutambua vipengele vya kimuundo vya baruapepe ya kiofisi",
+            "Kutumia lugha inayofaa katika uandishi wa baruapepe ya kiofisi",
+            "Kuandika baruapepe ya kiofisi kwa kuzingatia ujumbe, lugha na muundo ufaao",
+            "Kujenga mazoea ya kuwasiliana kwa kuandika baruapepe ya kiofisi"
+          ],
+          "keyInquiryQuestions": [
+            "Je, ulizingatia vipengele gani katika baruapepe uliyowahi kuandika?"
+          ],
+          "notes": "Mada 15: Maadili ya Kijamii"
+        }
+      ]
+    },
+    {
+      "name": "Sarufi",
+      "subStrands": [
+        {
+          "name": "Viwakilishi: vya Nafsi, Vionyeshi na vya Idadi",
+          "specificLearningOutcomes": [
+            "Kutambua viwakilishi vya nafsi, vionyeshi/viashiria na vya idadi katika matini",
+            "Kutumia ipasavyo viwakilishi vya nafsi, vionyeshi/viashiria na vya idadi katika matini",
+            "Kuchangamkia matumizi yafaayo ya viwakilishi vya nafsi, vionyeshi/viashiria na vya idadi ili kufanikisha mawasiliano"
+          ],
+          "keyInquiryQuestions": [
+            "Viwakilishi vina umuhimu gani katika mawasiliano?"
+          ],
+          "notes": "Mada 1: Usafi wa Sehemu za Umma"
+        },
+        {
+          "name": "Viwakilishi vya Sifa, Pekee na Viulizi",
+          "specificLearningOutcomes": [
+            "Kutambua viwakilishi vya sifa, vya pekee na viulizi katika matini",
+            "Kutumia viwakilishi vya sifa, vya pekee na viulizi ifaavyo katika matini",
+            "Kuchangamkia kutumia viwakilishi vya sifa, vya pekee na viulizi katika mawasiliano"
+          ],
+          "keyInquiryQuestions": [
+            "Kuna tofauti gani kati ya viwakilishi vya sifa na vivumishi vya sifa?",
+            "Viwakilishi vya vya pekee hutumiwa kwa namna gani?",
+            "Viwakilishi viulizi vina umuhimu gani katika mawasiliano?"
+          ],
+          "notes": "Mada 2: Matumizi Yafaayo ya Dawa"
+        },
+        {
+          "name": "Viwakilishi Vimilikishi na Visisitizi",
+          "specificLearningOutcomes": [
+            "Kutambua viwakilishi vimilikishi na visisitizi katika matini",
+            "Kutumia viwakilishi vimilikishi na visisitizi ipasavyo katika matini",
+            "Kuchangamkia kutumia viwakilishi vimilikishi na visisitizi katika sentensi na vifungu"
+          ],
+          "keyInquiryQuestions": [
+            "Unazingatia nini unapotumia viwakilishi vimilikishi?",
+            "Je, viwakilishi visisitizi vina muhimu gani katika mawasiliano?"
+          ],
+          "notes": "Mada 3: Dhiki Zinazokumba Wanyama"
+        },
+        {
+          "name": "Nyakati na Hali (Hali ya Mazoea na Timilifu)",
+          "specificLearningOutcomes": [
+            "Kueleza maana ya hali ya mazoea na timilifu",
+            "Kutumia hali ya mazoea na timilifu ipasavyo katika matini",
+            "Kufurahia kutumia hali ya mazoea na timilifu ipasavyo ili kufanikisha mawasiliano"
+          ],
+          "keyInquiryQuestions": [
+            "Je, unapotaka kuonyesha kwamba jambo hutokea mara kwa mara utatumia viambishi vipi?",
+            "Je, unapotaka kuonyesha kwamba jambo limefanyika na kukamilika utatumia viambishi vipi?"
+          ],
+          "notes": "Mada 4: Matumizi Bora ya Maliasili"
+        },
+        {
+          "name": "Nyakati na Hali (Wakati Uliopita Hali Timilifu na Wakati Ujao Hali Timilifu)",
+          "specificLearningOutcomes": [
+            "Kueleza maana ya wakati uliopita hali timilifu na wakati ujao hali timilifu ili kuzipambanua",
+            "Kutambua viambishi vya wakati uliopita hali timilifu na wakati ujao hali timilifu katika matini",
+            "Kutumia ipasavyo wakati uliopita hali timilifu na wakati ujao hali timilifu katika matini",
+            "Kuchangamkia kutumia ipasavyo wakati uliopita hali timilifu na wakati ujao hali timilifu ili kufanikisha mawasiliano"
+          ],
+          "keyInquiryQuestions": [
+            "Kwa nini ni muhimu kujifunza nyakati na hali?"
+          ],
+          "notes": "Mada 5: Majukumu ya Kijinsia"
+        },
+        {
+          "name": "Vivumishi vya Sifa na Viashiria",
+          "specificLearningOutcomes": [
+            "Kutambua vivumishi vya sifa na viashiria/vionyeshi katika matini",
+            "Kutumia vivumishi vya sifa na viashiria/vionyeshi ipasavyo katika matini",
+            "Kuchangamkia matumizi ya vivumishi vya sifa na viashiria katika mawasiliano"
+          ],
+          "keyInquiryQuestions": [
+            "Je, kuna tofauti gani kati ya vivumishi vya sifa na vivumishi viashiria?"
+          ],
+          "notes": "Mada 6: Usalama Nyumbani"
+        },
+        {
+          "name": "Vivumishi Vimilikishi, vya Idadi na vya Sifa",
+          "specificLearningOutcomes": [
+            "Kutambua vivumishi vimilikishi, vya idadi na vya sifa katika matini",
+            "Kutumia vivumishi vimilikishi, vya idadi na vya sifa ipasavyo katika matini",
+            "Kuchangamkia matumizi ya vivumishi vimilikishi, vya idadi na vya sifa katika mawasiliano"
+          ],
+          "keyInquiryQuestions": [
+            "Je, kuna tofauti gani kati ya vivumishi vimilikishi, vya idadi na vya sifa?"
+          ],
+          "notes": "Mada 7: Kuhudumia Wenye Mahitaji Maalumu"
+        },
+        {
+          "name": "Ngeli na Upatanisho wa Kisarufi (I-ZI na I-I)",
+          "specificLearningOutcomes": [
+            "Kutambua nomino za ngeli ya I-ZI na I-I katika matini",
+            "Kutambua upatanisho wa kisarufi wa ngeli ya I-ZI na I-I katika sentensi",
+            "Kutumia nomino za ngeli ya I-ZI na I-I katika matini kwa kuzingatia upatanisho ufaao wa kisarufi",
+            "Kuchangamkia kutumia nomino za ngeli ya I-ZI na I-I ipasavyo katika sentensi na vifungu ili kuimarisha mawasiliano"
+          ],
+          "keyInquiryQuestions": [
+            "Ni vitu gani katika mazingira yako vyenye majina yaliyo katika ngeli ya I-ZI?",
+            "Ni majina yapi unayojua ya ngeli ya I-I?"
+          ],
+          "notes": "Mada 8: Uhalifu wa Mtandaoni"
+        },
+        {
+          "name": "Ngeli na Upatanisho wa Kisarufi (U-U na U-YA)",
+          "specificLearningOutcomes": [
+            "Kutambua nomino katika ngeli ya U-U na U-YA katika matini",
+            "Kutambua upatanisho wa kisarufi wa ngeli ya U-U na U-YA katika sentensi",
+            "Kutumia nomino katika ngeli ya U-U na U-YA kwa kuzingatia upatanisho ufaao wa kisarufi",
+            "Kuchangamkia kutumia nomino katika ngeli ya U-U na U-YA ipasavyo ili kuimarisha umilisi wa lugha"
+          ],
+          "keyInquiryQuestions": [
+            "Ni vitu gani katika mazingira yako vyenye majina yaliyo katika ngeli ya U-U?",
+            "Ni vitu gani katika mazingira yako vyenye majina yaliyo katika ngeli ya U-YA?"
+          ],
+          "notes": "Mada 9: Majukumu ya Mnunuzi"
+        },
+        {
+          "name": "Vinyume vya Vitenzi na Vielezi",
+          "specificLearningOutcomes": [
+            "Kueleza maana ya kinyume cha maneno ili kuibainisha",
+            "Kutambua vinyume vya vitenzi na vielezi katika matini",
+            "Kutumia ipasavyo vinyume vya vitenzi na vielezi katika matini",
+            "Kuchangamkia kutumia vinyume vya vitenzi na vielezi katika mawasiliano"
+          ],
+          "keyInquiryQuestions": [
+            "Je, ni vinyume gani vya vitenzi unavyojua?",
+            "Je, unajua vinyume gani vya vielezi?"
+          ],
+          "notes": "Mada 10: Kukabiliana na Hisia"
+        },
+        {
+          "name": "Mnyambuliko wa Vitenzi",
+          "specificLearningOutcomes": [
+            "Kutambua kauli ya kutendeka, kutendewa na kutendatenda katika vitenzi",
+            "Kutumia ipasavyo vitenzi katika kauli ya kutendeka, kutendewa na kutendatenda katika matini",
+            "Kuchangamkia kutumia ipasavyo vitenzi katika kauli ya kutendeka, kutendewa na kutendatenda ili kuimarisha mawasiliano"
+          ],
+          "keyInquiryQuestions": [
+            "Kwa nini ni muhimu kujifunza kauli za vitenzi?"
+          ],
+          "notes": "Mada 11: Haki za Watoto"
+        },
+        {
+          "name": "Aina za Sentensi: Sentensi Changamano",
+          "specificLearningOutcomes": [
+            "Kueleza maana ya sentensi changamano ili kuipambanua",
+            "Kutambua sentensi changamano katika matini",
+            "Kutumia sentensi changamano ipasavyo katika matini",
+            "Kuonea fahari matumizi ya sentensi changamano katika mawasiliano ya kila siku"
+          ],
+          "keyInquiryQuestions": [
+            "Ni nini tofauti kati ya sentensi changamano na aina zingine za sentensi unazozijua?"
+          ],
+          "notes": "Mada 12: Magonjwa Yasiyoambukizwa"
+        },
+        {
+          "name": "Ukanushaji kwa Kuzingatia Hali",
+          "specificLearningOutcomes": [
+            "Kueleza maana ya ukanushaji ili kuupambanua",
+            "Kutambua ukanushaji kwa kuzingatia hali ya mazoea na timilifu katika matini",
+            "Kukanusha sentensi kwa kuzingatia hali ya mazoea na timilifu",
+            "Kuchangamkia kukanusha sentensi katika hali ya mazoea na timilifu ili kukuza mawasiliano"
+          ],
+          "keyInquiryQuestions": [
+            "Je, unapotaka kukanusha sentensi unazingatia nini?",
+            "Je, ukanushaji wa hali ya mazoea na timilifu hutofautianaje?"
+          ],
+          "notes": "Mada 13: Heshima kwa Tamaduni za Wengine"
+        },
+        {
+          "name": "Udogo wa Nomino",
+          "specificLearningOutcomes": [
+            "Kutambua nomino katika hali ya udogo katika matini",
+            "Kubadilisha nomino za hali ya wastani kuwa katika hali ya udogo",
+            "Kutumia nomino katika hali ya udogo ipasavyo",
+            "Kuonea fahari kutumia nomino katika hali ya udogo katika sentensi"
+          ],
+          "keyInquiryQuestions": [
+            "Je, ni mambo gani tunayozingatia tunapotumia nomino katika udogo?"
+          ],
+          "notes": "Mada 14: Kuweka Akiba"
+        },
+        {
+          "name": "Usemi Halisi na Usemi wa Taarifa",
+          "specificLearningOutcomes": [
+            "Kutambua usemi halisi na usemi wa taarifa katika matini",
+            "Kujadili kanuni za kubadilisha usemi halisi kuwa usemi wa taarifa kwa kuzingatia kanuni za kubadilisha usemi",
+            "Kutumia usemi halisi na usemi wa taarifa ifaavyo",
+            "Kuchangamkia matumizi ya usemi halisi na usemi wa taarifa katika mawasiliano"
+          ],
+          "keyInquiryQuestions": [
+            "Usemi halisi unatofautianaje na usemi wa taarifa?",
+            "Unazingatia nini unapobadilisha usemi?"
+          ],
+          "notes": "Mada 15: Maadili ya Kijamii"
+        }
+      ]
+    }
+  ]
+}

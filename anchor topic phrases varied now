@@ -1,0 +1,38 @@
+Summary
+Applied the static-prompt / fixed-anchor-phrase fix to all 16 remaining .ts files in web/src/skills/agricultureG6/, following the exact pattern in the already-fixed reference file rearingSmallDomesticAnimals.ts.
+
+Files touched and branches fixed:
+
+controllingSoilErosion.ts — 7 branches (5 new prompt pools + 2 REASONING/EVALUATE frame arrays expanded 2→6)
+sunkenSeedbeds.ts — 7 branches (6 pools + REASONING frames 3→6)
+shallowPits.ts — 7 branches (6 pools + REASONING frames 3→6)
+wildAnimalDeterrents.ts — 7 branches (5 pools + REASONING/EVALUATE frames 3→6 each)
+goodGrooming.ts — 3 branches (fill-blank, categorize, click-match pools; the reasoning branch's MC_TEMPLATES was left alone since each of its 30 entries already carries a distinct hand-written prompt, not a shared skeleton)
+preservingCropProducts.ts — 8 branches (6 pools including the numeric data-hook chart prompt + REASONING/EVALUATE frames 3→6 each)
+cookingByStewing.ts — 5 branches (4 pools + REASONING frames 3→6)
+cookingByBaking.ts — 6 branches (4 pools including the numeric scale-recipe prompt + REASONING frames 3→6)
+sunkenMoistBedGarden.ts — 6 branches (5 pools + REASONING frames 3→6)
+raisedMoistBedGarden.ts — 6 branches (5 pools + REASONING frames 3→6)
+crochetStitches.ts — 6 branches (5 pools, two parameterized by stitch kind + REASONING frames 3→6)
+crochetedHouseholdArticles.ts — 6 branches (5 pools, including the numeric cost-scenario prompt + REASONING frames 3→6)
+removingStains.ts — 6 branches (5 pools, three parameterized by stain type + REASONING frames 3→6)
+identifyingStains.ts — 5 branches (identify-visual, categorize, click-match, order, fill-blank; the reasoning branch's IDENTIFY_TEMPLATES left alone for the same reason as goodGrooming's MC pool — 30 already-distinct hand-written prompts)
+Skipped, no static-prompt issue: g6AgShared.ts and sharedG6Ag.ts — both are shared helper/localization modules (name/place pools, expandScenarios, buildScenarioChoices) with no generate() function or prompt field of their own.
+
+For every fixed static string, added a top-level POOL const (5–6 reworded, question-kind-accurate phrasings) and swapped the literal for randChoice(rng, POOL); for template-literal prompts parameterized by a runtime value (stitch kind, stain type, article, topic), swapped to a pool of (param) => string template functions called as randChoice(rng, TEMPLATES)(param). Every REASONING/EVALUATE/WELFARE frame array that had fewer than 5 frames was expanded to 5–6, with new frames using genuinely different anchor phrasing (not just swapped name/place) so no single keyword phrase recurs in every frame.
+
+No content, correctAnswer, kind, or scoring logic was touched — only prompt wording and frame anchor phrasing, per the task brief.
+
+npx tsc --noEmit -p . run from web/ completed with zero output — clean compile across the whole project, confirming no type errors were introduced.
+
+All four Agriculture agents are done. Let me run one final holistic type-check to confirm everything is consistent together.
+
+PowerShell Final full-project typecheck after all Agriculture fixes
+IN
+cd "c:\Users\SimonNthenge\Documents\ixl quizmaster\web"; npx tsc --noEmit -p . 2>&1 | Select-Object -Last 40
+
+OUT
+(PowerShell completed with no output)
+Type-check is clean across the whole project. Wave 1 complete: all of Agriculture (51 files across G6/G7/G8/base) fixed — every static prompt stem now draws from a 5-8 phrasing pool, and frame arrays with fixed topic-anchor phrases were expanded from 3 to 6 variants with genuinely varied wording.
+
+Remaining scope is large: ~55 more subject/grade folders, ~1,150 files (English G7/G8 alone are 75 files each; Arabic/French/German/Kiswahili/etc. each 25-45). Before I burn through dozens more background agents on autopilot, want to spot-check the Agriculture fix in the browser first, or should I just keep the waves going straight through the rest of the site?

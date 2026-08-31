@@ -1,0 +1,323 @@
+{
+  "subject": "Creative Arts and Sports",
+  "subjectId": "creative-arts-sports",
+  "grade": 8,
+  "source": {
+    "title": "Junior School Curriculum Design: Creative Arts and Sports, Grade 8 (KICD, First published 2023, Revised 2024, ISBN 978-9914-43-983-0)",
+    "url": "https://doyenpublishers.com/wp-content/uploads/2025/04/Grade-8-Creative-Arts-and-Sports-Curriculum-Design.pdf",
+    "publisher": "KICD (mirrored via doyenpublishers.com)",
+    "retrievedDate": "2026-08-14",
+    "confidence": "high",
+    "notes": "WebFetch could not extract text from this PDF directly ('unable to extract text'), but reported the file saved locally; the Read tool then parsed the full 71-page document natively and verbatim, including all strand/sub-strand/SLO/KIQ tables. Cover page reads 'KENYA INSTITUTE OF CURRICULUM DEVELOPMENT ... JUNIOR SCHOOL CURRICULUM DESIGN CREATIVE ARTS AND SPORTS GRADE 8', ISBN 978-9914-43-983-0. Independently confirmed against KICD's own Google Drive index (file ID 1ji89ZIdF9ZA5d6rkchqJJYa2G5ZQO5zP on the Grade 8 designs page), whose /preview page shows the exact official filename 'Creative Arts & Sports Grade 8 - Revised.pdf' -- this confirms, same as Grade 9, that Sports is merged into one design with Creative Arts at Grade 8 too (the KICD index page's short label just says 'Creative Arts' but the actual PDF title is 'Creative Arts and Sports'). All strand/sub-strand headings, SLOs and KIQs below are transcribed verbatim from the Read output, not summarized. Pages are watermarked 'DRAFT' -- same pattern as other official KICD Grade 8/9 PDFs circulating publicly, not a sign of an unofficial document. IMPORTANT for later build phases: like Grade 9, this subject is unusually performance/practical-heavy (music performance, sports skills, painting, fabric decoration, basketry, folk dance). Only a minority of sub-strands are purely knowledge/theory-testable in a traditional quiz format. Structural note: strand 2's sub-strand '2.3' is labelled 'Athletics and Montage' in the SUMMARY OF STRAND AND SUB STRANDS table but the detailed body table heading for the same sub-strand reads 'Middle Distance Races and Montage' -- the fuller, more specific body heading is used here as canonical (same resolution approach used for the Grade 9 CAS numbering quirk). Strand 2 also contains an OPTIONAL block (2.12.1 Swimming vs 2.12.2 Kenyan Indigenous Games) where the design instructs the learner to cover only ONE of the two -- both are recorded here since either could be the one a given school selects, matching the Grade 9 CAS pattern exactly (2.11.1/2.11.2 there). Content differs substantially from Grade 9's version of this subject (different sports: Middle Distance Races/Netball/Volleyball vs Grade 9's Triple Jump/Rugby/Basketball; different crafts: Fabric Decoration/Basketry vs Grade 9's Pottery/Weaving/Photography), confirming Grade 8 is not a re-run of Grade 9 content."
+  },
+  "strands": [
+    {
+      "name": "Foundations of Creative Arts and Sports",
+      "subStrands": [
+        {
+          "name": "Roles of Creative Arts and Sports",
+          "subSubStrands": [
+            "Roles of Creative Arts and Sports",
+            "Creating a Storyboard",
+            "Painting background (splattering, wash)"
+          ],
+          "specificLearningOutcomes": [
+            "Describe the roles of Creative Arts and Sports in society",
+            "Make a storyboard highlighting the roles of Creative Arts and Sports in society",
+            "Appreciate the role played by Creative Arts and Sports in society"
+          ],
+          "keyInquiryQuestions": [
+            "What is the importance of Creative Arts and Sports in society?"
+          ],
+          "notes": "Knowledge-testable (describing social/economic roles) is a good quiz fit; the storyboard-making component (collecting/cutting pictures, painting a background, pasting) is a practical/artistic task."
+        },
+        {
+          "name": "Components of Creative Arts and Sports",
+          "subSubStrands": [
+            "Elements of a Verse: character, theme, setting",
+            "Endurance and agility components of physical fitness",
+            "Pitch: Bass staff, ledger lines, G major, piano keyboard, accidentals, middle C",
+            "Rhythm: semibreve, minim, crotchet, a pair of quavers"
+          ],
+          "specificLearningOutcomes": [
+            "Describe elements of Verse",
+            "Perform activities that enhance endurance and agility in physical fitness",
+            "Write note values on the bass staff",
+            "Name pitches on the bass staff",
+            "Group music notes in 3/4 time",
+            "Construct the scale of G major on a staff",
+            "Appreciate the basic elements of Creative Arts and Sports"
+          ],
+          "keyInquiryQuestions": [
+            "What are the components of Creative Arts and Sports?"
+          ],
+          "notes": "Mixed: describing verse elements, writing/naming bass-staff pitches, grouping notes, and constructing the G major scale are knowledge-testable; performing fitness activities is a physical-performance outcome this app cannot grade directly."
+        }
+      ]
+    },
+    {
+      "name": "Creating and Performing in Creative Arts and Sports",
+      "subStrands": [
+        {
+          "name": "Drawing and Painting",
+          "subSubStrands": [
+            "Drawing - forms/shapes (at least 3)",
+            "Dominance (size variation)",
+            "Painting"
+          ],
+          "specificLearningOutcomes": [
+            "Discuss dominance in a picture",
+            "Classify complementary colours on a colour wheel",
+            "Illustrate a colour gradation strip for colour contrast",
+            "Paint a still life composition to express dominance",
+            "Appreciate own and others' pictures"
+          ],
+          "keyInquiryQuestions": [
+            "What are complimentary colours?",
+            "How is dominance created using in a picture?"
+          ],
+          "notes": "Largely practical/artistic performance (painting a still life composition, colour wheel construction) -- this app cannot grade the physical execution, only underlying knowledge (colour theory, classification, dominance concepts)."
+        },
+        {
+          "name": "Rhythm",
+          "subSubStrands": [
+            "Composing four-bar rhythms",
+            "Rhythmic patterns in 3/4 time"
+          ],
+          "specificLearningOutcomes": [
+            "Describe 3/4 time in music",
+            "Compose a four-bar rhythmic pattern in 3/4 time",
+            "Perform four-bar rhythmic patterns in 3/4 time",
+            "Appreciate creating rhythms in 3/4 time"
+          ],
+          "keyInquiryQuestions": [
+            "How does one acquire the skill of composing rhythm in music?",
+            "What is the role of rhythm in day to day life?"
+          ],
+          "notes": "Substantially knowledge-testable (describing 3/4 time, notation) though composing/performing rhythmic patterns leans practical."
+        },
+        {
+          "name": "Middle Distance Races and Montage",
+          "subSubStrands": [
+            "Middle distance races",
+            "Montage (subject, posture, centre of interest, finishing)"
+          ],
+          "specificLearningOutcomes": [
+            "Describe middle distance races in athletics",
+            "Perform middle distance races for skill acquisition",
+            "Discuss characteristics of a montage composition",
+            "Create a montage composition inspired by athletes running",
+            "Acknowledge own and others' effort in middle distance running and montage for enjoyment"
+          ],
+          "keyInquiryQuestions": [
+            "How do running techniques affect performance in middle distance races?",
+            "What is the difference between montage and photomontage?"
+          ],
+          "notes": "This is the sub-strand the SUMMARY OF STRAND AND SUB STRANDS table labels '2.3 Athletics and Montage' (12 lessons); the detailed body table heading instead reads 'Middle Distance Races and Montage' -- treated here as the canonical name since it is the more specific/detailed heading, per the source-document quirk noted at the top of this file. Combines physical/athletic performance (middle distance running: 800m, 1500m) with artistic craft performance (montage-making from cut photographs) -- both need a non-traditional quiz approach; only the descriptive/characteristic-discussion outcomes are directly knowledge-testable."
+        },
+        {
+          "name": "Melody",
+          "subSubStrands": [
+            "Question and answer phrases in a melody",
+            "4-bar melodies in G Major and 3/4 time",
+            "Extending a melody using exact repetition, and varied repetition"
+          ],
+          "specificLearningOutcomes": [
+            "Describe methods of creating a melody",
+            "Compose a 2-bar answering phrase to a given 2-bar opening phrase",
+            "Compose a 4-bar melody in G Major",
+            "Perform simple pieces of music in G Major",
+            "Value the use of melody in Creative Arts and Sports"
+          ],
+          "keyInquiryQuestions": [
+            "How can a melody be extended to make it interesting?"
+          ],
+          "notes": "Mixed: describing melody-extension methods is knowledge-testable; composing, notating, and performing melodies are practical/performance skills this app cannot grade directly."
+        },
+        {
+          "name": "Netball",
+          "subSubStrands": [
+            "Passes - Overhead pass, Chest pass",
+            "Footwork - landing, pivoting",
+            "Dodging and marking"
+          ],
+          "specificLearningOutcomes": [
+            "Describe the execution of different passes in Netball",
+            "Perform passes in Netball for skill acquisition",
+            "Execute dodging and marking in Netball for skill development",
+            "Perform footwork skills in a Netball game situation",
+            "Appreciate teamwork in application of netball skills for fun and enjoyment"
+          ],
+          "keyInquiryQuestions": [
+            "What is the importance of dodging and marking skill in a game of Netball?",
+            "What footwork options does a player have after landing with a ball in a Netball game?"
+          ],
+          "notes": "Almost entirely physical/practical (executing passes, footwork, dodging/marking) -- needs a non-traditional quiz approach; only 'describing execution of passes' (naming/identifying pass types) is directly knowledge-testable."
+        },
+        {
+          "name": "Fabric Decoration",
+          "subSubStrands": [
+            "Tie and dye (marbling, pleating)",
+            "Stencil printing",
+            "Alternate pattern (motif layout/colour alternate)"
+          ],
+          "specificLearningOutcomes": [
+            "Identify fabrics decorated for familiarity",
+            "Tie and dye a fabric using marbling",
+            "Decorate a fabric using pleating technique",
+            "Print fabric using a stencil",
+            "Acknowledge tie and dye, and stencil printing as fabric decorating techniques"
+          ],
+          "keyInquiryQuestions": [
+            "Why do we finish a decorated fabric?"
+          ],
+          "notes": "Predominantly hands-on craft production (marbling, pleating, stencil printing, sewing a tote bag) -- needs a non-traditional quiz approach; identifying decorated fabrics is knowledge-testable."
+        },
+        {
+          "name": "Descant Recorder",
+          "subSubStrands": [
+            "Techniques of playing a descant recorder: fingering, pinching, slurring, embouchure, tonguing, blowing",
+            "Melodies in G Major",
+            "Performance directions: repeat (da capo al fine, dal segno al fine)",
+            "Technique poster"
+          ],
+          "specificLearningOutcomes": [
+            "Explain techniques of playing a descant recorder",
+            "Interpret performance directions on given pieces of music",
+            "Perform simple melodies in G Major on a descant recorder",
+            "Value playing music on the descant recorder or any other Western solo instrument"
+          ],
+          "keyInquiryQuestions": [
+            "What is the importance of applying technique when playing a descant recorder?"
+          ],
+          "notes": "Predominantly instrumental performance (playing the recorder, applying technique) -- needs a non-traditional quiz approach; explaining techniques and interpreting performance-direction terminology (da capo al fine, dal segno al fine) are knowledge-testable."
+        },
+        {
+          "name": "Verse",
+          "subSubStrands": [
+            "Writing a verse",
+            "Performing a verse"
+          ],
+          "specificLearningOutcomes": [
+            "Describe language use in verse",
+            "Compose a verse to address an issue in society",
+            "Perform a verse before an audience",
+            "Acknowledge the use of verse as a means of communication"
+          ],
+          "keyInquiryQuestions": [
+            "How can verse performance be made interesting and memorable?",
+            "Why is it important to decorate props to be used for performance?"
+          ],
+          "notes": "Mixed: describing language use in verse (imagery, sound devices, diction, line and stanza) is knowledge-testable; composing and performing a verse before an audience are practical/performance tasks this app cannot grade directly."
+        },
+        {
+          "name": "Volleyball",
+          "subSubStrands": [
+            "Service - overarm service",
+            "Volleying skill"
+          ],
+          "specificLearningOutcomes": [
+            "Identify the overarm serve in Volleyball game",
+            "Serve the ball using overarm serve over a net",
+            "Perform the volleying skill in Volleyball",
+            "Appraise others' efforts when applying serving and volleying skills in Volleyball"
+          ],
+          "keyInquiryQuestions": [
+            "How does the volley pass make the Volleyball game interesting?"
+          ],
+          "notes": "Almost entirely physical/practical (executing overarm serve and volleying) -- needs a non-traditional quiz approach; identifying the overarm serve and appraising performance are knowledge/reasoning-testable."
+        },
+        {
+          "name": "Kenyan Folk Dance",
+          "subSubStrands": [
+            "Classification of folk dances: community, gender and age of participants, occasion",
+            "Performing a folk dance"
+          ],
+          "specificLearningOutcomes": [
+            "Classify folk dances from Kenyan communities",
+            "Perform a folk dance from a Kenyan community",
+            "Appreciate different cultures through performing folk dances from diverse Kenyan communities"
+          ],
+          "keyInquiryQuestions": [
+            "How do folk dances represent Kenyan culture?",
+            "What makes a good folk dance performance?"
+          ],
+          "notes": "Mixed: classifying folk dances by community/gender/age/occasion is knowledge-testable; performing a folk dance is a practical/performance task this app cannot grade directly."
+        },
+        {
+          "name": "Indigenous Kenyan Craft (Basketry)",
+          "subSubStrands": [
+            "Materials - sisal, banana fibre, raffia, recyclable synthetic fabric among others"
+          ],
+          "specificLearningOutcomes": [
+            "Identify basketry items made using coil techniques",
+            "Make a basketry item using the coil method",
+            "Appreciate basketry as an indigenous craft in Kenya"
+          ],
+          "keyInquiryQuestions": [
+            "How does basket making contribute to the economic well-being of communities?"
+          ],
+          "notes": "Predominantly hands-on craft production (coil-method weaving of a mat/tray) -- needs a non-traditional quiz approach; identifying basketry items and discussing economic contribution is knowledge-testable."
+        },
+        {
+          "name": "Swimming (Optional)",
+          "subSubStrands": [
+            "Inverted Breaststroke",
+            "Water treading"
+          ],
+          "specificLearningOutcomes": [
+            "Explain the inverted breaststroke and water treading technique in swimming",
+            "Perform water treading skill in swimming",
+            "Perform the inverted breaststroke technique in swimming for skill acquisition",
+            "Combine the skills of water treading and inverted breaststroke for skill mastery",
+            "Acknowledge own and others' efforts while performing water treading and inverted breaststroke skills in swimming"
+          ],
+          "keyInquiryQuestions": [
+            "How is inverted breaststroke used in life saving?",
+            "Why is water treading skill important?"
+          ],
+          "notes": "OPTIONAL sub-strand: the design's 'OPTIONAL SUB STRANDS' section instructs the learner to cover at least ONE of Swimming OR Kenyan Indigenous Games, not necessarily both. Almost entirely physical/practical performance requiring pool access -- needs a non-traditional quiz approach; explaining technique/body position is knowledge-testable."
+        },
+        {
+          "name": "Kenyan Indigenous Games (Optional)",
+          "subSubStrands": [
+            "Tagging"
+          ],
+          "specificLearningOutcomes": [
+            "Identify types of indigenous tagging games played in Kenya",
+            "Perform different indigenous tagging games for skill acquisition",
+            "Perform indigenous tagging games using musical rhythm for coordination",
+            "Appreciate the role played by indigenous tagging games for enjoyment"
+          ],
+          "keyInquiryQuestions": [
+            "How do indigenous tagging skills enhance physical fitness?",
+            "Why is tagging considered an indigenous game?"
+          ],
+          "notes": "OPTIONAL sub-strand: the learner covers at least ONE of this (Kenyan Indigenous Games -- Tagging) OR Swimming, not necessarily both. Unlike Grade 9 (which offered board games under this option), Grade 8's indigenous-games option is specifically Tagging. Mixed: identifying tagging game types is knowledge-testable; performing the games is a practical/physical skill."
+        }
+      ]
+    },
+    {
+      "name": "Appreciation in Creative Arts and Sports",
+      "subStrands": [
+        {
+          "name": "Analysis of Creative Arts and Sports",
+          "subSubStrands": [
+            "Artwork: drawing, painting and montage pictures, decorated fabric, basketry items"
+          ],
+          "specificLearningOutcomes": [
+            "Showcase artwork for appreciation",
+            "Analyse a verse performance",
+            "Examine the spirit of sportsmanship in sporting activities",
+            "Analyse a folk dance from a Kenyan community",
+            "Appreciate the role of analysis in adding value to Creative Arts and Sports"
+          ],
+          "keyInquiryQuestions": [
+            "Why is analysis an important skill in Creative Arts and Sports?"
+          ],
+          "notes": "The most quiz-friendly sub-strand in this subject: analysing a verse performance, examining sportsmanship, and analysing a folk dance are reasoning/critique skills rather than physical or artistic execution, though they presuppose the learner has been exposed to the performances/artworks being analysed. The 'showcase artwork for appreciation' outcome is a practical/display task."
+        }
+      ]
+    }
+  ]
+}

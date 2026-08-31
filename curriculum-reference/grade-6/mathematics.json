@@ -1,0 +1,495 @@
+{
+  "subject": "Mathematics",
+  "subjectId": "math",
+  "grade": 6,
+  "source": {
+    "title": "Primary School Education Curriculum Design — Mathematics, Grade 6",
+    "path": "grade-6-curriculum-desings/GRADE-6-MATHEMATICS-Curriculum-Designs.pdf",
+    "publisher": "KICD",
+    "isbn": "978-9914-724-87-5",
+    "firstPublished": 2017,
+    "revised": 2024,
+    "retrievedDate": "2026-08-16",
+    "confidence": "high",
+    "notes": "Read directly via the Read tool (no `pages` param) from the local PDF in grade-6-curriculum-desings/ — note the folder's own name has a typo ('desings'), not designs/. This is Upper Primary (not Junior School) content — a notch simpler than Grade 7-9: inequalities use only strict >/< (no ≥/≤/compound forms), angles stop at straight-line/at-a-point/triangle+rectangle-sum (no transversals or polygons beyond a rectangle), no percentage-profit/discount/commission in Money (plain profit/loss and simple budgets only)."
+  },
+  "lessonsPerWeek": 5,
+  "assessmentMethods": [
+    "Written tests and quizzes",
+    "Rating scales",
+    "Projects",
+    "Observation schedules",
+    "Portfolios",
+    "Assessment rubric",
+    "Questionnaires"
+  ],
+  "_lessonsPerWeek_source": "KICD's 'Lesson Allocation at Upper Primary' table (front matter of every Grade 4-6 design, incl. this Mathematics one) — Mathematics = 5 lessons/week out of 35 total across all Upper Primary learning areas. This is a level-wide allocation (same for Grade 4/5/6), not Mathematics-specific pacing beyond that weekly count.",
+  "_assessmentMethods_source": "Verbatim from this design's Appendix II: Suggested Assessment Methods and Tools. This list is subject-wide (not per-sub-strand) in the source — the design does not vary it by strand.",
+  "strands": [
+    {
+      "name": "1.0 Numbers",
+      "subStrands": [
+        {
+          "name": "1.1 Whole Numbers",
+          "lessonCount": 20,
+          "specificLearningOutcomes": [
+            "Use place value and total value of digits up to millions in real life",
+            "Use numbers up to millions in symbols in real life",
+            "Read and write numbers up to 100,000 in words in real life",
+            "Order numbers up to 100,000 in real-life situations",
+            "Round off numbers up to 100,000 to the nearest thousand in different situations",
+            "Apply squares of whole numbers up to 100 in different situations",
+            "Apply square roots of perfect squares up to 10,000 in different situations",
+            "Appreciate use of whole numbers in real-life situations"
+          ],
+          "keyInquiryQuestions": ["How do we read and write numbers in symbols and in words?"],
+          "learningResources": ["Place value apparatus", "Number charts", "Number cards", "Multiplication tables"],
+          "learningExperiences": [
+            "Work with peers to identify place value of digits up to millions using place value apparatus",
+            "Work in teams to read numbers up to millions in symbols from number charts/cards",
+            "Read and write numbers up to hundred thousand in words from number charts/cards",
+            "Discuss and read numbers up to millions in symbols from number charts or cards",
+            "Discuss with peers and form different numbers by rearranging digits of a number up to 100,000",
+            "Discuss in teams and round off numbers up to hundred thousand to the nearest 1,000 from number cards and share with other groups",
+            "Multiply a given number by itself and identify the answer as the square of the number",
+            "Work out the square root of a given number and recognise the value which when multiplied by itself results in the given number",
+            "Play games involving whole numbers using digital devices or other resources",
+            "Create number charts involving number of road users to and from school or home — creates awareness on the level of congestion of traffic on the road and helps address road safety issues"
+          ],
+          "linkedLearningAreas": ["Languages — learners read and write numbers in words, enhancing language skills"],
+          "scopeNotes": [],
+          "assessmentSignal": "Rubric distinguishes 'systematically'/'consistently' (Exceeds) from plain 'correctly' (Meets) for place value, squares/roots, and multiplication — repeated, methodical correctness is the differentiator, not just one correct answer.",
+          "coreCompetencies": ["Critical thinking and problem solving — forming different numbers by rearranging digits of a given number"]
+        },
+        {
+          "name": "1.2 Multiplication",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Multiply up to a 4-digit number by a 2-digit number in real-life situations",
+            "Estimate products by rounding off numbers being multiplied to the nearest ten in real-life situations",
+            "Make patterns involving multiplication of numbers not exceeding 1,000 in different situations",
+            "Appreciate use of multiplication in real life"
+          ],
+          "keyInquiryQuestions": ["How do we multiply numbers?"],
+          "learningResources": ["Multiplication tables"],
+          "learningExperiences": [
+            "Multiply up to a 4-digit number by a 2-digit number using: fact families, skip counting, multiplication chart, expanded form, digital devices",
+            "Estimate products using: rounding off factors, compatibility of numbers",
+            "Make patterns involving multiplication with products not exceeding 1,000 using number cards",
+            "Work with peers and play games involving multiplication using digital devices or other resources such as number cards"
+          ],
+          "linkedLearningAreas": ["Agriculture — estimating quantities of seeds or fertiliser required for planting different crops"],
+          "scopeNotes": [],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Creativity and imagination — making patterns involving multiplication with products not exceeding 1,000"]
+        },
+        {
+          "name": "1.3 Division",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Divide up to a 4-digit number by up to a 3-digit number where the dividend is greater than the divisor, in real-life situations",
+            "Estimate quotients by rounding off the dividend and divisor to the nearest ten in real-life situations",
+            "Perform combined operations involving addition, subtraction, multiplication and division up to 3-digit numbers",
+            "Appreciate use of division of whole numbers in real life"
+          ],
+          "keyInquiryQuestions": ["Where is division used in real life?"],
+          "learningResources": ["Multiplication tables"],
+          "learningExperiences": [
+            "Divide up to a 4-digit number by up to a 3-digit number and share the answers (dividend > divisor) using: relationship between multiplication and division, long method",
+            "Work out quotients by rounding off the dividend and divisor to the nearest ten",
+            "Work out questions involving two, three or four operations up to 3-digit numbers",
+            "Divide whole numbers using digital devices or other resources"
+          ],
+          "linkedLearningAreas": ["Agriculture — dividing quantities such as ingredients for cooking"],
+          "scopeNotes": ["include: combined-operations questions with 2, 3, or 4 mixed operations up to 3-digit numbers — this is the sub-strand's order-of-operations/BODMAS content"],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Communication and collaboration — discussing with peers the relationship between multiplication and division"]
+        },
+        {
+          "name": "1.4 Fractions",
+          "lessonCount": 12,
+          "specificLearningOutcomes": [
+            "Add fractions using LCM in different situations",
+            "Subtract fractions using LCM in different situations",
+            "Add mixed numbers in different situations",
+            "Subtract mixed numbers in different situations",
+            "Identify reciprocal of proper fractions up to a 2-digit number in different situations",
+            "Work out squares of fractions with a numerator of one digit and denominator of a 2-digit number in different situations",
+            "Express a fraction as a percentage in different situations",
+            "Convert percentage to fractions in different situations",
+            "Appreciate use of fractions in real life"
+          ],
+          "keyInquiryQuestions": ["How do we add or subtract fractions?", "Where is percentage used in day-to-day life?"],
+          "learningResources": ["Equivalent fraction board", "Circular and rectangular cut-outs", "Counters"],
+          "learningExperiences": [
+            "Identify LCM of numbers given from number cards",
+            "Add and subtract fractions using LCM by listing multiples",
+            "Add and subtract mixed fractions by converting the fractions to improper fractions",
+            "Add and subtract mixed fractions by adding and subtracting whole number and fraction parts separately",
+            "List the inverse of numbers between 1 and 10",
+            "Calculate the reciprocal of a number by dividing 1 (one) by the number — always start with whole numbers before proper fractions up to a 2-digit denominator",
+            "Discuss the various reciprocals of a proper fraction",
+            "Calculate squares of fractions through multiplication or practically",
+            "Change fractions to equivalent fractions with denominator 100 through multiplication",
+            "Identify a percentage as a fraction with denominator 100",
+            "Work with peers on how to change fractions to percentages and vice versa",
+            "Play digital games involving fractions"
+          ],
+          "linkedLearningAreas": ["Creative Arts — using fractional parts of a canvas or drawing materials to draw different patterns"],
+          "scopeNotes": [],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Learning to learn — working out the reciprocal of whole numbers before solving the reciprocal of proper fractions"]
+        },
+        {
+          "name": "1.5 Decimals",
+          "lessonCount": 12,
+          "specificLearningOutcomes": [
+            "Identify decimals up to ten thousandths in different situations",
+            "Round off decimals up to 3 decimal places in different situations",
+            "Convert decimals to fractions and fractions to decimals in different situations",
+            "Convert decimals to percentages and percentages to decimals in different situations",
+            "Add decimals up to 4 decimal places in different situations",
+            "Subtract decimals up to 4 decimal places in different situations",
+            "Appreciate use of decimals in real-life situations"
+          ],
+          "keyInquiryQuestions": ["Where are decimals applicable in real life?"],
+          "learningResources": ["Place value charts", "Number cards"],
+          "learningExperiences": [
+            "Work out place value of decimals up to ten thousandths using place value apparatus",
+            "Relate place value of decimals up to ten thousandths to the number of decimal places",
+            "Discuss and round off decimals up to 3 decimal places",
+            "Change decimals to fractions using a square/rectangular grid",
+            "Change fractions to decimals using a square/rectangular grid",
+            "Add decimals up to 4 decimal places using shared place value apparatus",
+            "Subtract decimals up to 4 decimal places using place value apparatus",
+            "Play games involving decimals using digital devices or other resources"
+          ],
+          "linkedLearningAreas": [],
+          "scopeNotes": [],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Communication and collaboration — discussing and relating place value of decimals up to ten thousandths to the number of decimal places"]
+        },
+        {
+          "name": "1.6 Inequalities",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "Form simple inequalities in one unknown involving real-life situations",
+            "Simplify inequalities in one unknown involving real-life situations",
+            "Solve simple inequalities in one unknown involving real-life situations",
+            "Appreciate use of inequalities in real-life situations"
+          ],
+          "keyInquiryQuestions": ["How do we solve simple inequalities?"],
+          "learningResources": ["Digital inequality worksheets", "Greater-than/less-than/equal-to sorting cards"],
+          "learningExperiences": [
+            "Discuss meaning of inequality symbols '>' and '<'",
+            "Form inequalities in one unknown using different operations",
+            "Simplify inequalities in one unknown using cards or charts",
+            "Work out simple inequalities involving one unknown",
+            "Play games involving inequalities using digital devices or other resources"
+          ],
+          "linkedLearningAreas": ["Languages — new terms used in inequalities enhance vocabulary"],
+          "scopeNotes": [
+            "exclude: this grade's design discusses only the symbols '>' and '<' — no '≥'/'≤' and no compound inequalities are named anywhere in the sub-strand text. This is materially different from Grade 7's linear-inequalities sub-strand, which does cover ≥/≤/compound forms — do not backport that scope into Grade 6."
+          ],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Self-efficacy — confidently working out simple inequalities involving one unknown"]
+        }
+      ]
+    },
+    {
+      "name": "2.0 Measurement",
+      "subStrands": [
+        {
+          "name": "2.1 Length",
+          "lessonCount": 14,
+          "specificLearningOutcomes": [
+            "Use the millimetre (mm) as a unit of measuring length in different situations",
+            "Establish the relationship between the millimetre and centimetre in different situations",
+            "Convert centimetres and millimetres to millimetres in different situations",
+            "Add centimetres and millimetres in different situations",
+            "Subtract centimetres and millimetres in different situations",
+            "Multiply centimetres and millimetres by whole numbers in real-life situations",
+            "Divide centimetres and millimetres by whole numbers in real-life situations",
+            "Determine the circumference of a circle practically",
+            "Identify the relationship between circumference and diameter in different situations",
+            "Appreciate use of length in real-life situations"
+          ],
+          "keyInquiryQuestions": ["Why do we measure distances in day-to-day life?", "What do we use to measure length in real life?"],
+          "learningResources": ["Metre rule", "1-metre ticks", "Tape measure"],
+          "learningExperiences": [
+            "Discuss and identify the millimetre as a unit of measuring length using a ruler",
+            "Measure length of objects in millimetres using a ruler",
+            "Measure a given length in cm and mm to establish the relationship between mm and cm",
+            "Convert mm to cm and cm to mm when measuring lengths of different objects and comparing results",
+            "Measure lengths of different objects in the environment",
+            "Determine lengths in mm and cm in addition, subtraction, multiplication and division and discuss the answers",
+            "Sketch the circumference, diameter and radius of a circle practically",
+            "Measure the circumference of a circle practically",
+            "Divide circumference by diameter to get pi (π)",
+            "Play games involving length in centimetres and millimetres using digital devices or other resources"
+          ],
+          "linkedLearningAreas": ["Creative Arts — handling objects with care when measuring lengths for play activities"],
+          "scopeNotes": [],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Creativity and imagination — sketching the circumference, diameter and radius of a circle practically"]
+        },
+        {
+          "name": "2.2 Area",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Work out area of triangles in square centimetres (cm²)",
+            "Work out area of combined shapes involving squares, rectangles and triangles in cm²",
+            "Estimate the area of circles by counting squares",
+            "Appreciate the use of cm² in working out area in real life"
+          ],
+          "keyInquiryQuestions": ["Where is area used in real life?"],
+          "learningResources": ["Square cut-outs", "1cm squares", "1m squares"],
+          "learningExperiences": [
+            "Establish that the area of a triangle is equal to a half of the area of a rectangle or a square when the rectangle/square is divided by a diagonal",
+            "Work out the area of triangles in cm² using the relationship between a rectangle and a triangle (Area = ½ × L × W)",
+            "Sketch a circle on a unit square grid and count the full squares to estimate the area of circles and compare answers",
+            "Prepare own combined shapes involving rectangles, squares, triangles and ask peers to determine the area",
+            "Play games involving area using digital tools or other resources"
+          ],
+          "linkedLearningAreas": ["Social Studies — exploring their environment to calculate area of different places such as play fields within the community"],
+          "scopeNotes": [],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Creativity and imagination — working out the area of triangles using the rectangle-triangle relationship"]
+        },
+        {
+          "name": "2.3 Capacity",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Identify the relationship among cubic centimetres (cm³), millilitres and litres in real life",
+            "Convert litres to millilitres in different situations",
+            "Convert capacity in millilitres to litres in different situations",
+            "Appreciate use of cm³ and litres in measuring capacity in real life"
+          ],
+          "keyInquiryQuestions": ["How can we measure capacity?", "Where is capacity applicable in real life?"],
+          "learningResources": ["Teaspoons", "Containers of different sizes", "Water", "Sand", "Soil"],
+          "learningExperiences": [
+            "Work out the relationship between cm³, millilitres and litres through measuring practically",
+            "Measure capacity in millilitres and litres, discuss answers and share with others",
+            "Change capacity in litres to millilitres using containers from the environment by comparing sizes of different containers",
+            "Work out conversions of capacity of millilitres to litres",
+            "Play games involving capacity using containers of different capacities"
+          ],
+          "linkedLearningAreas": ["Science and Technology — taking accurate measurements of liquids using different containers from the immediate environment"],
+          "scopeNotes": [],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Critical thinking and problem solving — working out the relationship between cm³, millilitres and litres through measuring capacities practically"]
+        },
+        {
+          "name": "2.4 Mass",
+          "lessonCount": 14,
+          "specificLearningOutcomes": [
+            "Identify the tonne as a unit for measuring mass in real life",
+            "Identify items measured in tonnes in real life",
+            "Identify the relationship between the kilogramme and the tonne",
+            "Estimate mass in tonnes in different situations",
+            "Convert kilogrammes to tonnes and tonnes to kilogrammes in real-life situations",
+            "Add tonnes and kilogrammes in real-life situations",
+            "Subtract tonnes and kilogrammes in real-life situations",
+            "Multiply tonnes and kilogrammes by whole numbers in real-life situations",
+            "Divide tonnes and kilogrammes by whole numbers in real-life situations",
+            "Appreciate use of the kilogramme and tonne in measuring mass"
+          ],
+          "keyInquiryQuestions": ["How can we measure large amounts of mass?", "In what situations would the tonne be more applicable to use when measuring mass?"],
+          "learningResources": ["Teaspoons", "Soil or sand", "Manual/electronic weighing machine", "Beam balance"],
+          "learningExperiences": [
+            "Discuss tonne as a unit of measuring mass",
+            "Discuss items in the environment such as loaded lorries, whose mass may be measured in tonnes",
+            "Establish the relationship between the kilogramme and the tonne (1000 kg = 1 tonne)",
+            "Estimate mass in tonnes of various objects found in the environment",
+            "Change kilogrammes to tonnes and tonnes to kilogrammes",
+            "Determine mass of items in tonnes and kilogrammes using different operations involving addition, subtraction, multiplication and division",
+            "Use digital weighing machines to measure mass of different items"
+          ],
+          "linkedLearningAreas": ["Social Studies — discussing transit trucks that carry grains in tonnes to different places"],
+          "scopeNotes": [],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Digital literacy — using digital weighing machines to measure mass of different items"]
+        },
+        {
+          "name": "2.5 Time",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "Identify time in a.m. and p.m. in day-to-day life experiences",
+            "Write time in a.m. and p.m. in day-to-day life",
+            "Relate time in a.m. and p.m. to the 24h clock system",
+            "Convert time from 12h to 24h and 24h to 12h system",
+            "Interpret travel timetable in different situations",
+            "Appreciate use of time in both 12h and 24h systems"
+          ],
+          "keyInquiryQuestions": ["How do we read and tell time?"],
+          "learningResources": ["Analogue and digital clocks", "Digital watches", "Stopwatches"],
+          "learningExperiences": [
+            "Discuss time in a.m. and p.m. from digital and analogue clocks",
+            "Determine time in a.m. and p.m. from digital and analogue clocks",
+            "Equate time in a.m. and p.m. to the 24h clock system using a chart",
+            "Change time from the 12h to 24h system and 24h to 12h using a chart",
+            "Interpret travel timetables to create travel schedules for different events",
+            "Determine time durations of travelling using travel timetables within the country",
+            "Check local time using digital or analogue clock in 12h and 24h systems"
+          ],
+          "linkedLearningAreas": ["Creative Arts — recording time taken to perform in different games such as athletics", "Citizenship — determining time durations of travelling using travel timetables within the country"],
+          "scopeNotes": [],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Learning to learn — determining time in a.m. and p.m. from digital and analogue clocks"]
+        },
+        {
+          "name": "2.6 Money",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "Prepare simple budget in different situations",
+            "Determine buying and selling prices of different items in the community",
+            "Work out profit from sales of different items in the community",
+            "Calculate loss realised from sales of different items in the community",
+            "Identify types of taxes in different situations",
+            "Appreciate use of money in real-life situations"
+          ],
+          "keyInquiryQuestions": ["How can you make profit in a business?"],
+          "learningResources": ["Price list", "Classroom shop", "Electronic money tariff charts"],
+          "learningExperiences": [
+            "Identify different shopping items in the community or at home especially food items and prepare a simple budget",
+            "Discuss the meaning of buying and selling price",
+            "Determine buying and selling prices of different items in the community",
+            "Discuss the meaning of profit and loss in real-life situations and share with peers",
+            "Discuss and determine profit and loss by practising buying and selling from the classroom model shop",
+            "Discuss income and value added tax (VAT) from receipts issued by shops and retailers as a form of tax",
+            "Use IT devices or other resources to explore more on money"
+          ],
+          "linkedLearningAreas": ["Agriculture — participating in making budgets for buying food at home"],
+          "scopeNotes": [
+            "exclude: no percentage profit/loss, discount, percentage discount, or commission anywhere in this sub-strand's outcomes or learning experiences — those are Grade 7+ Money content (compare against designs/GRADE.7.MATHEMATICS.pdf's Money sub-strand). Grade 6 stays to plain profit/loss amounts, simple budgets, and identifying (not computing) tax types.",
+            "include: the learning experiences explicitly name income tax and VAT as the two tax types to discuss from real receipts — treat these as the sub-strand's tax-type vocabulary, not an open-ended tax list."
+          ],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Communication and collaboration — discussing with others the meaning of profit and loss in real-life situations"]
+        }
+      ]
+    },
+    {
+      "name": "3.0 Geometry",
+      "subStrands": [
+        {
+          "name": "3.1 Lines",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Draw parallel lines in different situations",
+            "Bisect lines by construction",
+            "Construct perpendicular lines in different situations",
+            "Appreciate use of lines in daily life"
+          ],
+          "keyInquiryQuestions": ["Why do we need to draw lines?"],
+          "learningResources": ["Chalkboard ruler", "30cm ruler", "Straight edges"],
+          "learningExperiences": [
+            "Construct parallel lines using geometrical instruments and other writing materials",
+            "Bisect lines using geometrical instruments",
+            "Draw perpendicular lines using geometrical instruments",
+            "Share digital devices and other resources to draw parallel lines"
+          ],
+          "linkedLearningAreas": ["Creative Arts — constructing lines that can be used in creative drawing"],
+          "scopeNotes": [],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Creativity and imagination — bisecting lines using ruler and compasses"]
+        },
+        {
+          "name": "3.2 Angles",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Identify angles on a straight line at a point in different situations",
+            "Measure angles on a straight line at a point in different situations",
+            "Work out sum of angles on a straight line in different situations",
+            "Determine the sum of angles in rectangles and triangles",
+            "Construct equilateral, right-angled and isosceles triangles",
+            "Measure the interior angles of equilateral, right-angled and isosceles triangles",
+            "Appreciate use of angles in real life"
+          ],
+          "keyInquiryQuestions": ["Where can you use angles in real life?"],
+          "learningResources": ["Unit angles", "Protractors", "Rulers"],
+          "learningExperiences": [
+            "Discuss angles on a straight line using concrete objects that have straight edges",
+            "Draw a line that cuts the straight line to form an angle; measure and write the size(s) of angles formed; compare with classmates",
+            "Work out the sizes of various angles on a straight line",
+            "Practically establish the sum of angles in a triangle and rectangles using different objects in the environment",
+            "Identify and draw equilateral, right-angled and isosceles triangles using geometrical instruments",
+            "Practically establish the sum of the interior angles in a rectangle and triangle",
+            "Use geometrical instruments or digital resources to practise drawing different lines and angles"
+          ],
+          "linkedLearningAreas": ["Creative Arts — drawing lines and angles used in drawing and painting"],
+          "scopeNotes": [
+            "exclude: no transversal-line content and no polygon angle-sum beyond a rectangle — this sub-strand stops at straight-line/at-a-point/triangle-sum/rectangle-sum. Transversals and polygons up to a hexagon are Grade 7 content (designs/GRADE.7.MATHEMATICS.pdf's Angles sub-strand) — do not backport."
+          ],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Self-efficacy — confidently and practically establishing the sum of interior angles in a rectangle and triangle"]
+        },
+        {
+          "name": "3.3 3-D Objects",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Identify vertices, faces and edges in cuboids and cubes in different situations",
+            "Identify faces and edges of cylinders in different situations",
+            "Describe plane figures in 3-D objects in the environment",
+            "Appreciate use of 3-D objects in real life"
+          ],
+          "keyInquiryQuestions": ["How do we use containers in daily life?"],
+          "learningResources": ["Cubes", "Cuboids", "Cylinders", "Pyramids", "Spheres", "Cut-outs of rectangles, circles and triangles of different sizes"],
+          "learningExperiences": [
+            "Discuss and collect 3-D objects and safely keep them as part of their role in environmental conservation",
+            "Identify and relate cuboids and cylinders in the environment",
+            "Open up nets of cuboids, cubes and cylinders and sketch the layout",
+            "Discuss the rectangular, square and circular shapes on the nets",
+            "Manipulate 3-D objects using containers or digitally using IT devices"
+          ],
+          "linkedLearningAreas": ["Languages — discussing differences between 3-D objects in terms of faces, edges and vertices, improving language skills"],
+          "scopeNotes": [],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Creativity and imagination — opening up nets of cuboids, cubes and cylinders"]
+        }
+      ]
+    },
+    {
+      "name": "4.0 Data Handling",
+      "subStrands": [
+        {
+          "name": "4.1 Bar Graphs",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "Draw a frequency table of real-life situation data",
+            "Represent data from real-life situations using pictographs",
+            "Represent data from real-life situations through piling",
+            "Represent data from real-life situations using bar graphs",
+            "Interpret information from bar graphs",
+            "Appreciate use of bar graphs in real life"
+          ],
+          "keyInquiryQuestions": ["How can bar graphs be used in real-life situations?"],
+          "learningResources": ["Bar graph worksheets", "Data graph worksheets", "Data samples from different sources"],
+          "learningExperiences": [
+            "Discuss with peers and collect data on identified topic from immediate environment and organise the data in a frequency table",
+            "Collect data, discuss and organise it in pictographs",
+            "Pile similar objects such as match boxes vertically to represent data",
+            "Discuss and organise data in form of bar graphs",
+            "Discuss information represented on bar graphs and explain what it represents",
+            "Use digital devices or other resources to draw bar graphs and other charts to present data"
+          ],
+          "linkedLearningAreas": ["Science and Technology — gathering information on items in the environment"],
+          "scopeNotes": [
+            "exclude: no pie charts, line graphs, or travel graphs anywhere in this sub-strand — this grade's Data Handling strand is bar-graph-only (plus frequency tables/pictographs/piling as feeding skills). Pie/line/travel graphs are Grade 7 content (designs/GRADE.7.MATHEMATICS.pdf's Data Handling and Probability strand) — do not backport."
+          ],
+          "assessmentSignal": null,
+          "coreCompetencies": ["Creativity and imagination — discussing with others and collecting data, organising it using pictographs"]
+        }
+      ]
+    }
+  ],
+  "appendixNotes": {
+    "suggestedResources": {
+      "Numbers": "Place value apparatus, number charts, number cards, multiplication tables, equivalent fraction board, circular/rectangular cut-outs, counters",
+      "Measurement": "Metre rule, tape measure, square cut-outs, tea spoons, containers of different sizes, manual/electronic weighing machine, beam balance, analogue/digital clocks, stopwatches, price list, classroom shop",
+      "Geometry": "Chalkboard ruler, 30cm ruler, straight edges, unit angles, protractors, cubes, cuboids, cylinders, pyramids, spheres, cut-outs of rectangles/circles/triangles",
+      "DataHandling": "Bar graph worksheets, data graph worksheets, data samples from different sources"
+    },
+    "note": "The source PDF's own Appendix I resource table lists an 'ALGEBRA / Inequalities' row alongside the four strands above (digital inequality worksheets, sorting cards) — this is almost certainly a table-formatting leftover referencing Numbers strand 1.6 Inequalities (already captured above under Numbers), not a genuinely separate 5th strand; the PDF's own Summary of Strands and Sub Strands table lists exactly 4 strands / 16 sub-strands, which this JSON matches exactly."
+  }
+}

@@ -1,0 +1,908 @@
+{
+  "subject": "Christian Religious Education",
+  "subjectId": "cre",
+  "grade": 5,
+  "source": {
+    "title": "Primary School Education Curriculum Design — Christian Religious Education, Grade 5",
+    "path": "grade 5 designs/GRADE-5-CRE-Curriculum-Designs.pdf",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-30",
+    "confidence": "high",
+    "notes": "Read in full via the Read tool (no pages param). First published 2017, Revised 2024. 5 strands: 1.0 Creation, 2.0 The Bible, 3.0 The Life of Jesus Christ, 4.0 The Church, 5.0 Christian Living (30 sub-strands total). Note: sub-strand 2.7 is titled 'God's Protection' in the front-matter Summary of Strands and Sub Strands table and in the strand-body running header row, but the actual body text (outcomes/experiences/KIQ) for that slot is titled '2.7 The Birth of Moses' and covers Exodus 2:1-10 (Moses hidden in the Nile, found by Pharaoh's daughter) — not the Mount Carmel/Daniel-style protection narratives covered elsewhere in the Bible strand. Body text is treated as authoritative here (per the same precedent used for the Grade 6 CRE 3.4 discrepancy); 'God's Protection' is retained parenthetically as the table's thematic label since the story's KIQ ('How was Moses protected by God?') is itself framed around protection. Appendix 1's Suggested Assessment Methods table lists this same slot as '2.7 God's protection' with a 3-lesson allocation matching the body header. Sub-strand 3.9 'A Friend at Midnight' is allocated 5 lessons (vs 3 for every other Bible/Life-of-Jesus sub-strand) consistently across all three locations in the source (summary table, body header, Appendix 1) — not a discrepancy, an intentional extended allocation."
+  },
+  "strands": [
+    {
+      "name": "1.0 Creation",
+      "subStrands": [
+        {
+          "name": "1.1 My Purpose (Talents and Abilities)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "identify God's purpose for his or her life to live meaningfully",
+            "narrate the parable of the talents",
+            "apply lessons learnt from the parable in their day-to-day life",
+            "participate in different activities to nurture their talents, gifts and abilities"
+          ],
+          "keyInquiryQuestions": [
+            "Why is it important to know your talents, gifts and abilities?",
+            "How do you nurture your talents, gifts and abilities?"
+          ],
+          "learningExperiences": [
+            "brainstorm, in small groups, the meaning of talents, gifts and abilities",
+            "write on flash cards activities they like doing at home, school and in church",
+            "in groups, discuss how the activities they have listed aid in nurturing their talents, gifts and abilities",
+            "discuss God's purpose for his or her life; Jeremiah 29:11",
+            "in pairs, list what they want to become in future",
+            "discuss why it is important to live a purposeful life",
+            "in turns, read Matthew 25:14-30 on the parable of the talents and narrate how different talents were used",
+            "watch a video clip on the parable of the talents and list lessons learnt",
+            "read James 1:17A and say what they have learnt",
+            "write 1 Peter 4:10 on flash cards and recite it",
+            "compose songs or poems on how they nurture their talents, gifts and abilities"
+          ],
+          "linkedLearningAreas": [
+            "Social Studies: social interactions skills are applied as they learn about their God-given talents and abilities.",
+            "English: reading skills are applied as they read Bible texts.",
+            "Creative Arts: the skill of performing is enhanced as they compose and sing songs."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy", "Digital literacy"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Human rights and responsibilities"]
+        },
+        {
+          "name": "1.2 Work",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "identify three responsibilities given to human beings by God",
+            "demonstrate good stewardship by taking care of God's creation",
+            "outline their roles at home, school and church",
+            "explain the causes of child labour today",
+            "explain the effects of child labour for protection of self and others",
+            "desire to engage in age-appropriate tasks/chores"
+          ],
+          "keyInquiryQuestions": [
+            "Why should you work?",
+            "Why is child labour an abuse of the rights of a child?"
+          ],
+          "learningExperiences": [
+            "read Genesis 1:26 and Genesis 2:15 and list responsibilities given to human beings by God",
+            "list chores they do at home, school and in the community",
+            "buzz on how they take care of the environment at home and at school",
+            "come up with different projects at school or home e.g. plant trees/vegetables, rear chicken and nurture the projects until they get results/harvest",
+            "brainstorm on the meaning of 'child labour'",
+            "outline the causes of child labour today",
+            "list the negative effects of child labour",
+            "mention whom to report to if forced into child labour",
+            "list age-appropriate tasks or chores they should engage in"
+          ],
+          "linkedLearningAreas": [
+            "Agriculture: the skill of farming is nurtured as learners start different projects at school or home e.g. plant trees/vegetables and nurture the projects until they get results/harvest."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Citizenship", "Critical thinking and problem solving"],
+          "values": ["Social justice"],
+          "pertinentContemporaryIssues": ["Children Rights"]
+        },
+        {
+          "name": "1.3 The Fall of Man",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "describe the fall of man according to Genesis 3:1-11",
+            "outline five lessons learnt from the fall of man",
+            "desire to be obedient in day-to-day life"
+          ],
+          "keyInquiryQuestions": ["Why is it important to obey God?"],
+          "learningExperiences": [
+            "in groups, brainstorm on the importance of obedience",
+            "share experiences on how they obey their parents and teachers",
+            "read Genesis 3:1-11 in turns and explain the fall of man",
+            "brainstorm on why they should obey rules and regulations",
+            "discuss lessons learnt from the fall of man (Adam and Eve)",
+            "discuss the benefits of being an obedient person"
+          ],
+          "linkedLearningAreas": [
+            "Social Studies: interpersonal skills are nurtured as learners brainstorm on factors that brought the fall of the first human beings and the benefits of obedience."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Human rights and responsibilities"]
+        },
+        {
+          "name": "1.4 Family Unity",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "describe the importance of family unity",
+            "identify challenges faced by families today",
+            "outline ways he/she can contribute to a happy family",
+            "take part in doing simple chores at home"
+          ],
+          "keyInquiryQuestions": [
+            "Why is family unity important?",
+            "How can family unity be maintained?"
+          ],
+          "learningExperiences": [
+            "list factors that promote family unity and share with the class",
+            "explain the importance of family unity",
+            "read Colossians 3:13-14 and share lessons learnt",
+            "list the challenges they face as a family",
+            "in pairs, discuss ways in which they overcome challenges faced in their families",
+            "say how they can make their family happy as young people",
+            "sing a song about family unity"
+          ],
+          "linkedLearningAreas": [
+            "Social Studies: interpersonal skills are enhanced as they learn about family relationships.",
+            "English: reading, writing and listening skills are nurtured as learners discuss ways of promoting a happy family."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem solving", "Citizenship"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Social cohesion"]
+        }
+      ]
+    },
+    {
+      "name": "2.0 The Bible",
+      "subStrands": [
+        {
+          "name": "2.1 The Bible as a Guide",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "outline different uses of the Bible in society today",
+            "identify the benefits of reading the Bible",
+            "read the Bible always to grow spiritually"
+          ],
+          "keyInquiryQuestions": ["Why should the Bible guide us in daily life?"],
+          "learningExperiences": [
+            "list different uses of the Bible in society today",
+            "brainstorm on the benefits of reading the Bible",
+            "write summary points on how the word of God guides him or her in daily life",
+            "write Joshua 1:8, and Psalms 1:1-3 on flash cards and state the benefits of reading the Bible",
+            "find out from parents or guardians the importance of reading the Bible and make notes",
+            "share how the Bible helps them to relate well with others at school, home, church and in the community",
+            "sing relevant songs about the word of God"
+          ],
+          "linkedLearningAreas": [
+            "Creative Arts: creative skills are applied as they sing.",
+            "English: the skill of reading is applied as they read the Bible.",
+            "Social Studies: interpersonal skills are enhanced as learners live in harmony with others."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication", "Learning to learn"],
+          "values": ["Love"],
+          "pertinentContemporaryIssues": ["Unity"]
+        },
+        {
+          "name": "2.2 Bible Stories: Peter and John in the Temple",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "narrate the story of Peter and John in the Temple",
+            "outline lessons learnt from the story of Peter and John",
+            "discuss why Christians should stand firm in their faith",
+            "desire to stand firm in their Christian faith"
+          ],
+          "keyInquiryQuestions": ["How did Peter and John demonstrate faith in God?"],
+          "learningExperiences": [
+            "in groups, brainstorm on occasions they demonstrated faith in God",
+            "in turns, read Acts 4:1-5, 7-13 and outline lessons learnt from the story of Peter and John",
+            "read Acts 4:12 and state how they respond to salvation call",
+            "watch a video clip on the story of Peter and John",
+            "brainstorm on how and why Christians should stand firm in their faith",
+            "compose a poem on faith",
+            "sing a relevant song on having faith in God"
+          ],
+          "linkedLearningAreas": [
+            "Social Studies: learners defend what is right and just.",
+            "English: learners develop language skills as they compose a poem.",
+            "Creative arts: learners nurture performing skills as they compose and sing a song."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy", "Communication"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Leadership"]
+        },
+        {
+          "name": "2.3 King Solomon the Wise Ruler",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "narrate the story of King Solomon",
+            "outline lessons learnt from the story of King Solomon",
+            "apply lessons learnt from the story of King Solomon in daily life",
+            "make wise decisions in daily life"
+          ],
+          "keyInquiryQuestions": ["How did Solomon demonstrate wisdom in his judgement?"],
+          "learningExperiences": [
+            "discuss how they solve disputes in class",
+            "in turns, read 1 Kings 3:16-28 and retell the story of King Solomon",
+            "watch a video clip on Solomon and the two women in dispute",
+            "narrate situations/scenarios when they used wisdom to solve a problem",
+            "list lessons learnt from the story of King Solomon",
+            "read Proverbs 9:10 and share with classmates what they have learnt",
+            "write Proverbs 9:10 on a flash card and recite it"
+          ],
+          "linkedLearningAreas": [
+            "English: reading skills are enhanced as learners read and discuss in groups.",
+            "Science and Technology: the skill of interacting and using technology is nurtured as learners use a digital device to watch a video clip."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and Collaboration", "Self-efficacy"],
+          "values": ["Peace", "Social justice"],
+          "pertinentContemporaryIssues": ["Leadership and good governance"]
+        },
+        {
+          "name": "2.4 Noah and his sons",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "narrate the story of Noah and his sons",
+            "explain five ways of showing respect to the elderly",
+            "respect the elderly at home, church and in the community"
+          ],
+          "keyInquiryQuestions": ["Why is the story of Noah still relevant in today's society?"],
+          "learningExperiences": [
+            "in turns, read Genesis 9:18-23 about Noah and his sons",
+            "in groups, discuss lessons learnt from the story of Noah",
+            "write the names of Noah's sons on a paper or use a digital device",
+            "list the benefits of respecting the elderly",
+            "role-play how to show respect to the elderly at home and in public places",
+            "explain the importance of respecting the elderly in today's society",
+            "compose a poem titled, 'respect the elderly'"
+          ],
+          "linkedLearningAreas": [
+            "English: the skill of writing is nurtured as learners compose a poem.",
+            "Science and Technology: the skill of using and interacting with technology is enhanced as learners use a digital device to write the names of Noah's sons."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Imagination and Creativity", "Critical thinking and problem solving"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Social cohesion"]
+        },
+        {
+          "name": "2.5 A hand writes on the wall",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "explain the story of a hand writing on the wall",
+            "outline lessons learnt from the story",
+            "list five benefits of humility as guided by the story",
+            "emulate Daniel's example by being faithful to God"
+          ],
+          "keyInquiryQuestions": ["Why did the hand appear on the wall?"],
+          "learningExperiences": [
+            "brainstorm on the meaning of the word, 'humility'",
+            "list sacred vessels used in their churches",
+            "in turns, read Daniel 5:1-13; 25-28 and narrate the story",
+            "list the holy vessels mentioned in the story",
+            "watch a video clip on the story and outline lessons learnt",
+            "outline qualities portrayed by Daniel from the story",
+            "debate on the advantages of humility",
+            "list ways in which they can show excellence in whatever they do at home, school and in church"
+          ],
+          "linkedLearningAreas": [
+            "English: the skills of reading and speaking are applied as they read the Bible.",
+            "Science and Technology: the skill of using and interacting with technology is nurtured as they watch a video clip."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn", "Critical thinking and problem solving"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Leadership and good governance"]
+        },
+        {
+          "name": "2.6 Mount Carmel Contest",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "narrate the story of Mount Carmel contest",
+            "distinguish between true and false gods",
+            "outline lessons learnt from Mount Carmel contest",
+            "emulate prophet Elijah by worshipping the true God"
+          ],
+          "keyInquiryQuestions": ["How was God's power demonstrated in this story?"],
+          "learningExperiences": [
+            "brainstorm on reasons that lead to the worship of idol gods today",
+            "state why idol worship is against the Ten Commandments and avoid being lured into it",
+            "in turns, read 1 Kings 18:22-39 and narrate the story of Mount Carmel contest",
+            "watch a video clip on Mount Carmel contest",
+            "list the differences between the true and false gods from the contest",
+            "describe lessons learnt from Mount Carmel Contest",
+            "discuss why Elijah defended the worship of the true God",
+            "explain why it is good to worship the true God alone",
+            "list false religions, cults, idol worship, devil worship, radicalised groups in today's society and how to avoid joining such groups",
+            "pray to God for guidance to overcome and avoid ungodly groups/idol worship"
+          ],
+          "linkedLearningAreas": [
+            "Science and Technology: the skill of using technology is nurtured as learners use digital devices.",
+            "Social Studies: they learn about natural features, that is, Mount Carmel."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn", "Critical thinking and problem solving"],
+          "values": ["Love"],
+          "pertinentContemporaryIssues": ["Leadership and good governance"]
+        },
+        {
+          "name": "2.7 The Birth of Moses (God's Protection)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "narrate the story of Moses according to the scriptures",
+            "outline lessons learnt from the story of Moses",
+            "desire to depend on God's guidance and protection"
+          ],
+          "keyInquiryQuestions": ["How was Moses protected by God?"],
+          "learningExperiences": [
+            "share experiences of when and how God protected them from danger",
+            "read Exodus 2:1-10 in turns and narrate the story",
+            "watch a video clip about Moses",
+            "discuss lessons learnt from the story and write summary points",
+            "state values learnt from the story of Moses",
+            "sing a song related to the birth of Moses"
+          ],
+          "linkedLearningAreas": [
+            "Creative Arts: the skill of pitch and rhythm is enhanced as learners sing a relevant song.",
+            "Social Studies: the skill of care and protection is enhanced as learners learn about children rights.",
+            "Agriculture: the skill of homemaking and family life is nurtured as they learn that Pharaoh's daughter hired a care taker for Moses."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy", "Citizenship"],
+          "values": ["Love", "Social justice"],
+          "pertinentContemporaryIssues": ["Child care and protection and children rights"]
+        },
+        {
+          "name": "2.8 The call of Moses",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "narrate the call of Moses in Exodus 3:1-10",
+            "outline lessons learnt from the call of Moses",
+            "explain ways Christian leaders obey God's instructions today",
+            "desire to obey God in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "Why did God call Moses?",
+            "How did Moses portray obedience to God?"
+          ],
+          "learningExperiences": [
+            "brainstorm on why they should participate in church activities",
+            "in groups, read Exodus 3:1-10 and narrate the call of Moses",
+            "watch a video clip on the call of Moses",
+            "role-play the call of Moses",
+            "discuss lessons learnt from the call of Moses",
+            "discuss with parents or guardians how Christian leaders obey God's instructions today",
+            "list values learnt from Moses and write them on a chart"
+          ],
+          "linkedLearningAreas": [
+            "Agriculture: the skill of animal husbandry is nurtured as learners learn how Moses took care of his father-in-law's flock."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn", "Imagination and creativity"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Nationalism"]
+        }
+      ]
+    },
+    {
+      "name": "3.0 The Life of Jesus Christ",
+      "subStrands": [
+        {
+          "name": "3.1 John the Baptist",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "explain the teachings of John the Baptist",
+            "outline four lessons learnt from the teachings of John the Baptist",
+            "practise the values learnt from the teachings of John the Baptist",
+            "desire to be a God-fearing Christian as exemplified by John the Baptist"
+          ],
+          "keyInquiryQuestions": ["Why is the message of John the Baptist still relevant today?"],
+          "learningExperiences": [
+            "list the causes of social injustices in the society today",
+            "brainstorm on the meaning of repentance",
+            "read and respond to the repentance call in Luke 3:3",
+            "read Luke 3:9-14 and make notes on the teachings of John the Baptist",
+            "state lessons learnt from the teachings of John the Baptist",
+            "list values learnt from the teachings of John the Baptist",
+            "say how they practise the values mentioned in the Bible text"
+          ],
+          "linkedLearningAreas": [
+            "Social Studies: the skill of justice and mercy is nurtured as they brainstorm on the importance of a just society where people repent their sins."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem solving", "Self-efficacy"],
+          "values": ["Respect", "Social justice"],
+          "pertinentContemporaryIssues": ["Social cohesion"]
+        },
+        {
+          "name": "3.2 The Baptism of Jesus Christ",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "outline the events that took place during the baptism of Jesus Christ",
+            "state the importance of baptism in the life of a Christian",
+            "emulate Jesus Christ by exercising humility in day-to-day life"
+          ],
+          "keyInquiryQuestions": [
+            "Why was Jesus Christ baptised?",
+            "What is the importance of baptism in the life of a Christian?"
+          ],
+          "learningExperiences": [
+            "explain the meaning of baptism",
+            "in pairs, read Luke 3:21-22",
+            "in groups, identify the key events that took place during the baptism of Jesus Christ",
+            "draw pictures on the events that took place during the baptism of Jesus Christ",
+            "in groups, discuss the importance of baptism in the life of a Christian"
+          ],
+          "linkedLearningAreas": [
+            "Social Studies: the skill of equity is nurtured as learners reflect on the value of sharing.",
+            "English: the skill of reading and speaking is enhanced as learners read the Bible."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and Collaboration", "Imagination and creativity", "Critical thinking and problem solving"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Social Cohesion"]
+        },
+        {
+          "name": "3.3 Calming the Storm",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "narrate the miracle of calming the storm",
+            "discuss lessons learnt from the miracle of calming the storm",
+            "explain challenges faced by Christians today",
+            "desire to depend on God to overcome daily challenges"
+          ],
+          "keyInquiryQuestions": ["How is God's power over nature portrayed in calming the storm?"],
+          "learningExperiences": [
+            "in pairs, brainstorm on challenges they face in day-to-day life",
+            "read and narrate the miracle according to Mark 4:35-39",
+            "watch a video clip on Jesus calming the storm",
+            "discuss how Jesus Christ showed power over nature",
+            "list lessons learnt from the miracle of calming the storm",
+            "sing a song about Jesus calming the storm",
+            "discuss challenges facing Christians today",
+            "say how they depend on God to overcome challenges",
+            "write a poem on God's power over nature"
+          ],
+          "linkedLearningAreas": [
+            "Creative Arts: the skills of dancing and movement are nurtured as learners sing songs and compose poems.",
+            "Social Studies: the skill of interpreting maps and locations are exhibited as they identify the sea of Galilee on a map."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy", "Critical thinking and problem solving"],
+          "values": ["Peace"],
+          "pertinentContemporaryIssues": ["Safety and security"]
+        },
+        {
+          "name": "3.4 Feeding the Four Thousand",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "list four ways of helping the needy in today's society",
+            "describe the miracle of feeding the four thousand",
+            "outline lessons learnt from the feeding of the four thousand",
+            "practise the value of love by helping the needy"
+          ],
+          "keyInquiryQuestions": [
+            "How did Jesus Christ show compassion?",
+            "Why should Christians help the needy?"
+          ],
+          "learningExperiences": [
+            "share experiences of how he or she helped a person or persons in need",
+            "in groups, list ways of helping the needy in society",
+            "in pairs, read Matthew 15:32-38 and retell the story of feeding the four thousand men",
+            "draw pictures about the miracle of feeding the four thousand men",
+            "watch a video clip on the feeding of the four thousand men",
+            "in groups, discuss and summarise lessons learnt from miracle of feeding the four thousand men",
+            "write a reflection journal on how to help those in need"
+          ],
+          "linkedLearningAreas": [
+            "Agriculture: Jesus was concerned that those listening to Him were hungry hence provided them with food.",
+            "English: the skills of reading, speaking and listening are exhibited as learners engage in activities and learn new words."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and imagination", "Critical thinking and problem solving"],
+          "values": ["Love"],
+          "pertinentContemporaryIssues": ["Social awareness skills"]
+        },
+        {
+          "name": "3.5 Healing the Paralysed Man",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "describe the healing of the paralysed man",
+            "outline lessons learnt from the healing of the paralysed man",
+            "desire to pray to God when faced with challenges in life"
+          ],
+          "keyInquiryQuestions": ["Why is the healing of the paralysed man significant to Christians today?"],
+          "learningExperiences": [
+            "share experiences of challenges they face in life",
+            "brainstorm on the importance of depending on God when faced with challenges such as sickness or disease",
+            "in pairs, read and retell the miracle in Mark 2:1-5",
+            "watch a video clip on Jesus healing the paralysed man",
+            "in groups, discuss lessons learnt from the healing of the paralysed man",
+            "compose and sing a song on the healing power of God"
+          ],
+          "linkedLearningAreas": [
+            "Agriculture: the skill of health and hygiene is enhanced as learners learn about paralysis.",
+            "English: the skill of reading is nurtured as learners learn new vocabulary and as they read the Holy Bible."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn", "Digital literacy"],
+          "values": ["Love", "Social justice"],
+          "pertinentContemporaryIssues": ["Non-communicable diseases", "Human rights and responsibilities"]
+        },
+        {
+          "name": "3.6 Parable of the Lost Sheep",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "narrate the parable of the lost sheep",
+            "outline five lessons learnt from the parable of the lost sheep",
+            "reach out to the lost as taught by Jesus Christ"
+          ],
+          "keyInquiryQuestions": ["Why is the parable of the lost sheep significant to Christians today?"],
+          "learningExperiences": [
+            "brainstorm on ways they evangelise to the lost/sinners",
+            "in pairs, read Luke 15:1-7 and narrate the parable of the lost sheep",
+            "role-play the parable of the lost sheep",
+            "in groups, list lessons learnt from the parable of the lost sheep",
+            "read Luke 15:7 and say how they respond to repentance",
+            "compose a poem on God's love for the lost"
+          ],
+          "linkedLearningAreas": [
+            "English: the skills of reading and speaking are nurtured as learners read and recite Bible verses.",
+            "Creative Arts: the skill of composing is enhanced as learners compose a poem on God's love for the lost."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Imagination and creativity", "Learning to learn"],
+          "values": ["Responsibility"],
+          "pertinentContemporaryIssues": ["Leadership and good governance"]
+        },
+        {
+          "name": "3.7 Sermon on the Mount",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "list virtues outlined in the Sermon on the Mountain",
+            "apply the virtues in their interaction with others",
+            "desire to live harmoniously with others"
+          ],
+          "keyInquiryQuestions": ["How does the Sermon on the Mount foster harmonious co-existence?"],
+          "learningExperiences": [
+            "discuss how they should relate with their peers during interclass competitions",
+            "list the values that can enhance good relations during inter-class competitions",
+            "use flash cards to list and display the values",
+            "discuss how they apply the virtues in Matthew 5:7-9 in their daily lives",
+            "in pairs, brainstorm how they demonstrate mercy and peace while dealing with others",
+            "reflect on the meaning of a 'pure heart,' and write their reflections in a journal"
+          ],
+          "linkedLearningAreas": [
+            "Social Studies: the skill of social cohesion is enhanced as they learn how to live peacefully with each other.",
+            "English: the skill of reading and speaking is nurtured as learners read and discuss various assignments."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy", "Citizenship"],
+          "values": ["Peace", "Social justice"],
+          "pertinentContemporaryIssues": ["Social cohesion"]
+        },
+        {
+          "name": "3.8 The Rich Young Ruler",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "retell the story of the rich young man",
+            "outline lessons learnt from the story of the rich young man",
+            "apply lessons learnt from the story in their day-to-day lives",
+            "share resources with others as guided in the story"
+          ],
+          "keyInquiryQuestions": ["Why was the rich young man unable to share his wealth?"],
+          "learningExperiences": [
+            "brainstorm on why it is important to share items/resources with others",
+            "discuss, in pairs, how they share what they have with the less fortunate",
+            "in pairs, read Matthew 19:16-22 and retell the story",
+            "role-play the story of the rich young man",
+            "list lessons learnt from the story of the rich young man",
+            "brainstorm on the meaning of, 'eternal life' and share findings in class",
+            "read Matthew 19:16-21 and list what one should do to inherit eternal life",
+            "compose a poem on how to inherit eternal life"
+          ],
+          "linkedLearningAreas": [
+            "English: the skills of reading and speaking are nurtured as learners read Bible texts.",
+            "Creative Arts: the skill of creativity is nurtured as learners compose a poem."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Imagination and creativity"],
+          "values": ["Social justice"],
+          "pertinentContemporaryIssues": ["Citizenship"]
+        },
+        {
+          "name": "3.9 A Friend at Midnight",
+          "lessonCount": 5,
+          "specificLearningOutcomes": [
+            "narrate the story of a friend at midnight",
+            "outline lessons learnt from the story of a friend at midnight",
+            "apply lessons learnt from the parable in day-to-day life",
+            "desire to be persistent in prayers"
+          ],
+          "keyInquiryQuestions": ["How does the parable of a friend at midnight relate to Christians today?"],
+          "learningExperiences": [
+            "brainstorm on the meaning of the word, 'parable'",
+            "in turns, read Luke 11:5-10 and narrate the parable",
+            "watch a video clip on the parable of a friend at midnight",
+            "dramatise the story of a friend at midnight",
+            "outline lessons learnt from the parable",
+            "in groups, discuss the importance of praying persistently",
+            "sing a relevant song about a friend at midnight"
+          ],
+          "linkedLearningAreas": [
+            "English: the skills of reading, listening and speaking are exhibited as learners read the scriptures.",
+            "Science and Technology: the skill of using and interacting with technology is exhibited as learners utilise technology to watch a video clip on the parable of a friend at midnight."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Citizenship"]
+        }
+      ]
+    },
+    {
+      "name": "4.0 The Church",
+      "subStrands": [
+        {
+          "name": "4.1 The Early Church",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "outline the importance of Church unity today",
+            "list activities which promoted unity in the early Church",
+            "identify five values needed by Christians to promote Church unity",
+            "appreciate unity in Church today"
+          ],
+          "keyInquiryQuestions": ["Why is church unity important?"],
+          "learningExperiences": [
+            "discuss, in groups, the importance of Church unity today",
+            "in pairs, read Acts 2:42-47 and list activities which promoted unity in the early Church",
+            "brainstorm on values needed to promote Church unity today",
+            "compose a song on Church unity"
+          ],
+          "linkedLearningAreas": [
+            "English: the skills of reading and speaking are enhanced as learners read the Holy Bible."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration"],
+          "values": ["Social justice"],
+          "pertinentContemporaryIssues": ["Citizenship: leadership and good governance"]
+        },
+        {
+          "name": "4.2 The Lord's Supper",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "describe the events that took place during the Lord's Supper",
+            "explain the significance of the Lord's Supper to Christians today",
+            "identify the values required during the celebration of Lord's Table/Eucharist today",
+            "desire to participate in the Lords' Supper/Lord's Table"
+          ],
+          "keyInquiryQuestions": ["Why do Christians celebrate the Lord's Table/Eucharist/Sacrament/Holy Communion today?"],
+          "learningExperiences": [
+            "share how the Lord's Table/Eucharist/Sacrament/Holy Communion is organised in their churches",
+            "sing a relevant song about the Lord's Table",
+            "read Luke 22:14-20, in turns, and describe the events that took place",
+            "watch a video clip on the Lord's Supper",
+            "say the importance of the Lord's Table/Eucharist to Christians today",
+            "discuss with their parents/guardians the importance of celebrating the Lord's Supper and report to the class",
+            "list values required when partaking the Eucharist/Lord's Table/Sacrament/Holy Communion"
+          ],
+          "linkedLearningAreas": [
+            "Agriculture: the skill of hygiene is exhibited as learners discuss how the Lord's Supper is organised in their churches.",
+            "English: the skills of reading and speaking are exhibited as learners read the Bible."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and imagination", "Digital literacy"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Citizenship: social cohesion"]
+        },
+        {
+          "name": "4.3 The Holy Spirit",
+          "lessonCount": 4,
+          "specificLearningOutcomes": [
+            "list the nine gifts of the Holy Spirit",
+            "outline the fruit of the Holy Spirit from the scriptures provided",
+            "explain how the fruit of the Holy Spirit promotes harmony among Christians",
+            "appreciate the role of the Holy Spirit in his or her life"
+          ],
+          "keyInquiryQuestions": ["How does the Holy Spirit inspire people to offer service to God?"],
+          "learningExperiences": [
+            "read 1 Corinthians 12:1-11 in turns and list the nine gifts of the Holy Spirit",
+            "list the fruit of the Holy Spirit outlined in Galatians 5:22-23",
+            "read Galatians 5:22-23 and explain how the fruit of the Holy Spirit promotes good relationships among Christians today",
+            "in pairs, share how they practise values learnt from the fruit of the Holy Spirit",
+            "compose a song about the fruit of the Holy Spirit"
+          ],
+          "linkedLearningAreas": [
+            "Social Studies: social cohesion is nurtured as learners learn that the fruit of the Holy Spirit should promote peaceful co-existence."
+          ],
+          "scopeNotes": [
+            "The nine gifts of the Holy Spirit (1 Corinthians 12:1-11) are: word of wisdom, word of knowledge, faith, gifts of healing, working of miracles, prophecy, discerning of spirits, speaking in different kinds of tongues, interpretation of tongues.",
+            "The fruit of the Holy Spirit (Galatians 5:22-23) is: love, joy, peace, patience (longsuffering), kindness, goodness, faithfulness, humility (gentleness/meekness), self-control — nine qualities, explicitly named in the source's Pertinent and Contemporary Issues note for this sub-strand."
+          ],
+          "coreCompetencies": ["Critical thinking and problem solving"],
+          "values": ["Unity"],
+          "pertinentContemporaryIssues": ["Citizenship: social cohesion"]
+        },
+        {
+          "name": "4.4 Peter's Miraculous Rescue",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "retell the story of Peter's miraculous rescue from prison",
+            "list lessons learnt from the story of Peter's rescue",
+            "have faith in God as exemplified by Apostle Peter"
+          ],
+          "keyInquiryQuestions": ["How was Apostle Peter rescued from prison?"],
+          "learningExperiences": [
+            "in pairs, discuss the importance of praying",
+            "read Acts 12:3-17 and retell the story",
+            "watch a video on Peter's miraculous rescue",
+            "in pairs, list lessons learnt from this story",
+            "discuss what inspires them about Peter's rescue from prison",
+            "engage in activities that strengthen their faith in Christ",
+            "sing a song related to standing firm in their faith"
+          ],
+          "linkedLearningAreas": [
+            "Creative Arts: creative skills are applied as learners sing a song.",
+            "English: the skills of reading and speaking are applied as learners read the Holy Bible and air their views confidently."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Citizenship: human rights and responsibilities"]
+        }
+      ]
+    },
+    {
+      "name": "5.0 Christian Living",
+      "subStrands": [
+        {
+          "name": "5.1 Friendship Formation",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "identify five qualities/values to consider in choosing good friends",
+            "discuss ways of avoiding negative peer influence",
+            "choose friends with good moral character"
+          ],
+          "keyInquiryQuestions": ["How do you choose your friends?"],
+          "learningExperiences": [
+            "make a list of qualities to consider when choosing good friends",
+            "share whether their friends possess the qualities listed",
+            "in pairs, brainstorm on how to avoid negative behaviour/peer influence",
+            "write Proverbs 22:24-25 on flash cards and say the type of friends to avoid",
+            "in groups, read Proverbs 12:26 and state the kind of a friend to have",
+            "write a reflection journal on how to choose good friends"
+          ],
+          "linkedLearningAreas": [
+            "English: they learn new vocabularies.",
+            "Social Studies: they learn about healthy relationships."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy", "Critical thinking and problem solving"],
+          "values": ["Respect", "Integrity"],
+          "pertinentContemporaryIssues": ["Citizenship: peace education"]
+        },
+        {
+          "name": "5.2 Human Sexuality",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "identify changes associated with adolescence",
+            "outline how they cope with changes in their bodies",
+            "distinguish between healthy and unhealthy boy-girl relationships",
+            "explain the consequences of engaging in unhealthy boy-girl relationships",
+            "discuss how to overcome unhealthy boy-girl relationships",
+            "desire to behave responsibly as a young person"
+          ],
+          "keyInquiryQuestions": [
+            "How do you cope with changes in adolescence?",
+            "Why is it important to have healthy boy-girl relationships?"
+          ],
+          "learningExperiences": [
+            "list changes that take place in their bodies at adolescence stage",
+            "brainstorm on how they cope with changes in their bodies at this stage",
+            "in groups, brainstorm on why some sources of information about this age are ungodly and misleading",
+            "in pairs, state why they should get the right information about their bodies as they grow up",
+            "in pairs, read 1 Corinthians 6:18-19 and explain lessons learnt from the Bible text",
+            "discuss Christian teachings on how to cope with challenges associated with adolescence stage",
+            "in groups, discuss the meaning of healthy boy-girl relationship",
+            "discuss the meaning of unhealthy boy-girl relationship",
+            "brainstorm on the negative effects of engaging in unhealthy boy-girl relationships",
+            "in pairs, discuss how to avoid unhealthy boy-girl relationships",
+            "compose a poem on the need to lead a holy life and not to engage in sex before marriage"
+          ],
+          "linkedLearningAreas": [
+            "English: speaking skills are applied as learners debate and discuss in groups.",
+            "Social Studies: they learn about healthy relationships."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy", "Critical thinking and problem solving"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Socio-economic issues: Gender issues"]
+        },
+        {
+          "name": "5.3 Sanctity of Life",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "discuss Christian teachings on God as the only source of life",
+            "identify causes of violation of the right to life",
+            "explain how to cope with difficult emotions to avoid violation of right to life",
+            "acknowledge that life is sacred and a gift from God"
+          ],
+          "keyInquiryQuestions": [
+            "Why is human life Sacred?",
+            "How will you encourage your classmates to respect right to life?"
+          ],
+          "learningExperiences": [
+            "brainstorm on the meaning of sanctity of human life",
+            "read Genesis 1:27, Genesis 9:6, Psalms 49:7-8 and Exodus 20:13 and list Christian teachings on sacredness of life",
+            "brainstorm on the meaning of right to life",
+            "share examples of violation of right to life today",
+            "debate on the causes of violation of the right to life",
+            "discuss emotions that can lead to violation of one's life",
+            "in pairs, discuss how to cope with negative emotions",
+            "discuss the consequences of violating right to life",
+            "compose a poem on the sacredness/sanctity of life"
+          ],
+          "linkedLearningAreas": [
+            "English: speaking skills are applied as they learn new vocabularies.",
+            "Social Studies: the concept of right to life is similar to human rights in Social Studies."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem solving"],
+          "values": ["Respect", "Responsibility"],
+          "pertinentContemporaryIssues": ["Socio-economic issues: safety and security"]
+        },
+        {
+          "name": "5.4 Alcohol, Drugs and Substance Abuse",
+          "lessonCount": 5,
+          "specificLearningOutcomes": [
+            "list drugs abused by young people today",
+            "state why young people engage in alcohol, drugs and substance abuse",
+            "outline the effects of alcohol, drugs and substance abuse",
+            "identify five values needed to avoid alcohol, drugs and substance abuse",
+            "avoid alcohol, drugs and substance abuse"
+          ],
+          "keyInquiryQuestions": ["How can you avoid alcohol, drugs and substance abuse?"],
+          "learningExperiences": [
+            "in pairs, give examples of drugs commonly abused in Kenya today",
+            "read Proverbs 20:1, Proverbs 31:6 and Ephesians 5:18",
+            "brainstorm on lessons learnt from the Bible texts",
+            "discuss reasons that lead to alcohol, drugs and substance abuse among young people today",
+            "explain the dangers of alcohol, drugs and substance abuse",
+            "watch a video clip on the dangers of alcohol, drugs and substance abuse",
+            "in groups, discuss five values needed to avoid alcohol, drugs and substance abuse",
+            "use flashcards to write sensitisation messages of saying No! to alcohol, drugs and substance abuse",
+            "display the messages on the school notice board",
+            "give a brief talk at the school assembly on the effects of alcohol, drugs and substance abuse"
+          ],
+          "linkedLearningAreas": [
+            "Creative Arts: creative skills are applied as they compose a poem and as they engage in activities that promote physical and mental health."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem solving", "Learning to learn", "Citizenship"],
+          "values": ["Responsibility", "Integrity", "Obedience"],
+          "pertinentContemporaryIssues": ["Citizenship", "Health education"]
+        },
+        {
+          "name": "5.5 Social Media",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "list social media platforms commonly used today",
+            "debate on the advantages and disadvantages of social media",
+            "discuss safety measures to observe when using social media",
+            "use social media responsibly as God-fearing Christians"
+          ],
+          "keyInquiryQuestions": ["Why should you use social media responsibly?"],
+          "learningExperiences": [
+            "list social media platforms commonly used today",
+            "list the advantages and disadvantages of social media",
+            "discuss safety precautions to observe when using social media",
+            "brainstorm on the value of integrity when using social media",
+            "avoid visiting inappropriate sites as they use social media",
+            "debate on the motion 'Social media is ruining children and the youth'",
+            "use digital devices to watch educative documentaries e.g. Bible stories"
+          ],
+          "linkedLearningAreas": [
+            "English: speaking skills are enhanced as they learn new vocabularies.",
+            "Science and Technology: learners interact with digital technology as they use digital devices."
+          ],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration", "Critical thinking and problem solving"],
+          "values": ["Respect", "Integrity", "Responsibility"],
+          "pertinentContemporaryIssues": ["Citizenship", "Peer pressure resistance", "Patriotism"]
+        }
+      ]
+    }
+  ]
+}

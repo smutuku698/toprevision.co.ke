@@ -1,0 +1,605 @@
+{
+  "subject": "German",
+  "subjectId": "german",
+  "grade": 7,
+  "source": {
+    "title": "Junior School Curriculum Design — German, Grade 7",
+    "path": "designs-grade-7/German-Grade-7-Design-Formatted-April-2024.doc.pdf",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-17",
+    "confidence": "high",
+    "notes": "Read in full via the Read tool (no pages param). First published 2022, Revised 2024. Backfilled retroactively — skills already shipped in web/src/skills/germanG7/ before this record was written. Foreign language design (target A1/YCT2 proficiency). Structured as 9 real-world THEMES (Greetings/introduction, Family, My Surroundings/market, Time/important dates, Fun and enjoyment/weekends & holidays, Food and drinks/shopping, My Body/physical appearances, Weather and Environment/four seasons, Getting Around/neighborhood), each contributing one sub-strand to each of 3 strands: 1.0 Listening and Speaking, 2.0 Reading, 3.0 Writing (27+18+9 = 54 lessons plus 6 lessons for showcasing). This JSON models each strand as top-level with its 9 theme-linked sub-strands, mirroring the source's per-theme table layout rather than grouping by theme, since strand is the design's own primary organizing header."
+  },
+  "strands": [
+    {
+      "name": "1.0 Listening and Speaking",
+      "subStrands": [
+        {
+          "name": "1.1 Active Listening, Oral Expression (Theme 1: Greetings and Introduction — Basic Greetings)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "identify listening markers in a text for communication",
+            "listen actively for comprehension",
+            "use acquired vocabulary to communicate in varied contexts",
+            "appreciate the role of vocabulary in foreign language learning"
+          ],
+          "keyInquiryQuestions": ["How do we show that we are listening?", "How do we acquire vocabulary in a foreign language?"],
+          "learningExperiences": [
+            "brainstorm on greetings with peers (Assoziogram)",
+            "watch an audio visual on typical German greetings and match to given pictures",
+            "listen to a text on typical German greetings and simulate them with peers while observing social etiquette rules",
+            "role-play greeting and introducing oneself with peers using phrases like 'wie geht's? Woher kommst du? Mir geht es prima, danke gut..usw'",
+            "research on greetings from German speaking countries from various sources (online/offline) and make presentations to peers"
+          ],
+          "linkedLearningAreas": ["English and Kiswahili: introducing oneself."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration", "Creativity and imagination"],
+          "values": ["Respect", "Unity"],
+          "pertinentContemporaryIssues": ["Citizenship (ethnic and social relations)"]
+        },
+        {
+          "name": "1.2 Listening for Information, Interactive Speaking (Theme 2: Family — Nuclear Family)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "listen to texts for information",
+            "interact with peers on varied topics",
+            "value the role of listening texts in language acquisition"
+          ],
+          "keyInquiryQuestions": ["How do we ensure we get all the needed information from a listening text?", "How do we make our conversations interactive?"],
+          "learningExperiences": [
+            "watch audio visual of someone introducing their family (nuclear)",
+            "listen to texts and answer given questions on members of the family",
+            "introduce members of their nuclear family to classmates by their name, age and profession in plenary",
+            "research with peers how introductions are done in German-speaking countries and present in plenary"
+          ],
+          "linkedLearningAreas": ["Religious Education and Social Studies: the family."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration", "Self-efficacy"],
+          "values": ["Love"],
+          "pertinentContemporaryIssues": ["Citizenship (ethnic and racial relations)"]
+        },
+        {
+          "name": "1.3 Active Listening, Oral Expression (Theme 3: My Surroundings — The Market Places)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "identify vocabulary related to the given context for learning",
+            "listen actively to varied speakers for communication",
+            "value the role vocabulary plays in language acquisition"
+          ],
+          "keyInquiryQuestions": ["How do we show someone we are listening to them?", "How do we acquire vocabulary in a new language?"],
+          "learningExperiences": [
+            "watch audio visual materials on the market place and mark the items being bought",
+            "listen to audios on the market place and answer given questions",
+            "role play situations in the market with peers",
+            "research on markets in Germany and present findings in a plenary",
+            "discuss with peers the need of following a budget while shopping at the market"
+          ],
+          "linkedLearningAreas": ["Agriculture and Nutrition: the market."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem-solving"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Financial literacy"]
+        },
+        {
+          "name": "1.4 Listening for Information, Interactive Speaking (Theme 4: Time — Important Dates)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "identify required information from listening texts",
+            "speak interactively on given topics",
+            "appreciate the role listening texts play in language acquisition"
+          ],
+          "keyInquiryQuestions": ["How do we avoid distractions while listening to a text?", "Which aspects can enhance understanding of a listening text?"],
+          "learningExperiences": [
+            "listen to given texts and answer given questions",
+            "practice with peers counting in German",
+            "discuss important dates in their lives (Geburtsjahr, Feste usw) with peers",
+            "research important dates in Kenyan and German history in groups and present in a plenary"
+          ],
+          "linkedLearningAreas": ["Social Studies: history of Kenya."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn", "Citizenship"],
+          "values": ["Patriotism", "Respect"],
+          "pertinentContemporaryIssues": ["Nationalism (social cohesion)"]
+        },
+        {
+          "name": "1.5 Active Listening, Oral Expressions (Theme 5: Fun and Enjoyment — Weekends, Holidays)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "identify appropriate vocabulary in given texts",
+            "listen to texts for comprehension",
+            "value the role active listening plays in communication"
+          ],
+          "keyInquiryQuestions": ["How do we acquire new vocabulary?"],
+          "learningExperiences": [
+            "watch an audio visual on leisure time activities and match to given pictures",
+            "listen to texts on holiday destinations and activities and answer given questions",
+            "talk about what they do on weekends and during holidays using expressions such as gern, lieber and am liebsten",
+            "research on a holiday destination they would like to visit and make a presentation on the same in a plenary",
+            "discuss in plenary appropriate weekend and holiday activities and which activities to avoid"
+          ],
+          "linkedLearningAreas": ["English and Kiswahili: hobbies and leisure time activities."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem-solving"],
+          "values": ["Integrity"],
+          "pertinentContemporaryIssues": ["Substance and alcohol abuse"]
+        },
+        {
+          "name": "1.6 Listening for Information, Interactive Speaking (Theme 6: Food and Drinks — Shopping for Food)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "identify required information from listening texts",
+            "speak interactively on given topics",
+            "value the role vocabulary plays in social interactions"
+          ],
+          "keyInquiryQuestions": ["How do we make our conversations interactive?"],
+          "learningExperiences": [
+            "listen to texts and underline key words related to quantities (Kilo, Liter, Dutzend)",
+            "listen to texts and answer given questions on shopping",
+            "role play with peers different shopping situations (at the butchery, at the grocery store, at the supermarket etc)",
+            "make presentations in plenary on different shopping situations using acquired vocabulary"
+          ],
+          "linkedLearningAreas": ["Mathematics: numbers and measurement."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Life skills (negotiation)"]
+        },
+        {
+          "name": "1.7 Active Listening, Oral Expressions (Theme 7: My Body — Physical Appearances)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "identify required vocabulary in given listening texts for comprehension",
+            "listen actively to varied speakers for comprehension",
+            "appreciate the role of adjectives in communication"
+          ],
+          "keyInquiryQuestions": ["How do we describe someone's appearance?"],
+          "learningExperiences": [
+            "watch videos of people being described and match to given pictures",
+            "watch videos of people being described and underline the adjectives used",
+            "describe people using given pictures/flashcards/illustrations",
+            "make presentations describing their favourite people by their appearances using adjectives such as nett, freundlich, gross usw",
+            "discuss in plenary the appropriate ways of describing one's physical appearances"
+          ],
+          "linkedLearningAreas": ["Integrated Science: the body."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration", "Self-efficacy"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Mental health issues"]
+        },
+        {
+          "name": "1.8 Listening for Information, Interactive Speaking (Theme 8: Weather and Environment — The Four Seasons)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "identify required information from listening texts",
+            "speak interactively on given topics",
+            "value the role of listening texts in learning"
+          ],
+          "keyInquiryQuestions": ["How do we ensure we get all the needed information from a listening text?"],
+          "learningExperiences": [
+            "listen to an audio on weather and seasons and answer given questions",
+            "watch an audio visual on the different seasons in Germany and match to given flashcards",
+            "research and discuss with peers on which clothes go with which seasons",
+            "record themselves talking about the different seasons and changing weather patterns in Kenya and Germany and share in plenary for feedback"
+          ],
+          "linkedLearningAreas": ["Social Studies: weather and climate change."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and imagination"],
+          "values": ["Patriotism"],
+          "pertinentContemporaryIssues": ["Climate change"]
+        },
+        {
+          "name": "1.9 Active Listening, Oral Expressions (Theme 9: Getting Around — In the Neighborhood)",
+          "lessonCount": 3,
+          "specificLearningOutcomes": [
+            "identify necessary vocabulary for learning",
+            "listen actively to texts for learning",
+            "appreciate the role of vocabulary in a language"
+          ],
+          "keyInquiryQuestions": ["How do you ensure keenness when listening to texts?"],
+          "learningExperiences": [
+            "watch a video on someone giving directions in German and note down prepositions of location",
+            "listen to an audio on giving directions and answer given questions",
+            "simulate giving directions around their neighborhood with peers using expressions such as 'wie komme ich..? Wo finde ich..?'",
+            "use city/area maps to give directions with peers"
+          ],
+          "linkedLearningAreas": ["English and Kiswahili: prepositions of location."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration", "Self-efficacy"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Citizenship"]
+        }
+      ]
+    },
+    {
+      "name": "2.0 Reading",
+      "subStrands": [
+        {
+          "name": "2.1 Reading Aloud — Articulation (Theme 1: Greetings and Introduction — Basic Greetings)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify German sound patterns in reading texts",
+            "read texts aloud for articulation",
+            "appreciate the role reading aloud plays in learning"
+          ],
+          "keyInquiryQuestions": ["Why is reading aloud important?"],
+          "learningExperiences": [
+            "read aloud typical German greetings with peers",
+            "read aloud typical German greetings and simulate them in pairs while observing social etiquette rules",
+            "read aloud phrases like 'wie geht's? Woher kommst du? Mir geht es prima, danke gut usw' as they role-play greeting and introducing oneself with peers",
+            "research on greetings from German speaking countries from various sources (online/offline) and make presentations to peers"
+          ],
+          "linkedLearningAreas": ["English and Kiswahili: greetings and introduction."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration", "Creativity and imagination"],
+          "values": ["Respect", "Unity"],
+          "pertinentContemporaryIssues": ["Citizenship (ethnic and social relations)"]
+        },
+        {
+          "name": "2.2 Reading Comprehension — Vocabulary (Theme 2: Family — Nuclear Family, Name, Age and Profession)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify appropriate expressions from reading texts",
+            "read texts for comprehension",
+            "value the role of reading comprehension in learning"
+          ],
+          "keyInquiryQuestions": ["Why are reading texts important in learning a foreign language?"],
+          "learningExperiences": [
+            "read texts of someone introducing their family (nuclear) and underline expressions referring to family (Vater, Mutter, Schwester, Bruder usw)",
+            "read texts and answer given questions on members of the family",
+            "read out members of their nuclear family to classmates by their name, age and profession in plenary",
+            "research with peers on family dynamics in German-speaking countries and present in plenary"
+          ],
+          "linkedLearningAreas": ["Social Studies: family."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration", "Self-efficacy"],
+          "values": ["Love"],
+          "pertinentContemporaryIssues": ["Citizenship (ethnic and racial relations)"]
+        },
+        {
+          "name": "2.3 Reading Aloud — Articulation (Theme 3: My Surroundings — The Market Places)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify required vocabulary from reading texts",
+            "read aloud texts for articulation",
+            "value the role of reading aloud in building articulation"
+          ],
+          "keyInquiryQuestions": ["How does reading aloud support the understanding of a text?"],
+          "learningExperiences": [
+            "read aloud materials on the market place and mark the items being bought",
+            "read aloud texts on the marketplace and answer given questions in turns while observing rules of turn taking",
+            "research on markets in Germany and present findings in plenary",
+            "discuss with peers the need of following a budget while shopping at the market"
+          ],
+          "linkedLearningAreas": ["Agriculture and Nutrition: commodities at the market place."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem-solving"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Financial literacy"]
+        },
+        {
+          "name": "2.4 Reading Comprehension (Theme 4: Time — Important Dates)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify essential information from a reading text",
+            "read simple texts on varied topics for comprehension",
+            "appreciate the role of reading comprehension in languages"
+          ],
+          "keyInquiryQuestions": ["How can we get the intended message from reading texts?"],
+          "learningExperiences": [
+            "read given texts and answer given questions on dates and holidays",
+            "practice with peers counting in German by reading numbers aloud",
+            "discuss important dates in their lives (Geburtstag, Geburtsjahr, Feste usw) with peers",
+            "research important dates in Kenyan and German history in groups and present in plenary"
+          ],
+          "linkedLearningAreas": ["Mathematics: numbers including ordinal numbers."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn", "Citizenship"],
+          "values": ["Patriotism", "Respect"],
+          "pertinentContemporaryIssues": ["Citizenship (social cohesion)"]
+        },
+        {
+          "name": "2.5 Reading Aloud — Fluency (Theme 5: Fun and Enjoyment — Weekends, Holidays)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify sound patterns in reading",
+            "read texts aloud for fluency",
+            "appreciate the role reading aloud plays in fluency"
+          ],
+          "keyInquiryQuestions": ["How does reading aloud improve our fluency in a language?"],
+          "learningExperiences": [
+            "read descriptions on leisure time activities and match to given pictures",
+            "read short texts on holiday destinations and activities and answer given questions",
+            "read short texts on activities done during weekends and holidays and underline expressions such as gern, lieber and am liebsten",
+            "research on a holiday destination they would like to visit and make a presentation on the same in plenary",
+            "discuss in plenary appropriate weekend and holiday activities and which activities to avoid"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports: holiday activities."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem-solving"],
+          "values": ["Integrity"],
+          "pertinentContemporaryIssues": ["Substance and alcohol abuse"]
+        },
+        {
+          "name": "2.6 Reading Comprehension (Theme 6: Food and Drinks — Shopping for Food)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify required vocabulary from reading texts",
+            "read simple texts for comprehension",
+            "value the role of reading in everyday life"
+          ],
+          "keyInquiryQuestions": ["How do we avoid distractions while reading a text?"],
+          "learningExperiences": [
+            "read texts and underline key words related to quantities (Kilo, Liter, Dutzend)",
+            "read texts and answer given questions on shopping",
+            "read dialogues as they role play with peers different shopping situations (at the butchery, at the grocery store, at the supermarket etc)",
+            "read presentations in plenary on different shopping situations using acquired vocabulary"
+          ],
+          "linkedLearningAreas": ["Pre-Technical Studies: budgeting."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Life skills (negotiation)"]
+        },
+        {
+          "name": "2.7 Reading Aloud — Fluency (Theme 7: My Body)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify sound patterns in reading for fluency",
+            "read texts aloud for fluency",
+            "appreciate role of reading aloud in fluency"
+          ],
+          "keyInquiryQuestions": ["How can we improve our fluency in a language?"],
+          "learningExperiences": [
+            "read descriptions of people and underline the adjectives used",
+            "read descriptions of people and match to given pictures",
+            "read aloud presentations describing their favourite people by their appearances and personality using adjectives such as nett, freundlich, groß usw",
+            "discuss in plenary the appropriate ways of describing one's physical appearances"
+          ],
+          "linkedLearningAreas": ["Integrated Science: the body."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration", "Self-efficacy"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Mental health issues"]
+        },
+        {
+          "name": "2.8 Reading Comprehension (Theme 8: Weather and Environment)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify key information from reading texts for comprehension",
+            "read texts for comprehension",
+            "recognize the role of reading comprehension in language"
+          ],
+          "keyInquiryQuestions": ["How do we get the needed information from a reading text?"],
+          "learningExperiences": [
+            "read texts on weather and seasons and answer given questions",
+            "read descriptions on the different seasons in Germany and match to given flashcards",
+            "research and discuss with peers on which clothes go with which seasons",
+            "read cloze texts about the different seasons and changing weather patterns in Kenya and Germany, fill in the missing information and share in plenary for feedback"
+          ],
+          "linkedLearningAreas": ["Social Studies: weather and climate change."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn"],
+          "values": ["Patriotism"],
+          "pertinentContemporaryIssues": ["Climate change"]
+        },
+        {
+          "name": "2.9 Reading Aloud (Theme 9: Getting Around)",
+          "lessonCount": 2,
+          "specificLearningOutcomes": [
+            "identify sentence melody in reading for fluency",
+            "read texts aloud for fluency",
+            "recognize the value of reading aloud for building fluency"
+          ],
+          "keyInquiryQuestions": ["Why do we read aloud?"],
+          "learningExperiences": [
+            "read sentences aloud in German and highlight high and low melody",
+            "read aloud dialogues on describing the route and note down prepositions of location",
+            "read aloud texts on giving directions and answer given questions",
+            "read aloud simulations of giving directions around their neighborhood with peers using expressions such as 'wie komme ich..? Wo finde ich..?'"
+          ],
+          "linkedLearningAreas": ["English and Kiswahili: prepositions of location."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration", "Self-efficacy"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Citizenship"]
+        }
+      ]
+    },
+    {
+      "name": "3.0 Writing",
+      "subStrands": [
+        {
+          "name": "3.1 Guided Writing — Vocabulary (Theme 1: Greetings and Introduction — Basic Greetings)",
+          "lessonCount": 1,
+          "specificLearningOutcomes": [
+            "identify various steps of writing a text",
+            "write a logical text using provided guidelines",
+            "appreciate the role of writing in learning"
+          ],
+          "keyInquiryQuestions": ["Why do we write things down?"],
+          "learningExperiences": [
+            "write down important stages of writing (research, plan, draft, edit)",
+            "write down phrases like 'wie geht's? Woher kommst du? Mir geht es prima, danke gut usw'",
+            "write simple dialogues, role-play greetings and introducing oneself with peers while observing social etiquette rules",
+            "research on greetings from German speaking countries from various sources (online/offline), write them down and make presentations to peers"
+          ],
+          "linkedLearningAreas": ["English and Kiswahili: greeting and introduction concepts."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration", "Creativity and imagination"],
+          "values": ["Respect", "Unity"],
+          "pertinentContemporaryIssues": ["Citizenship (ethnic and social relations)"]
+        },
+        {
+          "name": "3.2 Guided Writing — Orthography (Theme 2: Family — Nuclear Family, Name, Age and Profession)",
+          "lessonCount": 1,
+          "specificLearningOutcomes": [
+            "identify rules of orthography in writing",
+            "write texts observing rules of German orthography",
+            "value the role of orthography in writing"
+          ],
+          "keyInquiryQuestions": ["Why is punctuation important?"],
+          "learningExperiences": [
+            "underline expressions referring to family (Vater, Mutter, Schwester, Bruder usw)",
+            "write down members of their nuclear family and present to classmates by their name, age and profession in plenary",
+            "draw and present to peers a family tree indicating their family members",
+            "research about dynamics of family in German-speaking countries, write them down and present in plenary"
+          ],
+          "linkedLearningAreas": ["Social Studies: family set-up."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy"],
+          "values": ["Love"],
+          "pertinentContemporaryIssues": ["Citizenship (ethnic and racial relations)"]
+        },
+        {
+          "name": "3.3 Guided Writing — Vocabulary, Functional Writing: Shopping Lists (Theme 3: My Surroundings — The Market Places)",
+          "lessonCount": 1,
+          "specificLearningOutcomes": [
+            "identify appropriate vocabulary for writing various texts",
+            "write texts using appropriate format for communication",
+            "value the role of writing in various contexts of communication"
+          ],
+          "keyInquiryQuestions": ["Which aspects should one consider in writing?"],
+          "learningExperiences": [
+            "write down food items and categorise them into various groups",
+            "write down shopping lists of commodities to buy at the market",
+            "research on markets in Germany, write them down and present findings in plenary",
+            "discuss with peers the need of following a budget while shopping at the market"
+          ],
+          "linkedLearningAreas": ["Agriculture and Nutrition: food stuff."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem-solving"],
+          "values": ["Integrity"],
+          "pertinentContemporaryIssues": ["Financial literacy"]
+        },
+        {
+          "name": "3.4 Guided Writing — German Writing Rules (Theme 4: Time — Important Dates)",
+          "lessonCount": 1,
+          "specificLearningOutcomes": [
+            "identify rules governing writing numbers in German",
+            "use numbers in varied writing contexts",
+            "value the role of writing in everyday life"
+          ],
+          "keyInquiryQuestions": ["Why is writing things down important?"],
+          "learningExperiences": [
+            "write down numbers and practise counting by reading them aloud in groups",
+            "write down dates of festivities from given texts",
+            "write down and discuss important dates in their lives (Geburtsdatum, Geburtsjahr, Feste usw) with peers",
+            "research important dates in Kenyan and German history in groups, write them down and present in plenary"
+          ],
+          "linkedLearningAreas": ["Mathematics: numbers including ordinal numbers."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn", "Citizenship"],
+          "values": ["Patriotism", "Respect"],
+          "pertinentContemporaryIssues": ["Citizenship (social cohesion)"]
+        },
+        {
+          "name": "3.5 Guided Writing — Descriptive Writing (Theme 5: Fun and Enjoyment — Weekends, Holidays)",
+          "lessonCount": 1,
+          "specificLearningOutcomes": [
+            "identify appropriate vocabulary and phrases in writing",
+            "write short texts using appropriate expressions",
+            "recognize the role of vocabulary in writing"
+          ],
+          "keyInquiryQuestions": ["How do we make our writing interesting?"],
+          "learningExperiences": [
+            "write descriptions on leisure time activities",
+            "write short texts on holiday destinations and activities",
+            "write short texts on activities done during weekends and holidays using expressions such as gern, lieber and am liebsten",
+            "research on a holiday destination they would like to visit, write down and make a presentation on the same in plenary",
+            "discuss in plenary appropriate weekend and holiday activities and which activities to avoid"
+          ],
+          "linkedLearningAreas": ["Creative Arts and Sports: holiday activities."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem-solving"],
+          "values": ["Integrity"],
+          "pertinentContemporaryIssues": ["Substance and alcohol abuse"]
+        },
+        {
+          "name": "3.6 Guided Writing — Creative Writing: Dialogues, Functional Writing: Shopping Lists (Theme 6: Food and Drinks — Shopping for Food)",
+          "lessonCount": 1,
+          "specificLearningOutcomes": [
+            "identify key information for writing",
+            "write short texts using acquired language structures and vocabulary",
+            "appreciate the role of writing in everyday life"
+          ],
+          "keyInquiryQuestions": ["How can we avoid going out of topic when writing a text?"],
+          "learningExperiences": [
+            "underline/highlight key words related to quantities (Kilo, Liter, Dutzend) from given texts",
+            "write sample shopping lists for different shopping situations",
+            "fill in blanks on given questions about shopping",
+            "write dialogues as they role play in groups different shopping situations (at the butchery, at the grocery store, at the supermarket etc)"
+          ],
+          "linkedLearningAreas": ["Pre-Technical Studies: budgeting."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Life skills (negotiation)"]
+        },
+        {
+          "name": "3.7 Guided Writing — Descriptive Writing (Theme 7: My Body)",
+          "lessonCount": 1,
+          "specificLearningOutcomes": [
+            "identify descriptive words in writing",
+            "write descriptive texts for communication",
+            "value the role of descriptive writing in communication"
+          ],
+          "keyInquiryQuestions": ["How can we describe someone?"],
+          "learningExperiences": [
+            "write words used to describe people with peers",
+            "write descriptions of people and match to given pictures",
+            "write descriptions of their favourite people by their appearances and personality using adjectives such as nett, freundlich, gross usw",
+            "discuss in plenary the appropriate ways of describing one's physical appearances"
+          ],
+          "linkedLearningAreas": ["Integrated Science: the body."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration", "Self-efficacy"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Mental health issues"]
+        },
+        {
+          "name": "3.8 Guided Writing — German Orthography Writing Rules (Theme 8: Weather and Environment — The Four Seasons)",
+          "lessonCount": 1,
+          "specificLearningOutcomes": [
+            "identify essential information for detailed writing",
+            "write texts for comprehension",
+            "recognize the role of orthography in language"
+          ],
+          "keyInquiryQuestions": ["Why is writing an important skill?"],
+          "learningExperiences": [
+            "extract key information from texts on weather and seasons and answer given questions",
+            "write down information on the different seasons in Germany from given flashcards",
+            "research, write down and discuss with peers on which clothes go with which seasons",
+            "research, write notes, and source supporting materials about the different seasons and changing weather patterns in Kenya and Germany and share in plenary for feedback",
+            "create charts on different seasons from sourced materials e.g. pictures and display them in class"
+          ],
+          "linkedLearningAreas": ["Social Studies: weather and climate change."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and imagination"],
+          "values": ["Patriotism"],
+          "pertinentContemporaryIssues": ["Climate change"]
+        },
+        {
+          "name": "3.9 Guided Writing — Creative Writing: Dialogues (Theme 9: Getting Around — In the Neighbourhood)",
+          "lessonCount": 1,
+          "specificLearningOutcomes": [
+            "identify the theme in a text",
+            "write short texts using acquired language structures",
+            "appreciate the role of writing in everyday life"
+          ],
+          "keyInquiryQuestions": ["How can we avoid ambiguity in writing?"],
+          "learningExperiences": [
+            "note down themes of given text",
+            "write down prepositions of location with peers",
+            "write simple dialogues on giving directions with peers",
+            "simulate giving directions around their neighborhood with peers using expressions such as 'wie komme ich..? Wo finde ich..? Danke'"
+          ],
+          "linkedLearningAreas": ["English and Kiswahili: prepositions of location."],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration", "Self-efficacy"],
+          "values": ["Respect"],
+          "pertinentContemporaryIssues": ["Citizenship"]
+        }
+      ]
+    }
+  ]
+}

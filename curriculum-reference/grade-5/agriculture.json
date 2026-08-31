@@ -1,0 +1,306 @@
+{
+  "subject": "Agriculture",
+  "subjectId": "agriculture-nutrition",
+  "grade": 5,
+  "source": {
+    "title": "Primary School Curriculum Design — Agriculture, Grade 5 (First Published 2017, Revised 2024)",
+    "publisher": "KICD",
+    "retrievedDate": "2026-08-29",
+    "confidence": "high",
+    "notes": "Read directly from 'grade 5 designs/GRADE-5-AGRICULTURE-Curriculum-Designs.pdf' via the Read tool (no pages param), full text extracted, all 4 strands / 13 sub-strands / 120 lessons mined per CURRICULUM-MINING-GUIDE.md's 10-step checklist. Grade 5's official KICD title is 'Agriculture' alone (namesByGrade override in curriculum.ts), and the subject is an integrated agriculture + home science area (essence statement explicitly names clothing construction, laundry, and hygiene alongside crop/animal production)."
+  },
+  "strands": [
+    {
+      "name": "1.0 Conservation of Resources",
+      "subStrands": [
+        {
+          "name": "1.1 Soil Conservation",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "Identify sites for soil improvement in the school or community",
+            "Construct organic waste pit for soil improvement",
+            "Demonstrate use of plant remains for soil improvement"
+          ],
+          "keyInquiryQuestions": ["How can we improve the soil using suitable organic wastes?"],
+          "learningExperiences": [
+            "Discuss and identify sites in the school or community that have poor soil for crop growth",
+            "Construct a pit, a site or a structure for dumping plant residue and suitable food remains and organic kitchen wastes in school",
+            "Plant crop in a residue pit to observe and appreciate soil improvement from accumulated organic wastes"
+          ],
+          "linkedLearningAreas": ["Science and Technology — construction and use of organic waste pit relates to waste management skills"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem solving — observation skills identifying appropriate sites for soil improvement"],
+          "notes": "No closed parenthetical list of organic waste types in the source (plant residue, food remains, kitchen wastes named as open examples) — implemented pool draws on these named examples."
+        },
+        {
+          "name": "1.2 Water Conservation",
+          "lessonCount": 9,
+          "specificLearningOutcomes": [
+            "Identify ways of conserving water for household gardening",
+            "Practice water conservation within the school or community",
+            "Appreciate importance of conserving water in the community"
+          ],
+          "keyInquiryQuestions": ["How can we conserve soil water in household gardening practices?"],
+          "learningExperiences": [
+            "Use devices or other resources to search for information on ways of water conservation such as mulching, cover cropping and shading in kitchen and backyard gardening",
+            "Practise various ways of conserving water in farming (mulching, shading, cover cropping) within the school",
+            "Experiment mulching (mulch some crops and leave others un-mulched and compare moisture conservation)",
+            "Make presentations to share experiences on importance of conserving water (mulching, cover cropping and shading) in kitchen and backyard gardening activities"
+          ],
+          "linkedLearningAreas": ["Social Studies — water conservation relates to knowledge of natural resources in the environment"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn — learning independently through self-driven water-conservation tasks"],
+          "waterConservationMethods": ["mulching", "cover cropping", "shading"],
+          "notes": "The mulching experiment (mulched vs un-mulched comparison) is explicit source content — good basis for an Analyze/Evaluate branch, not just recall of the 3 named methods."
+        },
+        {
+          "name": "1.3 Conserving Wild Animals",
+          "lessonCount": 6,
+          "specificLearningOutcomes": [
+            "Identify ways of repelling wild animals to avoid damage of property",
+            "Repel wild animals to avoid destruction of property",
+            "Appreciate importance of living better with wild animals"
+          ],
+          "keyInquiryQuestions": ["How can we repel wild animals to avoid destruction of property?"],
+          "learningExperiences": [
+            "Watch video clips or listen to a resource person on safe ways of repelling wild animals (such as use of smoke, smells) to avoid damage on property (crops and domestic animals) and live better with wild animals",
+            "Innovate safe ways of repelling small wild animals (smoke, use of smell repellant or any other)",
+            "Discuss and make presentations on importance of conserving wild animals in the environment"
+          ],
+          "linkedLearningAreas": ["Social Studies — conservation of wild animals relates to conservation of natural resources"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem solving — evaluation and decision-making exploring ways of solving property destruction by wild animals"],
+          "repellentMethods": ["smoke", "smell repellent"],
+          "notes": "Critical thinking and problem solving named as a core competency — requires an Analyze/Evaluate branch (e.g. judging which repellent method suits a described situation), not just recall of method names. Source explicitly scopes to SMALL wild animals only ('innovate safe ways of repelling small wild animals') — large dangerous wildlife (elephants, buffalo) is out of scope for this sub-strand's practical/innovate outcome."
+        }
+      ]
+    },
+    {
+      "name": "2.0 Food Production Processes",
+      "subStrands": [
+        {
+          "name": "2.1 Growing Vegetables",
+          "lessonCount": 9,
+          "specificLearningOutcomes": [
+            "Identify gardening practices in growing vegetables",
+            "Establish a nursery bed for vegetables",
+            "Care for vegetable seedlings after transplanting",
+            "Appreciate the importance of vegetables in provision of healthy meals"
+          ],
+          "keyInquiryQuestions": ["How does growing vegetables contribute to food production?"],
+          "learningExperiences": [
+            "Brainstorm and share experiences on gardening practices of vegetables in a nursery bed",
+            "Prepare a nursery bed (container or ground nursery), sow vegetable seeds and take care of the seedlings",
+            "Transplant vegetable seedlings and take care of the seedlings",
+            "Make class presentations on importance of growing vegetables as a source of food for animals and humans"
+          ],
+          "linkedLearningAreas": ["Social Studies — growing vegetables relates to socio-economic activities in the community"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy — self-drive undertaking vegetable-growing projects"],
+          "nurseryTypes": ["container nursery", "ground nursery"],
+          "notes": "Two-stage process (establish nursery bed → care for seedlings after transplanting) is a genuine sequence — good ordering-branch material."
+        },
+        {
+          "name": "2.2 Uses of Domestic Animals",
+          "lessonCount": 8,
+          "specificLearningOutcomes": [
+            "Identify uses of various domestic animals in food production processes",
+            "Relate various domestic animals to their uses",
+            "Appreciate the importance of domestic animals in food production"
+          ],
+          "keyInquiryQuestions": ["How are domestic animals important in food production?"],
+          "learningExperiences": [
+            "Brainstorm and share experiences on the uses of domestic animals in food production (bees, rabbits, camels, fish, pigs, donkeys, dogs and cats)",
+            "Match domestic animals to their uses",
+            "Make class presentations on importance of domestic animals in various food production processes while relating contributions of all the scoped animals"
+          ],
+          "linkedLearningAreas": ["Social Studies — rearing and uses of domestic animals as a socio-economic activity"],
+          "scopeNotes": ["Note: 8 named domestic animals are an explicit, closed enumerated list — bees, rabbits, camels, fish, pigs, donkeys, dogs and cats — all 8 must be covered, including the non-obvious direct-food ones (bees=honey, rabbits/pigs=meat, camels=milk/meat, fish=food) and the indirect/non-food-product ones (donkeys=draught labour supporting farming, dogs=guarding livestock/property, cats=pest control protecting stored food) — the assessment rubric explicitly rewards 'relating contributions of all the scoped animals', so indirect contributions to food production count too, not just animals that are literally eaten or milked."],
+          "assessmentSignal": "Rubric/learning-experience explicitly says 'relating contributions of ALL the scoped animals' — this is a hard floor requiring all 8 named animals to be covered, not a representative sample.",
+          "coreCompetencies": ["Communication — speaking clearly making presentations on domestic animal uses"],
+          "namedAnimals": ["bees", "rabbits", "camels", "fish", "pigs", "donkeys", "dogs", "cats"],
+          "notes": "This is the clearest hard-floor enumerated pool in the whole Grade 5 Agriculture design — treat as non-negotiable, all 8 implemented with a genuine (not invented) use each."
+        },
+        {
+          "name": "2.3 Preservation of Cereals and Pulses",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "Describe methods of preserving cereals and pulses in the locality",
+            "Preserve cereals and pulses for food security",
+            "Appreciate the importance of preserving cereals and pulses for food security"
+          ],
+          "keyInquiryQuestions": ["How does preservation and storage of cereals and pulses enhance food security?"],
+          "learningExperiences": [
+            "Brainstorm and share experiences on methods of preserving and storing cereals and pulses (such as sun drying, use of ashes, use of airtight containers) at household level",
+            "Preserve and store cereals and pulses using methods such as sun drying, use of ash and airtight containers",
+            "Make class presentations to share experiences on importance of preserving and storing cereals and pulses"
+          ],
+          "linkedLearningAreas": ["Social Studies — preservation of cereals and pulses relates to farming activities in the community"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem solving — exploring ways of preserving/storing cereals and pulses to prevent spoilage"],
+          "preservationMethods": ["sun drying", "use of ash", "airtight containers"],
+          "notes": "Critical thinking and problem solving named — needs an Analyze/Evaluate branch (choosing/judging the best preservation method for a described grain-spoilage scenario)."
+        },
+        {
+          "name": "2.4 Food Nutrients",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "Explain functions of food nutrients in the body",
+            "Categorise foods based on their major nutrients",
+            "Identify nutritional diseases and disorders associated with poor eating habits",
+            "Appreciate the importance of various nutrients in the body"
+          ],
+          "keyInquiryQuestions": ["Why is the knowledge of food nutrients important in food production?"],
+          "learningExperiences": [
+            "Search and share information on functions of food nutrients (carbohydrates, vitamins, proteins, fats)",
+            "Use samples of food materials and photographs to categorise foods based on their major nutrients (protein rich foods, carbohydrates rich foods, vitamins and minerals rich foods)",
+            "Use print and digital devices to search for information on various nutritional diseases and disorders such as kwashiorkor, marasmus, goiter and anaemia",
+            "Make class presentations on the importance of various nutrients in the body"
+          ],
+          "linkedLearningAreas": ["Science and Technology — food nutrients relate to prevention of non-communicable diseases"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Digital literacy — interacting with digital technologies searching for food-nutrient information"],
+          "nutrients": ["carbohydrates", "vitamins", "proteins", "fats"],
+          "nutrientFoodCategories": ["protein rich foods", "carbohydrates rich foods", "vitamins and minerals rich foods"],
+          "nutritionalDisorders": ["kwashiorkor", "marasmus", "goiter", "anaemia"],
+          "notes": "4 nutrients, 3 food categories (note minerals folded into the vitamins category per source wording), 4 named disorders — all closed enumerated lists, hard floors."
+        },
+        {
+          "name": "2.5 Cooking Food",
+          "lessonCount": 9,
+          "specificLearningOutcomes": [
+            "Describe various methods of cooking food",
+            "Cook foods using various methods",
+            "Embrace dry fat frying and deep frying in food production"
+          ],
+          "keyInquiryQuestions": ["How can we cook foods using dry fat frying and deep frying methods?"],
+          "learningExperiences": [
+            "Watch video clip or demonstration on dry fat frying and deep frying methods of cooking",
+            "Cook foods using dry fat frying and deep frying methods",
+            "Serve foods that have been cooked through dry fat frying and deep frying methods"
+          ],
+          "linkedLearningAreas": ["Science and Technology — safety and first aid from burns and scald"],
+          "scopeNotes": [],
+          "assessmentSignal": "Values box explicitly names 'observing safety as learners handle hot oils and equipment' — safety practice around hot fat/oil is part of the tested competency, not just the two frying methods themselves.",
+          "coreCompetencies": ["Learning to learn — self-discipline working cautiously to fry foods"],
+          "cookingMethods": ["dry fat frying", "deep frying"],
+          "notes": "Sub-strand header itself names exactly 2 methods (Dry Fat Frying, Deep Frying) — the closed pool for this sub-strand. Safety/burns-and-scald content is explicitly cross-linked, not incidental — worth its own evaluate-style branch."
+        }
+      ]
+    },
+    {
+      "name": "3.0 Hygiene Practices",
+      "subStrands": [
+        {
+          "name": "3.1 Good Grooming Practices",
+          "lessonCount": 7,
+          "specificLearningOutcomes": [
+            "Describe good grooming as a daily health habit",
+            "Practice good grooming as a daily health habit",
+            "Appreciate good grooming as a healthy habit"
+          ],
+          "keyInquiryQuestions": ["How does good grooming promote personal hygiene?"],
+          "learningExperiences": [
+            "Discuss and share experiences on aspects of good grooming (dressing and etiquette) for different occasions",
+            "Demonstrate different ways of dressing and etiquette for different activities",
+            "Conduct class modelling on different ways of dressing and etiquette to appreciate good grooming habits for different activities"
+          ],
+          "linkedLearningAreas": ["Social Studies — good grooming habits relate to self-discovery"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Self-efficacy — identification of self developing good grooming habits"],
+          "groomingAspects": ["dressing", "etiquette"],
+          "notes": "Sub-strand header itself names exactly 2 aspects (Dressing, Etiquette) — the closed pool. 'For different occasions/activities' is explicit — implemented content should vary occasion/activity context (school, church, sports, formal visit, etc.), not give one generic rule."
+        },
+        {
+          "name": "3.2 Home Hygiene",
+          "lessonCount": 9,
+          "specificLearningOutcomes": [
+            "Identify surfaces made from different materials in home environment",
+            "Clean different types of surfaces in the home environment",
+            "Appreciate living in a clean home environment to promote healthy living"
+          ],
+          "keyInquiryQuestions": ["How do you clean surfaces made from different materials?"],
+          "learningExperiences": [
+            "Discuss and share experiences on surfaces made from different materials such as glass, wooden, earthen floors, cemented and tiled",
+            "Clean different types of surfaces such as glass, wooden, earthen floors, cemented and tiled",
+            "Maintain cleanliness of surfaces in the school to appreciate living in clean environment"
+          ],
+          "linkedLearningAreas": ["Science and Technology — cleaning surfaces relates to preventing contamination and spread of communicable diseases"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Communication and collaboration — listening/speaking skills using facts to support opinions in brainstorming"],
+          "surfaceTypes": ["glass", "wooden", "earthen floor", "cemented", "tiled"],
+          "notes": "5 named surface materials are an explicit closed list — each needs its own appropriate cleaning method (e.g. earthen floors are swept/smeared with dung-ash mixture traditionally, glass wiped, tiled/cemented mopped/scrubbed) matched correctly, not one generic 'clean it' answer for all 5."
+        },
+        {
+          "name": "3.3 Laundering Cotton Item",
+          "lessonCount": 10,
+          "specificLearningOutcomes": [
+            "Describe how to launder a cotton item",
+            "Launder a cotton item for personal hygiene",
+            "Appreciate importance of laundry work for hygiene purposes"
+          ],
+          "keyInquiryQuestions": ["How does laundering cotton items promote hygiene?"],
+          "learningExperiences": [
+            "Watch a clip or observe a demonstration on how to launder a cotton item (white and fast coloured cotton)",
+            "Launder a white and fast coloured cotton item",
+            "Practice laundering of white and fast coloured items at home to appreciate the importance of laundry work for personal hygiene"
+          ],
+          "linkedLearningAreas": ["Science and Technology — personal hygiene relates to communicable diseases"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Learning to learn — sharing ideas carrying out laundering activities with peers"],
+          "cottonTypes": ["white cotton", "fast-coloured cotton"],
+          "notes": "White vs fast-coloured cotton need genuinely different handling (e.g. white can be bleached/boiled, fast-coloured must be washed separately in cool water to avoid running/fading) — 2-way distinction is the closed pool, not a single generic laundering procedure."
+        }
+      ]
+    },
+    {
+      "name": "4.0 Production Techniques",
+      "subStrands": [
+        {
+          "name": "4.1 Repairing Garments",
+          "lessonCount": 11,
+          "specificLearningOutcomes": [
+            "Identify stitches used in repairing garment",
+            "Make samples of stitches used to repair garments",
+            "Use the stitches to repair gaping seam",
+            "Adopt the use of stitches to repair of garments"
+          ],
+          "keyInquiryQuestions": ["How can we repair garments?"],
+          "learningExperiences": [
+            "Use pictures, samples of garments, video clips and charts to identify stitches such as back stitch and running stitch used in repairing garment",
+            "Make samples of running and back stitches",
+            "Use back stitch and running stitch to repair gaping seam",
+            "Make use of back stitch and running stitch to repair their daily wear"
+          ],
+          "linkedLearningAreas": ["Creative Arts — choice and use of colours relates to aesthetic skills"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Critical thinking and problem solving — evaluation/decision-making exploring ways of repairing garment"],
+          "stitches": ["back stitch", "running stitch"],
+          "repairTarget": "gaping seam",
+          "notes": "Exactly 2 named stitches, both used specifically to repair a gaping seam — closed pool. Critical thinking and problem solving named — needs an Analyze/Evaluate branch (e.g. judging which stitch/approach suits a described torn-garment scenario)."
+        },
+        {
+          "name": "4.2 Constructing Innovative Gardens",
+          "lessonCount": 14,
+          "specificLearningOutcomes": [
+            "Distinguish between horizontal and vertical innovative gardening",
+            "Construct innovative gardens for growing crops",
+            "Adopt the use of innovative gardens in growing crops"
+          ],
+          "keyInquiryQuestions": ["How can gardening be done on vertical and horizontal spaces?"],
+          "learningExperiences": [
+            "Watch or observe stimulus materials (video clips, pictures and photographs) on innovative gardening practices to differentiate between vertical and horizontal gardens",
+            "Use sacks, plastic bottles, walls, plastic pipes among others to construct vertical and horizontal gardens for growing crops",
+            "Use the vertical and horizontal gardens to grow appropriate crop"
+          ],
+          "linkedLearningAreas": ["Creative Arts — designing structures and use of craft tools/equipment"],
+          "scopeNotes": [],
+          "coreCompetencies": ["Creativity and imagination — designing/assembling skills innovating vertical and horizontal gardens"],
+          "gardenTypes": ["horizontal garden", "vertical garden"],
+          "constructionMaterials": ["sack", "plastic bottle", "wall", "plastic pipe"],
+          "notes": "2 garden types × 4 named construction materials — the sack/vertical-tower and wall-mounted/plastic-bottle garden techniques should be correctly paired with horizontal vs vertical (e.g. sack/plastic-pipe/wall gardens are vertical; ground-level bed/tyre gardens are horizontal), not treated as interchangeable."
+        }
+      ]
+    }
+  ]
+}

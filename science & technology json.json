@@ -1,0 +1,2693 @@
+{
+  "curriculum": {
+    "country": "Kenya",
+    "framework": "Competency Based Curriculum (CBC)",
+    "grade": 6,
+    "subject": "Science & Technology",
+    "subjectId": "science",
+    "schoolLevel": "Upper Primary",
+    "source": {
+      "title": "Primary School Education Curriculum Design — Science & Technology, Grade 6",
+      "path": "grade-6-curriculum-desings/GRADE-6-SCIENCE-Curriculum-Designs.pdf",
+      "publisher": "KICD",
+      "isbn": "978-9914-724-90-5",
+      "firstPublished": 2017,
+      "revised": 2024,
+      "retrievedDate": "2026-08-16",
+      "confidence": "high"
+    },
+    "structure": {
+      "strands": 3,
+      "subStrands": 8,
+      "suggestedLessons": 120
+    }
+  },
+
+  "engineIntent": {
+    "architecture": "parameterized_procedural_generation",
+    "questionStorage": "none",
+    "questionInstancesPersisted": false,
+    "principle": "Generate questions dynamically from curriculum-aligned skill generators and valid parameter combinations.",
+    "doNotGenerateStaticQuestionBank": true,
+    "doNotStoreIndividualQuestionInstances": true,
+    "doNotTreatThisFileAsQuestionBank": true,
+    "purposeOfThisFile": "Authoritative curriculum, content-depth, skill, parameter, misconception, visual and coverage specification for the procedural question engine."
+  },
+
+  "generationPipeline": [
+    "curriculum",
+    "knowledge_domain",
+    "atomic_concept",
+    "skill",
+    "question_family",
+    "parameter_schema",
+    "parameter_constraints",
+    "cognitive_operation",
+    "difficulty_configuration",
+    "misconception_target",
+    "visual_spec",
+    "question_instance",
+    "answer_generation",
+    "distractor_generation",
+    "validation",
+    "render"
+  ],
+
+  "globalContentRules": {
+    "principle": "Increase depth by expanding legitimate knowledge perspectives and reasoning operations, not by inventing additional curriculum content.",
+    "rules": [
+      "Every generated question must map to at least one curriculum concept.",
+      "Every skill must remain within Grade 6 CBC scope.",
+      "Difficulty may increase through reasoning without introducing higher-grade scientific content.",
+      "Parameter variation must change the meaningful reasoning or representation, not merely nouns.",
+      "Do not generate cosmetic variants and count them as distinct skills.",
+      "Do not overproduce direct recall when application, analysis or visual reasoning is curriculum-supported.",
+      "Do not neglect less obvious concepts merely because they are harder to generate.",
+      "Use misconception-driven distractors where appropriate.",
+      "Use real-world and Kenyan/local contexts where pedagogically appropriate.",
+      "Do not insert Kenya artificially into every question.",
+      "Do not introduce scientific names where the curriculum excludes them.",
+      "Do not introduce advanced terminology solely to increase difficulty.",
+      "Do not infer unsupported curriculum requirements.",
+      "Do not turn every learning outcome into a single question type.",
+      "One curriculum concept may support multiple distinct skills.",
+      "One skill may support multiple parameterized representations."
+    ]
+  },
+
+  "parameterizationRules": {
+    "corePrinciple": "Parameters define the legitimate space of question instances.",
+    "validParameterTypes": [
+      "concept",
+      "example",
+      "context",
+      "representation",
+      "operation",
+      "relationship",
+      "scenario",
+      "values",
+      "diagram_configuration",
+      "misconception",
+      "difficulty",
+      "interaction"
+    ],
+    "parameterVariationMustAffectAtLeastOne": [
+      "reasoning",
+      "concept_relationship",
+      "representation",
+      "application",
+      "decision",
+      "interpretation"
+    ],
+    "invalidVariation": [
+      "changing only names",
+      "changing only answer order",
+      "changing only superficial wording",
+      "changing an example while preserving exactly the same cognitive operation and reasoning",
+      "randomizing values that do not affect the reasoning"
+    ],
+    "constraints": {
+      "allParameterCombinationsMustBeCurriculumValid": true,
+      "parameterDependenciesMustBeExplicit": true,
+      "invalidCombinationsMustBeRejectedBeforeRendering": true
+    }
+  },
+
+  "cognitiveModel": {
+    "levels": [
+      {
+        "id": "remember",
+        "description": "Recall facts, names, examples, components and categories."
+      },
+      {
+        "id": "understand",
+        "description": "Explain, classify, match, describe relationships and interpret familiar representations."
+      },
+      {
+        "id": "apply",
+        "description": "Use Grade 6 knowledge in practical, everyday, experimental or local situations."
+      },
+      {
+        "id": "analyze",
+        "description": "Compare, distinguish, diagnose errors, interpret relationships and determine causes or consequences."
+      },
+      {
+        "id": "evaluate",
+        "description": "Choose the most appropriate explanation, method, action, design or conclusion using Grade 6 knowledge."
+      }
+    ],
+    "rule": "The declared cognitive level must reflect the actual mental operation required, not the apparent difficulty of vocabulary."
+  },
+
+  "difficultyModel": {
+    "dimensions": [
+      "conceptDepth",
+      "reasoningSteps",
+      "representationComplexity",
+      "contextFamiliarity",
+      "distractorPlausibility",
+      "numberOfRelevantVariables",
+      "transferDistance",
+      "visualInterpretation",
+      "parameterInteraction"
+    ],
+    "bands": [
+      "foundation",
+      "developing",
+      "proficient",
+      "advanced"
+    ],
+    "principle": "Difficulty should emerge from combinations of valid dimensions rather than from introducing content beyond Grade 6."
+  },
+
+  "questionFamilies": [
+    "identify",
+    "classify",
+    "match",
+    "sort",
+    "fill_blank",
+    "multiple_choice",
+    "multiple_select",
+    "compare",
+    "contrast",
+    "odd_one_out",
+    "choose_best_explanation",
+    "scenario_application",
+    "cause_effect",
+    "prediction",
+    "error_analysis",
+    "misconception_diagnosis",
+    "sequence",
+    "diagram_label",
+    "diagram_interpretation",
+    "chart_interpretation",
+    "table_interpretation",
+    "experimental_setup",
+    "safety_decision",
+    "local_context",
+    "evidence_based_choice",
+    "routine_planning",
+    "design_choice"
+  ],
+
+  "visualArchitecture": {
+    "principle": "Store declarative VisualSpecs and render procedural visuals in the application, preferably as SVG.",
+    "rawSvgInQuestionData": false,
+    "visualTypes": [
+      "procedural_svg",
+      "interactive_svg",
+      "chart",
+      "table",
+      "curated_real_image"
+    ],
+    "visualRendererContract": {
+      "input": "VisualSpec",
+      "output": "SVG_or_interactive_visual",
+      "mustBeDeterministicForSameSeed": true
+    },
+    "visualRules": [
+      "Visuals must be scientifically correct.",
+      "Visuals must contain all information necessary to answer the intended question.",
+      "Visuals must not accidentally reveal the answer.",
+      "Visual parameters may vary within scientifically valid bounds.",
+      "Use SVG for diagrams, ray diagrams, charts, classifications and mechanical arrangements.",
+      "Use curated real images when realistic organism recognition is pedagogically valuable."
+    ]
+  },
+
+  "antiRepetition": {
+    "semanticDeduplication": true,
+    "questionFingerprintFields": [
+      "skillId",
+      "conceptIds",
+      "cognitiveLevel",
+      "questionFamily",
+      "operation",
+      "representation",
+      "context",
+      "misconceptionTarget"
+    ],
+    "principle": "Two generated instances may differ in parameters while still being considered repetitive if they require substantially identical reasoning.",
+    "allowRepeatedPractice": true,
+    "repeatedPracticePurpose": [
+      "spaced_practice",
+      "mastery_reinforcement",
+      "error_recovery"
+    ]
+  },
+
+  "strands": [
+    {
+      "id": "1.0",
+      "name": "Living Things and their Environment",
+
+      "subStrands": [
+        {
+          "id": "1.1",
+          "name": "Fungi",
+          "lessonCount": 12,
+
+          "learningOutcomes": [
+            "Identify common fungi in the environment",
+            "Describe the importance of fungi in nature",
+            "Appreciate the importance of fungi in the economy"
+          ],
+
+          "inquiryQuestions": [
+            "How is fungi important in nature?"
+          ],
+
+          "scope": {
+            "include": [
+              "mushrooms",
+              "toadstools",
+              "puff balls",
+              "yeast",
+              "moulds",
+              "importance of fungi in nature",
+              "economic importance",
+              "food",
+              "fermentation",
+              "health",
+              "medicine",
+              "safe handling",
+              "safe waste disposal"
+            ],
+            "exclude": [
+              "scientific names of fungi",
+              "detailed applications of fungi in food processing"
+            ]
+          },
+
+          "knowledgeDomains": [
+            {
+              "id": "fungi.identification",
+              "name": "Identification and recognition",
+              "concepts": [
+                "common fungi",
+                "mushroom",
+                "toadstool",
+                "puff ball",
+                "yeast",
+                "mould"
+              ]
+            },
+            {
+              "id": "fungi.nature",
+              "name": "Importance in nature",
+              "concepts": [
+                "decomposition",
+                "breakdown of organic material",
+                "nutrient recycling",
+                "ecological importance"
+              ]
+            },
+            {
+              "id": "fungi.economy",
+              "name": "Economic importance",
+              "concepts": [
+                "food",
+                "fermentation",
+                "health",
+                "medicine",
+                "economic value"
+              ]
+            },
+            {
+              "id": "fungi.safety",
+              "name": "Safety",
+              "concepts": [
+                "safe handling",
+                "precautions",
+                "safe disposal of wastes"
+              ]
+            }
+          ],
+
+          "perspectives": [
+            "identification",
+            "environment",
+            "decomposition",
+            "food",
+            "fermentation",
+            "health",
+            "medicine",
+            "economy",
+            "safety"
+          ],
+
+          "skills": [
+            {
+              "id": "fungi.identify",
+              "name": "Identify common fungi",
+              "operations": [
+                "identify",
+                "classify",
+                "match",
+                "compare"
+              ],
+              "representations": [
+                "name",
+                "description",
+                "real_image",
+                "context"
+              ],
+              "parameters": {
+                "fungus": [
+                  "mushroom",
+                  "toadstool",
+                  "puff_ball",
+                  "yeast",
+                  "mould"
+                ],
+                "representation": [
+                  "image",
+                  "description",
+                  "context"
+                ]
+              }
+            },
+            {
+              "id": "fungi.nature_role",
+              "name": "Explain importance of fungi in nature",
+              "operations": [
+                "identify_role",
+                "cause_effect",
+                "choose_best_explanation",
+                "scenario_application"
+              ],
+              "parameters": {
+                "context": [
+                  "decaying_plant_material",
+                  "food_material",
+                  "school_environment",
+                  "natural_environment"
+                ],
+                "relationship": [
+                  "decomposition",
+                  "nutrient_recycling",
+                  "environmental_role"
+                ]
+              }
+            },
+            {
+              "id": "fungi.economic_importance",
+              "name": "Explain economic importance of fungi",
+              "operations": [
+                "identify",
+                "match",
+                "classify",
+                "scenario_application",
+                "compare"
+              ],
+              "parameters": {
+                "category": [
+                  "food",
+                  "fermentation",
+                  "health",
+                  "medicine"
+                ],
+                "context": [
+                  "household",
+                  "food_production",
+                  "community",
+                  "health"
+                ]
+              }
+            },
+            {
+              "id": "fungi.safety",
+              "name": "Apply safe handling and disposal practices",
+              "operations": [
+                "safety_decision",
+                "error_analysis",
+                "choose_best_action"
+              ],
+              "parameters": {
+                "situation": [
+                  "observing_mould",
+                  "growing_mould",
+                  "handling_fungal_material",
+                  "disposing_of_waste"
+                ]
+              }
+            }
+          ],
+
+          "misconceptions": [
+            "all fungi are harmful",
+            "all fungi are edible",
+            "only mushrooms are fungi",
+            "yeast is not a fungus",
+            "mould has no useful role",
+            "fungi are useful only as food",
+            "fungi have no ecological importance"
+          ],
+
+          "visualSpecs": [
+            {
+              "id": "fungi.identification_image",
+              "type": "curated_real_image",
+              "parameters": [
+                "fungus",
+                "context",
+                "image_quality"
+              ]
+            },
+            {
+              "id": "fungi.classification_grid",
+              "type": "procedural_svg",
+              "parameters": [
+                "fungus_examples",
+                "classification_categories"
+              ]
+            }
+          ],
+
+          "coverage": {
+            "required": [
+              "identification",
+              "nature",
+              "food",
+              "fermentation",
+              "health",
+              "medicine",
+              "safety",
+              "economic_importance"
+            ]
+          },
+
+          "assessmentSignal": "Economic importance must be represented through distinct food, fermentation, health and medicine perspectives rather than only a generic statement that fungi are useful.",
+
+          "competencies": [
+            "Learning to learn",
+            "Self-efficacy"
+          ],
+
+          "values": [
+            "Responsibility"
+          ],
+
+          "contemporaryIssues": [
+            "Financial literacy",
+            "Environmental conservation"
+          ]
+        },
+
+        {
+          "id": "1.2",
+          "name": "Invertebrates",
+          "lessonCount": 14,
+
+          "learningOutcomes": [
+            "Identify common invertebrates in the environment",
+            "Practise precautions in handling invertebrates",
+            "Describe the general characteristics of invertebrates",
+            "Outline the economic importance of invertebrates",
+            "Appreciate the importance of invertebrates in nature"
+          ],
+
+          "inquiryQuestions": [
+            "What are the common features of invertebrates?"
+          ],
+
+          "scope": {
+            "include": [
+              "insects",
+              "spiders",
+              "ticks",
+              "mites",
+              "millipedes",
+              "centipedes",
+              "snails",
+              "slugs",
+              "worms",
+              "octopus",
+              "starfish",
+              "crabs",
+              "general characteristics",
+              "safety precautions",
+              "food",
+              "pollination",
+              "soil aeration",
+              "pests",
+              "disease transmission",
+              "importance in nature",
+              "local examples"
+            ],
+            "exclude": [
+              "scientific names"
+            ]
+          },
+
+          "knowledgeDomains": [
+            {
+              "id": "invertebrates.identification",
+              "name": "Identification",
+              "concepts": [
+                "insects",
+                "spiders",
+                "ticks",
+                "mites",
+                "millipedes",
+                "centipedes",
+                "snails",
+                "slugs",
+                "worms",
+                "octopus",
+                "starfish",
+                "crabs"
+              ]
+            },
+            {
+              "id": "invertebrates.characteristics",
+              "name": "General characteristics",
+              "concepts": [
+                "absence_of_backbone",
+                "observable_body_features",
+                "differences_between_groups"
+              ]
+            },
+            {
+              "id": "invertebrates.safety",
+              "name": "Safety",
+              "concepts": [
+                "safe_observation",
+                "safe_handling",
+                "recognising_risk",
+                "appropriate_response"
+              ]
+            },
+            {
+              "id": "invertebrates.economy",
+              "name": "Economic importance",
+              "concepts": [
+                "food",
+                "pollination",
+                "soil_aeration",
+                "pests",
+                "disease_transmission"
+              ]
+            },
+            {
+              "id": "invertebrates.nature",
+              "name": "Importance in nature",
+              "concepts": [
+                "pollination",
+                "soil_processes",
+                "food_relationships",
+                "ecosystem_roles"
+              ]
+            },
+            {
+              "id": "invertebrates.local",
+              "name": "Local relevance",
+              "concepts": [
+                "school_environment",
+                "home_environment",
+                "farm_environment",
+                "local_economic_examples"
+              ]
+            }
+          ],
+
+          "perspectives": [
+            "identification",
+            "classification",
+            "characteristics",
+            "safety",
+            "agriculture",
+            "food",
+            "pollination",
+            "soil",
+            "health",
+            "disease",
+            "environment",
+            "local_economy"
+          ],
+
+          "skills": [
+            {
+              "id": "invertebrates.identify",
+              "name": "Identify common invertebrates",
+              "operations": [
+                "identify",
+                "classify",
+                "match",
+                "compare"
+              ],
+              "parameters": {
+                "organism": [
+                  "insect",
+                  "spider",
+                  "tick",
+                  "mite",
+                  "millipede",
+                  "centipede",
+                  "snail",
+                  "slug",
+                  "worm",
+                  "octopus",
+                  "starfish",
+                  "crab"
+                ],
+                "representation": [
+                  "image",
+                  "description",
+                  "scenario"
+                ]
+              }
+            },
+            {
+              "id": "invertebrates.characteristics",
+              "name": "Use characteristics to identify invertebrates",
+              "operations": [
+                "classify",
+                "compare",
+                "infer",
+                "error_analysis"
+              ],
+              "parameters": {
+                "feature": [
+                  "absence_of_backbone",
+                  "body_features",
+                  "group_characteristics"
+                ],
+                "comparison": [
+                  "invertebrate_vs_vertebrate",
+                  "two_invertebrates",
+                  "two_groups"
+                ]
+              }
+            },
+            {
+              "id": "invertebrates.safety",
+              "name": "Apply safe handling precautions",
+              "operations": [
+                "safety_decision",
+                "choose_best_action",
+                "error_analysis"
+              ],
+              "parameters": {
+                "situation": [
+                  "unknown_spider",
+                  "tick",
+                  "centipede",
+                  "school_observation",
+                  "home_observation"
+                ]
+              }
+            },
+            {
+              "id": "invertebrates.economic_importance",
+              "name": "Explain economic importance",
+              "operations": [
+                "identify",
+                "match",
+                "cause_effect",
+                "scenario_application",
+                "local_context"
+              ],
+              "parameters": {
+                "role": [
+                  "food",
+                  "pollination",
+                  "soil_aeration",
+                  "pest",
+                  "disease_transmission"
+                ],
+                "context": [
+                  "farm",
+                  "garden",
+                  "home",
+                  "community",
+                  "school"
+                ]
+              }
+            },
+            {
+              "id": "invertebrates.nature_role",
+              "name": "Explain importance in nature",
+              "operations": [
+                "cause_effect",
+                "scenario_application",
+                "choose_best_explanation"
+              ],
+              "parameters": {
+                "relationship": [
+                  "pollination",
+                  "soil_aeration",
+                  "food_relationship"
+                ]
+              }
+            },
+            {
+              "id": "invertebrates.local_application",
+              "name": "Apply knowledge to locality",
+              "operations": [
+                "local_context",
+                "scenario_application",
+                "evidence_based_choice"
+              ],
+              "parameters": {
+                "setting": [
+                  "school",
+                  "home",
+                  "farm",
+                  "market",
+                  "community"
+                ]
+              }
+            }
+          ],
+
+          "misconceptions": [
+            "every_small_animal_is_an_insect",
+            "spiders_are_insects",
+            "all_worms_are_insects",
+            "all_invertebrates_are_harmful",
+            "all_invertebrates_live_on_land",
+            "invertebrates_have_no_agricultural_value",
+            "all_invertebrates_should_be_touched_to_identify_them",
+            "pollinators_are_always_pests"
+          ],
+
+          "visualSpecs": [
+            {
+              "id": "invertebrate.photo",
+              "type": "curated_real_image",
+              "parameters": [
+                "organism",
+                "environment"
+              ]
+            },
+            {
+              "id": "invertebrate.classification",
+              "type": "procedural_svg",
+              "parameters": [
+                "organisms",
+                "categories"
+              ]
+            },
+            {
+              "id": "invertebrate.inventory",
+              "type": "interactive_table",
+              "parameters": [
+                "organisms",
+                "location",
+                "characteristic"
+              ]
+            }
+          ],
+
+          "coverage": {
+            "required": [
+              "identification",
+              "characteristics",
+              "safety",
+              "food",
+              "pollination",
+              "soil_aeration",
+              "pests",
+              "disease_transmission",
+              "nature",
+              "local_examples"
+            ],
+            "localExamplesRequired": true
+          },
+
+          "assessmentSignal": "Advanced instances should include locality-based or realistic examples because the curriculum assessment explicitly rewards examples from the learner's locality.",
+
+          "competencies": [
+            "Critical thinking and problem solving",
+            "Creativity and Imagination"
+          ],
+
+          "values": [
+            "Love"
+          ],
+
+          "contemporaryIssues": [
+            "Animal welfare",
+            "Safety and security",
+            "Health promotion"
+          ]
+        },
+
+        {
+          "id": "1.3",
+          "name": "Human circulatory system",
+          "lessonCount": 16,
+
+          "learningOutcomes": [
+            "Identify main parts of the human circulatory system",
+            "Describe functions of main parts of the human circulatory system",
+            "Outline the symptoms and prevention of common health conditions of the human circulatory system",
+            "Develop a routine plan for maintaining a healthy circulatory system",
+            "Appreciate the importance of a healthy human circulatory system"
+          ],
+
+          "inquiryQuestions": [
+            "What is the human circulatory system made up of?",
+            "What measures enhance a healthy human circulatory system?"
+          ],
+
+          "scope": {
+            "include": [
+              "heart",
+              "blood vessels",
+              "blood",
+              "auricles",
+              "ventricles",
+              "vessels",
+              "arteries",
+              "veins",
+              "capillaries",
+              "red blood cells",
+              "white blood cells",
+              "platelets",
+              "functions",
+              "hardening of arteries",
+              "high blood pressure",
+              "heart attack",
+              "symptoms",
+              "prevention",
+              "water",
+              "physical activity",
+              "healthy eating",
+              "routine planning"
+            ],
+            "exclude": [
+              "unrequired detailed anatomy",
+              "unrequired detailed vessel anatomy"
+            ]
+          },
+
+          "knowledgeDomains": [
+            {
+              "id": "circulation.structure",
+              "name": "Main system parts",
+              "concepts": [
+                "heart",
+                "blood_vessels",
+                "blood"
+              ]
+            },
+            {
+              "id": "circulation.heart",
+              "name": "Heart structure",
+              "concepts": [
+                "auricles",
+                "ventricles",
+                "vessels",
+                "basic structure_function relationship"
+              ]
+            },
+            {
+              "id": "circulation.vessels",
+              "name": "Blood vessels",
+              "concepts": [
+                "arteries",
+                "veins",
+                "capillaries",
+                "basic functions"
+              ]
+            },
+            {
+              "id": "circulation.blood",
+              "name": "Blood components",
+              "concepts": [
+                "red_blood_cells",
+                "white_blood_cells",
+                "platelets",
+                "basic functions"
+              ]
+            },
+            {
+              "id": "circulation.health",
+              "name": "Health conditions",
+              "concepts": [
+                "hardening_of_arteries",
+                "high_blood_pressure",
+                "heart_attack",
+                "symptoms",
+                "prevention"
+              ]
+            },
+            {
+              "id": "circulation.healthy_lifestyle",
+              "name": "Healthy circulation",
+              "concepts": [
+                "water",
+                "physical_activity",
+                "healthy_eating",
+                "routine_planning",
+                "consistent_behaviour"
+              ]
+            }
+          ],
+
+          "perspectives": [
+            "structure",
+            "function",
+            "heart",
+            "vessels",
+            "blood",
+            "health",
+            "symptoms",
+            "prevention",
+            "lifestyle",
+            "routine_planning",
+            "diagram_interpretation"
+          ],
+
+          "skills": [
+            {
+              "id": "circulation.identify_parts",
+              "name": "Identify main parts",
+              "operations": [
+                "identify",
+                "label",
+                "match"
+              ],
+              "parameters": {
+                "part": [
+                  "heart",
+                  "blood_vessels",
+                  "blood"
+                ],
+                "representation": [
+                  "diagram",
+                  "description",
+                  "context"
+                ]
+              }
+            },
+            {
+              "id": "circulation.heart_parts",
+              "name": "Identify and relate heart parts",
+              "operations": [
+                "identify",
+                "label",
+                "match_function",
+                "diagram_interpretation"
+              ],
+              "parameters": {
+                "part": [
+                  "auricle",
+                  "ventricle",
+                  "vessel"
+                ]
+              }
+            },
+            {
+              "id": "circulation.vessel_function",
+              "name": "Match vessels with functions",
+              "operations": [
+                "match",
+                "classify",
+                "compare",
+                "error_analysis"
+              ],
+              "parameters": {
+                "vessel": [
+                  "artery",
+                  "vein",
+                  "capillary"
+                ]
+              }
+            },
+            {
+              "id": "circulation.blood_function",
+              "name": "Match blood components with functions",
+              "operations": [
+                "match",
+                "identify",
+                "error_analysis",
+                "scenario_application"
+              ],
+              "parameters": {
+                "component": [
+                  "red_blood_cell",
+                  "white_blood_cell",
+                  "platelet"
+                ]
+              }
+            },
+            {
+              "id": "circulation.health_conditions",
+              "name": "Identify symptoms and prevention of common conditions",
+              "operations": [
+                "identify",
+                "match",
+                "scenario_application",
+                "choose_best_action"
+              ],
+              "parameters": {
+                "condition": [
+                  "hardening_of_arteries",
+                  "high_blood_pressure",
+                  "heart_attack"
+                ],
+                "dimension": [
+                  "symptom",
+                  "prevention"
+                ]
+              }
+            },
+            {
+              "id": "circulation.healthy_routine",
+              "name": "Develop or evaluate a healthy routine",
+              "operations": [
+                "routine_planning",
+                "compare",
+                "evaluate",
+                "scenario_application",
+                "error_analysis"
+              ],
+              "parameters": {
+                "behaviours": [
+                  "water",
+                  "physical_activity",
+                  "healthy_eating"
+                ],
+                "timeframe": [
+                  "daily",
+                  "weekly"
+                ],
+                "routine_quality": [
+                  "healthy",
+                  "partly_healthy",
+                  "unhealthy"
+                ]
+              }
+            }
+          ],
+
+          "misconceptions": [
+            "blood_is_a_single_component",
+            "all_blood_vessels_have_the_same_function",
+            "red_blood_cells_fight_infection",
+            "platelets_carry_oxygen",
+            "exercise_is_the_only_requirement_for_healthy_circulation",
+            "water_alone_ensures_healthy_circulation",
+            "symptoms_are_the_same_as_prevention",
+            "the_heart_is_the_only_part_of_the_circulatory_system"
+          ],
+
+          "visualSpecs": [
+            {
+              "id": "circulatory.system",
+              "type": "procedural_svg",
+              "parameters": [
+                "visible_parts",
+                "labels",
+                "label_blanks"
+              ]
+            },
+            {
+              "id": "circulatory.heart",
+              "type": "procedural_svg",
+              "parameters": [
+                "auricles",
+                "ventricles",
+                "vessels",
+                "labels"
+              ]
+            },
+            {
+              "id": "circulatory.blood_table",
+              "type": "interactive_table",
+              "parameters": [
+                "components",
+                "functions"
+              ]
+            },
+            {
+              "id": "circulatory.routine",
+              "type": "interactive_schedule",
+              "parameters": [
+                "behaviours",
+                "days",
+                "routine_quality"
+              ]
+            }
+          ],
+
+          "coverage": {
+            "required": [
+              "structure",
+              "function",
+              "heart_parts",
+              "blood_vessels",
+              "blood_components",
+              "health_conditions",
+              "symptoms",
+              "prevention",
+              "routine_planning"
+            ]
+          },
+
+          "assessmentSignal": "Structure/function mastery and applied healthy-routine planning must be assessed as distinct skills.",
+
+          "competencies": [
+            "Communication and Collaboration",
+            "Digital literacy"
+          ],
+
+          "values": [
+            "Responsibility",
+            "Unity"
+          ],
+
+          "contemporaryIssues": [
+            "Health promotion"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "2.0",
+      "name": "Matter",
+
+      "subStrands": [
+        {
+          "id": "2.1",
+          "name": "Change of State",
+          "lessonCount": 18,
+
+          "learningOutcomes": [
+            "Identify the changes of state when substances are heated or cooled",
+            "Describe the applications of the change of state of matter in everyday life",
+            "Appreciate the applications of change of state of matter in day-to-day life"
+          ],
+
+          "inquiryQuestions": [
+            "How is change of state of matter important in day-to-day life?"
+          ],
+
+          "knowledgeDomains": [
+            {
+              "id": "state.transitions",
+              "name": "Six required transitions",
+              "concepts": [
+                "melting",
+                "evaporation",
+                "sublimation",
+                "deposition",
+                "condensation",
+                "freezing"
+              ]
+            },
+            {
+              "id": "state.heating_cooling",
+              "name": "Heating and cooling",
+              "concepts": [
+                "heating_related_changes",
+                "cooling_related_changes",
+                "starting_state",
+                "ending_state"
+              ]
+            },
+            {
+              "id": "state.applications",
+              "name": "Everyday applications",
+              "concepts": [
+                "drying_clothes",
+                "drying_cereals",
+                "candle_making",
+                "wax_reuse",
+                "plastic_reuse"
+              ]
+            },
+            {
+              "id": "state.safety",
+              "name": "Heating safety",
+              "concepts": [
+                "burn_prevention",
+                "fire_prevention",
+                "safe_experimentation"
+              ]
+            }
+          ],
+
+          "perspectives": [
+            "transition",
+            "heating",
+            "cooling",
+            "sequence",
+            "observation",
+            "application",
+            "reuse",
+            "safety"
+          ],
+
+          "skills": [
+            {
+              "id": "state.identify_transition",
+              "name": "Identify a change of state",
+              "operations": [
+                "identify",
+                "classify",
+                "match",
+                "sequence"
+              ],
+              "parameters": {
+                "transition": [
+                  "melting",
+                  "evaporation",
+                  "sublimation",
+                  "deposition",
+                  "condensation",
+                  "freezing"
+                ],
+                "representation": [
+                  "description",
+                  "diagram",
+                  "everyday_scenario",
+                  "sequence"
+                ]
+              }
+            },
+            {
+              "id": "state.reason_from_states",
+              "name": "Infer a transition from starting and ending states",
+              "operations": [
+                "infer",
+                "classify",
+                "choose_best_explanation"
+              ],
+              "parameters": {
+                "starting_state": [
+                  "solid",
+                  "liquid",
+                  "gas"
+                ],
+                "ending_state": [
+                  "solid",
+                  "liquid",
+                  "gas"
+                ]
+              },
+              "constraints": {
+                "mustMapToCurriculumTransition": true
+              }
+            },
+            {
+              "id": "state.application",
+              "name": "Apply changes of state to everyday life",
+              "operations": [
+                "scenario_application",
+                "cause_effect",
+                "choose_best_explanation"
+              ],
+              "parameters": {
+                "context": [
+                  "clothes",
+                  "cereals",
+                  "candles",
+                  "wax",
+                  "plastic"
+                ]
+              }
+            },
+            {
+              "id": "state.safety",
+              "name": "Apply heating safety",
+              "operations": [
+                "safety_decision",
+                "error_analysis",
+                "choose_best_action"
+              ]
+            }
+          ],
+
+          "misconceptions": [
+            "melting_equals_dissolving",
+            "evaporation_only_occurs_at_boiling",
+            "condensation_equals_freezing",
+            "sublimation_equals_evaporation",
+            "deposition_equals_condensation",
+            "heating_always_causes_melting",
+            "cooling_always_causes_freezing"
+          ],
+
+          "visualSpecs": [
+            {
+              "id": "state.cycle",
+              "type": "procedural_svg",
+              "parameters": [
+                "visible_states",
+                "transition_labels",
+                "label_blanks"
+              ]
+            },
+            {
+              "id": "state.sequence",
+              "type": "procedural_svg",
+              "parameters": [
+                "starting_state",
+                "ending_state",
+                "transition"
+              ]
+            },
+            {
+              "id": "state.experiment",
+              "type": "procedural_svg",
+              "parameters": [
+                "heating_setup",
+                "safety_features"
+              ]
+            }
+          ],
+
+          "coverage": {
+            "requiredTransitions": [
+              "melting",
+              "evaporation",
+              "sublimation",
+              "deposition",
+              "condensation",
+              "freezing"
+            ],
+            "mustNotUnderRepresent": [
+              "sublimation",
+              "deposition"
+            ]
+          },
+
+          "assessmentSignal": "All six named transitions must receive meaningful parameterized coverage. Do not allow common transitions to crowd out sublimation and deposition.",
+
+          "competencies": [
+            "Communication and collaboration",
+            "Learning to learn"
+          ],
+
+          "values": [
+            "Respect"
+          ],
+
+          "contemporaryIssues": [
+            "Environmental education",
+            "Socio-economic issues"
+          ],
+
+          "projects": [
+            "Make candles using waste candle wax or beeswax",
+            "Repair broken plastic containers"
+          ]
+        },
+
+        {
+          "id": "2.2",
+          "name": "Composition of Air",
+          "lessonCount": 16,
+
+          "learningOutcomes": [
+            "Identify the components of air",
+            "Outline uses of the different components of air",
+            "Explain the effects of air pollution in the environment",
+            "Describe methods of reducing air pollution in the environment",
+            "Appreciate the need for clean air in day-to-day life"
+          ],
+
+          "inquiryQuestions": [
+            "How does air pollution affect the environment?"
+          ],
+
+          "knowledgeDomains": [
+            {
+              "id": "air.composition",
+              "name": "Composition",
+              "concepts": [
+                "nitrogen_approximately_78_percent",
+                "oxygen_approximately_21_percent",
+                "other_gases_approximately_1_percent"
+              ]
+            },
+            {
+              "id": "air.uses",
+              "name": "Uses of components",
+              "concepts": [
+                "uses_of_oxygen",
+                "uses_of_nitrogen",
+                "appropriate_uses_of_other_components"
+              ]
+            },
+            {
+              "id": "air.pollution",
+              "name": "Air pollution",
+              "concepts": [
+                "meaning",
+                "pollutants",
+                "sources",
+                "environmental_effects"
+              ]
+            },
+            {
+              "id": "air.control",
+              "name": "Pollution reduction",
+              "concepts": [
+                "pollution_reduction_methods",
+                "responsible_environmental_behaviour"
+              ]
+            },
+            {
+              "id": "air.safety",
+              "name": "Safety",
+              "concepts": [
+                "dust_masks",
+                "goggles",
+                "overcoats",
+                "protective_behaviour"
+              ]
+            }
+          ],
+
+          "perspectives": [
+            "composition",
+            "percentage",
+            "pie_chart",
+            "data_interpretation",
+            "uses",
+            "pollution",
+            "sources",
+            "effects",
+            "prevention",
+            "safety",
+            "citizenship"
+          ],
+
+          "skills": [
+            {
+              "id": "air.composition",
+              "name": "Interpret composition of air",
+              "operations": [
+                "identify",
+                "compare",
+                "interpret_chart",
+                "calculate_simple_quantity"
+              ],
+              "parameters": {
+                "representation": [
+                  "pie_chart",
+                  "percentage_table",
+                  "100_unit_model",
+                  "text"
+                ],
+                "component": [
+                  "nitrogen",
+                  "oxygen",
+                  "other_gases"
+                ]
+              }
+            },
+            {
+              "id": "air.uses",
+              "name": "Identify uses of components",
+              "operations": [
+                "match",
+                "identify",
+                "scenario_application"
+              ],
+              "parameters": {
+                "component": [
+                  "oxygen",
+                  "nitrogen",
+                  "other_relevant_component"
+                ]
+              }
+            },
+            {
+              "id": "air.pollution_sources",
+              "name": "Identify air pollutants and sources",
+              "operations": [
+                "identify",
+                "classify",
+                "cause_effect",
+                "scenario_application"
+              ],
+              "parameters": {
+                "context": [
+                  "traffic",
+                  "burning",
+                  "dust",
+                  "industry",
+                  "household"
+                ]
+              }
+            },
+            {
+              "id": "air.pollution_effects",
+              "name": "Explain effects of air pollution",
+              "operations": [
+                "cause_effect",
+                "scenario_application",
+                "choose_best_explanation"
+              ]
+            },
+            {
+              "id": "air.pollution_control",
+              "name": "Choose methods of reducing air pollution",
+              "operations": [
+                "identify",
+                "compare",
+                "evaluate",
+                "scenario_application"
+              ]
+            },
+            {
+              "id": "air.safety",
+              "name": "Apply safety precautions",
+              "operations": [
+                "safety_decision",
+                "error_analysis"
+              ]
+            }
+          ],
+
+          "misconceptions": [
+            "oxygen_is_the_largest_component",
+            "air_is_a_single_gas",
+            "air_pollution_means_no_oxygen",
+            "pollution_only_comes_from_factories",
+            "only_people_are_affected_by_pollution",
+            "pie_chart_largest_sector_is_oxygen"
+          ],
+
+          "visualSpecs": [
+            {
+              "id": "air.pie_chart",
+              "type": "procedural_svg",
+              "parameters": [
+                "78_21_1",
+                "labels",
+                "label_blanks",
+                "rotation"
+              ]
+            },
+            {
+              "id": "air.pollution_scene",
+              "type": "procedural_svg",
+              "parameters": [
+                "pollution_source",
+                "environment",
+                "effects"
+              ]
+            },
+            {
+              "id": "air.safety_scene",
+              "type": "procedural_svg",
+              "parameters": [
+                "protective_equipment",
+                "hazard"
+              ]
+            }
+          ],
+
+          "coverage": {
+            "required": [
+              "composition",
+              "uses",
+              "pollutants",
+              "sources",
+              "effects",
+              "reduction",
+              "safety"
+            ],
+            "mathematicsIntegration": true,
+            "localExamples": true
+          },
+
+          "assessmentSignal": "The pie chart is curriculum-endorsed through the Mathematics linkage and should be a genuine question representation, not merely decorative.",
+
+          "competencies": [
+            "Citizenship",
+            "Learning to learn"
+          ],
+
+          "values": [
+            "Responsibility",
+            "Patriotism"
+          ],
+
+          "contemporaryIssues": [
+            "Environmental education",
+            "Climate change",
+            "Socio-economic issues"
+          ],
+
+          "projects": [
+            "Make posters on common air pollutants, dangers of air pollution and ways of controlling air pollution"
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "3.0",
+      "name": "Force and Energy",
+
+      "subStrands": [
+        {
+          "id": "3.1",
+          "name": "Light",
+          "lessonCount": 16,
+
+          "learningOutcomes": [
+            "Demonstrate the movement of light through materials",
+            "Draw ray diagrams of images formed in plane mirrors",
+            "Illustrate the formation of shadows and eclipses in nature",
+            "Describe the formation of rainbow in nature",
+            "Appreciate the importance of movement of light in everyday life"
+          ],
+
+          "inquiryQuestions": [
+            "How does light travel?"
+          ],
+
+          "knowledgeDomains": [
+            {
+              "id": "light.materials",
+              "name": "Light through materials",
+              "concepts": [
+                "transparent",
+                "translucent",
+                "opaque"
+              ]
+            },
+            {
+              "id": "light.reflection",
+              "name": "Reflection and plane mirrors",
+              "concepts": [
+                "reflection",
+                "plane_mirror",
+                "ray_diagram",
+                "laws_of_reflection_at_grade_6_scope",
+                "image_formation",
+                "image_characteristics"
+              ]
+            },
+            {
+              "id": "light.shadows",
+              "name": "Shadows",
+              "concepts": [
+                "light_source",
+                "opaque_object",
+                "shadow",
+                "umbra",
+                "relative_position"
+              ]
+            },
+            {
+              "id": "light.eclipses",
+              "name": "Eclipses",
+              "concepts": [
+                "solar_eclipse",
+                "lunar_eclipse",
+                "relative_positions",
+                "shadow_formation"
+              ]
+            },
+            {
+              "id": "light.rainbow",
+              "name": "Rainbow",
+              "concepts": [
+                "formation_of_rainbow_in_nature"
+              ]
+            },
+            {
+              "id": "light.applications",
+              "name": "Applications",
+              "concepts": [
+                "mirrors",
+                "periscope",
+                "kaleidoscope",
+                "lenses",
+                "magnifying_glass",
+                "hand_lens",
+                "mirage",
+                "rainbow"
+              ]
+            }
+          ],
+
+          "perspectives": [
+            "material_classification",
+            "light_path",
+            "transmission",
+            "reflection",
+            "ray_diagrams",
+            "image_formation",
+            "shadow_formation",
+            "eclipses",
+            "rainbow",
+            "applications"
+          ],
+
+          "skills": [
+            {
+              "id": "light.material_classification",
+              "name": "Classify materials by light transmission",
+              "operations": [
+                "classify",
+                "compare",
+                "predict",
+                "scenario_application"
+              ],
+              "parameters": {
+                "material_type": [
+                  "transparent",
+                  "translucent",
+                  "opaque"
+                ],
+                "representation": [
+                  "object",
+                  "description",
+                  "diagram",
+                  "scenario"
+                ]
+              }
+            },
+            {
+              "id": "light.reflection",
+              "name": "Interpret plane-mirror reflection",
+              "operations": [
+                "identify",
+                "complete_diagram",
+                "interpret",
+                "error_analysis",
+                "compare"
+              ],
+              "parameters": {
+                "diagram_configuration": [
+                  "incident_ray",
+                  "reflected_ray",
+                  "normal",
+                  "mirror"
+                ],
+                "representation": [
+                  "ray_diagram",
+                  "mirror_scene",
+                  "description"
+                ]
+              }
+            },
+            {
+              "id": "light.image_formation",
+              "name": "Interpret images formed in plane mirrors",
+              "operations": [
+                "identify",
+                "match",
+                "compare",
+                "diagram_interpretation"
+              ],
+              "parameters": {
+                "characteristic": [
+                  "position",
+                  "orientation",
+                  "relative_size",
+                  "appearance"
+                ]
+              }
+            },
+            {
+              "id": "light.shadow",
+              "name": "Interpret shadow formation",
+              "operations": [
+                "label",
+                "predict",
+                "diagram_interpretation",
+                "error_analysis"
+              ],
+              "parameters": {
+                "element": [
+                  "light_source",
+                  "opaque_object",
+                  "umbra"
+                ],
+                "object_position": [
+                  "near_source",
+                  "middle",
+                  "near_screen"
+                ]
+              }
+            },
+            {
+              "id": "light.eclipse",
+              "name": "Distinguish and interpret solar and lunar eclipses",
+              "operations": [
+                "identify",
+                "classify",
+                "diagram_interpretation",
+                "error_analysis",
+                "compare"
+              ],
+              "parameters": {
+                "eclipse": [
+                  "solar",
+                  "lunar"
+                ],
+                "representation": [
+                  "diagram",
+                  "description",
+                  "sequence"
+                ]
+              }
+            },
+            {
+              "id": "light.rainbow",
+              "name": "Explain rainbow formation",
+              "operations": [
+                "identify",
+                "sequence",
+                "choose_best_explanation",
+                "scenario_application"
+              ]
+            },
+            {
+              "id": "light.application",
+              "name": "Apply light principles to everyday devices",
+              "operations": [
+                "match",
+                "scenario_application",
+                "choose_best_design",
+                "error_analysis"
+              ],
+              "parameters": {
+                "application": [
+                  "mirror",
+                  "periscope",
+                  "kaleidoscope",
+                  "lens",
+                  "magnifying_glass",
+                  "hand_lens",
+                  "mirage",
+                  "rainbow"
+                ]
+              }
+            }
+          ],
+
+          "misconceptions": [
+            "all_materials_are_transparent_to_light",
+            "transparent_equals_translucent",
+            "shadow_is_an_object",
+            "shadow_only_occurs_at_night",
+            "moon_produces_its_own_light",
+            "solar_and_lunar_eclipses_are_the_same",
+            "reflection_only_occurs_on_mirrors",
+            "reflected_light_can_travel_in_any_direction",
+            "plane_mirror_changes_object_size_arbitrarily",
+            "rainbow_is_a_physical_object"
+          ],
+
+          "visualSpecs": [
+            {
+              "id": "light.materials",
+              "type": "procedural_svg",
+              "parameters": [
+                "material_type",
+                "light_rays",
+                "transmission_level"
+              ]
+            },
+            {
+              "id": "light.ray_diagram",
+              "type": "procedural_svg",
+              "parameters": [
+                "mirror_angle",
+                "incident_ray",
+                "normal",
+                "reflected_ray",
+                "labels"
+              ]
+            },
+            {
+              "id": "light.shadow",
+              "type": "procedural_svg",
+              "parameters": [
+                "light_source_position",
+                "object_position",
+                "object_shape",
+                "screen_position",
+                "rays",
+                "labels"
+              ]
+            },
+            {
+              "id": "light.eclipse",
+              "type": "procedural_svg",
+              "parameters": [
+                "eclipse_type",
+                "body_positions",
+                "shadow_region",
+                "labels"
+              ]
+            },
+            {
+              "id": "light.periscope",
+              "type": "procedural_svg",
+              "parameters": [
+                "mirror_positions",
+                "light_path",
+                "labels"
+              ]
+            }
+          ],
+
+          "coverage": {
+            "required": [
+              "transparent",
+              "translucent",
+              "opaque",
+              "reflection",
+              "plane_mirror",
+              "ray_diagrams",
+              "image_characteristics",
+              "shadows",
+              "umbra",
+              "solar_eclipse",
+              "lunar_eclipse",
+              "rainbow",
+              "applications"
+            ],
+            "diagramReasoningRequired": true
+          },
+
+          "assessmentSignal": "Shadow and eclipse questions must support actual labelled visual reasoning. Ray-diagram questions must require interpretation or construction rather than only verbal recall.",
+
+          "competencies": [
+            "Digital literacy",
+            "Communication and Collaboration"
+          ],
+
+          "values": [
+            "Unity"
+          ],
+
+          "contemporaryIssues": [
+            "Safety and security when handling mirrors"
+          ],
+
+          "projects": [
+            "Make a functional periscope using locally available resources"
+          ]
+        },
+
+        {
+          "id": "3.2",
+          "name": "Levers as simple machines",
+          "lessonCount": 14,
+
+          "learningOutcomes": [
+            "Identify common levers used in day-to-day life",
+            "Describe parts of a lever as used in making work easier",
+            "Classify levers into the three classes",
+            "Demonstrate the use of levers in making work easier",
+            "Appreciate the use of levers in making work easier"
+          ],
+
+          "inquiryQuestions": [
+            "How are levers used in day to day life?"
+          ],
+
+          "knowledgeDomains": [
+            {
+              "id": "lever.parts",
+              "name": "Parts",
+              "concepts": [
+                "fulcrum",
+                "pivot",
+                "effort",
+                "load"
+              ]
+            },
+            {
+              "id": "lever.classes",
+              "name": "Three classes",
+              "concepts": [
+                "first_class",
+                "second_class",
+                "third_class",
+                "relative_arrangement_of_fulcrum_load_effort"
+              ]
+            },
+            {
+              "id": "lever.examples",
+              "name": "Named everyday examples",
+              "concepts": [
+                "hole_punch",
+                "pliers",
+                "scissors",
+                "see_saw",
+                "wheelbarrow",
+                "bottle_opener",
+                "nail_clippers",
+                "nutcracker",
+                "shovel",
+                "fishing_rod",
+                "kitchen_tongs",
+                "tweezers"
+              ]
+            },
+            {
+              "id": "lever.work",
+              "name": "Making work easier",
+              "concepts": [
+                "relationship_between_parts",
+                "appropriate_tool_selection",
+                "lever_application"
+              ]
+            }
+          ],
+
+          "perspectives": [
+            "identification",
+            "parts",
+            "classification",
+            "arrangement",
+            "application",
+            "comparison",
+            "mechanical_reasoning",
+            "tool_selection",
+            "design"
+          ],
+
+          "skills": [
+            {
+              "id": "lever.identify_parts",
+              "name": "Identify fulcrum, effort and load",
+              "operations": [
+                "identify",
+                "label",
+                "diagram_interpretation"
+              ],
+              "parameters": {
+                "representation": [
+                  "tool",
+                  "diagram",
+                  "scenario"
+                ]
+              }
+            },
+            {
+              "id": "lever.classify",
+              "name": "Classify levers into three classes",
+              "operations": [
+                "classify",
+                "infer",
+                "compare",
+                "error_analysis"
+              ],
+              "parameters": {
+                "class": [
+                  "first",
+                  "second",
+                  "third"
+                ],
+                "representation": [
+                  "tool_name",
+                  "tool_description",
+                  "arrangement",
+                  "diagram"
+                ]
+              }
+            },
+            {
+              "id": "lever.apply",
+              "name": "Explain how levers make work easier",
+              "operations": [
+                "scenario_application",
+                "compare",
+                "choose_best_tool",
+                "choose_best_explanation",
+                "evaluate"
+              ],
+              "parameters": {
+                "tool": [
+                  "hole_punch",
+                  "pliers",
+                  "scissors",
+                  "see_saw",
+                  "wheelbarrow",
+                  "bottle_opener",
+                  "nail_clippers",
+                  "nutcracker",
+                  "shovel",
+                  "fishing_rod",
+                  "kitchen_tongs",
+                  "tweezers"
+                ],
+                "context": [
+                  "home",
+                  "school",
+                  "farm",
+                  "everyday_task"
+                ]
+              }
+            },
+            {
+              "id": "lever.error_analysis",
+              "name": "Diagnose incorrect lever classification or labeling",
+              "operations": [
+                "error_analysis",
+                "misconception_diagnosis"
+              ],
+              "parameters": {
+                "error_type": [
+                  "wrong_fulcrum",
+                  "wrong_effort",
+                  "wrong_load",
+                  "wrong_class"
+                ]
+              }
+            },
+            {
+              "id": "lever.design",
+              "name": "Apply lever principles to simple designs",
+              "operations": [
+                "design_choice",
+                "scenario_application",
+                "evaluate"
+              ],
+              "parameters": {
+                "design": [
+                  "beam_balance",
+                  "simple_tool"
+                ]
+              }
+            }
+          ],
+
+          "misconceptions": [
+            "every_two_handle_tool_is_first_class",
+            "lever_class_depends_on_tool_name",
+            "fulcrum_is_always_in_middle",
+            "effort_is_always_between_fulcrum_and_load",
+            "only_traditional_levers_are_levers",
+            "changing_arrangement_does_not_change_function"
+          ],
+
+          "visualSpecs": [
+            {
+              "id": "lever.parts",
+              "type": "procedural_svg",
+              "parameters": [
+                "fulcrum_position",
+                "load_position",
+                "effort_position",
+                "labels"
+              ]
+            },
+            {
+              "id": "lever.classification",
+              "type": "procedural_svg",
+              "parameters": [
+                "class",
+                "arrangement",
+                "labels"
+              ]
+            },
+            {
+              "id": "lever.tool",
+              "type": "procedural_svg",
+              "parameters": [
+                "tool",
+                "part_labels",
+                "working_configuration"
+              ]
+            },
+            {
+              "id": "lever.balance",
+              "type": "procedural_svg",
+              "parameters": [
+                "fulcrum_position",
+                "load_position",
+                "effort_position"
+              ]
+            }
+          ],
+
+          "coverage": {
+            "required": [
+              "fulcrum",
+              "effort",
+              "load",
+              "first_class",
+              "second_class",
+              "third_class",
+              "named_examples",
+              "making_work_easier"
+            ],
+            "allNamedExamplesShouldAppearAcrossGeneratedInstances": true,
+            "reasoningRequired": true
+          },
+
+          "assessmentSignal": "Advanced instances must require reasoning about arrangement and why a lever makes a task easier rather than simply recalling the class of a named tool.",
+
+          "competencies": [
+            "Creativity and imagination",
+            "Learning to learn"
+          ],
+
+          "values": [
+            "Respect"
+          ],
+
+          "contemporaryIssues": [
+            "Citizenship education",
+            "Care and protection during experiments"
+          ],
+
+          "projects": [
+            "Make and use a beam balance from locally available materials"
+          ]
+        },
+
+        {
+          "id": "3.3",
+          "name": "Slopes as simple machines",
+          "lessonCount": 14,
+
+          "learningOutcomes": [
+            "Identify types of slopes used as simple machines",
+            "Demonstrate how a slope makes work easier in day-to-day life",
+            "Appreciate the use of slopes in everyday life"
+          ],
+
+          "inquiryQuestions": [
+            "How are slopes used in everyday life?"
+          ],
+
+          "knowledgeDomains": [
+            {
+              "id": "slope.meaning",
+              "name": "Meaning",
+              "concepts": [
+                "slope",
+                "inclined_plane",
+                "movement_of_load"
+              ]
+            },
+            {
+              "id": "slope.examples",
+              "name": "Examples",
+              "concepts": [
+                "ladders",
+                "ramps",
+                "staircases",
+                "roads_winding_uphill",
+                "wedge",
+                "roofs",
+                "loading_lorry",
+                "elevators",
+                "escalators",
+                "cableways"
+              ]
+            },
+            {
+              "id": "slope.work",
+              "name": "Making work easier",
+              "concepts": [
+                "effort",
+                "distance",
+                "steepness",
+                "appropriate_slope_selection"
+              ]
+            },
+            {
+              "id": "slope.safety",
+              "name": "Safety",
+              "concepts": [
+                "safe_slope_use",
+                "safe_design",
+                "school_and_home_safety"
+              ]
+            }
+          ],
+
+          "perspectives": [
+            "identification",
+            "classification",
+            "application",
+            "comparison",
+            "effort",
+            "distance",
+            "steepness",
+            "safety",
+            "design",
+            "problem_solving"
+          ],
+
+          "skills": [
+            {
+              "id": "slope.identify",
+              "name": "Identify slopes as simple machines",
+              "operations": [
+                "identify",
+                "classify",
+                "match"
+              ],
+              "parameters": {
+                "example": [
+                  "ladder",
+                  "ramp",
+                  "staircase",
+                  "winding_road",
+                  "wedge",
+                  "roof",
+                  "lorry_loading"
+                ],
+                "representation": [
+                  "image",
+                  "diagram",
+                  "description",
+                  "scenario"
+                ]
+              }
+            },
+            {
+              "id": "slope.application",
+              "name": "Explain how slopes make work easier",
+              "operations": [
+                "scenario_application",
+                "cause_effect",
+                "choose_best_explanation"
+              ],
+              "parameters": {
+                "context": [
+                  "moving_load",
+                  "loading_lorry",
+                  "farm",
+                  "school",
+                  "home",
+                  "road"
+                ]
+              }
+            },
+            {
+              "id": "slope.compare",
+              "name": "Compare different slopes",
+              "operations": [
+                "compare",
+                "analyze",
+                "evaluate"
+              ],
+              "parameters": {
+                "steepness": [
+                  "gentle",
+                  "moderate",
+                  "steep"
+                ],
+                "comparisonDimension": [
+                  "effort",
+                  "distance",
+                  "suitability",
+                  "safety"
+                ]
+              }
+            },
+            {
+              "id": "slope.design",
+              "name": "Choose or evaluate an appropriate slope",
+              "operations": [
+                "design_choice",
+                "evaluate",
+                "scenario_application"
+              ],
+              "parameters": {
+                "task": [
+                  "move_load",
+                  "school_access",
+                  "lorry_loading",
+                  "home_use"
+                ],
+                "constraints": [
+                  "space",
+                  "steepness",
+                  "safety",
+                  "distance"
+                ]
+              }
+            }
+          ],
+
+          "misconceptions": [
+            "slope_always_reduces_effort_and_distance",
+            "steeper_is_always_easier",
+            "only_ramps_are_slopes",
+            "longer_always_means_harder",
+            "every_sloping_object_is_automatically_a_machine",
+            "stairs_have_no_connection_to_inclined_plane_applications"
+          ],
+
+          "visualSpecs": [
+            {
+              "id": "slope.compare",
+              "type": "procedural_svg",
+              "parameters": [
+                "steepness",
+                "length",
+                "load",
+                "labels"
+              ]
+            },
+            {
+              "id": "slope.ramp",
+              "type": "procedural_svg",
+              "parameters": [
+                "ramp",
+                "load",
+                "start_position",
+                "end_position"
+              ]
+            },
+            {
+              "id": "slope.road",
+              "type": "procedural_svg",
+              "parameters": [
+                "hill",
+                "road_path",
+                "comparison"
+              ]
+            },
+            {
+              "id": "slope.design",
+              "type": "interactive_svg",
+              "parameters": [
+                "available_space",
+                "target_height",
+                "slope_options",
+                "safety_constraints"
+              ]
+            }
+          ],
+
+          "coverage": {
+            "required": [
+              "meaning",
+              "examples",
+              "making_work_easier",
+              "comparison",
+              "effort",
+              "distance",
+              "safety",
+              "problem_solving"
+            ],
+            "analysisRequired": true,
+            "evaluationRequired": true
+          },
+
+          "assessmentSignal": "Because Critical thinking and problem solving is explicitly identified, the generator must support genuine comparison and evaluation rather than only identification.",
+
+          "competencies": [
+            "Citizenship",
+            "Critical thinking and problem solving"
+          ],
+
+          "values": [
+            "Integrity"
+          ],
+
+          "contemporaryIssues": [
+            "Socio-economic issues",
+            "Safety and security"
+          ],
+
+          "projects": [
+            "Make a simple slope for use in school or at home using locally available materials"
+          ]
+        }
+      ]
+    }
+  ],
+
+  "crossCurricularConnections": [
+    {
+      "scienceSubStrand": "1.1",
+      "area": "Agriculture and Nutrition",
+      "connection": "Economic importance of fungi and food production"
+    },
+    {
+      "scienceSubStrand": "1.2",
+      "area": "Agriculture and Nutrition",
+      "connection": "Pollination, soil aeration, pests and disease transmission"
+    },
+    {
+      "scienceSubStrand": "2.1",
+      "area": "Agriculture and Nutrition",
+      "connection": "Evaporation in drying clothes and cereals"
+    },
+    {
+      "scienceSubStrand": "2.2",
+      "area": "Mathematics",
+      "connection": "Percentage composition and pie charts"
+    },
+    {
+      "scienceSubStrand": "3.1",
+      "area": "Home Science",
+      "connection": "Ray of light and lighting"
+    },
+    {
+      "scienceSubStrand": "3.2",
+      "area": "Agriculture and Nutrition",
+      "connection": "Levers in farm tools and equipment"
+    },
+    {
+      "scienceSubStrand": "3.2",
+      "area": "Creative Arts",
+      "connection": "See-saw and simple lever applications"
+    },
+    {
+      "scienceSubStrand": "3.3",
+      "area": "Agriculture and Nutrition",
+      "connection": "Slope in farm tools, equipment and machinery"
+    }
+  ],
+
+  "poolDepth": {
+    "principle": "Do not impose the same number of generated instances on every sub-strand.",
+    "relativeDepth": {
+      "1.1": "moderate",
+      "1.2": "high",
+      "1.3": "very_high",
+      "2.1": "very_high",
+      "2.2": "high",
+      "3.1": "very_high",
+      "3.2": "very_high",
+      "3.3": "high"
+    },
+    "depthShouldBeDrivenBy": [
+      "number_of_atomic_concepts",
+      "number_of_distinct_relationships",
+      "number_of_applications",
+      "number_of_misconceptions",
+      "number_of_visual_representations",
+      "number_of_cognitive_operations",
+      "number_of_contexts",
+      "number_of_required_examples"
+    ]
+  },
+
+  "adaptiveGeneration": {
+    "principle": "The engine should generate instances based on learner mastery rather than randomly sampling all possible parameters uniformly.",
+    "selectionSignals": [
+      "skill_mastery",
+      "concept_mastery",
+      "recent_errors",
+      "misconception_pattern",
+      "cognitive_level",
+      "difficulty",
+      "representation_history",
+      "context_history",
+      "repetition_history"
+    ],
+    "progression": [
+      "recognition",
+      "understanding",
+      "direct_application",
+      "varied_application",
+      "analysis",
+      "evaluation"
+    ],
+    "rule": "A learner demonstrating mastery should receive increased variation, transfer and reasoning rather than simply more repetitions of the same recall question."
+  },
+
+  "validation": {
+    "curriculumFidelity": true,
+    "scopeControl": true,
+    "answerValidity": true,
+    "singleBestAnswerWhereRequired": true,
+    "distractorValidity": true,
+    "cognitiveValidity": true,
+    "visualValidity": true,
+    "parameterValidity": true,
+    "semanticRepetitionControl": true,
+    "coverageControl": true,
+    "localContextValidity": true,
+
+    "rejectIf": [
+      "question requires excluded knowledge",
+      "question requires higher-grade knowledge without explicit curriculum basis",
+      "parameter combination is scientifically invalid",
+      "visual contradicts the question",
+      "multiple answers are unintentionally defensible",
+      "distractors are obviously nonsensical",
+      "declared cognitive level is inaccurate",
+      "question differs from another only cosmetically",
+      "question relies on irrelevant trivia",
+      "local context is artificial or misleading",
+      "visual reveals answer without being intended as a clue",
+      "required curriculum concept is omitted from a required skill family"
+    ]
+  },
+
+  "runtimeQuestionMetadata": {
+    "everyGeneratedInstanceShouldCarry": [
+      "questionId",
+      "skillId",
+      "subStrandId",
+      "knowledgeDomainId",
+      "conceptIds",
+      "parameters",
+      "cognitiveLevel",
+      "difficultyBand",
+      "questionFamily",
+      "misconceptionTarget",
+      "visualSpecId",
+      "generationSeed"
+    ],
+    "persistence": {
+      "storeQuestionInstance": false,
+      "storeGenerationSeedOptional": true,
+      "storeLearnerPerformance": true
+    }
+  },
+
+  "claudeImplementationInstruction": {
+    "primaryInstruction": "Treat this JSON as the authoritative Grade 6 Science & Technology content architecture for the existing parameterized learning engine.",
+    "doNotRebuildExistingArchitecture": true,
+    "doNotConvertToStaticQuestionBank": true,
+    "doNotCreateQuestionDatabase": true,
+    "doNotGenerateQuestionsAsStaticRecords": true,
+    "requiredBehaviour": [
+      "Map each knowledge domain to one or more procedural skills.",
+      "Map each skill to valid parameter schemas.",
+      "Respect parameter dependencies and curriculum constraints.",
+      "Generate question instances dynamically.",
+      "Generate answers from the same underlying parameter state.",
+      "Generate distractors using declared misconceptions where appropriate.",
+      "Generate VisualSpecs and pass them to the existing visual renderer.",
+      "Use SVG for procedural science diagrams wherever appropriate.",
+      "Validate generated instances before presenting them.",
+      "Preserve the existing site architecture and UI unless a change is necessary to support the richer content model."
+    ],
+    "criticalContentInstruction": "Do not interpret content depth as permission to invent new curriculum facts. Content depth means testing existing Grade 6 concepts from more legitimate perspectives: identification, classification, relationships, application, comparison, prediction, error analysis, misconception diagnosis, visual interpretation, safety, local context and evaluation.",
+    "criticalParameterInstruction": "Parameterization must produce meaningful variation. Changing only nouns, names or answer order does not constitute a new question perspective.",
+    "criticalDifficultyInstruction": "Increase difficulty through reasoning, parameter interaction, representation changes, transfer and misconception discrimination before introducing any new scientific content.",
+    "criticalVisualInstruction": "Visuals should be declarative specifications rendered by the application. Do not ask the LLM to produce large raw SVG strings for each question.",
+    "criticalCBCInstruction": "The system is for Kenyan Grade 6 CBC Science & Technology. Preserve the distinction between Upper Primary Grade 6 Science & Technology and Junior School subjects beginning in Grade 7."
+  }
+}

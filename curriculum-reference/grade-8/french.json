@@ -1,0 +1,333 @@
+{
+  "subject": "French",
+  "subjectId": "french",
+  "grade": 8,
+  "source": {
+    "title": "Junior School Curriculum Design — French Grade 8 (First published 2023, Revised 2024)",
+    "url": "https://doyenpublishers.com/wp-content/uploads/2025/04/Grade-8-French-Curriculum-Design.pdf",
+    "publisher": "KICD",
+    "isbn": "978-9914-43-804-8",
+    "retrievedDate": "2026-08-14",
+    "confidence": "high",
+    "notes": "kicd.ac.ke's grade-eight-designs page embeds this exact PDF via Google Drive file id 1wLw_tfQGzPV-uu8Ept6eg8onLSoJAYyP (title confirmed via WebFetch on the Drive /preview page: 'French Grade 8 - July 2024.pdf'). Drive direct download is permission-locked by the owner, so the PDF was instead fetched via this doyenpublishers.com mirror; WebFetch reported binary/unreadable content but saved the PDF locally, and Claude's Read tool parsed the full text natively (not summarized). Structure verified verbatim against the PDF's SUMMARY OF STRANDS AND SUBSTRANDS table (page x) and the per-theme strand tables (pages 1-46)."
+  },
+  "essenceNote": "Kenya's foreign languages at Junior School are Arabic, French, German, and Mandarin — each a non-formal, basic (A1/YCT2-equivalent) 4-skills (listening, speaking, reading, writing) curriculum, taught in an experiential, innovative and flexible program guided by social-constructivism and environmental theories (verbatim essence statement, identical wording to the Grade 9 French design).",
+  "strands": [
+    {
+      "name": "1.0 Listening and Speaking",
+      "subStrands": [
+        {
+          "code": "1.1",
+          "name": "Interactive Speaking — Basic Greetings in Formal and Polite Context",
+          "theme": "Greetings and Introductions",
+          "specificLearningOutcomes": [
+            "Respond to questions and prompts to show comprehension and engagement",
+            "Use vocabulary and expressions appropriately to probe and engage in oral interactions",
+            "Use non-verbal communication cues to enhance communication",
+            "Exhibit confidence to contribute actively in conversations"
+          ],
+          "keyInquiryQuestions": ["How else do you communicate without use of speech?"]
+        },
+        {
+          "code": "1.2",
+          "name": "Active Listening — Extended Family",
+          "theme": "Family",
+          "specificLearningOutcomes": [
+            "Recall information accurately from oral interactions",
+            "Interpret verbal cues from audio stimuli",
+            "Use specific vocabulary and expressions to engage in simple conversations",
+            "Show enthusiasm to engage in conversations"
+          ],
+          "keyInquiryQuestions": ["Why is family important?"]
+        },
+        {
+          "code": "1.3",
+          "name": "Listening for Understanding — My Town",
+          "theme": "My Surrounding",
+          "specificLearningOutcomes": [
+            "Identify key points from audio stimuli",
+            "Recall important details from audio stimuli",
+            "Demonstrate focused listening for optimal information retrieval",
+            "Cultivate awareness on the importance of paying attention to details when listening for information"
+          ],
+          "keyInquiryQuestions": ["How do you know where you are going?", "What do you do when get lost?"]
+        },
+        {
+          "code": "1.4",
+          "name": "Active Listening — Telling Time",
+          "theme": "Time",
+          "specificLearningOutcomes": [
+            "Recall details and information accurately from oral interactions",
+            "Interpret verbal cues from audio stimuli",
+            "Demonstrate willingness to be receptive to new ideas in oral interactions"
+          ],
+          "keyInquiryQuestions": ["Why is the importance of time?"]
+        },
+        {
+          "code": "1.5",
+          "name": "Interactive Speaking — Travel",
+          "theme": "Fun and Enjoyment",
+          "specificLearningOutcomes": [
+            "Demonstrate comprehension and engagement in oral interactions",
+            "Use verbal cues to probe and engage in oral interactions",
+            "Exhibit confidence to contribute actively in conversations"
+          ],
+          "keyInquiryQuestions": ["How do you prepare for a long journey?", "How often do you travel, and where do you go?"]
+        },
+        {
+          "code": "1.6",
+          "name": "Interactive Speaking — In the Kitchen",
+          "theme": "Foods and Drinks",
+          "specificLearningOutcomes": [
+            "Respond to questions and prompts to show comprehension and engagement",
+            "Use vocabulary and expressions appropriately to probe and engage in oral interactions",
+            "Exhibit confidence to contribute actively in conversations"
+          ],
+          "keyInquiryQuestions": ["How do we prepare our meals?"]
+        },
+        {
+          "code": "1.7",
+          "name": "Oral Expression — Feelings and Emotions",
+          "theme": "My Body",
+          "specificLearningOutcomes": [
+            "Structure oral communication in a clear and coherent manner",
+            "Use gestures and facial expressions to enhance oral communication",
+            "Express enthusiasm to engage in oral communication"
+          ],
+          "keyInquiryQuestions": ["What are the different feelings you experience?"]
+        },
+        {
+          "code": "1.8",
+          "name": "Listening for Information — Physical Features in the Environment",
+          "theme": "Weather and Environment",
+          "specificLearningOutcomes": [
+            "Identify key points from audio stimuli",
+            "Use information from audio stimuli to respond to questions or prompts",
+            "Cultivate awareness on the importance of paying attention to details when listening for information"
+          ],
+          "keyInquiryQuestions": ["How does weather affect your dressing?"]
+        },
+        {
+          "code": "1.9",
+          "name": "Interactive Speaking — Transport",
+          "theme": "Getting Around",
+          "specificLearningOutcomes": [
+            "Respond to questions and prompts to show comprehension and engagement",
+            "Use vocabulary and expressions appropriately to probe and engage in oral interactions",
+            "Use non-verbal communication cues to enhance communication",
+            "Exhibit confidence to contribute actively in conversations"
+          ],
+          "keyInquiryQuestions": ["Why do we have different means of transport?"]
+        }
+      ]
+    },
+    {
+      "name": "2.0 Reading",
+      "subStrands": [
+        {
+          "code": "2.1",
+          "name": "Reading for Fluency — Basic Greetings in Formal and Polite Context",
+          "theme": "Greetings and Introductions",
+          "specificLearningOutcomes": [
+            "Infer meaning of words from simple texts",
+            "Read simple texts fluently using the right intonation and pace",
+            "Show enthusiasm in reading through exposure to simple varied texts"
+          ],
+          "keyInquiryQuestions": ["What is the importance of reading texts?"]
+        },
+        {
+          "code": "2.2",
+          "name": "Reading for Fluency — Extended Family",
+          "theme": "Family",
+          "specificLearningOutcomes": [
+            "Understand the meaning of words and phrases while reading aloud written texts",
+            "Refine their articulation and pronunciation",
+            "Develop a sense of joy and enjoyment in reading aloud selected texts"
+          ]
+        },
+        {
+          "code": "2.3",
+          "name": "Reading for Understanding — My Town",
+          "theme": "My Surrounding",
+          "specificLearningOutcomes": [
+            "Summarize key details and facts from the text",
+            "Read fluently using the right intonation and pace",
+            "Read texts for understanding"
+          ],
+          "keyInquiryQuestions": ["Why do we ask for direction?"]
+        },
+        {
+          "code": "2.4",
+          "name": "Reading for Fluency — Important Dates",
+          "theme": "Time",
+          "specificLearningOutcomes": [
+            "Decode familiar sounds in words to read simple short texts",
+            "Read texts with correct intonation, pace and fluency",
+            "Display a sense of enjoyment and satisfaction when reading"
+          ],
+          "keyInquiryQuestions": ["What role does time play in our lives?"]
+        },
+        {
+          "code": "2.5",
+          "name": "Reading for Understanding — Travel",
+          "theme": "Fun and Enjoyment",
+          "specificLearningOutcomes": [
+            "Identify key details and facts from written texts",
+            "Apply information from the text and answer questions",
+            "Show an increasing ability to understand words and phrases in context"
+          ],
+          "keyInquiryQuestions": ["What excites you when one talks about fun?"]
+        },
+        {
+          "code": "2.6",
+          "name": "Reading for Understanding — In the Kitchen",
+          "theme": "Foods and Drinks",
+          "specificLearningOutcomes": [
+            "Identify key details and facts from read texts",
+            "Use information from read texts to respond to questions and prompts",
+            "Build confidence in one's ability to comprehend and interpret written material"
+          ],
+          "keyInquiryQuestions": ["Which utensils are important in meal preparation?"]
+        },
+        {
+          "code": "2.7",
+          "name": "Reading for Understanding — Feelings and Emotions",
+          "theme": "My Body",
+          "specificLearningOutcomes": [
+            "Identify key details and facts from read texts",
+            "Use information from read texts to respond to questions and prompts",
+            "Build confidence in one's ability to comprehend and interpret written material"
+          ],
+          "keyInquiryQuestions": ["How do you manage your feelings and emotions?"]
+        },
+        {
+          "code": "2.8",
+          "name": "Reading for Understanding — Physical Features",
+          "theme": "Weather and Environment",
+          "specificLearningOutcomes": [
+            "Infer meaning of words from simple texts",
+            "Read simple texts fluently using the right intonation and pace",
+            "Show enthusiasm in reading through exposure to simple varied texts"
+          ],
+          "keyInquiryQuestions": ["Which physical features can we identify around us?"]
+        },
+        {
+          "code": "2.9",
+          "name": "Reading for Understanding — Transport",
+          "theme": "Getting Around",
+          "specificLearningOutcomes": [
+            "Infer meaning of words from simple texts",
+            "Read simple texts fluently using the right intonation and pace",
+            "Show enthusiasm in reading through exposure to simple varied texts"
+          ],
+          "keyInquiryQuestions": ["Which means of transport do you use?"]
+        }
+      ]
+    },
+    {
+      "name": "3.0 Writing",
+      "subStrands": [
+        {
+          "code": "3.1",
+          "name": "Guided Writing — Greetings in Formal and Polite Settings",
+          "theme": "Greetings and Introductions",
+          "specificLearningOutcomes": [
+            "Write common words with correct orthography",
+            "Create simple sentences using correct structures",
+            "Appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["How do you locate items in class?"]
+        },
+        {
+          "code": "3.2",
+          "name": "Guided Writing — Extended Family",
+          "theme": "Family",
+          "specificLearningOutcomes": [
+            "Write words accurately as per given contexts",
+            "Construct short essays on common, familiar themes",
+            "Display a sense of pride and ownership in their written work"
+          ],
+          "keyInquiryQuestions": ["What makes written texts have a wide readership?"]
+        },
+        {
+          "code": "3.3",
+          "name": "Guided Writing — My Town",
+          "theme": "My Surrounding",
+          "specificLearningOutcomes": [
+            "Write common words with correct orthography",
+            "Create simple sentences using correct structures",
+            "Appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["Why do we make shopping lists?"]
+        },
+        {
+          "code": "3.4",
+          "name": "Guided Writing — Time (the 12-hour Clock)",
+          "theme": "Time",
+          "specificLearningOutcomes": [
+            "Write common words with correct orthography",
+            "Create simple sentences using correct structures",
+            "Appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["How do you know time is different at different moments of the day?"]
+        },
+        {
+          "code": "3.5",
+          "name": "Guided Writing — Travel",
+          "theme": "Fun and Enjoyment",
+          "specificLearningOutcomes": [
+            "Identify meaning of words and expressions as used in written texts",
+            "Write short narratives using vocabulary and grammar structures learned",
+            "Display enthusiasm in composing texts on familiar topics"
+          ],
+          "keyInquiryQuestions": ["What interesting things do you do as you travel?", "Why is it important to follow rules and regulations while travelling?"]
+        },
+        {
+          "code": "3.6",
+          "name": "Guided Writing — In the Kitchen",
+          "theme": "Food and Drinks",
+          "specificLearningOutcomes": [
+            "Write common words with correct orthography",
+            "Create simple sentences using correct structures",
+            "Appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["Why is it important to cook food?"]
+        },
+        {
+          "code": "3.7",
+          "name": "Guided Writing — Emotions and Feelings",
+          "theme": "My Body",
+          "specificLearningOutcomes": [
+            "Write common words with correct orthography",
+            "Create simple sentences using correct structures",
+            "Appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["Why do our emotions and feelings vary?"]
+        },
+        {
+          "code": "3.8",
+          "name": "Guided Writing — Physical Features",
+          "theme": "Weather and Environment",
+          "specificLearningOutcomes": [
+            "Write common words with correct orthography",
+            "Create simple sentences using correct structures",
+            "Appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["What activities do you do to take advantage of different weather conditions?"]
+        },
+        {
+          "code": "3.9",
+          "name": "Guided Writing — Transport",
+          "theme": "Getting Around",
+          "specificLearningOutcomes": [
+            "Spell common words with correct orthography",
+            "Create simple sentences using correct structures",
+            "Appreciate the role of writing in interactive communication contexts"
+          ],
+          "keyInquiryQuestions": ["How would you describe a trip to a nearby place in writing?"]
+        }
+      ]
+    }
+  ],
+  "notes": "Grade 8 French preserves the same 3-strand / 9-theme structure seen at Grade 9 (Greetings, Family, My Surrounding, Time, Fun and Enjoyment, Foods and Drinks, My Body, Weather and Environment, Getting Around — same 9 themes, same order) = 27 distinct sub-strands (9 themes x 3 strands), confirmed verbatim against the PDF's own SUMMARY OF STRANDS AND SUBSTRANDS table and per-theme tables. Unlike the Grade 9 designs, Grade 8's summary table lists sub-strand *types* generically (e.g. 'Interactive speaking', 'Reading for understanding', 'Guided writing') rather than the per-theme sub-strand names seen inline in each theme's table — the per-theme names/codes (1.1-1.9, 2.1-2.9, 3.1-3.9) used here are read directly from each theme's own strand table, which is the more specific/authoritative source. Content differs meaningfully from Grade 9: Grade 8 leans more grammar/register-focused (formal 'vous' politeness register, imperative mood for travel instructions, word-order/orthography drills) versus Grade 9's more vocabulary-recall-focused approach, even though the theme labels are the same. Total suggested lessons: 27 (Listening & Speaking) + 18 (Reading) + 9 (Writing) = 54, plus 6 lessons for showcasing, matching German Grade 8's allocation exactly."
+}
